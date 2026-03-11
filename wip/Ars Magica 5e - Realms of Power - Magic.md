@@ -546,7 +546,7 @@ Such an aura may also be found among the ice floes of the distant north, if the 
 As a result of Warping, inhabitants become immune to sulfur in the air and water and can tolerate high temperatures. Suitable Minor Flaws are Weak Sense of Taste or Weak Sense of Smell, and Sensitive to Cold (see Chapter 4: Characters, New and Modified Flaws). The obvious suitable Minor Virtue is an appropriate Lesser Immunity.
 
 >## Examples of Auras with Multiple Tethers
-
+>
 >**Base Aura Score 3:** A very high waterfall broken into multiple white braids as it tumbles down over rocks, spray flying (natural tether 1), which always catches the morning sun and throws arcs of rainbow light all around (natural tether 1) before tumbling with a thunderous roar into a very deep pool (natural tether 1).
 >
 >**Base Aura Score 3:** An underwater location with several strong currents (natural tether 1) where water elementals are at home (preternatural tether 2). This aura is likely to be aligned with Aquam.
@@ -8834,4 +8834,5 @@ Wolves are greatly feared by commoners. They are hunted with large hounds becaus
 The Flaws above reflect the medieval perception of the wolf as a wanton, bloodthirsty killer. Individual wolves, such as the Animal Companion of a player character, may substitute another Personality Flaw in place of the Compulsion. A wolf Animal Companion that goes around killing livestock could be disruptive to stories. Regardless of such a wolf's actual personality, mundanes are likely to treat it with a great deal of fear and suspicion.
 
 The leader of a wolf pack has the additional Ability, Leadership 5 (wolves). A pack may fight as a trained group when its leader is present. A wolf pack is extremely dangerous.
+
 

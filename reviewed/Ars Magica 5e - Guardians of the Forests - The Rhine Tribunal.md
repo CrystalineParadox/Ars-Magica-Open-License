@@ -879,17 +879,13 @@ The Rhine Tribunal is no longer a dominant, or even a leading force in the Order
 
 # Chapter Four The Forest
 
-*The breadth of this Hercynian forest ... is to a quick traveler, a journey of nine days ... nor is there any person belonging to this part of Germany who says that he either has gone to the extremity of that forest, though he had advanced a journey of sixty days, or has heard in what place it begins. It is certain that many kinds of wild beast are produced in it which have not been seen in other parts ...*
-
-— Caesar, *The Gallic Wars*
-
-*In the northern region is the vast expanse of the Hercynian oak forest, untouched by the ages and coeval with the world, which surpasses all marvels by its almost immortal destiny.*
-
-— Pliny, *Natural History*
-
->##### A Walk Through a Magical Forest
-
->A magical forest, like most in Germany, is a reflection of the Ideal Forest residing in the Magic realm. The trees and other plants are perfect reflections of their kind, and the animals, while remaining unable to speak, are often more intelligent than their mundane counterparts. Both the plants and animals of a magical forest may have minor magical properties, and more substantial magical denizens may be present. Such creatures often set the atmosphere of the forest; one inhabited by a griffin is wild and untamed; whereas a forest full of ghosts might fill mortals with a sense of loss.
+>*The breadth of this Hercynian forest ... is to a quick traveler, a journey of nine days ... nor is there any person belonging to this part of Germany who says that he either has gone to the extremity of that forest, though he had advanced a journey of sixty days, or has heard in what place it begins. It is certain that many kinds of wild beast are produced in it which have not been seen in other parts ...*
+>
+>— Caesar, *The Gallic Wars*
+>
+>*In the northern region is the vast expanse of the Hercynian oak forest, untouched by the ages and coeval with the world, which surpasses all marvels by its almost immortal destiny.*
+>
+>— Pliny, *Natural History*
 
 ## The Forest
 
@@ -921,15 +917,20 @@ The genius locus has dwindled as above, and has been replaced by another superna
 
 The genius locus enters a pact with another supernatural being — most commonly a faerie — or else it possesses such a being. The combined might of the two supernatural entities is then enough to hold back the threat of dissolution. This generally leads to a forest that is predominantly from one realm, but occasionally has patches of auras from another realm. The Four Seasonal Courts presented in this chapter are an example of this.
 
->##### A Walk Through a Divine Forest
+>##### A Walk Through a Magical Forest
+>
+>A magical forest, like most in Germany, is a reflection of the Ideal Forest residing in the Magic realm. The trees and other plants are perfect reflections of their kind, and the animals, while remaining unable to speak, are often more intelligent than their mundane counterparts. Both the plants and animals of a magical forest may have minor magical properties, and more substantial magical denizens may be present. Such creatures often set the atmosphere of the forest; one inhabited by a griffin is wild and untamed; whereas a forest full of ghosts might fill mortals with a sense of loss.
+
+>##### A Walk Through a Faerie Forest
+>
 >A faerie forest may be a place of whimsy, but equally may be a place to be dreaded. Infused with the imaginations and fears of humankind, faerie forests are perhaps best described as having Personality Traits which infuse every aspect of the forest. The plants and animals of a faerie forest may be faeries themselves, giving them the power of speech. Most major faerie forests will have a ruler, who embodies the dominant emotions of the place.
 
 >##### A Walk Through a Divine Forest
-
+>
 >A forest under the Dominion of God is a safe haven from the troubles of the world, although this is not necessarily immediately obvious. Poisonous plants do not thrive in such forests, and many plants bear nutritious fruit, even out of season. The animal life is often allegorical in nature, representing key virtues to those who travel through, and there is an absence of aggressive animals — unless this sanctuary of peace is threatened.
 
 >##### A Walk Through an Infernal Forest
-
+>
 >Those rare infernal forests are horrible places. The trees are often twisted into hideous shapes, and the flora is universally poisonous. Vermin and venomous creatures such as toads and snakes lurk under every log and stone, and there is an abundance of predators. Plants and animals may exist that are not found anywhere else, cruel mockeries of God's Creation. Infernal forests often radiate a feeling of brooding menace, more hateful than even the darkest of faerie forests.
 
 ### General Powers
@@ -970,64 +971,64 @@ Each forest has a number of other powers, some examples of which are listed belo
 
 **Stasis** (15 points, Init 0, Vim): A certain inner part of the forest may become so remote and closed off from the outside world that the passage of time itself is altered. Any mortals resident here do not age (no Aging points are gained) for so long as they remain. However, their perception of the passing years and memories of their prior life gradually become hazy, and they will become Warped after decades or more in the forest. This might allow for magi or others of legend in centuries past to still endure, hidden deeply in a powerful forest. A prerequisite for this rare power is the presence of a regio with a high-level aura. A slightly more common, lesser variant is the Grant Virtue (Unaging) power.
 
-#### The Trees of Germany
-
-Each of the types of trees that can be found in Germany were held by the ancient tribes to have a special significance, often associated with a specific God. "By Oak, Ash, and Thorn" is a common oath which has endured — these three were the most important trees. Each type of wood has one or more Shape and Material Bonuses (see **Ars Magica** 5th Edition, page 110), corresponding to the properties listed below. If an entire living tree is enchanted, any such bonuses are tripled. (It is very rare, but not unheard of, for a Hermetic magus to enchant a living tree as a magic item.)
-
-**The Alder** is an ancient royal tree. Used to make foundations because of its water-resistant wood, its bark provides a Royal red dye. *+2 royalty, +1 resist decay*
-
-**The Apple** is famed for its long life, and the restorative properties of apples. It is also the tree of mankind. *+1 longevity, +1 Corpus*
-
-**The Ash** is traditionally used to make spears and arrow shafts. It was sacred to the war-god Woden, and associated with death and evil. *+2 harm people*
-
-**The Aspen** is a tree of healing, particularly for ague, but rods of aspen are also used for measuring a corpse in preparation for making its coffin. *+5 cure fever, +2 cure disease*
-
-**The Beech** is a tree of learning, as beech tablets were used in antiquity as writing tablets. *+3 knowledge*
-
-**The Birch** is the first tree to recolonize open spaces in the forest, and thus is a symbol of rebirth. *+3 childbirth, +1 Creo*
-
-**The Elder** has long been associated with magic and witchcraft. *+4 malicious magic, +1 Vim*
-
-**The Elm** is also a tree of death, long used for the manufacture of coffins. *+2 death and decay*
-
-**The Fir** is associated with darkness and evil spirits. +*3 darkness, +1 malicious faeries*
-
-**The Hawthorn,** with its thorns, is a tree of protection and warding. +3 wards
-
-**The Hazel** is associated with divination, wisdom, and judgement. *+3 divination, +1 good judgement*
-
-**The Holly** is the winter king, ruler of the dark half of the year. Its prickly leaves are a sign of bad luck, particularly with regards to the causing of wounds. *+2 inflict wounds, +2 inflict pain*
-
-**The Linden** (or Lime) was held by the Slavs to be an exalted tree, associated with Lada, their goddess of love. Germans believe the linden, which is never struck by lightning, to be a lucky tree, and place wayside shrines beneath them. They are also often planted in towns to give their protection, and its wood is used to make shields. *+2 protection against weapons, +1 good fortune*
-
-**The Oak** is the summer king, in opposition to the Holly. It is also associated with the pagan gods of thunder such as Thunor and Jupiter. *+7 protection from storms*
-
-**The Pine** is the opposite of its brother, the Fir, and is associated with light and illumination, due to the whitish color of its bark. *+3 light, +1 friendly faeries*
-
-**The Rowan,** like the Ash, is a magical tree, but the rowan is associated with the benign side of the craft, particularly protection from malicious spells. *+4 protection against malicious magic, +1 Vim*
-
-**The Willow,** with its ability to regrow from the smallest twig, is a powerful symbol of healing and rejuvenation. *+4 restore limb, +1 cure wounds*
-
-**The Yew,** with its association with graveyards, is the tree of the dead. Its berries were eaten by the ancients to receive mystical visions. *+2 corpses, +2 visions*
-
-Conventional statistics are not relevant for forest spirits; instead they are given a Might Score, Personality Traits, and a list of Special Powers only. It is usually impossible to fight these spirits in a conventional way, as they are manifested in the entire forest — in its plants, its animals, even in the rocks and soil, and the water that flows through it. Presented in this chapter are four example spirits that are linked closely with one another; and the following chapters contain many examples of forest spirits that are tied to specific locations. There may be many more of these *genii loci*, both powerful and weak, in the other forests of the Rhine Tribunal, and further afield.
+>#### The Trees of Germany
+>
+>Each of the types of trees that can be found in Germany were held by the ancient tribes to have a special significance, often associated with a specific God. "By Oak, Ash, and Thorn" is a common oath which has endured — these three were the most important trees. Each type of wood has one or more Shape and Material Bonuses (see **Ars Magica** 5th Edition, page 110), corresponding to the properties listed below. If an entire living tree is enchanted, any such bonuses are tripled. (It is very rare, but not unheard of, for a Hermetic magus to enchant a living tree as a magic item.)
+>
+>**The Alder** is an ancient royal tree. Used to make foundations because of its water-resistant wood, its bark provides a Royal red dye. *+2 royalty, +1 resist decay*
+>
+>**The Apple** is famed for its long life, and the restorative properties of apples. It is also the tree of mankind. *+1 longevity, +1 Corpus*
+>
+>**The Ash** is traditionally used to make spears and arrow shafts. It was sacred to the war-god Woden, and associated with death and evil. *+2 harm people*
+>
+>**The Aspen** is a tree of healing, particularly for ague, but rods of aspen are also used for measuring a corpse in preparation for making its coffin. *+5 cure fever, +2 cure disease*
+>
+>**The Beech** is a tree of learning, as beech tablets were used in antiquity as writing tablets. *+3 knowledge*
+>
+>**The Birch** is the first tree to recolonize open spaces in the forest, and thus is a symbol of rebirth. *+3 childbirth, +1 Creo*
+>
+>**The Elder** has long been associated with magic and witchcraft. *+4 malicious magic, +1 Vim*
+>
+>**The Elm** is also a tree of death, long used for the manufacture of coffins. *+2 death and decay*
+>
+>**The Fir** is associated with darkness and evil spirits. +*3 darkness, +1 malicious faeries*
+>
+>**The Hawthorn,** with its thorns, is a tree of protection and warding. +3 wards
+>
+>**The Hazel** is associated with divination, wisdom, and judgement. *+3 divination, +1 good judgement*
+>
+>**The Holly** is the winter king, ruler of the dark half of the year. Its prickly leaves are a sign of bad luck, particularly with regards to the causing of wounds. *+2 inflict wounds, +2 inflict pain*
+>
+>**The Linden** (or Lime) was held by the Slavs to be an exalted tree, associated with Lada, their goddess of love. Germans believe the linden, which is never struck by lightning, to be a lucky tree, and place wayside shrines beneath them. They are also often planted in towns to give their protection, and its wood is used to make shields. *+2 protection against weapons, +1 good fortune*
+>
+>**The Oak** is the summer king, in opposition to the Holly. It is also associated with the pagan gods of thunder such as Thunor and Jupiter. *+7 protection from storms*
+>
+>**The Pine** is the opposite of its brother, the Fir, and is associated with light and illumination, due to the whitish color of its bark. *+3 light, +1 friendly faeries*
+>
+>**The Rowan,** like the Ash, is a magical tree, but the rowan is associated with the benign side of the craft, particularly protection from malicious spells. *+4 protection against malicious magic, +1 Vim*
+>
+>**The Willow,** with its ability to regrow from the smallest twig, is a powerful symbol of healing and rejuvenation. *+4 restore limb, +1 cure wounds*
+>
+>**The Yew,** with its association with graveyards, is the tree of the dead. Its berries were eaten by the ancients to receive mystical visions. *+2 corpses, +2 visions*
+>
+>Conventional statistics are not relevant for forest spirits; instead they are given a Might Score, Personality Traits, and a list of Special Powers only. It is usually impossible to fight these spirits in a conventional way, as they are manifested in the entire forest — in its plants, its animals, even in the rocks and soil, and the water that flows through it. Presented in this chapter are four example spirits that are linked closely with one another; and the following chapters contain many examples of forest spirits that are tied to specific locations. There may be many more of these *genii loci*, both powerful and weak, in the other forests of the Rhine Tribunal, and further afield.
 
 >##### The Passage of the Seasons
-
+>
 >**December:** King Holly (Might Pool 50) slays King Oak (Might Pool 20); the latter is reborn in the Oak Forest. The Alder Prince and Willow Maiden are equally matched in power (Might Pool 35), and his attempts to woo her are failing. Faerie auras: Holly Forest 3, Alder Forest 1, Oak Forest 0, Willow Forest 1.
-
+>
 >**January:** the Willow Maiden (Might Pool 30) is starting to fall for the quiet charms of the Alder Prince (Might Pool 40).
-
+>
 >**March:** the Alder Prince (Might Pool 50) heals the malice of the Willow Maiden's heart with his love, she vanishes back to the Willow Forest. The Kings of Summer and Winter are locked in an impasse; neither can defeat the other (Might Pool 35). Faerie auras: Holly Forest 1, Alder Forest 3, Oak Forest 1, Willow Forest 0.
-
+>
 >**April:** King Oak (Might Pool 40) is beginning to win more battles than King Holly (Might Pool 30).
-
+>
 >**June:** King Oak (Might Pool 50), having captured King Holly (Might Pool 20), imprisons him in the heart of his domain in the Holly Forest. The machinations of the Willow Maiden have no effect on the stoic Alder Prince (both have 35 Might Pool). Faerie auras: Holly Forest 0, Alder Forest 1, Oak Forest 3, Willow Forest 1.
-
+>
 >**July:** The web of enchantment spun by the Willow Maiden (Might Pool 40) is beginning to tighten around the Alder Prince (Might Pool 30); he cannot resist her advances for long.
-
+>
 >**September:** the Willow Maiden (Might Pool 50) entraps the Alder Prince (Might Pool 20) in marriage, then drowns him in her forest river. His spirit is reborn in the Alder Forest. The battles between King Holly and King Oak are inconclusive (both have 35 Might Pool). Faerie auras: Holly Forest 1, Alder Forest 0, Oak Forest 1, Willow Forest 3.
-
+>
 >**October:** King Oak (Might Pool 30) is having to dangerously overstretch his resources to prevent his defeat by his opponent (Might Pool 40).
 
 ### The Courts of the Seasons
@@ -1044,14 +1045,16 @@ Magi who know of these four forests hypothesize that there may have once been on
 
 In the north, King Holly holds sway over his forest from a grove of holly trees. Some have linked him to the leader of the Wild Hunt (see Chapter 8: Central Germany, The Harz Mountains), but if they are the same individual, he has two very different forms. The northern forest spirit was forced to possess a faerie of winter, who has constantly rebelled against his control ever since. King Holly, therefore, rules his forest with an iron will; those within the bounds of his forest must obey the very letter of his detailed and complex law, or suffer the severe consequences. His court consists of faeries of ice, frost, and snow.
 
-The Alder Prince rules a forest to the west. He and his subjects are secretive, preferring to manipulate others without them realizing even that there are faeries in the forest. Strongest in the spring, the hidden court of this red-hued prince is to be found in a deep-shrouded vale, where one may be lulled by its peace and serenity. The western forest spirit tried to enter an alliance with the faerie who was to become the Alder Prince, but his prevarication nearly resulted in the dissolution of the spirit, so it possessed him instead. This has lead to the Alder Prince becoming even more passive; but despite his shyness, he is a benign and kindly faerie, who rules over many *holzfrauen* (see below). King Oak holds court beneath the boughs of a mighty Oak in the center of a forest to the south. The spirit left in the southern forest made an alliance with King Oak, and it is still possible to find patches of a Magic aura where the spirit's presence still lingers in this predominantly faerie woodland. King Oak is a generous monarch, willing to meet visitors and treat them well, yet he has a touchy honor, is easily offended, and takes peoples' words very literally. A misplaced turn of phrase can easily leave someone bound up in a supernaturally enforced contract. His court is made up of joyful faeries whose whimsical natures frustrates their military-minded king no end.
+The Alder Prince rules a forest to the west. He and his subjects are secretive, preferring to manipulate others without them realizing even that there are faeries in the forest. Strongest in the spring, the hidden court of this red-hued prince is to be found in a deep-shrouded vale, where one may be lulled by its peace and serenity. The western forest spirit tried to enter an alliance with the faerie who was to become the Alder Prince, but his prevarication nearly resulted in the dissolution of the spirit, so it possessed him instead. This has lead to the Alder Prince becoming even more passive; but despite his shyness, he is a benign and kindly faerie, who rules over many *holzfrauen* (see below).
+
+King Oak holds court beneath the boughs of a mighty Oak in the center of a forest to the south. The spirit left in the southern forest made an alliance with King Oak, and it is still possible to find patches of a Magic aura where the spirit's presence still lingers in this predominantly faerie woodland. King Oak is a generous monarch, willing to meet visitors and treat them well, yet he has a touchy honor, is easily offended, and takes peoples' words very literally. A misplaced turn of phrase can easily leave someone bound up in a supernaturally enforced contract. His court is made up of joyful faeries whose whimsical natures frustrates their military-minded king no end.
 
 The Willow Maiden casts her plots from her eastern forest. Her power waxes in Autumn, and while she seems as generous as the Summer King with the bounty of her forest, every gift she gives has a price; one should be wary about accepting anything from her without discovering this price first. Of course, many find this out too late. The eastern fragment of the forest spirit sought an alliance with the Willow Maiden, but came off very much the worse in their pact; she now has almost total control of her woodland. The Willow Maiden is manipulative and politically minded, and obsessed with her rival, the Alder Prince. Her court consists of handsome male courtiers and beautiful enchantresses.
 
 As the seasons change, the Might Pool of the four spirits changes. As the months progress, the various plots and raids by the next season's court gradually steal raw power from the current ruler. Throughout the year they retain a Might Score of 40, used for Magic Resistance and Penetration, but the size of the Might Pool changes along with the aura of their forests. In the month of the equinox or solstice at the height of the court's power, there is an aura of 3 throughout the woodland, and the forest spirit has a Might Pool of 50. Every month following the height of their power, they lose 5 Might points to their opposing court and the aura shrinks in both strength and area. At the opposing time of the year, the aura has all but vanished and the ruler has a Might Pool of only 20. From then on, they gain 5 Might per month until they reach the height of their power again.
 
 >##### Story Seeds: The Courts of the Seasons
-
+>
 >There are any number of stories that can develop from the interplay between these four courts. Vis is the most obvious benefit for getting involved with the *genii loci*, and the battles between Summer and Winter are perhaps the simplest; the open aggression between these courts is easy to understand, and it is easy to assist one side over the other. The Spring and Autumn courts are more subtle; the Alder Prince is passive to the extreme, defeating the Willow Maiden by the sheer power of his love, although it is this that dooms him in the end. It is recommended that the rewards from the latter pair of courts should be higher than these from the Summer-Winter battles, to encourage the political over the military.
 
 ### Woodland Spirits
@@ -1069,63 +1072,63 @@ Once a magus realizes the power inherent in the forests, he may decide to pursue
 It is possible for non-magi to pursue these mysteries, but this is very rare. Some hedge wizards have knowledge of the paths, and are willing to teach magi in return for suitable recompense. Mundanes who thirst for magic can gain the ability to perform minor spells by surrendering to the force of the forest. Often such mundanes become possessed by the forest spirit, and become its agents beyond the limits of its trees.
 
 >##### Story Seeds: Waldgeister and Holzfrauen
-
+>
 >According to the people of Thuringia, Pulch is a Waldgeist who haunts the Kammerforst and chastises those who steal wood and injure trees. However, Pulch is not a faerie, but instead a magus of House Merinita, who skirts pretty close to the edge of Hermetic Law with his actions. Characters may encounter him by accident, or be asked by the Quaesitores to find him and answer for his crimes.
-
+>
 >Gübich claims to be the king of the dwarves; and he may well be right, but there are many such faeries who make these claims. He is very protective over his pine cones, which often possess magical properties to reward those who please him, and torment those who annoy him.
-
+>
 >If the characters have set up their covenant in a wilderness area (particularly in a faerie aura), they may discover that their covenant is the traditional place in which the local Holzfrau hides from the Wild Hunt. Every autumn, she will try to enter the covenant to hide, and on stormy nights throughout winter, the Wild Hunt will assault the covenant.
-
+>
 >The apples of the Dirne-Weibl are Creo vis, and highly sought after by magi. However, she is able to withdraw their power if she disapproves of the uses to which they are put. Woe betide any magus who uses them to create magical items with offensive powers!
 
 >##### Holzfrau
-
+>
 >**Faerie Might**: 20
-
+>
 >**Characteristics:** Int +1, Per +1, Pre +2, Com –1, Str –2, Sta 0, Dex 0, Qik 0
-
+>
 >**Size:** 0
-
+>
 >**Virtues and Flaws:** Ways of the Forest 
-
+>
 >**Personality Traits:** Kindly +3, Shy +3
-
+>
 >**Combat:**
-
+>
 >*Dodging:* Init 0, Attack n/a, Defense 0, Damage n/a
-
+>
 >**Soak:** 0
-
+>
 >**Wound Penalties**: –1 (1–5), –3 (6-10), –5 (11-15), Incapacitated (16–20)
-
+>
 >**Abilities:** Athletics 2 (escaping pursuers), Awareness 2 (travelers), Charm 3 (men), Chirurgy 5 (infected wounds), Faerie Lore 5 (faerie plants), Magic Lore 4 (magical herbs), Second Sight 4 (animals), Stealth 3 (hiding from pursuers)
-
+>
 >**Powers:**
-
+>
 >*Faerie Nature:* As a faerie, the holzfrau does not suffer from Fatigue, nor is she affected by diseases or old age. She can understand any languages, and can be understood by anyone. All faeries also have the Second Sight Virtue, and gain the benefits or penalties of any supernatural aura when using their faerie powers, according to the Realm Interaction table (see **Ars Magica** 5th Edition, page 183).
-
+>
 >*Vulnerability to Iron*: Cold-forged iron is painful to a holzfrau, and they will do anything to avoid its touch. It will not actually harm them, however.
-
+>
 >*Control Plants*, 1 point per magnitude, Init +1, Herbam: Wood-wives may create any Creo or Rego Herbam effects up to 20th level, at a cost of 1 point per magnitude of the effect. This cost is doubled in the winter.
-
+>
 >*Fertility*, 4 points, Init +1, Herbam: All holzfrauen can create an effect identical to *The Bountiful Feast*, granting fertility and protection to crops. They can also withdraw any protection that they have bestowed, should their generosity be abused.
-
+>
 >*Healing*, 4 points, Init –1, Corpus: With a kiss, a wood-wife can remove pain, cleanse a wound of infection, or grant swift healing. This either cures a light wound caused by disease or gives a +9 to recovery rolls.
-
+>
 >**Vis:** 4 Herbam, in hair
-
+>
 >**Appearance:** The holzfrau always appears as a woman, often (but not always) young and beautiful. She is usually bare-foot, and dressed in peasant clothing. They always have a distinguishing manner of dress, which may be used to identify the type of wood-wife (see main text).
-
+>
 >The Holzfrau is a spirit of vegetation, and is usually beneficial to mankind. She will simply flee from those who threaten her, but those who treat her kindly may receive kindness in return. Different wood-wives are associated with different plants — somewhat like dryads — and may have powers that relate to the mythical properties of the plant that they tend. Walpurga (see Chapter 8: Central Germany, The Harz Mountains) is the queen of the holzfrauen.
-
+>
 >Some spirits are more malicious. Stories of the Baumesel (Ass of the Trees) and Bockman (man-goat; see Chapter 6: The Black Forest) are used to frighten children, and with good reason, for these spirits attack lone travelers in the woods. The Eschenfrau (Wife of the Ash) is a very evil spirit to those unfortunate enough to have one living near them, and she must be appeased with a sacrifice on Ash Wednesday.
 
 >*During my journeys through the various forests of this Tribunal, I have increasingly become awakened to the subtle yet ancient power that they seem to hide. On occasion, when I have neglected to raise my Parma Magica, I can feel it, at the edges of my senses, tugging at my Gift. What is this strange force? At times, this seems a seductive call, whispering a promise of power beyond imagining, yet other times I sense an alien presence, threatening to consume me utterly.*
-
+>
 >*Though I do not yet understand this mysterious power, I have grown to recognize it, something that I believe is common to all the woodlands I have encountered here. It is told that Bonisagus, too, felt it, and that this is why he came to the site of Durenmar. In his latter years, they say he became convinced that Hermetic Magic was just the beginning, just the first step to unlocking the power of the primeval magic. It is assumed that his work was never finished, but I have heard rumors that those remaining few who follow the lineage of Hercynius are working to channel this power and to complete his opus maximum.*
-
+>
 >*Yet magi of Bjornaer and Merinita claim to already have mastery of the wildernesses, even though their methods seem as alien to me, and I daresay to each other, as the forest itself. We cannot all be right, yet the wisdom which each faction accepts seems to contain some fragment of the truth. But I am sure that none of us has the complete picture! Each of the three domus magnae seems to have uncovered but a part of this mystery. What if we were to share our secrets — might we not be able to truly access the vast store of raw magic that the forests seem to offer?*
-
+>
 >— from the journal of Causabon of House Bonisagus
 
 ### The First Step
@@ -1143,55 +1146,59 @@ The paths below describe the Sacrifice, Quest, and Fruit for a number of differe
 A magus may take it upon himself to defend the forest against any threats, or to otherwise act in its service. Occasionally, a magus of the Rhine Tribunal (usually a follower of Bjornaer, but rarely, of another House) will publicly announce himself to be the "Guardian" of a particular forest (or other wilderness), which he claims as his personal Hermetic territory. Such a claim has little basis in Hermetic law, except that the Rhine Peripheral Code explicitly encourages magi to defend such wildernesses. In any case, these magi are seldom seen at Tribunal thereafter. Ever since the time of the departure of the Founders, there have always been rumors of the unexplained disappearances or retirements of Rhine magi, and the Forest paths may be one of the reasons for this.
 
 >##### New Arcane Ability: Forest Lore
-
+>
 >This Ability covers knowledge of the Forest in all its manifestations. At its most mundane, it counts as an Area Lore for the forest in which it was learned; yet it is much more than this. It includes knowledge of the supernatural beings and places of a forest, as well as a sense of the spirit that rules it; what pleases it, what angers it, and whether it is currently Manifested in proximity to the character. Unless otherwise stated (see below), this understanding only applies to the home forest. As understanding deepens, however, this Ability becomes more general, applying to all supernatural forests rather than just the one where the character dwells, although the corresponding Ease Factor or required score level is raised by three points for a foreign forest. For example, a score of 4 (instead of 1) is required to enter communion with a foreign genius locus. Forest Lore can only be increased through practice, and the Source Quality is always equal to the strength of the forest's aura.
-
+>
 >The character typically (but not always) develops a deep spiritual attachment to the forest that he studies and lives in.
-
+>
 >| Score (Home Forest) | Score (Foreign Forest) | Understanding |             
->|-------------------------|-----------------------|-------------|
-| 0  | 3     | An elementary understanding of the forest with a resident spirit; the character merely has to spend a few hours in such a forest<br>and he will be able to locate the most important sites, and know the major dangers. |
-| 1     | 4   | A basic understanding of the forest, its denizens, and important locations. You can enter communion with a genius locus and<br>make the appropriate sacrifices. |
-| 2   | 5   | An awareness of the supernatural elements of the forest; you can detect when a spirit has Manifested in a nearby animal or plant,<br>or whether a person is a recipient of a Virtue or Flaw from a forest spirit.    |
-| 3    | 6   | You can locate vis in the forest by spending a few days searching.   |
-| 4   | 7   | An understanding with the forest's supernatural residents; they will tend to act neutrally or friendly towards the character. The spirit will occasionally communicate with the character, to warn him of interlopers, for >example. |
-| 5     | 8   | You can communicate directly with the genius locus of the forest. The character is respected by most of the forest's denizens.     |
-| 6   | 9    | Respected and acknowledged as an ally by the forest spirit.                                                                                                                                                                                      |
->##### Sacrifices
+>|---|---|---|
+>| 0 | 3 | An elementary understanding of the forest with a resident spirit; the character merely has to spend a few hours in such a forest<br>and he will be able to locate the most important sites, and know the major dangers. |
+>| 1 | 4 | A basic understanding of the forest, its denizens, and important locations. You can enter communion with a genius locus and<br>make the appropriate sacrifices. |
+>| 2 | 5 | An awareness of the supernatural elements of the forest; you can detect when a spirit has Manifested in a nearby animal or plant,<br>or whether a person is a recipient of a Virtue or Flaw from a forest spirit. |
+>| 3 | 6 | You can locate vis in the forest by spending a few days searching. |
+>| 4 | 7 | An understanding with the forest's supernatural residents; they will tend to act neutrally or friendly towards the character. The spirit will occasionally communicate with the character, to warn him of interlopers, for example. |
+>| 5 | 8 | You can communicate directly with the genius locus of the forest. The character is respected by most of the forest's denizens. |
+>| 6 | 9 | Respected and acknowledged as an ally by the forest spirit. |
 
+>##### Sacrifices
+>
 >The Sacrifice made to acquire a Fruit usually takes the form of a Flaw; and most commonly, a General Flaw. This Flaw should represent a hardship to the character, and would be something that he is reluctant to take — else there is no real sacrifice involved. However, storyguides should be careful about imposing Sacrifices upon characters. There should always be a conscious choice on the part of the player involved; and it is often wise to discuss these issues with the player beforehand. Typical Sacrifices involve physical mutilation (for example, resulting in Missing Hand, Disfigured, or Blind), a horrible ordeal (resulting in Poor Characteristic, Fragile Constitution, Fear, or Warping Points), a mystical limitation of power (resulting in a Hermetic Flaw or a Supernatural Flaw such as Malediction or Lycanthrope), or a social contract (resulting in a Vow or Oath of Fealty). Sacrifices rarely affect Story or Personality Flaws. Sacrifices are not a manifestation of a forest spirit's Grant Flaw power, but instead permanent changes to those who take them on.
 
 >##### Quests
-
+>
 >Quests are the key to acquiring a Fruit. A Quest is always to the benefit of the genius locus who sets it, but the motives for the Quest are not always immediately apparent. From a game perspective, the Quest often allows other characters to participate in the character's personal development, although it should always be the walker on the Path who performs most of the action. Additionally, the character suffers from the Sacrifice for some time before gaining the benefit from his toil. A character undertaking a Quest will not gain any experience points for doing so; although those who assist him will, in the usual fashion. Despite the name, a Quest is not always an adventure, although many are. A Quest might involve the creation of a spell or an enchantment, or achieving a specific personal goal, or merely spending time in isolation. Quests are never ongoing — they must have a clear end point, at which point the Fruit is gained. Becoming a Guardian of the Forest, for example, is not a Quest, it is a Sacrifice (in the form of the Oath of Fealty Flaw).
-
+>
 >Quests to achieve Major Virtues are always more rigorous than those to acquire Minor Virtues, and may take many seasons to complete. Quests for a Minor Virtue typically take no more than two seasons.
 
 >##### Fruits
+>
 >Fruits are always supernatural effects. The process of the Sacrifice and Quest, with the intervention of the genius locus, makes it possible for even unGifted characters to acquire Supernatural Virtues, despite the usual restrictions on this process, and Gifted characters do not suffer penalties due to the magical powers they already possess. Other Supernatural Virtues, which are not governed by Supernatural Abilities (such as Unaging, Skinchanger, and the like) are also possible Fruits; Hermetic magi may also gain Hermetic Virtues. Knowing a Fruit might also provide side benefits not covered by the Virtue, such as the ability to create spells that are not normally possible with Hermetic magic. These always have a requirement that the creator and caster have the Forest Lore Ability. The Virtues available through any given path should have a linked theme; they should not be merely a source of disparate desired powers, and a character may find it necessary to first acquire other Fruits before finally getting the one he actually wants. The storyguide should not be afraid of creating new Virtues especially for Major Virtues — to complete a path, and give it a unique feel. These can be based around a pre-existing Virtue, or they may be entirely new. Fruits are not a manifestation of the Grant Virtue power, they are permanent effects which do not fade when exiting the forest.
 
 ### The Path of Aging
 
 Alexander of Jerbiton sought a path that would reverse the effect that time had had on his beloved mater, who had been cursed to age at double the normal rate. He was required to pluck out his own eye to prove his conviction to this path, and was able to convince the forest spirit to grant her the Unaging Virtue temporarily. He then embarked on an epic quest in search of the Fountain of Youth, guided by his mystical link to the genius locus. This magical fountain infused his blood with the power of youth, allowing him to create more potent longevity rituals. Tragically, his Quest took longer than he bargained for — time seems to move at different speeds deep in the forest — and death had claimed his mistress by the time he returned to her. Stricken with grief, Alexander returned to the forest and was never heard of again.
 
->##### STORY SEED: THE RELUCTANT JERBITON
+##### STORY SEED: THE RELUCTANT JERBITON
 
->Rumors of a magus whose longevity rituals can actually remove the effects of aging reach the ears of Günther Lupus (see Chapter 8: Central Germany, Fengheld), who secretly has a great need for such a ritual (or rather, his mater Eule does). He therefore dispatches the player character to track down Alexander of Jerbiton on some pretext to disguise his true motives. Naturally, Alexander does not wish to be found.
+Rumors of a magus whose longevity rituals can actually remove the effects of aging reach the ears of Günther Lupus (see Chapter 8: Central Germany, Fengheld), who secretly has a great need for such a ritual (or rather, his mater Eule does). He therefore dispatches the player character to track down Alexander of Jerbiton on some pretext to disguise his true motives. Naturally, Alexander does not wish to be found.
 
 #### NEW MAJOR GENERAL VIRTUE: IMMORTALITY OF THE FOREST
 
 Your life force has become inextricably linked with that of the forest where you live. For each year in which you remain completely within its supernatural aura, you do not make an Aging roll, but instead gain one Warping Point for being under a constant mystical effect (as per **Ars Magica** 5th Edition, page 167).
 
 >##### Path of Aging
-
+>
 >**1st Sacrifice:** Missing Eye
-
+>
 >**1st Quest:** Complete a Longevity Ritual with the use of rare forest ingredients and a blood sacrifice.
-
->**1st Fruit:** Minor Magical Focus in Aging **2nd Sacrifice:** Difficult Longevity Ritual
-
+>
+>**1st Fruit:** Minor Magical Focus in Aging
+>
+>**2nd Sacrifice:** Difficult Longevity Ritual
+>
 >**2nd Quest:** Drink from the Fountain of Youth.
-
+>
 >**2nd Fruit:** Immortality of the Forest
 
 ### The Path of Energy
@@ -1199,30 +1206,30 @@ Your life force has become inextricably linked with that of the forest where you
 By harnessing the reservoir of magical energy possessed by the forest, Terious of Flambeau discovered how to replenish the energy he spent in spellcasting from the energy of the forest. He eventually became infused with the power of the spirit, a living embodiment of the genius locus. Terious also contributed a spell — *Replenishing the Fount of the Magus* to the Great Library of Durenmar. Terious was only able to make this breakthrough by overwhelming his senses through grueling ordeals in a place closely linked to primal magic, seeking to return himself to a more primitive form. He was drastically Warped by the experience and lost much control over his magic.
 
 >##### Path of Energy
-
+>
 >**1st Sacrifice:** Unpredictable Magic
-
+>
 >**1st Quest:** Live in the forest for a year like an animal, wearing no clothes, cooking no food, using no tools or magic.
-
+>
 >**1st Fruit:** Life Boost
-
+>
 >**2nd Sacrifice:** Chaotic Magic
-
+>
 >**2nd Quest:** Conquer the Dragon of the Sauerland, and eat its heart.
-
+>
 >**2nd Fruit:** Mythic Blood
-
-#### New Spell
-
-**REPLENISHING THE FOUNT OF THE MAGUS**
-
-**CrCo 30**
-
-**R:** Touch, **D:** Mom, **T:** Individual
-
-**Requisites:** Mu, He, Vi
-
-With the use of this spell, the magus who has discovered the Path of Energy may restore lost Fatigue levels from the forest; one per each casting. This requires the caster to be in physical contact with the forest, and to have a Forest Lore score of at least 4. The caster must ceremonially receive this energy in some manifest form, such as drinking from a forest spring or the eating of forest herbs. While this spell is recorded in the Great Library, no-one has managed to successfully cast it, and many believe it to be a hoax.
+>
+>#### New Spell
+>
+>**REPLENISHING THE FOUNT OF THE MAGUS**
+>
+>**CrCo 30**
+>
+>**R:** Touch, **D:** Mom, **T:** Individual
+>
+>**Requisites:** Mu, He, Vi
+>
+>With the use of this spell, the magus who has discovered the Path of Energy may restore lost Fatigue levels from the forest; one per each casting. This requires the caster to be in physical contact with the forest, and to have a Forest Lore score of at least 4. The caster must ceremonially receive this energy in some manifest form, such as drinking from a forest spring or the eating of forest herbs. While this spell is recorded in the Great Library, no-one has managed to successfully cast it, and many believe it to be a hoax.
 
 ### The Path of Warping
 
@@ -1233,17 +1240,17 @@ Kleon of Criamon spent many years in the most isolated and magical part of the T
 Whenever you suffer a Wizard's Twilight, you may choose the effects of Twilight, rather than have it imposed upon you by the storyguide. If you fail to control the Twilight, you still gain a bad effect, but you may choose from the options in ArM5, page 89. Additionally, you may induce Warping in any being you touch; once per day you may grant somebody 2 Warping Points. This effect has a Penetration of +5, and, if used on a Hermetic magus, necessitates a roll for Twilight in the usual fashion.
 
 >##### Path of Warping
-
+>
 >**1st Sacrifice:** Fragile Constitution
-
+>
 >**1st Quest:** Acquire a Warping Score of 4.
-
+>
 >**1st Fruit:** Puissant Enigmatic Wisdom
-
+>
 >**2nd Sacrifice:** Twilight Prone
-
+>
 >**2nd Quest:** Trap a magus opposed to the forest in Twilight
-
+>
 >**2nd Fruit:** Twilight Mastery
 
 ### The Path of the Heartbeast
@@ -1251,9 +1258,9 @@ Whenever you suffer a Wizard's Twilight, you may choose the effects of Twilight,
 Uniquely among the paths presented here, this path has been walked many hundreds of times, by every Bjornaer magus who has undertaken an apprenticeship in the Order of Hermes. The goal of the path is contacting one's heartbeast (see **Ars Magica** 5th Edition, page 91). This is also one of the more powerful paths, as it pushes at the Limit of Essential Nature. The true mystery is not the ability to change shape — even many hedge wizards can do this — but the ability to be totally indistinguishable from a natural animal of that type; that is, the magus acquires (or awakens) a whole new aspect to his Essential Nature. The sacrifice for this power is the inability to ever bind a familiar. The reason for this is unknown, but may be because a familial bond is normally formed between the creature and that part of a magus' soul that House Bjornaer has awakened. More information on the Mystery of the Heartbeast will be detailed in a forthcoming supplement for **Ars Magica** 5th edition.
 
 >##### Story Seed: Schwall, follower of Bjornaer
-
+>
 >An eccentric and elderly magus, Schwall (formerly of Rheinstein covenant; see Chapter 12: The Curse of the Rhine Gorge), lives out a solitary existence at the Rhinefalls (see Chapter 5: The Rhine, The Upper Rhine), with his sanctum hidden inside one of the lower regio levels on the rock. He has completed a number of Quests in the service of the Spirit of the Rhine, and is also magically powerful. His heartbeast is believed to be a fish, but he is also able to take the form of a seething mass of water by virtue of one of the Mysteries he has acquired. Fearing the onset of his Final Twilight (he has already accumulated numerous Twilight Scars; for example, he is always wet), he is researching and preparing for his final Quest. This plan is for him to release the powerful Rhine elemental, and the Mystery he will acquire is to simultaneously merge his consciousness with that of the spirit. The primary goal, as he sees it, is to achieve a kind of immortality for himself — otherwise he fears that his Final Twilight will see himself simply washed away. Since he is also a fervent Wilderist of the Hawthorn Gild, however, any side effects of the spirit's release, such as the devastation of shipping and towns and cities in torrents and floods, dealing a blow to the mundanes of the Rhine Tribunal, would be merely a bonus.
-
+>
 >The player magi may begin to notice disturbances of the Rhine as the early stages of Schwall's plan begin to take effect. Should they discover his sanctum, they may (depending on their outlook, and whether they themselves have any interests on the Rhine) choose to either hinder or help him. Since the release of the elemental would likely cause devastation on a biblical scale — a monumental breach of the Code — the Rhine Tribunal would surely March anyone found to be involved in such a reckless scheme, should it come to fruition. By this time, however, Schwall reckons that he will be well beyond any possible retribution that magi could deliver.
 
 ### The Arcadian Path
@@ -1269,17 +1276,17 @@ You are unable to express any strong emotions. This leaves you hard-hearted and 
 You are able to manipulate the emotions of others. You gain a Supernatural Ability called Emotion Theft, at a score of 1. To use this ability, you must first find a person expressing the emotion you wish to instill in another. You may then make a Presence + Emotion Theft roll against an Ease Factor of 6 + the target's Personality Trait for that emotion. If successful, the emotion is removed from the target, leaving them devoid of it (although it may naturally reoccur, over time). You can then transfer the emotion to another by touching him; and he will feel the emotion as strongly as the original "donor." You can even transfer feelings of true love and true friendship (although the Ease Factor to steal such emotions is raised by 3), but not true faith.
 
 >##### Arcadian Path
-
+>
 >**1st Sacrifice:** Dispassionate
-
+>
 >**1st Quest:** Cause an important faerie to display an unaccustomed emotion.
-
+>
 >**1st Fruit:** Minor Magical Focus in Emotions
-
+>
 >**2nd Sacrifice:** Weak Magic Resistance (When feeling emotion)
-
+>
 >**2nd Quest:** Enchant four magical jewels to store the emotions of one's heart, liver, spleen, and brain.
-
+>
 >**2nd Fruit:** Thief of Emotions
 
 # Chapter Five: The Rhine

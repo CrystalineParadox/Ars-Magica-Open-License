@@ -189,7 +189,7 @@ The remaining Covenants of the Tribunal are all well hidden, far from mundane so
 
 True to the chaos of the land and its society ofMagi, there are also two independent Covenants in Italy — Feritel and Vardian's Tomb — divested from the Tribunal. They have existed for years and, strangely, have not been marked for destruction by official Covenants. The economic, mystical and political power these outsider Covenants wield may be what keeps them alive.
 
-## ROMAN SAGAS
+## Roman Sagas
 
 Establishing a Saga in the Roman Tribunal can be tricky since the land is already overcrowded. Characters can create their own Covenant or join an existing one. Founding a Covenant is no easy task, especially given the land's lack of vis and untouched, remote areas. What's more, older Covenants rarely accept new members. What are young, enterprising characters to do in the Roman Tribunal? The following are some suggestions for getting your Roman Saga underway.
 
@@ -211,7 +211,7 @@ If Magi want to start a new Covenant, Sicily is the most likely location. The la
 
 Although limited, other possibilities for new Covenants in the Roman Tribunal do exist. Although the surroundings are harsh and mundane support would be nonexistent, a Covenant might be founded deep in the Alps, but not so deep that the Tribunal of the Greater Alps in infringed upon. Then again, maybe the Roman Tribunal sets Magi up there to spy on the Greater Alps.
 
-## BIBLIOGRAPHY
+## Bibliography
 
 <u>Italy: A Short History</u>, by Harry Hearder, 1990
 

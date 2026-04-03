@@ -2272,7 +2272,7 @@ Caitlin's two great companions in life are her daughter, Aine, and her faerie do
 >Not to be trifled with (Loch Leglean Tribunal) +5
 >
 >#### Abilities
-Acting (old) 3, Alertness (sounds) 3, Animal Handling (horses) 4, Animal Ken (dogs) 1, Area Knowledge—Argyle (faeries) 8, Area Knowledge—Britain (faeries) 3, Area Knowledge—Ireland (faeries) 3, Area Knowledge—Scotland (faeries) 5, Athletics (dance) 3, Bargain (tribunal politics) 6, Certamen (illusions) 4, Charisma (magi) 5, Charm (nobility) 2, Church Knowledge (Scottish Church) 1, Church Lore (Scottish saints) 3, Concentration (long periods) 7, Craft Calligraphy (interlaced animals) 5, Craft Cloth (patterns) 3, Craft Stone (bas-relief) 7, Craft Wood (chains) 3, Diplomacy (faeries) 5, Disguise (age) 3, Dodge (rocky ground) 6, Drinking (strong liquor) 2, Etiquette (faeries) 3, Evaluate (vis) 4, Faerie Lore (faerie lineage) 4, Faerie Magic 7 (illusions), Fantastic Beast Lore (faerie animals) 3, Finesse (illusions) 7, Folk Ken (nobility) 5, Forgery (Artwork) 3, Guile (faeries) 5, Hermes History (Scotland) 2, Hermes Lore (Scotland) 2, Humanities (arts) 2, Intimidation (Mortals) 5, Intrigue (tribunal) 5, Leadership (covenant) 7, Legend Lore (Scotland) 5, Legerdemain (stage tricks) 4, Magic Theory (faerie) 8, Parma Magica (Terram) 6, Penetration (Mentem) 6, Pick Locks (in darkness) 1, Play Harp (improvisation) 4, Play Shinty (stealing) 3, Pretend (anger) 4, Ride (darkness) 6, Scan (seacoast) 3, Scribe Latin (calligraphy) 1, Scribe Ogham (names) 1, Search (wilderness) 4, Sing (ballads) 4, Speak English (magic) 3, Speak Gaelic (rapidly) 5, Speak Latin (basic) 5, Speak Norse (lineage) 4, Speak Saxon (threats) 4,Stealth (wilderness) 3, Storytelling (sound effects) 3, Subterfuge (bluff) 4, Survival (seacoast) 6, Swim (ocean) 5, Track (faerie horses) 4
+>Acting (old) 3, Alertness (sounds) 3, Animal Handling (horses) 4, Animal Ken (dogs) 1, Area Knowledge—Argyle (faeries) 8, Area Knowledge—Britain (faeries) 3, Area Knowledge—Ireland (faeries) 3, Area Knowledge—Scotland (faeries) 5, Athletics (dance) 3, Bargain (tribunal politics) 6, Certamen (illusions) 4, Charisma (magi) 5, Charm (nobility) 2, Church Knowledge (Scottish Church) 1, Church Lore (Scottish saints) 3, Concentration (long periods) 7, Craft Calligraphy (interlaced animals) 5, Craft Cloth (patterns) 3, Craft Stone (bas-relief) 7, Craft Wood (chains) 3, Diplomacy (faeries) 5, Disguise (age) 3, Dodge (rocky ground) 6, Drinking (strong liquor) 2, Etiquette (faeries) 3, Evaluate (vis) 4, Faerie Lore (faerie lineage) 4, Faerie Magic 7 (illusions), Fantastic Beast Lore (faerie animals) 3, Finesse (illusions) 7, Folk Ken (nobility) 5, Forgery (Artwork) 3, Guile (faeries) 5, Hermes History (Scotland) 2, Hermes Lore (Scotland) 2, Humanities (arts) 2, Intimidation (Mortals) 5, Intrigue (tribunal) 5, Leadership (covenant) 7, Legend Lore (Scotland) 5, Legerdemain (stage tricks) 4, Magic Theory (faerie) 8, Parma Magica (Terram) 6, Penetration (Mentem) 6, Pick Locks (in darkness) 1, Play Harp (improvisation) 4, Play Shinty (stealing) 3, Pretend (anger) 4, Ride (darkness) 6, Scan (seacoast) 3, Scribe Latin (calligraphy) 1, Scribe Ogham (names) 1, Search (wilderness) 4, Sing (ballads) 4, Speak English (magic) 3, Speak Gaelic (rapidly) 5, Speak Latin (basic) 5, Speak Norse (lineage) 4, Speak Saxon (threats) 4,Stealth (wilderness) 3, Storytelling (sound effects) 3, Subterfuge (bluff) 4, Survival (seacoast) 6, Swim (ocean) 5, Track (faerie horses) 4
 >
 >| Techniques and Forms | | | | |    | Spellcasting Information                                                              |
 >| --- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------  |
@@ -2514,7 +2514,7 @@ The count is a proud, arrogant member of the court and is privately jealous of |
 A distinct contrast to Gwyridden, Oenghus is warm and friendly, often partying to all hours of the night with the other members of the court. Oenghus is the only mortal who lives in the second regio of the hill, but this bothers him not at all. He is popular with both the sith and the mortals of the covenant. While Gwyridden practices and never seems to improve, Oenghus never practices, yet he is still a better player than the count, which is galling to the proud sith. Oenghus played in the last game against the Prince, where he proved his championship mettle. He looks forward eagerly to the rematch, which he hopes will be soon, as he is not getting any younger. Caitlin has promised to create a longevity potion for him; but in any event the effects of the hill have retarded his aging, and he still has many years left—a fact of which he is not aware.
 
 >### Oenghus Dubh, Mortal Shinty Champion
->Age: 31<nr> 
+>Age: 31<br> 
 >Size: 0
 >
 >#### Characteristics Virtues & Flaws
@@ -2838,10 +2838,12 @@ He is known to be the true power in the covenant, at least in the Loch Leglean T
 >Size: +1
 >
 >#### Characteristics
->| +1 | Int (knowledgeable) | +2 | Pre (physical) |
->| O | Per | -3 | Com (looks of a beast) |
->| +3 | Str (grip) | -1 | Dex (accident-prone) |
->| O | Sta | +1 | Qik (sure stride) |
+>|     |                     |     |                        |
+>| --- | --------------------| --- | ---------------------- |
+>| +1  | Int (knowledgeable) | +2  | Pre (physical)         |
+>| 0   | Per                 | -3  | Com (looks of a beast) |
+>| +3  | Str (grip)          | -1  | Dex (accident-prone)   |
+>| 0   | Sta                 | +1  | Qik (sure stride)      |
 >
 >#### Personality Traits
 >Crotchety +2, Concerned for Clan and Covenant +3
@@ -2905,6 +2907,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >Size: 0
 >
 >#### Characteristics
+>|     |                    |     |                      |
 >| --- | ------------------ | --- | -------------------- |
 >| +3  | Int (dedicated)    | 0   | Pre                  |
 >| +2  | Per (connections)  | -1  | Com (slurred speech) |
@@ -2931,7 +2934,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >| --- | --- | --- | --- | --- | --- |
 >| 12  | Cr  | 11  | An  | 8   | Ig  |
 >| 26  | In  | 10  | Αq  | 5   | Im  |
->| 15  | Mu  | 8   | Au  | 25  | Mε  |
+>| 15  | Mu  | 8   | Au  | 25  | Me  |
 >| 12  | Pe  | 15  | Co  | 10  | Te  |
 >| 20  | Re  | 10  | He  | 24  | Vi  |
 >
@@ -2964,6 +2967,7 @@ A combination of the two Enchantment to Block spells, this spell blocks all meta
 >| 6             | 3    |
 >
 >#### Characteristics
+>|     |                   |     |              |
 >| --- | ----------------- | --- | ------------ |
 >| +2  | Int (inquisitive) | n/a | Pre          |
 >| +4  | Per (strong eyes) | n/a | Com          |
@@ -4024,6 +4028,7 @@ Highland cattle are generally more intelligent than their tractable cousins. If 
 
 >#### Crodh (kro) - Cattle
 >| Magical Might | Size |
+>| --------------|------|
 >| 0             | +1   |
 >
 >#### Characteristics
@@ -4272,7 +4277,8 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 
 >### Robyn Redcap - Lord Goulis's Demonic Familiar
 >| Demonic Might | Size |
->| 35 |          | 0    |
+>|---------------|------|
+>| 35            | 0    |
 >
 >#### Characteristics  
 >|     |                  |     |                             |
@@ -4324,7 +4330,7 @@ Lord Goulis is a threat to covenants (and the population at large) located in th
 >None
 >
 >#### Spiritual Form Powers
-None
+>None
 
 
 >### Lord Goulis's Demon Dogs
@@ -4423,6 +4429,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Size:+1
 >
 >#### Characteristics
+>|     |                    |     |                        |
 >| --- | ------------------ | --- | ---------------------- |
 >| +6  | Int (malicious)    | -6  | Pre (hideous)          |
 >| -3  | Per (megalomaniac) | -5  | Com (egotistical)      |
@@ -4490,6 +4497,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Size: 0
 >
 >#### Characteristics
+>|     |                   |     |                    |
 >| --- | ----------------- | --- |  ----------------- |
 >| -1  | Int (slow)        | 0   | Pre                | 
 >| 0   | Per               | 0   | Com                |
@@ -4682,6 +4690,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Size: 0
 >
 >#### Characteristics
+>|     |                  |     |                        |
 >| --- | ---------------- | --- | ---------------------- |
 >| 0   | Int              | -1  | Pre (unbecoming)       |
 >| +1  | Per (sharp ears) | -1  | Com (heavily accented) |
@@ -4725,6 +4734,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Size: 0
 >
 >#### Characteristics
+>|      |            |    |                  |
 >| ---- | --------- |--- | ----------------- |
 >| +1 | Int         | 0  | Pre               |
 >| 0  | Per         | 0  | Com               |
@@ -4946,6 +4956,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >Size: 0
 >
 >#### Characteristics
+>|     |                  |        |                       |
 >| --- | ---------------- | --- | ------------------------ |
 >| +3  | Int (keen wit)   | -1  | Pre (stooped posture)    |
 >| +4  | Per (insightful) | +2  | Com (speak in metaphors) |

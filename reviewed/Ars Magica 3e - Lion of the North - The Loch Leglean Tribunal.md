@@ -1682,7 +1682,7 @@ Vulnerability to Iron: Blows delivered with cold iron hurt the babhan sith as if
 >Dodge Defense: +6<br> 
 >Fatigue: n/a<br>
 >Soak: +1<br>
->Encumbrance: O
+>Encumbrance: 0
 >
 >#### Body Levels
 >OK, 0, 0, 0, -5, Incapacitated
@@ -2074,7 +2074,7 @@ The target's ears slowly fill with congealed wax (which replenishes if removed).
 >
 >Dodge Defense: +10<br>
 >Soak:0<br>
->Fatigue: O<br>
+>Fatigue: 0<br>
 >Encumbrance: 0 
 >
 >#### Body Levels
@@ -2449,7 +2449,7 @@ Wildcats are watched for signs of the upcoming weather. If one is seen frolickin
 >Dodge Defense: +11<br>
 >Soak: 0<br> 
 >Fatigue: +2<br>
->Encumbrance: O
+>Encumbrance: 0
 >
 >#### Body Levels
 >OK, -1, -6, Incapacitated
@@ -2504,7 +2504,7 @@ The count is a proud, arrogant member of the court and is privately jealous of |
 >| Caman Totals: | +15          | +11    | +9     | +11   | Dodge: +8      |
 >|               |              |        |        |       | Soak: +2       |
 >|               |              |        |        |       | Fatigue: +1    |
->|               |              |        |        |       | Encumbrance: O |
+>|               |              |        |        |       | Encumbrance: 0 |
 >
 >#### Weapons, Armor, and Items
 >Enchanted caman, leather jerkin
@@ -4582,7 +4582,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Shield Totals: | +0                  | +2 | -7     | 43    |
 >
 >Soak:4<br> 
->Encumbrance: O <br>
+>Encumbrance: 0<br>
 >Dodge: +4<br> 
 >Fatigue: +2
 >
@@ -4816,7 +4816,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 
 >### Bard/Olamh (Poet/Teacher)
 >Age: 27<br> 
->Size: O
+>Size: 0
 >
 >#### Qharacteristics
 >|     |                    |     |                     |
@@ -5255,7 +5255,7 @@ The players travel all over northern Scotland, with the fear that a major evil c
 >| Cudgel Totals: | +8           | +6     | +4     | -2 (4) | Dodge: +2      |
 >|                |              |        |        |        | Soak: +6       |
 >|                |              |        |        |        | Fatigue: +1    |
->|                |              |        |        |        | Encumbrance: O |
+>|                |              |        |        |        | Encumbrance: 0 |
 >
 >#### Weapons, Armor, and Items
 >Iron-bound cudgel, leather jerkin

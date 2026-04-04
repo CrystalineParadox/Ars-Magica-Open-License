@@ -4,7 +4,8 @@ The extensively revised and expanded deluxe version of Ars Magica 5th Edition.
 
 *Open License Markdown version by OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
 
-*[Completion state: Chapters 1-6: all text manually fixed and reviewed, headings fixed. Remaining: Chapter 7+]*
+*[Completion state: Chapters 1-8: all text manually fixed and reviewed, headings fixed. Remaining: Chapter 9+]*
+*Known Issues: "Casting Tablets" section is weird in source PDF, and seems to have wrong table, Extraordinary results section looks a bit jumbled in source (cuts from investigating an enchanted item by experimentation straight into overall results w/o heading)* 
 
 *Based on the material for Ars Magica, ©1993–2024,  licensed by Trident, Inc. d/b/a Atlas Games®, under [Creative Commons Attribution-ShareAlike 4.0 International license 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ("CC-BY-SA 4.0"). Order of Hermes, Tremere, Doissetep, and Grimgroth are trademarks of Paradox Interactive AB and are used with permission.*
 
@@ -3504,7 +3505,7 @@ The magus must touch the water-way, when casting the spell, and the target must 
 
 For determining the spell level, water-way is the same Range level as Sight.
 
-Storm (Duration): A spell with this duration must be cast during a storm and lasts until the end of the storm. Normally, a storm lasts a number of minutes or hours, but some large storms may last for days. The form of the spell must be either Aguam or Auram, but the spell is not necessarily cast on the storm itself. The length of an entirely natural storm can be quickly estimated by rolling a stress die and dividing the result by 2 — this gives the number of hours that the storm will last. A botch has no consequence. excepting that the storm will dissipate in a number of minutes. The storyguide should secretly determine how long the storm will last — although an InAu spell, or Wilderness Sense Ability Roll could easily reveal this information.
+Storm (Duration): A spell with this duration must be cast during a storm and lasts until the end of the storm. Normally, a storm lasts a number of minutes or hours, but some large storms may last for days. The form of the spell must be either Aquam or Auram, but the spell is not necessarily cast on the storm itself. The length of an entirely natural storm can be quickly estimated by rolling a stress die and dividing the result by 2 — this gives the number of hours that the storm will last. A botch has no consequence. excepting that the storm will dissipate in a number of minutes. The storyguide should secretly determine how long the storm will last — although an InAu spell, or Wilderness Sense Ability Roll could easily reveal this information.
 
 For determining the spell level, Storm is the same Duration level as Concentration.
 
@@ -3890,7 +3891,7 @@ This form of secular instruction, given by tutors to the scions of merchant hous
 
 Major, Hermetic
 
-You have been trained in the ability to manipulate raw elemental Forms (Aguam, Auram, Ignem, and Terram), and view them as a connected whole rather than four separate Arts. Whenever you gain experience from a source dedicated to one of these Arts. you gain half the Source Quality (rounded up) in experience points in each of the other three Arts. For example, if you studied Ignem from a book with a Source Quality of 13, you would gain 7 experience points in each of Aquam, Auram, and Terram.
+You have been trained in the ability to manipulate raw elemental Forms (Aquam, Auram, Ignem, and Terram), and view them as a connected whole rather than four separate Arts. Whenever you gain experience from a source dedicated to one of these Arts. you gain half the Source Quality (rounded up) in experience points in each of the other three Arts. For example, if you studied Ignem from a book with a Source Quality of 13, you would gain 7 experience points in each of Aquam, Auram, and Terram.
 
 During character creation, assign all your experience points in Arts. Then assign half the experience points assigned to each of the elemental Forms to each of the other elemental Forms. Do not actually add these experience points to the Form in question until you have finished calculating all the bonus experience points. For example, if you assign 10 experience points to each of Aquam, Auram, and Terram, and 21 experience points to Ignem, then you should assign 15 bonus experience points to Ignem (5 from each of Aquam, Auram, and Terram), and 21 bonus experience points to each of Aquam, Auram, and Terram (11 from Ignem, and 5 each from the other two Forms).
 
@@ -10092,9 +10093,7 @@ Not all Hooks can be removed, but if a particular Hook can be overcome it should
 
 # VII. Hermetic Magic
 
-n the eighth century the wizard Bonisagus developed a universal theory of magic and the Order of Hermes was born. The most immediate advantage
-
-of Hermetic magic was that it allowed wizards of diverse magical backgrounds to share their knowledge. Before Bonisagus' theory, the practice of magic had been highly individualized and therefore limited in scope. With the ability to share and accumulate knowledge, Hermetic magi gained an immense advantage over other wizards. This universal theory is not without its disadvantages, however. Detractors of the system believe that the strict regimentation of Hermetic magic robs truly brilliant magi of the chance to discover the modes of magic power that best suit them, and that it is truly helpful only to mediocre magi who need an exact system to guide them.
+In the eighth century the wizard Bonisagus developed a universal theory of magic and the Order of Hermes was born. The most immediate advantage of Hermetic magic was that it allowed wizards of diverse magical backgrounds to share their knowledge. Before Bonisagus' theory, the practice of magic had been highly individualized and therefore limited in scope. With the ability to share and accumulate knowledge, Hermetic magi gained an immense advantage over other wizards. This universal theory is not without its disadvantages, however. Detractors of the system believe that the strict regimentation of Hermetic magic robs truly brilliant magi of the chance to discover the modes of magic power that best suit them, and that it is truly helpful only to mediocre magi who need an exact system to guide them.
 
 The Order of Hermes is only a part of the greater magical world. There exist non-Hermetic magi from European traditions, and from further afield. Be this as it may, the rules presented here cover Hermetic magic only. Hedge Magic Revised Edition, Rival Magic, The Cradle and the Crescent, Between Sand and Sea, Lands of the Nile, and the Realms of Power sourcebooks provide rules for many non-Hermetic traditions. Storyguides should also feel free to create non-Hermetic magic that governs monsters, wizards, and magic items that do not fit the paradigm set out in these rules, and thus keep magic a mystery even to those who think they know it all.
 
@@ -10102,27 +10101,21 @@ Hermetic magic is a highly useful but not entirely perfect theory. These rules r
 
 ## The Gift
 
-he capacity to work magic is known as The Gift among Hermetic magi. Only people with The Gift can be taught Hermetic magic, but not all of
-
-them learn it. Many Hermetic magi say that people with minor mystical abilities have a partial Gift, but it is not clear that the source of their power is the same as that of magi. People with The Gift may be taught non-Hermetic magic instead, but it is almost impossible for one person to learn two kinds of magic. (See page 383 for the rules for this.)
+The capacity to work magic is known as The Gift among Hermetic magi. Only people with The Gift can be taught Hermetic magic, but not all of them learn it. Many Hermetic magi say that people with minor mystical abilities have a partial Gift, but it is not clear that the source of their power is the same as that of magi. People with The Gift may be taught non-Hermetic magic instead, but it is almost impossible for one person to learn two kinds of magic. (See page 383 for the rules for this.)
 
 The Gift is very rare, appearing in perhaps one person in a few thousand. Magi have many theories as to the cause of The Gift, but none of these are generally accepted.
 
-The Gift has a strong emotional effect on those around the Gifted person, making them suspicious and mistrustful of the Gifted individual, inspiring
-
-envy. As a result, social interactions are very difficult for the Gifted. Some Hermetic magi have the Gentle Gift (a Virtue, see page 82), which does not affect people in this way, while others have the Blatant Gift (a Flaw, see page 120), which has much more intense effects. The Gift also bothers mundane animals, which avoid the Gifted individual as far as possible. The Gift only affects those in the presence of the Gifted individual. Letters from a Gifted individual do not have this effect, nor does a messenger from such an individual, unless the messenger himself has The Gift.
+The Gift has a strong emotional effect on those around the Gifted person, making them suspicious and mistrustful of the Gifted individual, inspiring envy. As a result, social interactions are very difficult for the Gifted. Some Hermetic magi have the Gentle Gift (a Virtue, see page 82), which does not affect people in this way, while others have the Blatant Gift (a Flaw, see page 120), which has much more intense effects. The Gift also bothers mundane animals, which avoid the Gifted individual as far as possible. The Gift only affects those in the presence of the Gifted individual. Letters from a Gifted individual do not have this effect, nor does a messenger from such an individual, unless the messenger himself has The Gift.
 
 When roleplaying a character dealing with a maga, have him act as though she has a wellestablished reputation for dishonesty and unreliability, and for undeserved privilege of whatever sort is most important to him. Thus, a merchant acts as if he believes that a maga is wealthy through cheating people, while a lord acts as if he believes that the maga is a treacherous vassal who retains her position through bribery or similar. If the maga tries to overcome this reaction through negotiation, she suffers a -3 penalty to any die rolls she must make. Someone without The Gift negotiating on her behalf does not suffer the penalty, but must deal with the mistrust inspired by The Gift. If the maga manages to convince or coerce someone into interacting with her, she suffers the -3 penalty to all rolls and totals based on social interaction, including training, whether the maga is the trainer or the trainee.
 
-character as having a well-established reputation for dishonesty and treachery of a dangerous kind, as well as for the possession of ill-gotten gains. People interacting with a Blatantly Gifted maga are extremely wary and rather hostile. Animals treat her as a threat to be driven away from their territory. If the maga tries to overcome this reaction through negotiation, she suffers a –6 penalty to any die rolls she must make. An unGifted individual negotiating on her behalf suffers no penalty, but must overcome the hostility. If a maga with Blatant Gift interacts with someone, she suffers the -6 penalty to all social rolls and totals, as for the normal Gift.
+The Blatant Gift has a more intense effect. Treat the Blatantly Gifted character as having a well-established reputation for dishonesty and treachery of a dangerous kind, as well as for the possession of ill-gotten gains. People interacting with a Blatantly Gifted maga are extremely wary and rather hostile. Animals treat her as a threat to be driven away from their territory. If the maga tries to overcome this reaction through negotiation, she suffers a –6 penalty to any die rolls she must make. An unGifted individual negotiating on her behalf suffers no penalty, but must overcome the hostility. If a maga with Blatant Gift interacts with someone, she suffers the -6 penalty to all social rolls and totals, as for the normal Gift.
 
 Note that those interacting with Gifted people do not actually think that they have a bad reputation; that is merely an analogy to help you to work out how they would react.
 
 The Gift only has its effects if the maga comes to the attention of someone, just like a reputation. If a Gifted maga dresses unostentatiously, keeps to the middle of the group, does not appear to be the leader, and doesn't talk to anyone, then the group should be able to travel without suffering from people's reactions to The Gift, as long as the maga behaves herself. The Blatant Gift makes this a lot harder; these precautions reduce people's reactions to those inspired by the normal Gift.
 
-People do not get used to The Gift, even if they have lived with magi all their lives. They can, however, get used to
-
-overrides the effects of reputation. The mundane members of a covenant can be assumed to be used to the resident magi, and to react to them as appropriate to their actual behavior (see page 186, in the Covenant chapter, for rules for this).
+People do not get used to The Gift, even if they have lived with magi all their lives. They can, however, get used to individuals with The Gift, just as long association overrides the effects of reputation. The mundane members of a covenant can be assumed to be used to the resident magi, and to react to them as appropriate to their actual behavior (see page 186, in the Covenant chapter, for rules for this).
 
 Nevertheless, they will be suspicious of visiting magi.
 
@@ -10134,75 +10127,71 @@ Animals also react badly to people with The Gift. In their case, the reaction te
 
 Creatures belonging to one of the four supernatural realms may have different reactions to the Gifted. Some behave like mundane animals, others like mundane humans, while some appear completely unaffected by The Gift. Demons, in particular, do not seem to be bothered by The Gift, but that may just be because they envy every human being anyway.
 
-## First Impressions
+### First Impressions
 
 A group of characters who appear to be ordinary travelers (rather than an armed band) seek shelter in:
 
-## A Typical Village
+#### A Typical Village
 
-Gentle (or no) Gift: The villagers are cautious, but may offer the characters shelter in their homes if treated well. If someone has a separate barn, the characters are probably allowed to sleep there.
+*Gentle (or no) Gift:* The villagers are cautious, but may offer the characters shelter in their homes if treated well. If someone has a separate barn, the characters are probably allowed to sleep there.
 
-Gift: The villagers refuse to let the characters into their homes or property, and bar the doors and keep a watch all night if they camp on common ground.
+*Gift:* The villagers refuse to let the characters into their homes or property, and bar the doors and keep a watch all night if they camp on common ground.
 
-Blatant Gift: The villagers tell the characters to get out of the village, and attempt to drive them off if they do not leave voluntarily. They keep some sort of watch for the next few days to make sure that the characters do not return.
+*Blatant Gift:* The villagers tell the characters to get out of the village, and attempt to drive them off if they do not leave voluntarily. They keep some sort of watch for the next few days to make sure that the characters do not return.
 
-## An Inn
+#### An Inn
 
-Gentle (or no) Gift: Visitors are welcomed if there is space, and the innkeeper can be bargained down from his initial price. Other guests eagerly share news with the characters, exchanging tales of where they have come from for the characters' stories.
+*Gentle (or no) Gift:* Visitors are welcomed if there is space, and the innkeeper can be bargained down from his initial price. Other guests eagerly share news with the characters, exchanging tales of where they have come from for the characters' stories.
 
-Gift: The innkeeper treats the characters coldly. He sets his prices very high, and will not be bargained down. Other guests ignore the characters as much as possible, and keep a careful eye on them.
+*Gift:* The innkeeper treats the characters coldly. He sets his prices very high, and will not be bargained down. Other guests ignore the characters as much as possible, and keep a careful eye on them.
 
-Blatant Gift: The innkeeper refuses admittance, and threatens to call the watch if the characters do not move along.
+*Blatant Gift:* The innkeeper refuses admittance, and threatens to call the watch if the characters do not move along.
 
-## A Monastery
+#### A Monastery
 
-Gentle (or no) Gift: The characters are welcomed, housed in the guest quarters, and fed at the common table with any other travelers. They are encouraged to attend services, and other travelers talk as if at an inn. The characters may stay for two or three nights before the monks start to drop hints that they should move on.
+*Gentle (or no) Gift:* The characters are welcomed, housed in the guest quarters, and fed at the common table with any other travelers. They are encouraged to attend services, and other travelers talk as if at an inn. The characters may stay for two or three nights before the monks start to drop hints that they should move on.
 
-Gift: The characters are welcomed, and housed somewhere isolated in the monastic complex. They are fed at the common table, but one or two monks are always around, keeping an eye on them. The other travelers do not talk to them. The monks start to drop hints that they should move on after one night.
+*Gift:* The characters are welcomed, and housed somewhere isolated in the monastic complex. They are fed at the common table, but one or two monks are always around, keeping an eye on them. The other travelers do not talk to them. The monks start to drop hints that they should move on after one night.
 
-Blatant Gift: The characters are housed in a building outside the monastery walls, and their food is brought to them there. They are watched by at least one monk and enough lay brothers to deal with mundane trouble at all times. If they ask to attend the service, they are escorted to and from the church and watched at all times. They are strongly encouraged to leave, and are no longer fed, after the first night.
+*Blatant Gift:* The characters are housed in a building outside the monastery walls, and their food is brought to them there. They are watched by at least one monk and enough lay brothers to deal with mundane trouble at all times. If they ask to attend the service, they are escorted to and from the church and watched at all times. They are strongly encouraged to leave, and are no longer fed, after the first night.
 
-## A Covenant
+#### A Covenant
 
 These descriptions assume that the visitors announce themselves as Hermetic magi, and are not known to be hostile. They also assume that the guard room is outside the Aegis of the Hearth.
 
-Gentle Gift: The characters are asked into the guard room while the magi are informed of their arrival. The guards chat while they are waiting.
+*Gentle Gift:* The characters are asked into the guard room while the magi are informed of their arrival. The guards chat while they are waiting.
 
-Gift: The characters are asked inside while the magi are informed, but the guards do not talk much, and keep a careful eye on all of them.
+*Gift:* The characters are asked inside while the magi are informed, but the guards do not talk much, and keep a careful eye on all of them.
 
-Blatant Gift: The characters are made to wait outside while someone brings the magi. The gates are made secure, and all the guards are on high alert.
+*Blatant Gift:* The characters are made to wait outside while someone brings the magi. The gates are made secure, and all the guards are on high alert.
 
-## Established Relationships
+### Established Relationships
 
 A group including at least one magus arrives somewhere where the magus has visited many times before.
 
-## An Inn
+#### An Inn
 
 The characters return to an inn where they have always been polite, tipped generously, and never caused trouble.
 
-Gentle Gift: The innkeeper welcomes them enthusiastically, shows them to the best table in the house, and clears a good room for them to stay in if they want. If there are regulars at the inn, they are happy to see the characters again.
+*Gentle Gift:* The innkeeper welcomes them enthusiastically, shows them to the best table in the house, and clears a good room for them to stay in if they want. If there are regulars at the inn, they are happy to see the characters again.
 
-Gift: The innkeeper welcomes them enthusiastically, and shows them to a nice table slightly isolated from the rest of the room, to avoid upsetting the other customers. He clears a good room for them to stay in, and sees to most of the service personally if he has new staff. He tries to make small-talk with the magus, but clearly prefers talking to the companions.
+*Gift:* The innkeeper welcomes them enthusiastically, and shows them to a nice table slightly isolated from the rest of the room, to avoid upsetting the other customers. He clears a good room for them to stay in, and sees to most of the service personally if he has new staff. He tries to make small-talk with the magus, but clearly prefers talking to the companions.
 
-Blatant Gift: The innkeeper hurries to meet them at the door, welcomes them politely, and quickly ushers them to a private room so that they don't disturb the other guests. He serves them personally, but while he is polite to the magus, he clearly tries to have as little to do with him as possible. (This assumes that the Blatant Gifted magus kept a very low profile on earlier visits, so that they were allowed in.)
+*Blatant Gift:* The innkeeper hurries to meet them at the door, welcomes them politely, and quickly ushers them to a private room so that they don't disturb the other guests. He serves them personally, but while he is polite to the magus, he clearly tries to have as little to do with him as possible. (This assumes that the Blatant Gifted magus kept a very low profile on earlier visits, so that they were allowed in.)
 
-## A Monasteru
+#### A Monastery
 
 The characters return to a monastery where they have always been polite, at least apparently pious, never caused trouble, and have donated generously (but not so spectacularly as to be viewed as potential patrons). The descriptions assume that there are no women in the party, and that the monastery can cope with bending the normal rules slightly.
 
-Gentle Gift: The characters are quickly recognized, greeted warmly, and may even be invited to dine with the abbot occasionally. If their normal visits are brief, they are allowed to stay for some time before anything is said, and even then the monks are concerned as to their reasons for the long stay rather than keen to move them on.
+*Gentle Gift:* The characters are quickly recognized, greeted warmly, and may even be invited to dine with the abbot occasionally. If their normal visits are brief, they are allowed to stay for some time before anything is said, and even then the monks are concerned as to their reasons for the long stay rather than keen to move them on.
 
-Gift: The characters are housed away from the main guest quarters, and they take their meals with the monks, who know them, rather than the other travelers, who don't. At least some of the monks are just as eager to talk to the magus as to the other members of the group.
+*Gift:* The characters are housed away from the main guest quarters, and they take their meals with the monks, who know them, rather than the other travelers, who don't. At least some of the monks are just as eager to talk to the magus as to the other members of the group.
 
-Blatant Gift: The characters are kept waiting at the gate while a senior monk is sent for. They are housed away from the main guest quarters, and fed there, although one or two of the monks probably join them, both out of courtesy and to hear the news. The monks clear a side chapel so that the characters can attend Mass there, rather than being in the main body of the church. The characters are not watched, although the magus with the Blatant Gift is expected to keep to himself as much as possible (and, to get to this point, he must have done so in the past).
+*Blatant Gift:* The characters are kept waiting at the gate while a senior monk is sent for. They are housed away from the main guest quarters, and fed there, although one or two of the monks probably join them, both out of courtesy and to hear the news. The monks clear a side chapel so that the characters can attend Mass there, rather than being in the main body of the church. The characters are not watched, although the magus with the Blatant Gift is expected to keep to himself as much as possible (and, to get to this point, he must have done so in the past).
 
 ## The Hermetic Arts
 
-he term "Arts" refers collectively to Techniques and Forms — two classes of magical disciplines that work together in spellcasting.
-
-Techniques govern the essential
-
-manipulations that magic can perform; Forms, the essential natural phenomena that magic can manipulate. Techniques and Forms have Latin names. A Technique is referred to by a verb conjugated in first person, and a Form by a noun. You combine one Technique and one Form to cast a spell, and together their names indicate the spell's general function. For example, a "Creo Ignem" spell employs the Technique of "Creo" ("I create") and the Form of "Ignem" ("fire") and produces light, heat, or fire. A "Muto Ignem" spell ("Muto" = "I transform") transforms light, heat, or fire in some way, such as by increasing its intensity, its size, or its shape.
+The term "Arts" refers collectively to Techniques and Forms — two classes of magical disciplines that work together in spellcasting. Techniques govern the essential manipulations that magic can perform; Forms, the essential natural phenomena that magic can manipulate. Techniques and Forms have Latin names. A Technique is referred to by a verb conjugated in first person, and a Form by a noun. You combine one Technique and one Form to cast a spell, and together their names indicate the spell's general function. For example, a "Creo Ignem" spell employs the Technique of "Creo" ("I create") and the Form of "Ignem" ("fire") and produces light, heat, or fire. A "Muto Ignem" spell ("Muto" = "I transform") transforms light, heat, or fire in some way, such as by increasing its intensity, its size, or its shape.
 
 Hermetic magi have a score in each Art. Your scores in the Arts represent your aptitude for working with the various types of magic. Arts are not merely knowledges; your Arts are ultimately ways your very being expresses magical energy. In reflection of this, your score in a Form (in addition to allowing you to cast spells incorporating that Form) helps you resist spells of that type and avoid harm from mundane sources related to that Form. For instance, your Ignem (fire) score gives you a bonus to resist damage from fire and cold. This bonus is equal to one fifth of your score in the Form, rounded up, and adds to your ability to resist any damage deriving from that Form. The most important examples of each Form bonus's applicability are listed under the Form, but these are not exhaustive lists.
 
@@ -10212,9 +10201,9 @@ These bonuses do not stack. If it seems like two would apply to a given hazard, 
 
 In the following two sections, each of the Arts is listed with its common two-letter abbreviation, its translation from Latin, a general description, and its Hermetic pronunciation. More detailed descriptions of what a magus can do with various Technique Form combinations are given in the Spells chapter on page 313.
 
-## Techniques
+### Techniques
 
-## Creo (Cr) "I create"
+#### Creo (Cr) "I create"
 
 Creo magic makes things that exist independently into better things of their kind, which includes bringing them into existence from nothing. Things that exist independently are called substances, and include people, trees, and rocks, but do not include colors, weights, and sizes. Creo can thus both create and heal things.
 
@@ -10224,9 +10213,7 @@ Artificial things, such as bread, swords and books, have complex forms. Their fo
 
 A magus need not be able to create an artificial item by mundane means in order to create it by magic, he only needs to be somewhat familiar with it. A magically created item will always be the right sort of thing unless the magus botches his Finesse roll. Thus, unless the magus botches, magically created cloth will always be a whole piece and keep people warm, but it might not be very attractive if he rolled badly. For further details, see Craft Magic on page 306.
 
-A magus can also use Creo to make something a better example of its kind, even if it isn't actually
-
-injured or damaged. Thus, Creo can make a horse as swift as the fastest horse, or a man as strong as the strongest man. Creo cannot make a horse able to run as fast as the wind, because no ordinary horse can do that, nor can it make a man strong enough to lift a castle. Since maturation involves becoming a better example of your kind, Creo magic can make something mature quickly. Aging after maturation involves becoming a worse example of your kind, and thus is covered by Perdo.
+A magus can also use Creo to make something a better example of its kind, even if it isn't actually injured or damaged. Thus, Creo can make a horse as swift as the fastest horse, or a man as strong as the strongest man. Creo cannot make a horse able to run as fast as the wind, because no ordinary horse can do that, nor can it make a man strong enough to lift a castle. Since maturation involves becoming a better example of your kind, Creo magic can make something mature quickly. Aging after maturation involves becoming a worse example of your kind, and thus is covered by Perdo.
 
 Creo magic can also create unnatural things, such as a winged cat, but a Muto requisite is necessary.
 
@@ -10234,25 +10221,23 @@ Magically created things last for the duration of the spell, but their effects l
 
 Pronounced 'CRAY-oh.'
 
-## Intellego (In) "I perceive"
+#### Intellego (In) "I perceive"
 
 Intellego is the Art of perception. It allows a maga to gather information directly from the forms of things. This information does not deal with the appearances of things, unless Intellego Imaginem magic is used. Rather, it provides information about the actual nature of a thing. Thus, Intellego magic is not deceived by mundane disguises.
 
 Pronounced 'in-TEL-le-go.'
 
-## Muto (Mu) "I transform"
+#### Muto (Mu) "I transform"
 
 By using Muto magic a magus can grant or remove properties something cannot naturally have. Thus, Muto can give a person wings or turn her skin green, or turn a person into a wolf. The difficulty of the magic depends on the extent of the change, so that turning someone's skin green is easy, but turning someone into a golden statue is difficult.
 
-It is possible to use Muto to give something an ability that it does not normally have. However, this can only change the target; it cannot give unnatural properties to other things. For example, a Muto Animal spell could give a feather the ability to cut stone. Feathers cannot naturally cut stone, but stone can naturally be cut. A Muto Animal spell could not give a feather the ability to
-
-turn stones into gold, because stones cannot naturally turn into gold. A Muto Terram spell could, of course, turn a stone into gold.
+It is possible to use Muto to give something an ability that it does not normally have. However, this can only change the target; it cannot give unnatural properties to other things. For example, a Muto Animal spell could give a feather the ability to cut stone. Feathers cannot naturally cut stone, but stone can naturally be cut. A Muto Animal spell could not give a feather the ability to turn stones into gold, because stones cannot naturally turn into gold. A Muto Terram spell could, of course, turn a stone into gold.
 
 Muto magic cannot affect the properties that something has naturally, although it can add other properties to them to mask their effects. Thus Muto magic can neither injure nor kill someone directly, although it could render her immobile, by turning her to stone, or kill her indirectly, by turning her into a fish on dry land so that she suffocates.
 
 Pronounced 'MOO-toe.'
 
-## Perdo (Pe) "I destroy"
+#### Perdo (Pe) "I destroy"
 
 Perdo makes things worse examples of the kind of thing they are. It is the opposite of Creo. Perdo magic can simply destroy things, removing them completely from existence, or it can destroy aspects of a thing. Thus, Perdo Corpus could remove a person's weight, while leaving the rest of his properties intact, and Perdo Ignem could make a fire unable to burn anything. Perdo alone can only destroy the whole of a natural property; making fire able to burn only wood would be Perdo with a Muto requisite (see page 311 for requisites), Perdo destroying the ability to burn anything, and Muto granting the ability to burn only wood, a property that fire cannot naturally have.
 
@@ -10262,69 +10247,66 @@ Perdo can only make something a worse example of what it is. You cannot sharpen 
 
 Pronounced 'PARE-doe.'
 
-## Rego (Re) "I control"
+#### Rego (Re) "I control"
 
-The Art of Rego allows a maga to change the state of a thing to some other state that the individual thing can naturally have. Thus, since all things can naturally have any location, Rego magic allows a maga to move things around. Rego can also make a tree blossom out of season, put a person to sleep, shape a piece of stone into a statue, or weave thread into a tunic. It cannot make an animal appear young
-
-again, because mature animals cannot naturally become young (although Muto could do this). Rego also cannot make an animal old, because aging is decay away from the form (so Perdo could do this). Similarly, although Rego can make a tree bear fruit out of season, that fruit would not contain seeds, as the seeds are separate substances (potential trees), and thus creating them would require Creo. Equally, Rego cannot turn a brown dog black, because while dogs can naturally be black, the brown dog in question cannot naturally take on that color.
+The Art of Rego allows a maga to change the state of a thing to some other state that the individual thing can naturally have. Thus, since all things can naturally have any location, Rego magic allows a maga to move things around. Rego can also make a tree blossom out of season, put a person to sleep, shape a piece of stone into a statue, or weave thread into a tunic. It cannot make an animal appear young again, because mature animals cannot naturally become young (although Muto could do this). Rego also cannot make an animal old, because aging is decay away from the form (so Perdo could do this). Similarly, although Rego can make a tree bear fruit out of season, that fruit would not contain seeds, as the seeds are separate substances (potential trees), and thus creating them would require Creo. Equally, Rego cannot turn a brown dog black, because while dogs can naturally be black, the brown dog in question cannot naturally take on that color.
 
 Mundane craftsmen can only change something's state to another state that the thing can naturally have. Thus, most changes that a mundane craftsman can make can also be made by Rego magic. In this case, a Finesse roll is required to determine the quality of the outcome. Rego can make changes that a mundane craftsman cannot make, however, when the craftsman is limited simply by available tools, time, or skill. On the other hand, mundane craftsmen can use their tools to simply damage or destroy things, and Rego magic cannot do that: it falls under Perdo. Rego magic could be used to control an axe to cut a tree down, but it could not be used to cut the tree down directly — that would be Perdo. Once the tree was cut down, however, Rego magic could shape the wood into planks. For more details, see Craft Magic on page 306.
 
 Pronounced 'RAY-go.'
 
-## Forms
+### Forms
 
-## Animal (An) "animal'
+#### Animal (An) "animal'
 
 Animal concerns animals of all kinds, from the fish of the sea to the birds of the air. Animal spells cannot affect people, and Hermetic theorists still debate the reason for this.
 
-Form Bonus: Soak against animal attacks (claws, bites, etc.), rolls to resist animal poisons.
+*Form Bonus:* Soak against animal attacks (claws, bites, etc.), rolls to resist animal poisons.
 
 Pronounced 'ah-nee-MAHL.'
 
-## Aquam (Aq) "water"
+#### Aquam (Aq) "water"
 
 Aquam concerns water and all manner of liquids, as well as properties of liquidity.
 
-Form Bonus: Rolls to resist drowning and thirst, soak against water jets and the like.
+*Form Bonus:* Rolls to resist drowning and thirst, soak against water jets and the like.
 
 Pronounced 'AH-kwahm.'
 
-## Auram (Au) "air"
+#### Auram (Au) "air"
 
 Auram is the Art of air, wind, and weather. It also governs gaseous forms in general.
 
-Form bonus: Rolls to resist suffocation, including drowning, soak against weather phenomena such as lightning.
+*Form bonus:* Rolls to resist suffocation, including drowning, soak against weather phenomena such as lightning.
 
 Pronounced 'OW-rahm.'
 
-## Corpus (Co) "body"
+#### Corpus (Co) "body"
 
 Corpus is the Art of human bodies. This Art affects dead bodies and the bodies of magical or faerie creatures that look human, as well as those of living humans. Since natural philosophy asserts that these things have no more in common than their appearance, and Corpus does not affect human statues, Hermetic theorists are puzzled by the range of this Form.
 
-Form bonus: Soak against human unarmed attacks, rolls to resist disease. It does not apply to aging rolls.
+*Form bonus:* Soak against human unarmed attacks, rolls to resist disease. It does not apply to aging rolls.
 
 Pronounced 'COR-poos.'
 
-## herbam (he) "plant"
+#### Herbam (he) "plant"
 
 This Form concerns plants and trees. This includes plant matter of all types, including that which is no longer alive — like dead wood and linens.
 
-Form bonus: Soak against wooden weapons, rolls to resist herbal poisons, rolls to resist starvation.
+*Form bonus:* Soak against wooden weapons, rolls to resist herbal poisons, rolls to resist starvation.
 
 Pronounced 'HARE-bahm.'
 
-## Ignem (Ig) "fire"
+#### Ignem (Ig) "fire"
 
 This Form concerns fire, heat, and light.
 
-Form bonus: Soak against fire and cold. Pronounced 'IG-nem.'
+*Form bonus:* Soak against fire and cold. Pronounced 'IG-nem.'
 
-## Imaginem (Im) "image"
+#### Imaginem (Im) "image"
 
 This Form concerns the things in the world that the senses respond to.
-Natural philosophy calls them species
-(SPEH-kee-ayss, to be distinguished from species of animals and such). All things constantly give off species for each of the senses. Those for touch and taste do not travel far, while those for sight require light to get any distance from the originating body. Imaginem spells normally affect the process by which species are produced, rather than the species themselves. Thus, the species emanating from an illusion are not themselves magical.
+Natural philosophy calls them species (SPEH-kee-ayss, to be distinguished from species of animals and such). All things constantly give off species for each of the senses. Those for touch and taste do not travel far, while those for sight require light to get any distance from the originating body. Imaginem spells normally affect the process by which species are produced, rather than the species themselves. Thus, the species emanating from an illusion are not themselves magical.
 
 Imaginem magic can also affect the species themselves, and if it does, those species are magical, and must Penetrate in order to pass through Magic Resistance and be perceived. This uses the same guidelines as spells affecting the process by which species are produced, and is discussed in more detail in the Jerbiton chapter of Houses of Hermes: Societates.
 
@@ -10332,35 +10314,35 @@ Note that Imaginem cannot create actual solidity, although it could make somethi
 
 Imaginem only changes the appearance that an object presents to the world. It does not change the actual effects of the object. Imaginem could make a fire feel cool, but the fire would still burn.
 
-Form bonus: Rolls to resist confusion, deafening, or nausea caused by sights, sounds, smells, or tastes.
+*Form bonus:* Rolls to resist confusion, deafening, or nausea caused by sights, sounds, smells, or tastes.
 
 Pronounced 'ih-MAH-gih-nem.'
 
-## Mentem (Me) "mind"
+#### Mentem (Me) "mind"
 
 This Form concerns minds, thoughts, and spirits. Mentem can also affect the "bodies" of noncorporeal beings, such as ghosts, as these are maintained in the physical world directly by a spirit's will.
 
-Form bonus: Rolls to resist mundane persuasion, deception, or temptation.
+*Form bonus:* Rolls to resist mundane persuasion, deception, or temptation.
 
 Pronounced 'MEN-tem.'
 
-## Terram (Te) "earth"
+#### Terram (Te) "earth"
 
 This Form concerns solids, especially earth and stone.
 
-Form bonus: Soak against metal or stone weapons, rolls to resist mineral poisons.
+*Form bonus:* Soak against metal or stone weapons, rolls to resist mineral poisons.
 
 Pronounced 'TARE-rahm.'
 
-## Vim (Vi) "power"
+#### Vim (Vi) "power"
 
 This Form concerns raw magical power. All the Arts rely on the raw energy and potential of magic, but this Art refines the use of magic itself, allowing magi to assume even greater control of their spells. Vim also affects magical, infernal, divine, and faerie creatures.
 
-Form bonus: Rolls to resist Twilight (see page 228), but not rolls to comprehend it; soak total against damage inflicted by your own spell-casting, but not damage inflicted by your own spells.
+*Form bonus:* Rolls to resist Twilight (see page 228), but not rolls to comprehend it; soak total against damage inflicted by your own spell-casting, but not damage inflicted by your own spells.
 
 Pronounced 'WEEM.'
 
-## The Elemental Forms
+#### The Elemental Forms
 
 Aquam, Auram, Ignem, and Terram are the elemental forms, dealing with the non-living things in the world. Often, a thing falls under more than one of these Arts. Thus, molten lava is basically Terram, because it is a form of rock, but its liquidity is governed by Aquam and its heat by Ignem. Similarly, ice is basically Aquam, being a form of water, but its solidity is covered by Terram and its coldness by Ignem. As a rule, simple creation or destruction of a non-living thing needs only the basic Art, without requisites (see page 311). Thus, to create ice you need only Creo Aquam. However, affecting the aspects and properties of a thing might use the other Arts. Thus, making ice warm would require Creo Ignem. A Creo Aquam spell with an Ignem requisite could create warm ice — still solid, but warm. Alternatively, a magus could simply create warmth, and allow it to naturally melt the ice.
 
@@ -10368,97 +10350,91 @@ Mist is a kind of air, so its basic form is Auram, but its dampness means that i
 
 ## Limits of Magic
 
-agic, though a very powerful force, is not omnipotent. There are certain laws it must conform to and
-
-certain limits that it can never exceed. The limits to Hermetic magic are described below. Most Hermetic theorists believe that there are only two fundamental limits, the Limit of the Divine and the Limit of Essential Nature, and that the other limits are derived from one or other of these. Some theorists think that the lesser limits are merely flaws in Bonisagus's theory.
+Magic, though a very powerful force, is not omnipotent. There are certain laws it must conform to and certain limits that it can never exceed. The limits to Hermetic magic are described below. Most Hermetic theorists believe that there are only two fundamental limits, the Limit of the Divine and the Limit of Essential Nature, and that the other limits are derived from one or other of these. Some theorists think that the lesser limits are merely flaws in Bonisagus's theory.
 
 The boundaries of Hermetic magic are well known to the Order, but that doesn't stop magi from challenging them. Indeed, many magi spend countless years searching in vain for a way to transcend these limits. Certainly, any magus who actually succeeds in doing so will become famous, perhaps as famous as the Order's very Founders.
 
-## The Limit of the Divine
+### The Limit of the Divine
 
 Hermetic magic cannot affect the Divine. Any magic attempting to do so simply fails. Everyone agrees that Hermetic powerlessness in the face of miracles is a result of this limit, as is the inability of Hermetic magic to affect the transubstantiated bread and wine of the Mass.
 
 The agents of the Divine, such as saints and angels, are protected from magic to some extent, but are not normally completely immune. As a general rule, it seems that any being with a will separate from God's can be affected by magic, at least in principle. Only direct action by God is completely immune.
 
-# The Limit of Essential Nature
+### The Limit of Essential Nature
 
 Any magic which violates a thing's essential nature must be maintained, and when power is no longer supplied the thing returns to its natural state. Thus, Muto magic must always be maintained, while the effects of Rego magic persist after the spell expires. A thing's essential nature cannot itself be changed. While Hermetic magic can completely change the way a thing appears, it cannot affect what that thing is.
 
-A thing's essential nature varies depending on what it is. All human beings are essentially human,
+A thing's essential nature varies depending on what it is. All human beings are essentially human, mortal creatures with reason, senses, and the ability to move and reproduce. The basic shape of the human body is also part of the essential nature, although bits can be cut off. The game works on the assumption that every feature of someone's physical appearance is either an injury (which can be fixed with Creo magic), or part of their essential nature. This is necessary to avoid the ability to permanently change appearance with a single Momentary Duration Rego spell. A single characteristic may be an injury for one person, and part of the essential nature of another. For example, some people are essentially blind, whereas others are blind merely as a result of chance. As a rule, any disability purchased as a Flaw at character creation is part of the character's essential nature, while disabilities acquired later are not.
 
-mortal creatures with reason, senses, and the ability to move and reproduce. The basic shape of the human body is also part of the essential nature, although bits can be cut off. The game works on the assumption that every feature of someone's physical appearance is either an injury (which can be fixed with Creo magic), or part of their essential nature. This is necessary to avoid the ability to permanently change appearance with a single Momentary Duration Rego spell. A single characteristic may be an injury for one person, and part of the essential nature of another. For example, some people are essentially blind, whereas others are blind merely as a result of chance. As a rule, any disability purchased as a Flaw at character creation is part of the character's essential nature, while disabilities acquired later are not.
-
-## The Lesser Limits
+### The Lesser Limits
 
 The Lesser Limits are as follows.
 
-## The Limit of Aging
+#### The Limit of Aging
 
 Hermetic magic cannot halt or reverse natural aging, although it can slow it down and mitigate its effects. This means that Hermetic magic cannot remove Decrepitude. Most magi think this derives from the Limit of Essential Nature.
 
-## The Limit of Arcane Connections
+#### The Limit of Arcane Connections
 
 Hermetic magic cannot affect an unsensed target without an Arcane Connection. This is widely believed to be a flaw in Hermetic theory, as Intellego magic is much less tightly bound by this limit than other kinds. Intellego can determine whether, for example, there are any people behind a wall the magus can see, but Perdo Corpus magic cannot affect those people until the magus is aware of them.
 
-## The Limit of Creation
+#### The Limit of Creation
 
 Hermetic magic is incapable of creating anything permanently without raw vis. This limit affects all uses of Creo magic. However, as pure Creo magic does not violate the essential nature of its target, Creo magic that does use raw vis does not need to be maintained. If a Creo effect has a Muto requisite, to create something unnatural, the effect cannot be made permanent by using raw vis. This applies to the whole creation, not just the unnatural aspects. Theorists are divided on whether this derives from the Limit of the Divine or the Limit of Essential Nature. A few think it is a flaw in Bonisagus's theory.
 
-## The Limit of Energy
+#### The Limit of Energy
 
 Hermetic magic cannot restore one's physical energy (Fatigue levels), nor can it restore Confidence (see page 29). Most magi think that this is a flaw in Hermetic theory.
 
-## The Limit of Experience
+#### The Limit of Experience
 
 Hermetic magic cannot create skills or knowledge in a person by manipulating their mind, nor can it transfer such things (Abilities, in game terms) from one person to another. This is widely believed to be a flaw in Hermetic theory, although a few magi have suggested that it is a flaw in their understanding of Abilities. Hermetic magic can create much simpler things of the same general type as Abilities, which would support the latter interpretation. (This is discussed in more detail in *Houses of Hermes: Societates*, pages 68–69.)
 
-## The Limit of the Infernal
+#### The Limit of the Infernal
 
 Intellego magic is almost completely useless against the Infernal, because it reveals only what the demons want you believe, whether that is true or not.
 
 The source of this limit is fiercely debated. Optimists think it is a limit in Hermetic theory. Pessimists think it is derived from the Limit of the Divine. Moderates think it is derived from the Limit of Essential Nature, in that deception is the nature of demons, so that if you use Intellego on them you only detect their deceptions. Heretical magi point out that, thanks to this limit, there is no way to tell the difference between God and a very powerful demon.
 
-## The Limit of the Lunar Sphere
+#### The Limit of the Lunar Sphere
 
 Hermetic magic cannot affect the lunar sphere, nor anything above it. Most magi think this derives from the Limit of the Divine. The lunar sphere is the innermost of the celestial spheres, which carry the stars and planets on their revolutions around the earth, and so this limit rarely bothers magi directly.
 
-## The Limit of the Soul
+#### The Limit of the Soul
 
 Hermetic magic cannot create an immortal soul, and so may not create true human life nor restore the dead to life. Most magi think this derives from the Limit of the Divine, although a significant number think that Hermetic magic's inability to raise the dead reflects nothing more than a flaw in the theory.
 
 Animals have no immortal souls, and so may be created. Magical creatures and faeries are generally believed not to have immortal souls, and there are spells that appear to create them, but some magi believe that such spells really summon existing beings. Angels and demons are nothing but immortal souls.
 
-## The Limit of Time
+#### The Limit of Time
 
 Hermetic magic is incapable of altering the passage of time. It cannot affect anything in the past, and can only affect the future by making changes in the present. This limit also means that Hermetic magic cannot scry on the past or future. Most magi think this derives from the Limit of the Divine.
 
-## The Limit of True Feeling
+#### The Limit of True Feeling
 
 A few humans have a love, friendship, or faith that Hermetic magic cannot affect in any way. (In game terms, this is indicated by a Virtue or Flaw.) Magi agree that this must derive from one of the two fundamental Limits, because most emotions can be affected by magic, but they disagree as to which one.
 
-## The Limit of Vis
+#### The Limit of Vis
 
 Hermetic magic cannot change the Art to which raw vis is attuned. Most magi think that this is a result of the Limit of Essential Nature.
 
-## The Limit of Warping
+#### The Limit of Warping
 
-Prolonged exposure to active magic or high auras usually causes changes, generally referred to as warping. Hermetic magic is completely unable to affect these changes once they have happened.
-
-# The Limit of Magic Resistance
-
-Non-Hermetic magic is incapable of granting general Magic Resistance, as far as Hermetic magi know. (The same is true of Faerie powers, but not the Divine or Infernal.) This is obviously not a fundamental limit of magic, as Hermetic magic does grant Magic Resistance, through the Parma Magica and Form scores, and many magi take this as evidence that Hermetic magic is simply superior to all other traditions.
-
-More knowledgeable magi are aware that some non-Hermetic traditions break some of the Lesser Limits of Hermetic magic. The optimistic among them take this as evidence that Hermetic magic could also break those limits. See Ancient Magic, Rival Magic, and Hedge Magic Revised Edition for examples of such traditions.
+Prolonged exposure to active magic or high auras usually causes changes, generally referred to as warping. Hermetic magic is completely unable to affect these changes once they have happened. 
 
 Wizard's Twilight (see page 228) is one manifestation of warping.
 
 Most magi would like to believe that this derives from the Limit of the Divine, as that would make magic a manifestation of Divine power. Others believe that it is derived from the Limit of Essential Nature.
 
+> #### The Limit of Magic Resistance
+>
+> Non-Hermetic magic is incapable of granting general Magic Resistance, as far as Hermetic magi know. (The same is true of Faerie powers, but not the Divine or Infernal.) This is obviously not a fundamental limit of magic, as Hermetic magic does grant Magic Resistance, through the Parma Magica and Form scores, and many magi take this as evidence that Hermetic magic is simply superior to all other traditions.
+>
+> More knowledgeable magi are aware that some non-Hermetic traditions break some of the Lesser Limits of Hermetic magic. The optimistic among them take this as evidence that Hermetic magic could also break those limits. See Ancient Magic, Rival Magic, and Hedge Magic Revised Edition for examples of such traditions.
+
 ## Raw Vis
 
-aw magic power, known as vis (pronounced 'WEES'), is sometimes found stored in and partially constituting some physical substance. This can
-
-occur either because a magus has trapped it there or because it was deposited there by natural magical processes. Vis trapped in some substance is called raw vis, and magi have many uses for it.
+Raw magic power, known as vis (pronounced 'WEES'), is sometimes found stored in and partially constituting some physical substance. This can occur either because a magus has trapped it there or because it was deposited there by natural magical processes. Vis trapped in some substance is called raw vis, and magi have many uses for it.
 
 Raw vis is always associated with a particular Technique or Form. Thus, there is Ignem vis, Creo vis, Imaginem vis— even Vim vis. Raw vis invariably exists in some kind of matter appropriate to the Technique or Form to which it corresponds. Animal vis might be found in blood, skins, or horns; Herbam vis in plant fiber or sap; Terram vis in crystals, and so on. When raw vis is used its power is permanently lost. When this happens its substance often changes — dissolving, withering, crumbling, shriveling, or otherwise degrading — in whatever way is appropriate to it. This normally does not happen if the vis has been magically transferred to another receptacle (see page 250), and never happens to such artificial receptacles.
 
@@ -10470,45 +10446,39 @@ Magi often wear sources of vis in necklaces or rings so that other wizards or ma
 
 Spellcasting is based on the maga's *Casting Score*:
 
-CASTING SCORE:
-
-Technique + Form + Stamina - Encumbrance + Aura Modifier
+**CASTING SCORE: Technique + Form + Stamina - Encumbrance + Aura Modifier**
 
 When casting a spell, success is determined from the maga's *Casting Total*. This is calculated in different ways, depending on the type of spell.
 
 If the generation of the casting total involves rolling a stress die, a botch is normally possible. If the casting roll botches, the casting total is treated as zero, in addition to any other effects.
 
-## Spell Basics
+### Spell Basics
 
 All Hermetic spells have a Technique, Form, and Level. The Technique and Form are determined by the kind of effect that the spell has, while the Level is determined by how powerful that effect is. Spells also have a magnitude, which is equal to the level divided by five, rounded up. These terms are discussed in more detail in the remainder of this chapter and in the introduction to the Spells chapter, page 301.
 
-## Formulaic Magic
+### Formulaic Magic
 
 Formulaic magic is the use of spells that the maga already knows. The casting total is the casting score plus a die roll.
 
-FORMULAIC CASTING TOTAL: Casting Score + Die Roll
+**FORMULAIC CASTING TOTAL: Casting Score + Die Roll**
 
 The type of die rolled depends on the situation. If the maga is not under any pressure, it is a simple die. If she is in a stressful situation, it is a stress die. If the maga has mastered the spell, the die is always a stress die, but in a calm situation there are no botch dice, even if the maga is in a non-Magic aura (see below, page 225).
 
 If the casting total equals or exceeds the level of the spell, the spell is cast and the maga suffers no illeffects. If the casting total falls short of the spell level by ten or less, the spell takes effect and the maga loses a Fatigue level. If the casting total falls short of the spell level by more than ten the spell fails to take effect, but the maga still loses a Fatigue level.
 
-
-| Casting Total  — Spell Level | SPELL CAST? | Fatigue Levels Lost |
-| ------------------------------- | ------------- | --------------------- |
-| 0 or higher                   | Yes         | 0                   |
+| Casting Total — Spell Level | Spell Cast? | Fatigue Levels Lost |
+| --------------------------- | ----------- | ------------------- |
+| 0 or higher                 | Yes         | 0                   |
 | −1 to −10                   | Yes         | 1                   |
-| –11 or lower                 | No          | 1                   |
+| –11 or lower                | No          | 1                   |
 
 It takes only a few seconds to cast a Formulaic spell.
 
-## Ritual Magic
+### Ritual Magic
 
 Ritual spells are like Formulaic spells, but they take longer to cast, and involve both elaborate rituals and the expenditure of raw vis. It takes fifteen minutes per magnitude to cast a Ritual spell, and the maga must expend one pawn of vis per magnitude of the spell.
 
-RITUAL CASTING TOTAL:
-Casting Score + Artes Liberales
-
-+ Philosophiae + Stress Die
+**RITUAL CASTING TOTAL: Casting Score + Artes Liberales + Philosophiae + Stress Die**
 
 The more elaborate process of casting a Ritual spell allows the maga to incorporate astrological calculations and to draw on the powers of natural magic. This is reflected in the addition of the maga's Artes Liberales and Philosophiae scores to the casting total. However, a maga with no experience points in either Ability may still cast Ritual Magic.
 
@@ -10519,21 +10489,21 @@ The magnitude of Ritual spells, and the need to incorporate many elements, means
 See the table to determine whether the spell succeeds or not, and how many Fatigue levels are lost. Fatigue levels lost to Ritual Magic are longterm Fatigue levels, which can only be regained by a good night's sleep (see page 404). If the maga does not have enough Fatigue levels remaining, she takes wounds as well. If she would have taken one more Fatigue level, the wound is minor, if two more, medium, if three more, heavy, and if four more, incapacitating. For example, consider a maga with two remaining Fatigue levels who is casting a level 30 Ritual spell. She generates a casting total of 22, 8 less than the spell level. The spell is cast, but the maga loses her remaining two Fatigue levels, falling unconscious, and then takes a Light wound.
 
 
-| CASTING TOTAL-<br>SPELL LEVEL | SPELL CAST? | Fatigue Levels<br>Lost |
-| ------------------------------- | ------------- | ------------------------ |
-| 0 or higher                   | Yes         | One                    |
-| −1 to −5                    | Yes         | Two                    |
-| −6 to −10                   | Yes         | Three                  |
-| −11 to −15                  | No          | Four                   |
-| –16 or more                  | No          | Five                   |
+| Casting Total — Spell Level | Spell Cast? | Fatigue Levels Lost |
+| --------------------------- | ----------- | ------------------- |
+| 0 or higher                 | Yes         | One                 |
+| −1 to −5                    | Yes         | Two                 |
+| −6 to −10                   | Yes         | Three               |
+| −11 to −15                  | No          | Four                |
+| –16 or more                 | No          | Five                |
 
-## Spontaneous Magic
+### Spontaneous Magic
 
 Spontaneous magic involves the production of effects which do not correspond to a spell the magus knows. Magi may choose whether or not to exert themselves when casting Spontaneous magic, but this affects the casting total. If a maga exerts herself, she loses a Fatigue level immediately after the spell is cast, so that if this loss renders her unconscious the spell takes effect first. Casting fatiguing Spontaneous magic is inherently stressful, and so it always uses a stress die, with the risk of a botch, no matter how calm the environment and the maga may otherwise be.
 
-Fatiguing Spontaneous Magic Casting Total: (Casting Score + Stress Die)/2
+**Fatiguing Spontaneous Magic Casting Total: (Casting Score + Stress Die)/2**
 
-Non-Fatiguing Spontaneous Magic Casting Total: Casting Score/5
+**Non-Fatiguing Spontaneous Magic Casting Total: Casting Score/5**
 
 Before casting the spell, the maga must decide on the effect she is trying to create. If her final total is too low for that effect, the spell fails. The chosen effect may be open ended. For example, the maga may want to create the brightest light she can. In this case, the spell will fail if the final level cannot produce any light, but otherwise greater totals will produce brighter light.
 
@@ -10541,13 +10511,13 @@ If the maga rolls well, she may choose to increase any or all of the Range, Dura
 
 Modifiers from circumstances that affect the casting score are divided just like the basic casting score. Modifiers that affect the casting total are not divided.
 
-## Penetration Total
+### Penetration Total
 
 The maga's casting total measures the total amount of power that she can channel to the spell. The spell's level determines how much power is needed to create the intended effect. Any excess power is used to overcome, or Penetrate, magical defenses. It is possible for the casting total to be lower than the spell level, in which case the maga has no spare energy for penetrating defenses, and even the weakest defense stops the spell.
 
 The Penetration Total measures how effectively the spell can overcome the Magic Resistance of its targets. It is calculated in the same way for all spells.
 
-## PENETRATION TOTAL: Casting Total + Penetration Bonus - Spell Level
+**PENETRATION TOTAL: Casting Total + Penetration Bonus - Spell Level**
 
 The Penetration Bonus is at least equal to the magus's score in the Penetration Ability, but may be increased in various ways, see the Penetration section on page 219, below. This may mean that a spell has different Penetration Totals for different targets.
 
@@ -10557,17 +10527,17 @@ If the Penetration Total exceeds a target's Magic Resistance, the spell affects 
 
 The rules for calculating Penetration for the powers of supernatural creatures are given in the Bestiary chapter (page 426). The rules for the Penetration of other supernatural abilities are given on page 412, or in the supplement with the rules for the ability; in most cases, the Penetration is the total generated for the ability plus Penetration Bonus, minus the Ease Factor for the effect.
 
-## Concentration
+### Concentration
 
 A maga must concentrate in order to cast a spell. If she is distracted, she must make a concentration roll.
 
-#### Concentration Roll: Stamina + Concentration + Stress Die
+**Concentration Roll: Stamina + Concentration + Stress Die**
 
 If the concentration roll fails, the spell fails. If the spell casting roll involved a stress die, you must still roll to see whether the maga botches, and you get one extra botch die. The Ease Factor for the concentration roll depends on the distraction.
 
 
 | Situation                         | Ease Factor    |
-| ----------------------------------- | ---------------- |
+| --------------------------------- | -------------- |
 | Still Still                       | Trivial (0)    |
 | Walking                           | Simple (3)     |
 | Running                           | Average (9)    |
@@ -10582,13 +10552,13 @@ Some spells are also maintained for as long as the maga concentrates. In that ca
 There are some things it is possible to do while maintaining a spell, but impossible to do while casting. These still distract magi who are concentrating on maintaining a spell, and so concentration rolls are necessary, but the Ease Factors on the following table are already correct, and should not be reduced by three points.
 
 
-| SITUATION                               | Ease Factor                                                                                   |   |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------- | --- |
-| Answering a single easy yes/no question | Hard (12)                                                                                     |   |
-| Conversation                            | Very Hard (15)                                                                                |   |
-| Casting another spell                   | Very Hard (15)                                                                                |   |
-| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |   |
-| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |   |
+| Situation                               | Ease Factor                                                                                   |
+| --------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Answering a single easy yes/no question | Hard (12)                                                                                     |
+| Conversation                            | Very Hard (15)                                                                                |
+| Casting another spell                   | Very Hard (15)                                                                                |
+| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |
+| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |
 
 For a continuing situation, such as injury or maintaining another spell, you must make a concentration roll every two minutes (Diameter duration). If you are undistracted, you can maintain concentration for fifteen minutes for every point you have in the Concentration Ability.
 
@@ -10598,55 +10568,54 @@ Note, if a spell is designed to let the magus do something, doing that thing doe
 
 This section offers options for spellcasting, to use at your discretion.
 
-## All Spells
+### All Spells
 
 The following option can be used with all spells.
 
-## Using Raw Vis
+#### Using Raw Vis
 
 It is possible to use raw vis to boost the power of a maga's spells. The vis must match either the Technique or the Form of spell, and a maga may only use a number of pawns of a given type of vis equal to her score in that Art.
 
-> LIMIT ON VIS USE IN SPELL CASTING: The Maga's Score in the Art of the Vis
+**LIMIT ON VIS USE IN SPELL CASTING: The Maga's Score in the Art of the Vis**
 
 For all spells, a maga may expend vis to increase her casting score. Each pawn of vis expended increases the Casting Score by two.
 
+**VIS BOOST TO CASTING SCORE: +2 Casting Score Per Pawn**
+
 Vis must be used when casting Ritual spells, as noted above. Vis used in this way does not increase the Casting Score, but it does count against the limits of what can be used.
 
-of each type of vis is limited separately. Thus, a magus with a score of 5 in the
-
-VIS BOOST TO CASTING SCORE: +2 Casting Score Per Pawn
-
-Technique and 3 in the Form could use up to 8 pawns of vis, no more than 5 corresponding to the Technique and no more than 3 corresponding to the Form.
+It is possible to use vis matching both the Technique and the Form in one casting of a spell, and the amount of each type of vis is limited separately. Thus, a magus with a score of 5 in the of each type of vis is limited separately. Thus, a magus with a score of 5 in the Technique and 3 in the Form could use up to 8 pawns of vis, no more than 5 corresponding to the Technique and no more than 3 corresponding to the Form.
 
 For every pawn of vis used, the maga must roll an extra botch die if the casting roll is stress and comes up a zero. This includes the pawns used to make a Ritual spell possible. Remember that, if the maga can cast a Formulaic spell under calm conditions, she can use a simple die and thus avoid the possibility of botching.
 
-> VIS BOTCH DICE: +1 botch die per pawn of vis used
+**VIS BOTCH DICE: +1 botch die per pawn of vis used**
 
-## Non-Ritual Spells
+### Non-Ritual Spells
 
 The following option can be used when casting Formulaic or most Spontaneous spells, but not for Ritual Magic, or Spontaneous spells cast ceremonially (see later).
 
-## Cords and Gestures
+#### Words and Gestures
+
+Spells are normally cast with a firm voice and bold gestures. However, the caster may choose to be more or less subtle. Increased subtlety gives a penalty to the casting score, while reduced discretion gives a bonus. If the maga changes the volume of her voice, she also changes the range of Voice range spells.
 
 The total modifier is determined by adding the Words and Gestures modifiers together. Thus,
 
-
-| Words | Modifier | Gestures    | Modifier   | VOICE<br>RANGE              |
-| ------- | ---------- | ------------- | ------------ | ----------------------------- |
-| Loud  | + 1      | Exaggerated | +1         | 50<br>paces                 |
-| Firm  | 0        | Bold        | 0          | 15<br>paces                 |
-| Quiet | -5       | Subtle      | -2         | 5 paces                     |
-| None  | -10      | None        | <b>-</b> 5 | 0 paces<br>(caster<br>only) |
+| Words | Modifier | Gestures    | Modifier | Voice Range                 |
+| ----- | -------- | ----------- | -------- | --------------------------- |
+| Loud  | + 1      | Exaggerated | +1       | 50 paces                    |
+| Firm  | 0        | Bold        | 0        | 15 paces                    |
+| Quiet | -5       | Subtle      | -2       | 5 paces                     |
+| None  | -10      | None        | -5       | 0 paces (caster only)       |
 
 using exaggerated gestures but making no noise gives a total penalty of –9 to the casting score.
 
 The process of casting a Ritual or ceremonial spell uses all of these options at different points, as determined by the ritual. Thus, unless the caster can speak in a loud voice and make exaggerated gestures, they cannot cast a Ritual spell.
 
-## Spontaneous Spells
+### Spontaneous Spells
 
 The following options can only be used when a maga is using Spontaneous magic, but can be used equally for fatiguing and non-fatiguing Spontaneous spells.
 
-## Fast Casting
+#### Fast Casting
 
 A maga may choose to cast a Spontaneous spell extremely quickly, as a response to an attack or other surprising event. A fast-cast spell is always cast in the way that a maga casts urgent spells normally. In most cases, that means using a firm voice and bold gestures. However, for example, a maga with the Subtle Magic Virtue who almost never uses gestures to cast spells would also cast fast-cast spells without gestures. It is not possible to apply options that affect the spell itself, rather than the way it is cast, as there is not enough time for the maga to think about anything other than the core features of the spell. For example, a fast-cast spell cannot be boosted with raw vis.
 
@@ -10654,40 +10623,35 @@ There are two stages: determining the speed of casting, and determining the effe
 
 The speed of casting is determined as follows:
 
-#### Fast Casting Speed: Quickness + Finesse + Stress Die
+**Fast Casting Speed: Quickness + Finesse + Stress Die**
 
-The Ease Factor for this roll depends on the situation. In combat, the Ease Factor is always the opponent's Initiative Total. Other Ease Factors should be set by the storyguide. Note that, even
-
-in combat, the fast casting speed is not an Initiative Total. A maga may be able to cast more than one fast-cast spell in one combat round. However, each spell after the first takes a cumulative -6 penalty to the Fast Casting Speed: -6 for the second spell, -12 for the third, and so on. Once one of these rolls has been failed, that is the roll does not equal or exceed the Ease Factor for that roll, which may be the Initiative Total of another combatant, the maga can cast no further spells in that combat round.
+The Ease Factor for this roll depends on the situation. In combat, the Ease Factor is always the opponent's Initiative Total. Other Ease Factors should be set by the storyguide. Note that, even in combat, the fast casting speed is not an Initiative Total. A maga may be able to cast more than one fast-cast spell in one combat round. However, each spell after the first takes a cumulative -6 penalty to the Fast Casting Speed: -6 for the second spell, -12 for the third, and so on. Once one of these rolls has been failed, that is the roll does not equal or exceed the Ease Factor for that roll, which may be the Initiative Total of another combatant, the maga can cast no further spells in that combat round.
 
 If the roll for a fast-cast spell fails, the maga may still cast that spell. It will be too late to have its intended effect, and the maga may choose to abort the spell without any risk.
 
 A maga casting a fast-cast spell must subtract ten from the Casting Score before calculating the Casting Total. In addition, if the player rolls a zero, there are two additional botch dice.
 
-Fast Cast Penalty: -10 to Casting Score Fast Cast Botch Dice: +2 botch dice
+**Fast Cast Penalty: -10 to Casting Score**
+
+**Fast Cast Botch Dice: +2 botch dice**
 
 In order to create a fast-cast defense against magic, a maga must know the Hermetic Form that governs that magic. If the caster is a Hermetic magus and is using words and gestures that she can hear and see, she may determine this automatically. A Perception + Awareness roll may be needed to catch the details of the gestures, particularly if they are subtle.
 
 In other circumstances, the maga must work the Form out. A Perception + Awareness roll against an Ease Factor of 15 minus the magnitude of the effect is needed.
 
-Determining Form of Magical Effect:
-Perception + Awareness vs.
-
-15 – effect magnitude
+**Determining Form of Magical Effect: Perception + Awareness vs. 15 – effect magnitude**
 
 In general, a fast-cast defense with half the level of the attacking spell is enough to protect the maga herself or one other individual. The spell still takes effect, and the side effects of deflecting the spell may have to be dealt with. A fast-cast defense that matches or exceeds the level of the attacking spell can completely neutralize it, probably in a fairly spectacular fashion.
 
 Fast-cast defenses against mundane threats work if the level of the spell is high enough to neutralize the threat.
 
-## Ceremonial Casting
+#### Ceremonial Casting
 
-A maga may spend fifteen minutes for every magnitude of the spell performing rituals to invoke the powers of natural magic. As a result, she may add her scores in Artes Liberales and Philosophiae to her Casting Score. A maga may use ceremonial casting even if she has no
-
-experience points in one of the two Abilities, but not if she has no experience points in either.
+A maga may spend fifteen minutes for every magnitude of the spell performing rituals to invoke the powers of natural magic. As a result, she may add her scores in Artes Liberales and Philosophiae to her Casting Score. A maga may use ceremonial casting even if she has no experience points in one of the two Abilities, but not if she has no experience points in either.
 
 No matter how good the roll, the level of the spell is limited by the time the maga spent in casting it, to one magnitude per fifteen minutes. However, the casting total may be very high, so the spell may have good Penetration. Thus, if the maga spends one hour preparing, the final spell cannot be higher than fourth magnitude, which means its level cannot be higher than 20. However, if she gets lucky and rolls a 64 on the stress die, the spell will have a Penetration of 12 (32, which is half of 64, minus the maximum spell level of 20) plus half her Technique + Form + Artes Liberales + Philosophiae + Stamina total.
 
-# CEREMONIAL CASTING BONUS: Add Artes Liberales and Philosophiae to Casting Score
+**CEREMONIAL CASTING BONUS: Add Artes Liberales and Philosophiae to Casting Score**
 
 Characters may also increase the effectiveness of ceremonial casting by using props, and by using a prepared spellcasting space.
 
@@ -10699,9 +10663,7 @@ The use of props provides a bonus based on the mystical significance of the item
 - +4 for large props, such that fifteen could only be transported by a wagon
 - +5 for props so large that it is impractical to move them from the room in which they are constructed.
 
-As an example, Carmine of Flambeau, the wife of the Primus of Jerbiton, prefers Creo Ignem effects. She wears a ruby necklace and a coral brooch, and uses these as a small ceremonial kit
-
-when casting small effects in cities. Her husband prefers Rego Imaginem magic. He has a medium-sized ceremonial kit, two items of which are a wand made of the crown of a fairy king that he defeated (Imaginem), and his cat familiar (Rego, for this particular cat).
+As an example, Carmine of Flambeau, the wife of the Primus of Jerbiton, prefers Creo Ignem effects. She wears a ruby necklace and a coral brooch, and uses these as a small ceremonial kit when casting small effects in cities. Her husband prefers Rego Imaginem magic. He has a medium-sized ceremonial kit, two items of which are a wand made of the crown of a fairy king that he defeated (Imaginem), and his cat familiar (Rego, for this particular cat).
 
 Prepared space reduces the time required to cast spells ceremonially.
 
@@ -10715,37 +10677,32 @@ Casting time when using ceremonial spaces, in minutes per magnitude:
 
 ## Arcane Connections
 
-rcane Connections allow a maga to cast a spell on something she is not currently sensing, as long as she is currently aware of the Arcane Connection. Mystically,
-
-the Arcane Connection is still a part of the target, thus making the spell possible. However, the spell must have a range of Arcane Connection, which makes casting spells like this harder than casting them on a target that is actually present.
+Arcane Connections allow a maga to cast a spell on something she is not currently sensing, as long as she is currently aware of the Arcane Connection. Mystically, the Arcane Connection is still a part of the target, thus making the spell possible. However, the spell must have a range of Arcane Connection, which makes casting spells like this harder than casting them on a target that is actually present.
 
 One thing— the connection — is an Arcane Connection to something else — the target, if the connection was very closely associated with the target, often by being a part of it. Once the connection is removed from the target, the connection starts to fade. The length of time that the connection lasts depends on the nature of the connection.
 
 Arcane Connections must be stored carefully, or else they become links to different people or places.
 
-
-| Duration         | Example Connections                                                                                                                                                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hours            | Air from a specific place, shed skin from a human being, water from a moving body of water.                                                                                                                                                        |
-| Days             | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement.                                                                                                                     |
+| Duration         | Example Connections |
+| ---------------- | ------------------- |
+| Hours            | Air from a specific place, shed skin from a human being, water from a moving body of water. |
+| Days             | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement. |
 | Weeks            | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |
-| Months           | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile.                                                                                                                    |
-| Years<br>Decades | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile.  Body part.                                                                                              |
-| Indefinite       | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, page 250).                                        |
+| Months           | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile. |
+| Years            | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile. |
+| Decades          | Body part. |
+| Indefinite       | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, page 250). |
 
 ## Penetration
 
-enetration is the ability of a spell or other magical ability to affect something that has Magic Resistance. If something has no Magic Resistance,
-
-Penetration is irrelevant. A single spell may have several targets, for example all the members of a Group. In that case, any targets without Magic Resistance are affected no matter what the Penetration of the spell, but any targets with Magic Resistance are only affected if the spell Penetrates that target's Magic Resistance.
+Penetration is the ability of a spell or other magical ability to affect something that has Magic Resistance. If something has no Magic Resistance, Penetration is irrelevant. A single spell may have several targets, for example all the members of a Group. In that case, any targets without Magic Resistance are affected no matter what the Penetration of the spell, but any targets with Magic Resistance are only affected if the spell Penetrates that target's Magic Resistance.
 
 Any character with the Penetration Ability can use sympathetic magic to increase the Penetration of her magic. The Penetration Bonus starts at one times the character's Penetration Ability, and the multiplier can be increased. This requires that the character have an Arcane Connection to the target of the magic.
 
-
 | Arcane Connection        | Bonus to Multiplier |
-| -------------------------- | --------------------- |
+| ------------------------ | ------------------- |
 | Lasts hours or days      | +1                  |
-| Lasts weeks or<br>months | +2                  |
+| Lasts weeks or months    | +2                  |
 | Lasts years or decades   | +3                  |
 | Lasts indefinitely       | +4                  |
 
@@ -10753,24 +10710,23 @@ The same Arcane Connection can be used to both allow the use of Arcane Connectio
 
 Once a character has an Arcane Connection she can use other sympathetic magic to increase the multiplier further. Any number of sympathetic connections may be used, and their bonuses stack. The following table provides some examples, but is not exhaustive. Each troupe should specify the kinds of sympathetic connection it allows, but no single connection should give a bonus of greater than +2.
 
-## Forceless Casting
+### Forceless Casting
 
 A maga can deliberately ensure the Penetration Total of a spell does not exceed 0. In essence, the maga casts the spell with no more effort than is required to avoid Fatigue and opts not to use her Penetration skill. As most magi have at least a Magic Resistance of 0, she can ensure her spell will not affect them, provided she does not botch. It is not possible for a maga to choose a Penetration Total other than 0, although mystery cults may know secret techniques that permit this, and original research might also reveal a method.
-
+ 
 Forceless casting requires no particular skill or effort. It is useful in magical tournaments, or when a maga casts a spell covering a large area and wants to avoid inadvertently affecting any magi who may be within the target area.
 
-## Sympathetic Connections
+### Sympathetic Connections
 
-
-| Sympathetic Connection                   | Bonus to<br>Multiplier |
-| ------------------------------------------ | ------------------------ |
-| Caster is blood relative of target       | +1                     |
-| Signature of target                      | +1                     |
-| Target's nickname or<br>birth name*      | +1                     |
-| Name target uses in secret magic rituals | +1                     |
-| Target's horoscope<br>for today**        | +1                     |
-| Target's nativity horoscope***           | +2                     |
-| Symbolic representation of target****    | +2                     |
+| Sympathetic Connection                   | Bonus to Multiplier |
+| ---------------------------------------- | --------------------|
+| Caster is blood relative of target       | +1                  |
+| Signature of target                      | +1                  |
+| Target's nickname or<br>birth name*      | +1                  |
+| Name target uses in secret magic rituals | +1                  |
+| Target's horoscope<br>for today**        | +1                  |
+| Target's nativity horoscope***           | +2                  |
+| Symbolic representation of target****    | +2                  |
 
 \*Baptismal names cannot be used in sympathetic magic.
 
@@ -10780,27 +10736,25 @@ Forceless casting requires no particular skill or effort. It is useful in magica
 
 \*\*\*\*An illustration or model of some sort. A simple representation, good for one use, takes several hours and a Dexterity + Craft roll of 9+ to create. A permanent representation takes a month of work and a Dexterity + Craft roll of 12+. The representation can only be used by the person who made it.
 
-## Penetration Example
-
-For example, Mari Amwithig wants to be able to cast Agony of the Beast on the dragon that has been causing problems for the covenant. She has a Penetration score of 3, specialized in Perdo, so it is effectively 4. That would typically give her a Penetration of around 20, because she can expect to exceed the spell level by 16 on most rolls. That isn't enough to affect the dragon.
-
-The first thing she does is obtain an Arcane Connection to the dragon, and fix it in the laboratory. This gives her a bonus of +4 to the Penetration multiplier, so now her Penetration score is multiplied by 5 (1 + 4) when determining her penetration bonus. Her typical penetration is now around 36, which is better but still not quite good enough, she thinks.
-
-Mari's player argues that dragons have horoscopes just like anyone else, and the storyguide agrees. Unfortunately, Mari has no idea when, or even if, the dragon was born, so she can only make a daily horoscope. That increases the Penetration multiplier by +1, so her Penetration score is now multiplied by 6. This makes her typical Penetration total 40.
-
-Mari has also Mastered the spell (see page 225) and taken the Penetration Mastery special ability. She has a score of 1 in the Mastery Ability for the spell, and this adds to her Penetration score, so that instead of multiplying 4 by 6, she multiplies 5 (4 for Penetration, 1 for the Mastery Ability) by 6. This raises her typical penetration total to 46, which she thinks will be enough to get the dragon's attention. Arcane Connection and horoscope in hand, she sets off.
+> ### Penetration Example
+>
+> For example, Mari Amwithig wants to be able to cast Agony of the Beast on the dragon that has been causing problems for the covenant. She has a Penetration score of 3, specialized in Perdo, so it is effectively 4. That would typically give her a Penetration of around 20, because she can expect to exceed the spell level by 16 on most rolls. That isn't enough to affect the dragon.
+>
+> The first thing she does is obtain an Arcane Connection to the dragon, and fix it in the laboratory. This gives her a bonus of +4 to the Penetration multiplier, so now her Penetration score is multiplied by 5 (1 + 4) when determining her penetration bonus. Her typical penetration is now around 36, which is better but still not quite good enough, she thinks.
+>
+> Mari's player argues that dragons have horoscopes just like anyone else, and the storyguide agrees. Unfortunately, Mari has no idea when, or even if, the dragon was born, so she can only make a daily horoscope. That increases the Penetration multiplier by +1, so her Penetration score is now multiplied by 6. This makes her typical Penetration total 40.
+> 
+> Mari has also Mastered the spell (see page 225) and taken the Penetration Mastery special ability. She has a score of 1 in the Mastery Ability for the spell, and this adds to her Penetration score, so that instead of multiplying 4 by 6, she multiplies 5 (4 for Penetration, 1 for the Mastery Ability) by 6. This raises her typical penetration total to 46, which she thinks will be enough to get the dragon's attention. Arcane Connection and horoscope in hand, she sets off.
 
 ## Magic Resistance
 
-ost human beings have no Magic Resistance. If the target of a spell has no Magic Resistance, then he suffers its effects no matter how low the Penetration total, even if
-
-it is negative. Humans can gain general Magic Resistance from three sources: the Divine, the Infernal, and Hermetic magic. No other magical or faerie powers are able to provide general Magic Resistance to humans, but creatures with a Might score have Magic Resistance equal to their Might (see page 427).
+Most human beings have no Magic Resistance. If the target of a spell has no Magic Resistance, then he suffers its effects no matter how low the Penetration total, even if it is negative. Humans can gain general Magic Resistance from three sources: the Divine, the Infernal, and Hermetic magic. No other magical or faerie powers are able to provide general Magic Resistance to humans, but creatures with a Might score have Magic Resistance equal to their Might (see page 427).
 
 Hermetic magi have a base Magic Resistance equal to their score in the Form most applicable to the spell cast. In case of doubt, Vim is a safe default. Thus, a maga attacked with magical fire would have Magic Resistance at least equal to her Ignem score. Since all Hermetic magi have a score of at least 0 in every Form, a maga never has a Magic Resistance of less than zero.
 
 If the target of a spell has Magic Resistance of 0, she is only affected if the Penetration total is 1 or greater. Thus, Magic Resistance 0 is substantially better than no Magic Resistance.
 
-## Parma Magica
+### Parma Magica
 
 The Parma Magica, Bonisagus's great invention, is an Ability that grants Magic Resistance that adds to the resistance arising from a maga's Form scores.
 
@@ -10812,11 +10766,11 @@ A magus may also protect one other person for each point in Parma Magica, with t
 
 While a magus is protecting others, his effective Parma Magica score is reduced by 3 points, both for himself and for the other people he is protecting. If the magus has a Parma Magica score of 3 or lower, his Parma Magica provides each character, including himself, with a Magic Resistance of 0. In the magus's case, this is added to his Form resistance, and a magus protected by another magus's Parma Magica may also add his Form resistance.
 
-## Awareness of Attack
+### Awareness of Attack
 
 If a spell is stopped by Magic Resistance, the target knows that some effect has been stopped, but knows nothing about it. If a spell penetrates her Magic Resistance, she gets no warning other than any obvious effects the spell has. A very subtle spell might well go completely unnoticed if cast successfully.
 
-# The Functioning of Magic Resistance
+### The Functioning of Magic Resistance
 
 Magic Resistance keeps magic away from the maga, her clothing, and other items that are very close to her. It does not dispel magic.
 
@@ -10870,11 +10824,11 @@ The maga sees something affected by a Rego Imaginem spell in the location intend
 
 An illusion cast on the maga fails.
 
-## Aiming
+### Aiming
 
 A maga may want to cast a spell that affects something else, and only indirectly affects the target. In this case, the target's Magic Resistance is irrelevant, as the spell does not target her. However, while spells always hit their targets, indirect effects may not reach the true target; they must be aimed. If a spell is resisted, as above, it need not be aimed. If it is not resisted, it must be aimed.
 
-## AIMING ROLL: Perception + Finesse + Die
+AIMING ROLL: Perception + Finesse + Die
 
 The die is a stress die if the maga is under stress, a simple die otherwise. Treat the total as an attack total (see Combat on page 393). If the 'attack' hits, the spell effect is in the right place; what effect this has depends on the spell. The magus does not generate an Attack Advantage even if the spell inflicts damage; the damage is determined by rolling a stress die and adding the spell's damage bonus, and comparing it to the target's Soak Total + stress die.
 
@@ -10882,7 +10836,7 @@ If the direct target of the spell is a basic Individual for the Form in question
 
 For extreme cases, the troupe should use its judgment and may change the bonus. For example, a basic Individual in Auram could be a cloud 100 paces across, which should grant a large bonus to aiming, while a gemstone created two steps larger than a basic Individual is still only 10 inches or so across, and so should probably grant no bonus at all.
 
-## Bypassing Magic Resistance
+#### Bypassing Magic Resistance
 
 The following are examples of spells that bypass the ultimate victim's Magic Resistance, and thus need to be aimed.
 
@@ -10892,23 +10846,21 @@ The following are examples of spells that bypass the ultimate victim's Magic Res
 - Changing the earth under her feet into mud, so that she sinks. Note that she will not get muddy unless the spell penetrates her Magic Resistance, as the mud is a magical substance which is kept away from her.
 - Destroying all the air around her so that she cannot breathe (briefly, but enough to force a Concentration roll), and suffers some damage from the surrounding air rushing in to fill the vacuum.
 
-## Projectiles and Rego Magic
-
-The laws of physics in Mythic Europe conform to medieval ideas, not modern ones. The differences are often unimportant, but they become significant when a magus uses Rego spells to throw projectiles or to drop heavy objects from a height. The physics (or "natural philosophy" as characters would call it) of Mythic Europe is described in more detail in *Art & Academe*. This insert clarifies a narrow topic: how to use Rego spells as a form of attack.
-
-In fact, there are three different ways Rego magic may be used offensively.
-
-The first way is to use magic to propel the projectile all the way to the target. In this case, the motive force of the projectile is entirely due to magic. Magic Resistance would protect against this form of attack. The projectile would stop harmlessly at the edge of the target's Magic Resistance. This sort of spell does not need to be aimed.
-
-The second form of attack is to exploit what philosophers call "natural motion:" the natural tendency of heavy objects to fall downward. A magus could use Rego magic to levitate a rock over someone's head and then cancel the spell. The rock would naturally fall and would bypass Magic Resistance. Such a spell would need to be aimed.
-
-The third way is to use a brief jolt of magical force to hurl a projectile as an arrow is thrown from a bow. Medieval natural philosophy did offer an explanation for how an arrow could continue moving after it leaves the bow. To over-simplify (in the interest of brevity), it involves the motion of air around the arrow. Magi can devise spells that hurl projectiles in this manner. Only specially-designed Rego spells can throw projectiles this way — the spell's description must explicitly state that it can throw projectiles (these spells are higher magnitude than generic Rego spells). Spells that throw a projectile release control of it immediately after launching it. The projectile then continues on a natural trajectory. In game terms, this means the spell must be aimed, but the projectile bypasses Magic Resistance. The Range of the spell need only be Touch (the magic only needs to act at the moment the projectile is thrown), but once launched, the projectile is subject to the natural laws of motion. The aiming roll suffers a range penalty just like a missile weapon does (page 395) and the projectile can go no farther than it could be thrown by a very powerful mundane bow (or sling, catapult, or other device). Most projectiles thrown by spells have a range increment of 20 paces.
+> #### Projectiles and Rego Magic
+>
+> The laws of physics in Mythic Europe conform to medieval ideas, not modern ones. The differences are often unimportant, but they become significant when a magus uses Rego spells to throw projectiles or to drop heavy objects from a height. The physics (or "natural philosophy" as characters would call it) of Mythic Europe is described in more detail in *Art & Academe*. This insert clarifies a narrow topic: how to use Rego spells as a form of attack.
+>
+> In fact, there are three different ways Rego magic may be used offensively.
+>
+> The first way is to use magic to propel the projectile all the way to the target. In this case, the motive force of the projectile is entirely due to magic. Magic Resistance would protect against this form of attack. The projectile would stop harmlessly at the edge of the target's Magic Resistance. This sort of spell does not need to be aimed.
+>
+> The second form of attack is to exploit what philosophers call "natural motion:" the natural tendency of heavy objects to fall downward. A magus could use Rego magic to levitate a rock over someone's head and then cancel the spell. The rock would naturally fall and would bypass Magic Resistance. Such a spell would need to be aimed.
+> 
+> The third way is to use a brief jolt of magical force to hurl a projectile as an arrow is thrown from a bow. Medieval natural philosophy did offer an explanation for how an arrow could continue moving after it leaves the bow. To over-simplify (in the interest of brevity), it involves the motion of air around the arrow. Magi can devise spells that hurl projectiles in this manner. Only specially-designed Rego spells can throw projectiles this way — the spell's description must explicitly state that it can throw projectiles (these spells are higher magnitude than generic Rego spells). Spells that throw a projectile release control of it immediately after launching it. The projectile then continues on a natural trajectory. In game terms, this means the spell must be aimed, but the projectile bypasses Magic Resistance. The Range of the spell need only be Touch (the magic only needs to act at the moment the projectile is thrown), but once launched, the projectile is subject to the natural laws of motion. The aiming roll suffers a range penalty just like a missile weapon does (page 395) and the projectile can go no farther than it could be thrown by a very powerful mundane bow (or sling, catapult, or other device). Most projectiles thrown by spells have a range increment of 20 paces.
 
 ## Sigils
 
-very Hermetic maga has a 'wizard's sigil'. All the spells that she casts have something in common, which makes it clear to those who know her
-
-that she was the caster. The sigil also appears in the effects of enchanted devices created by the maga.
+Every Hermetic maga has a 'wizard's sigil'. All the spells that she casts have something in common, which makes it clear to those who know her that she was the caster. The sigil also appears in the effects of enchanted devices created by the maga.
 
 Some sigils affect the environment where the spell is cast. For example, a maga might have the scent of orange blossom as her sigil. In that case, whenever she casts a spell there is a smell of orange blossom in the area. The spell has its effect as normal. Another maga's sigil might make everyone nearby feel briefly chilled.
 
@@ -10924,50 +10876,41 @@ Hermetic magi also have a voting sigil, a small physical object which identifies
 
 ## Spell Mastery
 
-ermetic magi can study
-Formulaic and Ritual spells that
-they know in more detail. This
-study leads to spell mastery.
-Magi can write books about
-
-spells they have mastered, to convey that knowledge to others. The Spell Mastery Ability can be learned from such books according to the normal rules for study (see page 378). Spell mastery Abilities are their own category, and Virtues that give characters access to other categories of Ability do not cover spell mastery Abilities. They may only be learned by characters who use Hermetic magic to cast spells.
+Hermetic magi can study Formulaic and Ritual spells that they know in more detail. This study leads to spell mastery. Magi can write books about spells they have mastered, to convey that knowledge to others. The Spell Mastery Ability can be learned from such books according to the normal rules for study (see page 378). Spell mastery Abilities are their own category, and Virtues that give characters access to other categories of Ability do not cover spell mastery Abilities. They may only be learned by characters who use Hermetic magic to cast spells.
 
 For every possible Hermetic spell, there is a corresponding Ability. This Ability can be studied in the normal ways, and is called the spell's mastery ability. If a maga has a score of one or greater in a mastery ability, she is said to have mastered that spell.
 
-Mastery Ability:
-Adds to casting score and subtracts from number of botch dice
+**Mastery Ability: Adds to casting score and subtracts from number of botch dice**
 
 A maga adds her score in the mastery ability to her casting score whenever she casts that spell. In addition, she subtracts her mastery ability from the number of botch dice she has to roll if she rolls a zero. This may bring the number of dice down to zero. Mastered spells are always cast with a stress die, but if the maga is relaxed there are no botch dice, even in a non-Magic aura or when using vis, or when casting a Ritual spell.
 
-## Mastered Spell Special Abilities
+### Mastered Spell Special Abilities
 
 For every level in the Mastery Ability, the maga may also choose one special ability, which applies only to that mastered spell. Thus, a maga with a Mastery Score of two for a spell has two special abilities for that spell. A maga who has mastered more than one spell may have different special abilities with each of them.
 
-## Adaptive Casting
+#### Adaptive Casting
 
-You may use your mastery score and all the special abilities associated with it whenever you cast a similar spell (as defined in the Laboratory chapter, page 260). If you have two or more mastery Abilities that apply to a single spell (because you have mastered two or more spells that are similar
+You may use your mastery score and all the special abilities associated with it whenever you cast a similar spell (as defined in the Laboratory chapter, page 260). If you have two or more mastery Abilities that apply to a single spell (because you have mastered two or more spells that are similar to the spell you are casting) you may only use the score of one Ability, and the special abilities taken for that mastery Ability. For example, if you have mastered *Demon's Eternal Oblivion* 30 with a score of 3, and the abilities Adaptive, Fast Casting, and Penetration, and *Demon's Eternal Oblivion* 25 with a score of 4 and the abilities Adaptive, Quiet Casting twice, and Still Casting, you must use the score of 3 if you want to use the Penetration ability, and the score of 4 if you want to use the Still Casting ability, and you cannot use the Penetration ability with the score of 4.
 
-to the spell you are casting) you may only use the score of one Ability, and the special abilities taken for that mastery Ability. For example, if you have mastered *Demon's Eternal Oblivion* 30 with a score of 3, and the abilities Adaptive, Fast Casting, and Penetration, and *Demon's Eternal Oblivion* 25 with a score of 4 and the abilities Adaptive, Quiet Casting twice, and Still Casting, you must use the score of 3 if you want to use the Penetration ability, and the score of 4 if you want to use the Still Casting ability, and you cannot use the Penetration ability with the score of 4.
-
-## Ceremonial Casting
+#### Ceremonial Casting
 
 The maga may apply the rules for Ceremonial Casting (page 217) to casting this spell. This special ability may not be taken for Ritual spells, as they effectively use ceremonial casting to start with.
 
 This special ability is not widely known in the Order, having originated with the Cult of Mercury, but it is no longer a secret of the cult. They know other special abilities that do remain secrets of the cult, however (see *The Mysteries*, *Revised Edition*, page 117).
 
-## Fast Casting
+#### Fast Casting
 
 The maga may Fast Cast the mastered spell according to the rules for Fast Casting Spontaneous spells, on page 217. The maga still takes the –10 penalty to Casting Score and risks the extra botch dice, although the botch dice will be partially offset by her Mastery Ability. Any or all of your Mastery Abilities may be applied to the spell even when it is fast-cast, as these abilities are a fundamental part of your understanding of the spell. This special ability may not be taken for Ritual spells.
 
-## Imperturbable Casting
+#### Imperturbable Casting
 
 Add the caster's Mastery score to all Concentration rolls related to the spell. This helps her maintain spells of Concentration Duration amid the chaos of battle, or while casting another spell (see the Concentration Table, page 215).
 
-## Magic Resistance
+#### Magic Resistance
 
 Your Magic Resistance is doubled against the mastered spell, and against any spells or powers that count as similar. (See 'Similar Spells', page 260)
 
-## Multiple Casting
+#### Multiple Casting
 
 You can cast several copies of a single mastered spell so that it affects more people, objects, or areas (as applicable) than normal. A single target may also be affected more than once. You may cast a number of additional copies of the spell equal to or less than your Mastery Score.
 
@@ -10975,45 +10918,43 @@ All copies of the spell are cast simultaneously, and the action counts as a sing
 
 Subtract the total number of discrete targets from any aiming rolls that are required. Even if all spells are directed at the same target, a –1 applies. The storyguide can further penalize or prohibit multiple casting that is especially difficult, such as casting two spells in opposite directions.
 
-#### AIMING:
-
-## Penalty of one for every separate target, including the first
+**AIMING: Penalty of one for every separate target, including the first**
 
 This special ability may be taken for Ritual spells. The casting time is that for a single spell, but one pawn of appropriate vis per magnitude of the spell must be expended for each copy. The normal limit on pawns of vis expended (the maga's score in the Art) applies. Excess Fatigue levels lost convert to wounds, as normal for Ritual spells.
 
-## Obfuscated Casting
+#### Obfuscated Casting
 
 Magi cannot automatically identify the Form of the spell as the magus casts it. This makes it difficult for them to use fast-cast spells as a defense. They must always roll to determine the Form of the spell (see page 217) and must add the caster's Mastery score to the Ease Factor.
 
-## Penetration
+#### Penetration
 
 The maga's Mastery Score is added to her Penetration Ability score for determining her Penetration Bonus (see page 219).
 
-## Precise Casting
+#### Precise Casting
 
 Add +1 to all Finesse rolls the caster makes with the spell, including aiming rolls. Subtract one botch die from any Finesse rolls she makes using the spell, to a minimum of one botch die. A maga may take this ability multiple times for the same spell.
 
-## Quick Casting
+#### Quick Casting
 
 Add +1 to the caster's Initiative Total when he casts the mastered spell. If he also has the Fast Casting special ability, add +1 to his Fast Casting Speed rolls (page 217) when he fast-casts the spell. This ability cannot be taken for Ritual spells. A magus may take this ability multiple times for the same spell.
 
-## Quiet Casting
+#### Quiet Casting
 
 The penalty for casting a spell quietly is reduced by five. This cannot grant a bonus, although using a booming voice gives the normal bonus. A maga may take this ability twice. If she does so, she can cast the spell silently without penalty. The range of a Voice Range spell is still based on the actual loudness of the maga's voice.
 
-## Rebuttal
+#### Rebuttal
 
 This Mastery special ability may be applied to any Muto or Rego Vim spell designed to affect a spell or power used by another being (thus Wizard's Boost or Maintain the Demanding Spell are not eligible, but Mirror of Opposition [Form] is). The magus may add three times his Mastery score to the effective level of the Vim spell when determining whether or not it can change or control the foreign magic.
 
-## Still Casting
+#### Still Casting
 
 The maga can cast the spell without gestures, at no penalty. The normal bonus for using exaggerated gestures applies.
 
-## Unravelling
+#### Unravelling
 
 This Mastery special ability may be applied to any Perdo Vim spell designed to weaken or destroy magic. The magus may add three times his Mastery score to the effective level of the Perdo Vim spell when determining whether it can destroy the targeted effect. Thus a 20th level Wind of Mundane Silence cast by a character with this Mastery special ability and a score of 3 can negate the effects of a spell if he can double the spell's level on (29 + stress die) rather than (20 + stress die).
 
-## Books on Spell Mastery
+### Books on Spell Mastery
 
 A book on spell Mastery can be studied by anyone who knows the spell that the book is about. For the purposes of spell Mastery, two spells are the same if they have the same Arts, level, Range, Duration, Target, and effect; essentially, if the game rule versions of the two spells are identical. Different wizard's sigils are not a problem.
 
@@ -11021,11 +10962,9 @@ Because magi reinvent spells for themselves, rather than actually learning anoth
 
 ## Dangers
 
-espite the Order's attempts to regulate it and make it a science, magic remains an art. No matter how skilled a practitioner you are, and no
+Despite the Order's attempts to regulate it and make it a science, magic remains an art. No matter how skilled a practitioner you are, and no matter what precautions you take (short of not using magic at all), your magic will sometimes get out of your control. From the danger of casting a spell improperly to the danger of the enigmatic Wizard's Twilight, magic is filled with hazards.
 
-matter what precautions you take (short of not using magic at all), your magic will sometimes get out of your control. From the danger of casting a spell improperly to the danger of the enigmatic Wizard's Twilight, magic is filled with hazards.
-
-## Botches
+### Botches
 
 The most common danger magi face when performing magic is a botch. The results of a given spell cast under stress are not entirely predictable, and a botch on a spell roll means that the maga has made a mistake that, rather than just causing her spell to fail, causes her spell to produce different effects than she intended. Though the effects of botches can vary widely, they are almost universally detrimental. The storyguide should use his imagination when determining botches.
 
@@ -11033,89 +10972,84 @@ As noted above (page 213), a botch automatically gives a maga a Casting Total of
 
 Magi gain one Warping Point for every zero that comes up on the botch dice when casting a spell. (This does not include the original zero that meant the botch dice had to be rolled. If the roll does not botch, the magus gains no Warping Points.) If a magus gains two or more Warping Points from a single spell botch, he may enter Wizard's Twilight (see below).
 
-## Botch Suggestions
-
-Attract unwanted attention: The attention of someone or something, perhaps the target of your spell, is drawn to you.
-
-**Caster addled:** You are rendered insane, confused, or demented. You acquire the Flaw Simple-Minded for an indefinite duration.
-
-Caster overwhelmed: You are overwhelmed by your own magic. Make a Stamina stress roll of 6+ or be knocked unconscious.
-
-## Sources of Botch Dice
-
+#### Sources of Botch Dice
+ 
 When casting a spell under stress, you start with one botch die, as normal. The storyguide can increase this for all the normal reasons, such as distractions or a difficult magical environment, but there are several standard modifiers to the number of botch dice for spell casting.
+ 
+**Using vis while casting:** +1 botch die per pawn of vis used
 
-Using vis while casting: +1 botch die per pawn of vis used
+**Casting in a supernatural aura other than Magic:** +1 botch die per level of the aura, doubled if in a regio
 
-Casting in a supernatural aura other than Magic: +1 botch die per level of the aura, doubled if in a regio
+**Fast Casting:** +2 botch dice
 
-Fast Casting: +2 botch dice
+**Golden Cord to a familiar:** -1 botch die per level
 
-Golden Cord to a familiar: -1 botch die per level
-
-Spell Mastery: -1 botch die per level
+**Spell Mastery:** -1 botch die per level
 
 Note that there are a number of Virtues and Flaws that can modify both the number of botch dice, and what they mean. For example, the Faerie Magic Virtue attunes Merinita magi to Faerie auras, so that they do not gain additional botch dice in them.
 
 If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no matter how many the circumstances would normally add. Note that it is not possible to be relaxed while casting a fatiguing Spontaneous spell, as the process itself is stressful. Ritual spells also require botch dice in all circumstances, unless the maga has mastered them.
 
-Connection with target: Your target becomes aware of your investigations, and may learn something about you through the arcane link that is temporarily established.
+#### Botch Suggestions
+
+**Attract unwanted attention:** The attention of someone or something, perhaps the target of your spell, is drawn to you.
+
+**Caster addled:** You are rendered insane, confused, or demented. You acquire the Flaw Simple-Minded for an indefinite duration.
+
+**Caster overwhelmed:** You are overwhelmed by your own magic. Make a Stamina stress roll of 6+ or be knocked unconscious.
+
+**Connection with target:** Your target becomes aware of your investigations, and may learn something about you through the arcane link that is temporarily established.
 
 **Debilitating**: The spell pushes the target too hard and does permanent damage: for example, a Rego Animal spell might forever leave a beast without its natural instincts and urges.
 
-Flawed creation: A creation is heavily flawed, though the flaw may not be obvious until the creation is expected to serve the function it was created for.
+**Flawed creation:** A creation is heavily flawed, though the flaw may not be obvious until the creation is expected to serve the function it was created for.
 
-Incomplete or improper effect: For example, a spell intended to transform you into a wolf might only transform your head and hands.
+**Incomplete or improper effect:** For example, a spell intended to transform you into a wolf might only transform your head and hands.
 
-Out of control: The spell creates or calls forth something beyond the caster's ability to control.
+**Out of control:** The spell creates or calls forth something beyond the caster's ability to control.
 
-Related but unwanted effect: For example, a spell intended to transform you into a wolf might turn you into another animal.
+**Related but unwanted effect:** For example, a spell intended to transform you into a wolf might turn you into another animal.
 
 **Reverse** effect: The spell does exactly the opposite of what is intended.
 
 **Spell affects caster:** You, instead of the intended target, are affected.
 
-Too powerful: The spell does more than it should and thereby causes problems.
+**Too powerful:** The spell does more than it should and thereby causes problems.
 
 **Undying spell**: The spell does not end at the normal time, and it proves resistant to being dispelled.
 
-Wrong target: Pick a new one at random.
+**Wrong target:** Pick a new one at random.
 
-## Warping
+### Warping
 
 Warping affects everyone, not just Hermetic magi, so it is described in the Long Term Events chapter, page 389. Note that magi gain one Warping Point for every zero on the botch dice when they botch a spell.
 
-## Wizard's Twilight
+### Wizard's Twilight
 
 Wizard's Twilight is unique to Hermetic magic. Most magical traditions have a unique reaction to Warping, and Wizard's Twilight is the reaction of magi trained in the Hermetic tradition.
 
-## Entering Twilight
+#### Entering Twilight
 
 Whenever a maga gains two or more Warping Points from a single event, rather than from prolonged exposure, she must add them to her current total, possibly increasing her Warping Score, and then roll to avoid Twilight.
 
-TWILIGHT AVOIDANCE:
-
-Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)
+**TWILIGHT AVOIDANCE: Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)**
 
 If the roll succeeds, the maga spends two minutes (one Diameter) bringing her magic under control, but there are no further effects. If the roll fails, the maga enters Wizard's Twilight. If the maga botches, she enters Twilight and cannot comprehend the experience.
 
 A maga may choose not to resist Twilight, in which case she makes no roll and automatically enters Twilight. In some situations, such as combat, taking two minutes to control the magic may be very dangerous, and in such cases a maga may wish to enter Twilight in the hope of comprehending it and thus getting through the experience more quickly.
 
-## Comprehending Twilight
+#### Comprehending Twilight
 
 A maga within Twilight must comprehend her surroundings in order to get out.
 
-$T_{\text{WILIGHT Comprehension:}}$  Intelligence + Enigmatic Wisdom + stress die vs.  $Warping\ Score\ +\ stress\ die$
+**TWILIGHT COMPREHENSION: Intelligence + Enigmatic Wisdom + stress die vs. Warping Score + stress die**
 
-BOTCH DICE: 1 + 1 per Warping Point gained to trigger the Twilight
+**BOTCH DICE: 1 + 1 per Warping Point gained to trigger the Twilight**
 
-The time that a maga feels that she spends in Twilight is completely independent of time
+The time that a maga feels that she spends in Twilight is completely independent of time passing in the real world. The time that passes in the real world depends on the maga's Warping Score, and the success of her Twilight Comprehension roll.
 
-passing in the real world. The time that passes in the real world depends on the maga's Warping Score, and the success of her Twilight Comprehension roll.
-
-
-| Warping<br>Score | Base Time in Twilicht                    |
-| ------------------ | ------------------------------------------ |
+| Warping Score    | Base Time in Twilight                    |
+| ---------------- | ---------------------------------------- |
 | 1                | Diameter (2 minutes)                     |
 | 2                | Two Hours                                |
 | 3                | Sun                                      |
@@ -11135,16 +11069,13 @@ If the Twilight side of the comprehension roll botches (same botch dice as the m
 
 If the comprehension roll succeeds, subtract the maga's Enigmatic Wisdom score from the result, and compare that total (that is, the maga's Intelligence plus the stress die result) to the Twilight's result.
 
-TWILIGHT TIME:
-Intelligence + stress die vs. Warping Score
-
-+ stress die
+**TWILIGHT TIME: Intelligence + stress die vs. Warping Score + stress die**
 
 Note: The die rolls are the rolls already made to comprehend the Twilight
 
 If the two match exactly, or the maga's score is lower, the maga spends the base time in Twilight. For every additional point by which the maga's score exceeds the Twilight result, move one step shorter on the duration table. For example, if a maga with a Warping score of 7 makes her comprehension roll by three points, the Twilight lasts a day. If this lowers the duration below Diameter, the whole Twilight lasts a mere moment in the real world.
 
-## During Twilight
+#### During Twilight
 
 The experiences of magae in Twilight vary enormously. Some experience a dreamlike copy of the real world. Others encounter strange creatures, or copies of themselves, or feel an infinite benevolence watching over the universe, or an infinite malevolence likewise. These may be played out if desired.
 
@@ -11152,99 +11083,83 @@ The effects are equally varied in the outside world. The simplest effect is that
 
 If the maga's body remains in the real world while she is in Twilight, it is completely immune to magic, mundane damage, aging, and hunger. In many ways it seems to be outside the world although it still appears within it. A maga's body is also unable to perform magic while she is in Twilight.
 
-While these are the most common effects, others
+While these are the most common effects, others have been observed. Bjornaer often take the form of their heartbeasts, and Flambeau magi have been known to turn into large fires which burn without fuel.
 
-have been observed. Bjornaer often take the form of their heartbeasts, and Flambeau magi have been known to turn into large fires which burn without fuel.
-
-## Effects of Twilight
+#### Effects of Twilight
 
 Every Twilight experience marks the maga. The strength of the mark is random. Roll a simple die. The maga gains that many Warping Points, in addition to the points that triggered the Twilight.
 
 If the maga comprehended the Twilight, the effects are good.
 
-Twilight Scar: Something minor and magical, and also neutral or beneficial. For example, the area around the maga always smells faintly and pleasantly of roses, the maga's eyes glitter with many colors, the maga walks a fraction of an inch above any surface. In the case of a maga who wants to keep her magic inconspicuous, the effect may not be obviously magical: people around her become slightly more cheerful, insects don't bite her, and so on.
+**Twilight Scar:** Something minor and magical, and also neutral or beneficial. For example, the area around the maga always smells faintly and pleasantly of roses, the maga's eyes glitter with many colors, the maga walks a fraction of an inch above any surface. In the case of a maga who wants to keep her magic inconspicuous, the effect may not be obviously magical: people around her become slightly more cheerful, insects don't bite her, and so on.
 
 In addition, the storyguide should pick one of the following effects:
 
-Increased Knowledge: A number of experience points in an Art, Magic Theory, or Enigmatic Wisdom, equal to twice the number of Warping Points gained.
+**Increased Knowledge:** A number of experience points in an Art, Magic Theory, or Enigmatic Wisdom, equal to twice the number of Warping Points gained.
 
-New Hermetic or Supernatural Virtue: Minor (if between 7 and 10 Warping Points, inclusive), or major (if more than ten Warping Points). Virtues cannot be gained if the maga gains fewer than seven Warping Points.
+**New Hermetic or Supernatural Virtue:** Minor (if between 7 and 10 Warping Points, inclusive), or major (if more than ten Warping Points). Virtues cannot be gained if the maga gains fewer than seven Warping Points.
 
-New Spell: The maga knows a new Formulaic or Ritual spell, with a magnitude equal to the number of Warping Points gained. This spell is chosen by the storyguide, and the maga need not be able to cast it. She may write a Lab Text about it as normal.
+**New Spell:** The maga knows a new Formulaic or Ritual spell, with a magnitude equal to the number of Warping Points gained. This spell is chosen by the storyguide, and the maga need not be able to cast it. She may write a Lab Text about it as normal.
 
 If the maga failed to comprehend the Twilight, the effects are bad.
 
-Twilight Scar: Something minor, magical, and annoying. For example, the area around the maga smells faintly of sulfur, the maga's touch stains skin black (it washes off, with effort), the maga's footprints create myriads of fine cracks in any surface. At the storyguide's discretion, a maga who tries to keep her magic inconspicuous might get a scar she can hide. For example, the smell of iron makes her feel nauseous, or insects always bite her given the chance.
+**Twilight Scar:** Something minor, magical, and annoying. For example, the area around the maga smells faintly of sulfur, the maga's touch stains skin black (it washes off, with effort), the maga's footprints create myriads of fine cracks in any surface. At the storyguide's discretion, a maga who tries to keep her magic inconspicuous might get a scar she can hide. For example, the smell of iron makes her feel nauseous, or insects always bite her given the chance.
 
 In addition, the storyguide should pick one of the following effects:
 
-Lost Knowledge: Lose two experience points for every Warping Point gained in an Art, Magic Theory, or Enigmatic Wisdom. This cannot reduce the score below zero.
+**Lost Knowledge:** Lose two experience points for every Warping Point gained in an Art, Magic Theory, or Enigmatic Wisdom. This cannot reduce the score below zero.
 
-New Hermetic or Supernatural Flaw: Minor (if between 7 and 10 Warping Points, inclusive) or major (if 10 Warping Points or above). The maga can only gain a Flaw if she gains at least seven Warping Points.
+**New Hermetic or Supernatural Flaw:** Minor (if between 7 and 10 Warping Points, inclusive) or major (if 10 Warping Points or above). The maga can only gain a Flaw if she gains at least seven Warping Points.
 
-Lost Spells: The maga loses the knowledge of spells, chosen by the storyguide, with magnitudes totaling the number of Warping Points gained.
+**Lost Spells:** The maga loses the knowledge of spells, chosen by the storyguide, with magnitudes totaling the number of Warping Points gained.
 
-## Certamen
+> #### Twilight Example
+>
+> Darius of Flambeau, played by Niall, botches a spell while hunting a Renounced magus. There are two zeroes on the botch dice, so he gains 2 Warping Points, and must check for Twilight. Darius has a Warping Score of 6, and his enemy is not immediately present, so he chooses to try to resist the Twilight.
+> 
+> As a member of House Flambeau, Darius does not have an Enigmatic Wisdom score, so that doesn't affect anything.
+>
+> Darius has a Stamina of 0, Concentration 3, and a Vim bonus of 2. He thus gets +5 to his roll to resist the Twilight, and Niall rolls a six on the stress die, for a total of 11. Not bad, but not great.
+> 
+> The Ease Factor is 6 (for his Warping Score) +2 (the number of points gained) + 4 (for the local Faerie aura, a major contributor to the botch in the first place), or 12 + a stress die, no botch. The storyguide doesn't bother rolling; even if he rolls a zero Darius has failed to resist and will enter Twilight.
+> 
+> When it comes to comprehending the Twilight, Darius gets his Intelligence, +3, plus a stress die.
+>
+> The Twilight has a base of 6, Darius's Warping Score, plus a stress die. Niall rolls a 7, but the storyguide rolls a 5. Darius has a total of 10, and the Twilight has a total of 11. Darius has failed to comprehend it.
+> 
+> The comprehension roll simply failed, so Darius spends the base time in Twilight, and has a bad experience. At a Warping Score of 6, the base time is one season.
+> 
+> The storyguide rules that Darius feels his magic destroying his body and mind from the inside. He can't tell how long it takes, although he is fully aware of every step of the process, and as the last trace of his awareness is about to vanish, he comes out of the Twilight. To the outside world, Darius's body appeared to dry up and decay to dust over the course of a few seconds. At the end of a season, Darius reappears, and finds that two of the covenant grogs have been camping here to see whether he was coming back from Twilight.
+>
+> The simple die for additional Warping Points is a one, so Darius gains three Warping Points in total. He loses six experience points in Corpus, two for each of the three Warping Points he gained. He didn't gain enough Warping Points to gain a Flaw. He also gains a Twilight Scar, and the storyguide rules that any dead meat Darius is touching looks, tastes, and smells rotten, although the effect passes when he releases it, and the meat is actually perfectly good. It looks like Darius will be becoming a vegetarian.
+
+### Certamen
 
 Certamen (Care-TAH-men, Latin for "duel") is the ceremony by which two magi conduct a magical duel. It serves as a nonlethal way for one magus to establish dominance and precedence over another, and has formal restrictions to keep it from disrupting the unity of the Order.
 
 The most important is that certamen cannot be used to over-rule a Tribunal, require a violation of the Code, or require a magus to overlook a violation of the Code. Beyond that, however, certamen can be used to settle any dispute, and the result of the certamen is binding.
 
-One need not accept a challenge to certamen, but that is the same as conceding defeat. You may challenge anyone to certamen over a certain issue once, but the Peripheral Code prohibits you from challenging the same person again over that issue unless he challenges you in the meantime. If
-
-## Twilight Example
-
-Darius of Flambeau, played by Niall, botches a spell while hunting a Renounced magus. There are two zeroes on the botch dice, so he gains 2 Warping Points, and must check for Twilight. Darius has a Warping Score of 6, and his enemy is not immediately present, so he chooses to try to resist the Twilight.
-
-As a member of House Flambeau, Darius does not have an Enigmatic Wisdom score, so that doesn't affect anything.
-
-Darius has a Stamina of 0, Concentration 3, and a Vim bonus of 2. He thus gets +5 to his roll to resist the Twilight, and Niall rolls a six on the stress die, for a total of 11. Not bad, but not great.
-
-The Ease Factor is 6 (for his Warping Score) +2 (the number of points gained) + 4 (for the local Faerie aura, a major contributor to the botch in the first place), or 12 + a stress die, no botch. The storyguide doesn't bother rolling; even if he rolls a zero Darius has failed to resist and will enter Twilight.
-
-When it comes to comprehending the Twilight, Darius gets his Intelligence, +3, plus a stress die.
-
-The Twilight has a base of 6, Darius's Warping Score, plus a stress die. Niall rolls a 7, but the storyguide rolls a 5. Darius has a total of 10, and the Twilight has a total of 11. Darius has failed to comprehend it.
-
-The comprehension roll simply failed, so Darius spends the base time in Twilight, and has a bad experience. At a Warping Score of 6, the base time is one season.
-
-The storyguide rules that Darius feels his magic destroying his body and mind from the inside. He can't tell how long it takes, although he is fully aware of every step of the process, and as the last trace of his awareness is about to vanish, he comes out of the Twilight. To the outside world, Darius's body appeared to dry up and decay to dust over the course of a few seconds. At the end of a season, Darius reappears, and finds that two of the covenant grogs have been camping here to see whether he was coming back from Twilight.
-
-The simple die for additional Warping Points is a one, so Darius gains three Warping Points in total. He loses six experience points in Corpus, two for each of the three Warping Points he gained. He didn't gain enough Warping Points to gain a Flaw. He also gains a Twilight Scar, and the storyguide rules that any dead meat Darius is touching looks, tastes, and smells rotten, although the effect passes when he releases it, and the meat is actually perfectly good. It looks like Darius will be becoming a vegetarian.
-
-another issue comes up, you may challenge him again. Bullying magi with certamen is a Low Crime in almost all Tribunals. Certamen is solely an institution of the Order of Hermes; non-Hermetic wizards do not have the ability to participate in the ceremony, as it relies heavily on the Hermetic Arts.
+One need not accept a challenge to certamen, but that is the same as conceding defeat. You may challenge anyone to certamen over a certain issue once, but the Peripheral Code prohibits you from challenging the same person again over that issue unless he challenges you in the meantime. If another issue comes up, you may challenge him again. Bullying magi with certamen is a Low Crime in almost all Tribunals. Certamen is solely an institution of the Order of Hermes; non-Hermetic wizards do not have the ability to participate in the ceremony, as it relies heavily on the Hermetic Arts.
 
 Both participants specify in advance what the other magus will do, or refrain from doing, if he loses. The two requirements are expected to be symmetrical, and Tribunals do over-ride the results on asymmetric certamens. This gives magi some motivation not to bully with certamen; even the greatest archmage can botch.
 
 To engage in certamen, you and the other magus must agree on one Form and Technique combination you will both use. By tradition, the aggressor in the duel chooses the Technique and the defender chooses the Form, and it is considered good form to go along with this choice. However, each magus may veto the other magus's first choice. If he does so, he must accept the second option.
 
-Once the Technique and Form are chosen, you and your opponent concentrate for a moment, both entering trances. While entranced, competing magi have no defense against physical attacks. Each becomes attuned to the magical forces surrounding them, shaping them into phantasms representing the Technique and Form of the duel. If the Technique and Form are Muto and Animal, the phantasms might be two animals, one controlled by each magus. During the course of the duel, each animal changes into various other animals in an effort to defeat the other. A Creo Ignem contest could consist of two fiery beings fighting. In an Intellego Aguam contest it might appear that the combatants are in hazy water, each trying to reach some goal. The illusionary battle is a representation of the more subtle magical battle which affects the minds of the combatants.
+Once the Technique and Form are chosen, you and your opponent concentrate for a moment, both entering trances. While entranced, competing magi have no defense against physical attacks. Each becomes attuned to the magical forces surrounding them, shaping them into phantasms representing the Technique and Form of the duel. If the Technique and Form are Muto and Animal, the phantasms might be two animals, one controlled by each magus. During the course of the duel, each animal changes into various other animals in an effort to defeat the other. A Creo Ignem contest could consist of two fiery beings fighting. In an Intellego Aquam contest it might appear that the combatants are in hazy water, each trying to reach some goal. The illusionary battle is a representation of the more subtle magical battle which affects the minds of the combatants.
 
 Mechanical resolution of certamen is based on six totals.
 
-INITIATIVE TOTAL:
+**INITIATIVE TOTAL: Quickness + Finesse + Stress Die**
 
-Quickness + Finesse + Stress Die
+**ATTACK TOTAL: Presence + Technique or Form + Stress Die**
 
-Attack Total:
+**DEFENSE TOTAL: Perception + Form or Technique + Stress Die**
 
-Presence + Technique or Form + Stress Die
+**ATTACK ADVANTAGE: Attack Total - Defense Total (if Attack Total is higher)**
 
-DEFENSE TOTAL:
+**WEAKENING TOTAL: Intelligence + Penetration + Attack Advantage**
 
-Perception + Form or Technique + Stress Die
-
-ATTACK ADVANTAGE:
-
-Attack Total - Defense Total (if Attack Total is higher)
-
-Weakening Total:
-
-Intelligence + Penetration + Attack Advantage
-
-RESISTANCE TOTAL:
-
-Stamina + Parma Magica
+**RESISTANCE TOTAL: Stamina + Parma Magica**
 
 Initiative is rolled only once, at the beginning of the duel. This initiative is the same as combat initiative (see page 393), and if a certamen is taking place during combat, each magus acts at the point in the sequence determined by his initiative total.
 
@@ -11254,75 +11169,16 @@ Each magus must use both the Technique and the Form in each round of certamen, u
 
 Subtract the defender's Resistance Total from the Weakening Total. For every five points or fraction left over, the defender loses a Fatigue level. Note that the magus's Parma Magica score is added to the Resistance Total; it is not multiplied by five as it is for Magic Resistance.
 
-
-| Weakening Total -<br>Resistance Total | Fatigue Levels Lost |
-| --------------------------------------- | --------------------- |
-| 0                                     | None                |
-| 1–5                                  | 1                   |
-| 6–10                                 | 2                   |
-| 11–15                                | 3                   |
-| 16–20                                | 4                   |
-| 21–25                                | 5                   |
-| 26–30                                | 6                   |
-| etc.                                  | etc.                |
-
-## Gertamen Example
-
-Moratamis of Guernicus harbors suspicions about what Carolus of Tytalus gets up to at night. She asks him to tell her what he is doing, and he refuses. She doesn't have enough for an official Quaesitorial investigation, so she challenges him to certamen, demanding that he tell her what he has done if he loses. Carolus agrees, with the condition that Moratamis will not ask him about his activities again unless she is on official Quaesitorial business. (He has to add the condition, although he would prefer not to, or else the Tribunal is unlikely to uphold a result in his favor.) Carolus suspects he will lose, as Moratamis is older and thus more powerful.
-
-Moratamis's Arts are: Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
-
-Her Characteristics are: Int +2, Per +3, Pre +2, Com +1, Str -2, Sta +1, Dex -2, Qik -1
-
-Her relevant Abilities are: Finesse 2, Parma Magica 5, Penetration 3.
-
-Carolus's Arts are: Cr 2, In 0, Mu 5, Pe 10, Re 7; An 3, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 7, Te 6, Vi 4
-
-His Characteristics are: Int +2, Per -1, Pre -1, Com -1, Str 0, Sta +1, Dex +4, Qik 0
-
-His relevant Abilities are: Finesse 2, Parma Magica 3, Penetration 1.
-
-Moratamis challenged, so she picks the Technique. She is fairly sure that the only Technique she is much better at is Intellego, and she's also sure that Carolus knows this too. She thinks that her scores in Rego and Creo are fairly balanced with Carolus's, though. She knows that, if she proposes Intellego first, Carolus will veto it. On the other hand, if she proposes Rego first, Carolus might have other reasons to veto that, and thus let her use Intellego. Thus, she proposes Rego.
-
-Carolus accepts, knowing full well that he'll be stuck with Intellego if he doesn't. For the Form, he proposes Imaginem. He knows that Moratamis studies that, but also that he has a reputation as a bit of an Imaginem specialist. He hopes that she'll think he thinks he has an advantage she doesn't know about. It works;
-
-Moratamis vetoes his first choice. Carolus then settles on Terram, where he is fairly sure he is better.
-
-The two now have the following statistics:
-
-Moratamis: Initiative: +1 (Qik –1 + Finesse 2), Attack: +10 (Rego: Rego 8 + Pre +2) or +2 (Terram: Terram 0 + Pre +2), Defense +11 (Rego: Rego 8
-
-+ Per +3) or +3 (Terram: Terram 0 + Per +3), Weakening +5 (Int +2 + Penetration 3), Resistance +6 (Sta
-
-+1 + Parma Magica 5)
-
-Carolus: Initiative: +2 (Oik 0
-
-(Sta +1 + Parma Magica 3)
-
-+ Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4
-
-The phantasms for the contest are the stones of the floor under their feet, which try to rise up and engulf them.
-
-The two roll Initiative. Moratamis rolls a 2, for a total of 3, and Carolus rolls a 5, for a total of 7. Carolus acts first.
-
-On the first round, Carolus chooses to put Rego into attack and Terram into defense, while Moratamis chooses to defend with Rego and attack with Terram. Carolus attacks first, and rolls a 12 (lucky!), for an Attack Total of 18. Moratamis rolls a 7, for a Defense Total of 18. On a dead heat, the defender wins, and Carolus cannot get through. Then Moratamis attacks. She rolls a 5, for a total of 7, while Carolus rolls a 2, also for a total of 7. Another dead heat, so nothing happens. The stones jump around a bit, but nothing happens.
-
-On the next round, Moratamis switches her Arts, in the hope of breaking through Carolus's defenses. Carolus still attacks first, and rolls a 10, for an Attack Total of 16. Moratamis rolls a zero, but doesn't botch, for a Defense Total of 3. Carolus has an Attack Advantage of 13. This adds to his Weakening Score of +3, for a Weakening Total of 16. Moratamis subtracts her Resistance of 6, so the final damage is 10. Moratamis thus loses two Fatigue levels, giving her a –1 penalty on Attack and Defense.
-
-On her attack, Moratamis rolls a 2, for an Attack Total of 11, including the –1 penalty. Carolus rolls
-
-a 6, for a Defense Total of 11. Thanks to having already weakened Moratamis, he beats off the attack. The stones have climbed up to around Moratamis's knees.
-
-Moratamis decides that her switch of strategy was a mistake, and switches back. Carolus rolls a 20 (lucky again!) for an Attack Total of 26. Moratamis rolls an 8, for a Defense Total of 18. Carolus has an Attack Advantage of 8, which translates into a single Fatigue level lost. Moratamis now has a –3 penalty to Attack and Defense.
-
-She rolls a 7, which gives her an Attack Total of 6. Carolus rolls a 4, for a Defense Total of 9, easily safe.
-
-Moratamis is now hoping for a lucky break, and Carolus only rolls a 6, for an Attack Total of 12. Moratamis rolls a 6, for a Defense Total of 14, including the penalty. She is safe this round. For her counterattack, she rolls a 5, for an Attack Total of 4. Carolus rolls a zero, but doesn't botch, and still has a Defense Total of 5. He is safe, and the stones are swarming up around Moratamis's waist.
-
-The next round remains evenly balanced, neither magus managing to weaken the other. In the following round, Carolus rolls a 9, for an Attack Total of 15, while Moratamis only manages a 4, for a Defense Total of 12. This gives Carolus a Weakening Total of 6, which Moratamis is just able to resist. Still, she feels it and a few stones boil up to her chest for a moment. She rolls a 7 for her attack, for an Attack Total of 6. Carolus rolls a 6, for a Defense Total of 11, and easily blocks the thrust.
-
-In the next round, Carolus rolls a 10, for a total of 16, while Moratamis rolls a 0, but doesn't botch, for a Defense Total of 8. This gives Carolus a final advantage of 2 points, enough to clip a further Fatigue level from Moratamis. Now that she has a penalty of –5 to Attack and Defense, she decides that she cannot win, and concedes the contest so that Carolus cannot cast a spell on her. Carolus goes off feeling that he wriggled out of that one quite nicely, and Moratamis turns her attention to other matters.
+| Weakening Total - Resistance Total | Fatigue Levels Lost |
+| ---------------------------------- | ------------------- |
+| 0                                  | None                |
+| 1–5                                | 1                   |
+| 6–10                               | 2                   |
+| 11–15                              | 3                   |
+| 16–20                              | 4                   |
+| 21–25                              | 5                   |
+| 26–30                              | 6                   |
+| etc.                               | etc.                |
 
 Certamen itself never causes wounds, merely exhaustion. If you lose more Fatigue levels than you have, you spend one more hour unconscious for every additional level lost.
 
@@ -11338,51 +11194,83 @@ The third way to win certamen is to maintain concentration in the face of distra
 
 Loss of concentration, however, does not necessarily mean that certamen is over and that a victor is decided. If the victor under these circumstances refuses the honor, and the combatant who lost concentration agrees, the battle may resume until a clear victor emerges. A magus might refuse a victory by loss of concentration for reasons of honor, or because he intends to do more harm.
 
+> #### Certamen Example
+>
+> Moratamis of Guernicus harbors suspicions about what Carolus of Tytalus gets up to at night. She asks him to tell her what he is doing, and he refuses. She doesn't have enough for an official Quaesitorial investigation, so she challenges him to certamen, demanding that he tell her what he has done if he loses. Carolus agrees, with the condition that Moratamis will not ask him about his activities again unless she is on official Quaesitorial business. (He has to add the condition, although he would prefer not to, or else the Tribunal is unlikely to uphold a result in his favor.) Carolus suspects he will lose, as Moratamis is older and thus more powerful.
+>
+> **Moratamis's Arts are:** Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
+>
+> Her Characteristics are: Int +2, Per +3, Pre +2, Com +1, Str -2, Sta +1, Dex -2, Qik -1
+>
+> Her relevant Abilities are: Finesse 2, Parma Magica 5, Penetration 3.
+>
+> **Carolus's Arts are:** Cr 2, In 0, Mu 5, Pe 10, Re 7; An 3, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 7, Te 6, Vi 4
+>
+> His Characteristics are: Int +2, Per -1, Pre -1, Com -1, Str 0, Sta +1, Dex +4, Qik 0
+>
+> His relevant Abilities are: Finesse 2, Parma Magica 3, Penetration 1.
+>
+> Moratamis challenged, so she picks the Technique. She is fairly sure that the only Technique she is much better at is Intellego, and she's also sure that Carolus knows this too. She thinks that her scores in Rego and Creo are fairly balanced with Carolus's, though. She knows that, if she proposes Intellego first, Carolus will veto it. On the other hand, if she proposes Rego first, Carolus might have other reasons to veto that, and thus let her use Intellego. Thus, she proposes Rego.
+> 
+> Carolus accepts, knowing full well that he'll be stuck with Intellego if he doesn't. For the Form, he proposes Imaginem. He knows that Moratamis studies that, but also that he has a reputation as a bit of an Imaginem specialist. He hopes that she'll think he thinks he has an advantage she doesn't know about. It works;
+>
+> Moratamis vetoes his first choice. Carolus then settles on Terram, where he is fairly sure he is better.
+>
+> The two now have the following statistics:
+>
+> **Moratamis:** Initiative: +1 (Qik –1 + Finesse 2), Attack: +10 (Rego: Rego 8 + Pre +2) or +2 (Terram: Terram 0 + Pre +2), Defense +11 (Rego: Rego 8 + Per +3) or +3 (Terram: Terram 0 + Per +3), Weakening +5 (Int +2 + Penetration 3), Resistance +6 (Sta +1 + Parma Magica 5)
+>
+> **Carolus:** Initiative: +2 (Oik 0 + Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4 (Sta +1 + Parma Magica 3)
+>
+> The phantasms for the contest are the stones of the floor under their feet, which try to rise up and engulf them.
+>
+> The two roll Initiative. Moratamis rolls a 2, for a total of 3, and Carolus rolls a 5, for a total of 7. Carolus acts first.
+>
+> On the first round, Carolus chooses to put Rego into attack and Terram into defense, while Moratamis chooses to defend with Rego and attack with Terram. Carolus attacks first, and rolls a 12 (lucky!), for an Attack Total of 18. Moratamis rolls a 7, for a Defense Total of 18. On a dead heat, the defender wins, and Carolus cannot get through. Then Moratamis attacks. She rolls a 5, for a total of 7, while Carolus rolls a 2, also for a total of 7. Another dead heat, so nothing happens. The stones jump around a bit, but nothing happens.
+>
+> On the next round, Moratamis switches her Arts, in the hope of breaking through Carolus's defenses. Carolus still attacks first, and rolls a 10, for an Attack Total of 16. Moratamis rolls a zero, but doesn't botch, for a Defense Total of 3. Carolus has an Attack Advantage of 13. This adds to his Weakening Score of +3, for a Weakening Total of 16. Moratamis subtracts her Resistance of 6, so the final damage is 10. Moratamis thus loses two Fatigue levels, giving her a –1 penalty on Attack and Defense.
+> 
+> On her attack, Moratamis rolls a 2, for an Attack Total of 11, including the –1 penalty. Carolus rolls a 6, for a Defense Total of 11. Thanks to having already weakened Moratamis, he beats off the attack. The stones have climbed up to around Moratamis's knees.
+>
+> Moratamis decides that her switch of strategy was a mistake, and switches back. Carolus rolls a 20 (lucky again!) for an Attack Total of 26. Moratamis rolls an 8, for a Defense Total of 18. Carolus has an Attack Advantage of 8, which translates into a single Fatigue level lost. Moratamis now has a –3 penalty to Attack and Defense.
+>
+> She rolls a 7, which gives her an Attack Total of 6. Carolus rolls a 4, for a Defense Total of 9, easily safe.
+>
+> Moratamis is now hoping for a lucky break, and Carolus only rolls a 6, for an Attack Total of 12. Moratamis rolls a 6, for a Defense Total of 14, including the penalty. She is safe this round. For her counterattack, she rolls a 5, for an Attack Total of 4. Carolus rolls a zero, but doesn't botch, and still has a Defense Total of 5. He is safe, and the stones are swarming up around Moratamis's waist.
+>
+> The next round remains evenly balanced, neither magus managing to weaken the other. In the following round, Carolus rolls a 9, for an Attack Total of 15, while Moratamis only manages a 4, for a Defense Total of 12. This gives Carolus a Weakening Total of 6, which Moratamis is just able to resist. Still, she feels it and a few stones boil up to her chest for a moment. She rolls a 7 for her attack, for an Attack Total of 6. Carolus rolls a 6, for a Defense Total of 11, and easily blocks the thrust.
+> 
+> In the next round, Carolus rolls a 10, for a total of 16, while Moratamis rolls a 0, but doesn't botch, for a Defense Total of 8. This gives Carolus a final advantage of 2 points, enough to clip a further Fatigue level from Moratamis. Now that she has a penalty of –5 to Attack and Defense, she decides that she cannot win, and concedes the contest so that Carolus cannot cast a spell on her. Carolus goes off feeling that he wriggled out of that one quite nicely, and Moratamis turns her attention to other matters.
+
 ## Mysteries
 
-ysteries are paths to greater magical power requiring sacrifices beyond the time for study. Many magi within the Order of Hermes pursue
+Mysteries are paths to greater magical power requiring sacrifices beyond the time for study. Many magi within the Order of Hermes pursue mysteries, and four of the Houses are Mystery Cults — organizations that teach a mystery. Extensive details on the mysteries of the Hermetic Houses are given in Houses of Hermes: Mystery Cults, while The Mysteries Revised Edition gives extensive information on other mysteries found within the Order of Hermes. This section provides information about the outermost laver of the House mysteries, and one of the deeper mysteries for each House. Player characters in the Mystery Cult Houses are Initiated into the Outer Mystery as apprentices, but must seek Initiation into deeper mysteries in play. Rules for Mystery Initiation are given in the Long-Term Events chapter, on page 387.
 
-mysteries, and four of the Houses are Mystery Cults — organizations that teach a mystery. Extensive details on the mysteries of the Hermetic Houses are given in Houses of Hermes: Mystery Cults, while The Mysteries Revised Edition gives extensive information on other mysteries found within the Order of Hermes. This section provides information about the outermost laver of the House mysteries, and one of the deeper mysteries for each House. Player characters in the Mystery Cult Houses are Initiated into the Outer Mystery as apprentices, but must seek Initiation into deeper mysteries in play. Rules for Mystery Initiation are given in the Long-Term Events chapter, on page 387.
-
-## Bjornaer — The Heartbeast
+### Bjornaer — The Heartbeast
 
 Bjornaer magi can take the form of a single mundane creature. This is usually an animal or bird, but it can be a plant. The heartbeast is always a living thing, and usually a noble creature. No known magus has had an earthworm heartbeast, for example. A maga's heartbeast displays a central aspect of her nature, so that her personality, even in human form, will resemble that of the creature. Initiates of the Bjornaer mystery gain the Ability Heartbeast. This Ability cannot be gained by any character who has not been Initiated into the mystery. For Initiates of the Outer Mystery, the Heartbeast Ability is only used when something tries to stop the magus changing forms. In that case, a roll of Stamina + Heartbeast against an Ease Factor set by the storyguide allows the character to change anyway.
 
-A Bjornaer maga can only change into one kind of animal, and that kind cannot be altered by Hermetic magic. The transformed Bjornaer can be changed, by Muto Animal magic, for example, but the kind of animal that her heartbeast is cannot be changed. A Bjornaer maga really is her heartbeast, and so remaining in that form does not count as being under an active mystical effect (see Warping, page 389). Of course, she is really human as well, so remaining human does not cause Warping either. Hermetic magic is unable to tell whether an animal is actually a Bjornaer,
-
-and the same applies to most other kinds of magic. (This assumes that the maga is trying to hide her nature, of course.) As a result, a Bjornaer in animal form is affected by Animal spells, not Corpus or Mentem spells. Spells already in effect before the transformation remain in effect, however.
+A Bjornaer maga can only change into one kind of animal, and that kind cannot be altered by Hermetic magic. The transformed Bjornaer can be changed, by Muto Animal magic, for example, but the kind of animal that her heartbeast is cannot be changed. A Bjornaer maga really is her heartbeast, and so remaining in that form does not count as being under an active mystical effect (see Warping, page 389). Of course, she is really human as well, so remaining human does not cause Warping either. Hermetic magic is unable to tell whether an animal is actually a Bjornaer, and the same applies to most other kinds of magic. (This assumes that the maga is trying to hide her nature, of course.) As a result, a Bjornaer in animal form is affected by Animal spells, not Corpus or Mentem spells. Spells already in effect before the transformation remain in effect, however.
 
 Bjornaer magi can cast spells while in the form of their heartbeast, but they cannot speak or make the appropriate gestures, and thus normally take a –15 penalty.
 
-The transformation takes only a moment, and affects only the maga. None of her possessions are transformed. A Bjornaer who has been physically changed by magic may try to
-
-assume her normal form or her heartbeast form. She must roll Stamina + Heartbeast against an Ease Factor set by the storyguide. As a rule of thumb, 3 + the magnitude of the transforming magic is a reasonable number. If she does resume one of her natural forms, the other magic is dispelled.
+The transformation takes only a moment, and affects only the maga. None of her possessions are transformed. A Bjornaer who has been physically changed by magic may try to assume her normal form or her heartbeast form. She must roll Stamina + Heartbeast against an Ease Factor set by the storyguide. As a rule of thumb, 3 + the magnitude of the transforming magic is a reasonable number. If she does resume one of her natural forms, the other magic is dispelled.
 
 Bjornaer magi do not treat physical transformations as major magical effects for the purposes of gaining Warping Points. However, a magical transformation which is maintained over time will grant one Warping Point per year, as it is still a continuing mystical effect.
 
 Finally, Bjornaer magi cannot bind familiars. The reasons for this are debated, but the fact is uncontroversial.
 
-INITIATION OF SECRET NAME
+> #### Ringing the Changes
+>
+> There are three basic types of shapechangers in Mythic Europe, and they have different responses to magic due to their natures.
+>
+> The use of a spell or invested item to change shape (including those with the Skinchanger Virtue) does not change the basic underlying fact that the target is human. While he may be affected by Animal spells, he may also be affected by Corpus and Mentem spells, and any ongoing magics using these Forms cast prior to transformation remain in effect. The transformation magic is bound by a duration, during which time the spell or effect may be detected with Intellego Vim spells. The Penetration Total of the caster must exceed the Magic Resistance of anyone that the shapechanged human wishes to touch (or attack). Furthermore, remaining in this form may incur Warping.
+>
+> Those who have an innate supernatural power to change shape (represented by Virtues or Flaws such as Shapeshifter and Lycanthrope) only invoke a magical effect at the moment of transformation. Thus the shapechange is not an active effect all the time that character is in animal form. Consequentially, Penetration is not required for mundane attacks, nor does the creature radiate magic or suffer warping due to the transformation. However, this type of shapechanger is still a human in an animal shape, and so Corpus and Mentem magics are effective, as are Animal spells. An exception is the lycanthrope, who does not retain his human mind when transformed, and therefore cannot be affected by Mentem spells, although Corpus spells still work.
+>
+> The Heartbeast is the most total transformation of the three; unlike the other two, the Bjornaer magus does not merely take the physical characteristics (the 'accidents') of an animal shape; he actually becomes the animal in question. Despite retaining his human intelligence, he cannot be affected by Mentem or Corpus magics while in heartbeast form. Spells already in effect before the transformation remain in effect, however. Similarly, Animal spells cast on the heartbeast remain in effect after transformation to human form. As with shapeshifters, there is no ongoing magic beyond the moment of transformation.
 
-Ease Factor: 15 (Minor Virtue known to the Mystagogue)
-
-Script Bonus: +8
-
-Script Details: On the anniversary of the Initiate's birth, the Mystagogue and the Initiate enter a round tent which has been set up on an ancestor site (+3) and perform a ritual cleansing together which must end at the hour of the Initiate's birth (+2), Initiate acquires a minor version of the Weak Magic Resistance Flaw (+3 for Minor Ordeal).
-
-## Ringing the Changes
-
-There are three basic types of shapechangers in Mythic Europe, and they have different responses to magic due to their natures.
-
-The use of a spell or invested item to change shape (including those with the Skinchanger Virtue) does not change the basic underlying fact that the target is human. While he may be affected by Animal spells, he may also be affected by Corpus and Mentem spells, and any ongoing magics using these Forms cast prior to transformation remain in effect. The transformation magic is bound by a duration, during which time the spell or effect may be detected with Intellego Vim spells. The Penetration Total of the caster must exceed the Magic Resistance of anyone that the shapechanged human wishes to touch (or attack). Furthermore, remaining in this form may incur Warping.
-
-Those who have an innate supernatural power to change shape (represented by Virtues or Flaws such as Shapeshifter and Lycanthrope) only invoke a magical effect at the moment of transformation. Thus the shapechange is not an active effect all the time that character is in animal
-
-form. Consequentially, Penetration is not required for mundane attacks, nor does the creature radiate magic or suffer warping due to the transformation. However, this type of shapechanger is still a human in an animal shape, and so Corpus and Mentem magics are effective, as are Animal spells. An exception is the lycanthrope, who does not retain his human mind when transformed, and therefore cannot be affected by Mentem spells, although Corpus spells still work.
-
-The Heartbeast is the most total transformation of the three; unlike the other two, the Bjornaer magus does not merely take the physical characteristics (the 'accidents') of an animal shape; he actually becomes the animal in question. Despite retaining his human intelligence, he cannot be affected by Mentem or Corpus magics while in heartbeast form. Spells already in effect before the transformation remain in effect, however. Similarly, Animal spells cast on the heartbeast remain in effect after transformation to human form. As with shapeshifters, there is no ongoing magic beyond the moment of transformation.
-
-## Secret Name (Minor house Mystery)
+#### Secret Name (Minor House Mystery)
 
 This mystery permanently severs the sympathetic resonances of the magus's name, and forges them anew with a name known only to the Mystagogue and the Initiate. All Arcane Connections to the magus which date from before the ritual immediately expire upon its completion, and all Sympathetic Connections become invalid. The magus produces new Arcane Connections after the ritual has taken place, but no Sympathetic Connection will ever work against him again, even if created after the ritual. The Mystagogue provides a secret name which allows the magus to work magic upon himself; without this he would not be able to use the Personal Range. However, anyone knowing the secret name — such as the Mystagogue, or wizards who know the mystery of Synthemata Magic (see The Mysteries Revised Edition) — need not subtract the spell level from the Penetration total of any spells cast against the target, much like the Weak Magic Resistance Flaw. Clan Ilfetu considers these secret names to be a sacred trust, and has never been suspected of misusing them.
 
@@ -11390,43 +11278,50 @@ The Initiate chooses a new public name as well as receiving the secret one. Ther
 
 The Initiation of this Mystery fails if the magus has a Talisman or a Familiar; these enchantments form too great a tie to the magus's past identity to be broken by the Initiation process.
 
-## Oriamon — The Enigma
+#### Initiation of Secret Name
+
+Ease Factor: 15 (Minor Virtue known to the Mystagogue)
+
+Script Bonus: +8
+
+Script Details: On the anniversary of the Initiate's birth, the Mystagogue and the Initiate enter a round tent which has been set up on an ancestor site (+3) and perform a ritual cleansing together which must end at the hour of the Initiate's birth (+2), Initiate acquires a minor version of the Weak Magic Resistance Flaw (+3 for Minor Ordeal).
+
+
+### Criamon — The Enigma
 
 No-one outside House Criamon really understands what their mystery is about. All Criamon magi have a score of one in the Ability Enigmatic Wisdom, and may place experience points in it at character creation. This Ability assists with the comprehension of Wizard's Twilight, but it also makes the experience more likely (see page 228). Characters may not learn Enigmatic Wisdom without being initiated into the mystery of the Enigma.
 
-The mysteries of House Criamon are divided into several Paths. The earliest step on the Path of the Body is described here, and the rest of the major Paths are described in Houses of Hermes: Mystery Cults.
+The mysteries of House Criamon are divided into several Paths. The earliest step on the Path of the Body is described here, and the rest of the major Paths are described in *Houses of Hermes: Mystery Cults*.
 
-## Enigmatic Wisdom
+#### Enigmatic Wisdom
 
 A far-reaching perception of strange and baffling phenomena that helps you understand their nature, though you may seem strange or even ludicrous to the uninitiated. Your score in this Ability is added to rolls to interpret dreams and riddles, and to understand phantasms and arcane or mysterious situations. Thanks to this Ability, Criamon magi go into Wizard's Twilight (see page 228) more often, but survive it better than most.
 
-Specialties: interpreting signs, explaining the Enigma, Twilight.
+*Specialties:* interpreting signs, explaining the Enigma, Twilight.
 
-## The Path of the Body
+#### The Path of the Body
 
 The Path of the Body focuses on the human form. Some Criamon magi believe that the human body and the universe reflect each other structurally, so that knowing the body illuminates the prison of time. Others enhance the body, as a tool, and as a vehicle for escape from the universe. The Criamon Path of the Body is in many ways the inverse of Hermetic alchemy, which assumes the universe is perfect and a magus who reflects it perfectly will become immortal. Criamon magi assume that the universe, like each body, is inevitably decaying.
 
 An unusually large proportion of the Primi of the House followed this Path. The followers of the Path of the Body tend toward practical, useful insights. Primi who have achieved the Microcosmic Station on this path are active administrators under whom the House coordinates its ventures effectively.
 
-# The Avenue of Subduing the Meat and the Station of the Perfect Tool
+#### The Avenue of Subduing the Meat and the Station of the Perfect Tool
 
 Several ritual investitures assist magi to find the first Station of the Body, each descended from a different tradition of mystics adopted into the early House. Those following this Avenue develop control over their body's desires and distractions, usually through painful mortifications, or fatiguing exertions, that last a year. A handful of magi have followed this avenue by being transformed into plants for a year. The Avenue ends with a guide acting as midwife for a symbolic rebirth.
 
-At the first Station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic, because it is adapted for magic, and magic, in turn, is adapted for it. The magus's close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this Station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding of magical events to minister
-
-to the body. They may use their Enigmatic Wisdom score in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.
+At the first Station of the Path of the Body, the magus realizes that the body is the perfect tool for Hermetic magic, because it is adapted for magic, and magic, in turn, is adapted for it. The magus's close inspection of the body allows the development of Minor Potency in an aspect of the Art of Corpus. Magi who have found this Station see the intrinsic links between the body and the magical energies it wields, and so can use their understanding of magical events to minister to the body. They may use their Enigmatic Wisdom score in place of Chirurgy and Medicine in rolls. They also know, instinctively, if their body is ill, and where, although they may not know the appropriate treatment.
 
 Initiates of this station are bound by the lifestyle of the House (Vow) and find it more difficult to use their magic when their body is ill (Deleterious Circumstances). Some illnesses do not block certain mystical effects: the usual example given is that fevers do not restrict Ignem spells, because they are caused by a surplus of fiery humors. Wounds do not prevent magic use, of themselves, but open the body to infections, which may.
 
-Initiation of The Avenue of Subduing the Meat, Which Reaches the Station of the Perfect Tool
+#### Initiation of The Avenue of Subduing the Meat, Which Reaches the Station of the Perfect Tool
 
-Ease Factor: 21, as Major Virtue (Minor Potency in an aspect of Corpus, may use Enigmatic Wisdom in lieu of Medicine and Chirurgy.)
+**Ease Factor:** 21, as Major Virtue (Minor Potency in an aspect of Corpus, may use Enigmatic Wisdom in lieu of Medicine and Chirurgy.)
 
-Script Bonus: +15:
+**Script Bonus:** +15:
 
-Script Details: Major Ordeal, constructed of three minor flaws (Vow – to not pollute the body and use it aptly, Deleterious Circumstances – while ill, Disfigured – stigmata) +9, Sympathetic Bonus (a complete year cycle as a plant, or similar) +3, Special time and place (Symbolic rebirth) +3.
+**Script Details:** Major Ordeal, constructed of three minor flaws (Vow – to not pollute the body and use it aptly, Deleterious Circumstances – while ill, Disfigured – stigmata) +9, Sympathetic Bonus (a complete year cycle as a plant, or similar) +3, Special time and place (Symbolic rebirth) +3.
 
-## Merinita — Faerie Magic
+### Merinita — Faerie Magic
 
 A character may not be Initiated into this mystery unless she has been touched by the fay.
 
@@ -11436,27 +11331,23 @@ Characters initiated into Faerie Magic are attuned to both Magical and Faerie au
 
 Initiates of the Outer Mystery gain access to special Ranges, Durations, and Targets. They may use these with Spontaneous, Ritual, and Formulaic magic, although some of them require Ritual magic. Spells created using these parameters can only be learned by characters with Faerie Magic.
 
-Road (Range): The maga may target anyone or anything on the same road or path as her. The identity of roads and paths is not always clear, and the troupe must decide if things are difficult. Two paths may cross each other, but two paths may not become one. In that case, either one path joins the second, or the junction is actually the joining of three paths. The maga need not be able to see her target, but she must be able to sense it somehow, unless the spell is an Intellego effect intended to find out if something is there.
+*Road (Range):* The maga may target anyone or anything on the same road or path as her. The identity of roads and paths is not always clear, and the troupe must decide if things are difficult. Two paths may cross each other, but two paths may not become one. In that case, either one path joins the second, or the junction is actually the joining of three paths. The maga need not be able to see her target, but she must be able to sense it somehow, unless the spell is an Intellego effect intended to find out if something is there.
 
 People are only on a road if they are actually between the edges of the path, at least partially. Buildings are on a road if the primary access to the building is from that road. Plants and small objects must be between the edges of the path.
 
 For the purposes of spell level calculation, Road is the same level of range as Voice.
 
-Bargain (Duration): A spell with Bargain duration can only be cast on someone who has just concluded a bargain or agreement with the maga. The maga's Penetration total is doubled, and if the spell Penetrates the target's Magic Resistance, nothing happens unless the target breaks the bargain. If he does, the spell takes effect without the need to bypass Magic Resistance again. Bargain spells have a second duration which determines how long the spell lasts after it takes effect. To calculate the level of a Bargain spell, calculate the level of the spell that
+*Bargain (Duration):* A spell with Bargain duration can only be cast on someone who has just concluded a bargain or agreement with the maga. The maga's Penetration total is doubled, and if the spell Penetrates the target's Magic Resistance, nothing happens unless the target breaks the bargain. If he does, the spell takes effect without the need to bypass Magic Resistance again. Bargain spells have a second duration which determines how long the spell lasts after it takes effect. To calculate the level of a Bargain spell, calculate the level of the spell that takes effect when the bargain is broken, and add three magnitudes. The spell can only enforce a bargain for a maximum of a Year.
 
-takes effect when the bargain is broken, and add three magnitudes. The spell can only enforce a bargain for a maximum of a Year.
+*Fire (Duration):* Spells with this duration can only be cast on fires, and they last until the fire targeted goes out. Because the fire is the target, the form of the spell must be Ignem or Imaginem. It is possible that the spell could persist indefinitely if the fire is carefully maintained. Fire is the same level of duration as Moon.
 
-Fire (Duration): Spells with this duration can only be cast on fires, and they last until the fire targeted goes out. Because the fire is the target, the form of the spell must be Ignem or Imaginem. It is possible that the spell could persist indefinitely if the fire is carefully maintained. Fire is the same level of duration as Moon.
+*Until (Condition) (Duration):* The spell lasts until some condition is met, such as speaking the name of God, or some item is touched with iron, or until a word in a list is said out of place (the days of the week are spoken out of order, for example). Until (Condition) is the same level of duration as Year, and also requires a Ritual spell. Until (Condition) spells cannot normally be dispelled by magic unless that is part of the condition. The ending condition must be specified when the spell is cast. Spells with this duration expire if the caster passes into Twilight, even temporarily, and also expire when the caster or primary target dies.
 
-Until (Condition) (Duration): The spell lasts until some condition is met, such as speaking the name of God, or some item is touched with iron, or until a word in a list is said out of place (the days of the week are spoken out of order, for example). Until (Condition) is the same level of duration as Year, and also requires a Ritual spell. Until (Condition) spells cannot normally be dispelled by magic unless that is part of the condition. The ending condition must be specified when the spell is cast. Spells with this duration expire if the caster passes into Twilight, even temporarily, and also expire when the caster or primary target dies.
+*Year + 1 (Duration):* The spell lasts for a year and a day. This is the same level of duration as Year, and also requires a ritual, but the duration is determined by the actual time that passes, rather than by the turning of the seasons; the spell ends at the same time of day as when it was cast, a year and a day later. Year + 1 spells can be dispelled according to the normal rules.
 
-Year + 1 (Duration): The spell lasts for a year and a day. This is the same level of duration as Year, and also requires a ritual, but the duration is determined by the actual time that passes, rather than by the turning of the seasons; the spell ends at the same time of day as when it was cast, a year
+*Bloodline (Target):* A bloodline is all the people descended by blood from a given person, the immediate target. Only the immediate target need be within the spell's range, but all members of the bloodline are affected immediately. Spouses do not count as part of the bloodline. The spell applies to all members of the bloodline born during its duration, as well as those already living when it is cast. As with all spells that target multiple people, every individual gets Magic Resistance, if applicable. The category is the same level as Structure. It is possible to design a spell with Bloodline target so that it does not warp any members of a particular bloodline (see Warping, page 389).
 
-and a day later. Year + 1 spells can be dispelled according to the normal rules.
-
-Bloodline (Target): A bloodline is all the people descended by blood from a given person, the immediate target. Only the immediate target need be within the spell's range, but all members of the bloodline are affected immediately. Spouses do not count as part of the bloodline. The spell applies to all members of the bloodline born during its duration, as well as those already living when it is cast. As with all spells that target multiple people, every individual gets Magic Resistance, if applicable. The category is the same level as Structure. It is possible to design a spell with Bloodline target so that it does not warp any members of a particular bloodline (see Warping, page 389).
-
-## Faerie Magic
+#### Faerie Magic
 
 Faerie Magic is an Arcane Ability learned after Merinitae Initiate the Outer Mystery of Faerie Magic, which represents how their magic differs from normal Hermetic magic. This includes applying faerie thinking to arcane activities, usually by drawing out sympathetic connections between magical and mundane things.
 
@@ -11474,21 +11365,21 @@ Faerie Magic might also represent the union of Faerie Lore and Magic Lore, the k
 
 *Specialties:* faerie vis, experimenting, inventing spells, charms, lore (Arcane)
 
-## Charms
+#### Charms
 
 Charms are casting aids that identify a specific magical effect using sympathetic magic, which all magi who study Faerie Magic learn how to make. They can be physical objects, like sculptures or drawings; or performances, like songs or stories; or even arcane pronouncements or ceremonies, like prophecy or naming.
 
-A temporary charm takes about ten minutes to design, and must be used right away, typically with Spontaneous magic. More lasting charms, or permanent charms, take several hours, and must involve a special object that the maga wields when she activates the charm, incorporating the object into the effect, if this object is damaged, the charm must be remade.
+A **temporary charm** takes about ten minutes to design, and must be used right away, typically with Spontaneous magic. More lasting charms, or **permanent charms**, take several hours, and must involve a special object that the maga wields when she activates the charm, incorporating the object into the effect, if this object is damaged, the charm must be remade.
 
 A maga who has a score in Faerie Magic and an Arcane Connection to her target may use a charm as a sympathetic representation, increasing her Penetration Multiplier by two. This requires a roll when the charm is made: composing a song might use Communication + Music, while a drawing might be Dexterity + Craft. The maga produces an effective charm on a roll of 6+, or 9+ for a permanent charm. Other magi can do this without Faerie Magic, but it takes them longer and they need a higher total on the roll (see Sympathetic Connections, page 220).
 
 Temporary charms may only be used once, as they always include unique properties associated with the effect, though a permanent charm associated with a special object may be used whenever it is applicable. A maga may prepare any number of charms in advance, but may only incorporate one charm into a given spell in this way.
 
-## Illusion Mysteries
+### Illusion Mysteries
 
 These Mysteries deal with illusions and images, including aspects of the physical world that faeries can see but most humans cannot. These include unusual durations for Faerie Magic spells that can last nearly forever.
 
-## Mystery Cult: The Followers of Pendule
+#### Mystery Cult: The Followers of Pendule
 
 Pendule is regarded as something of a legend within the Order; no one knows how much of his tale is true and how much is fanciful. According to the stories, the Provençal wizard was discovered by Flambeau and refused when given the choice to "join or die." He was powerful enough to evade the fiery Founder and his followers who sought to destroy him, and many comedic tales depicting Pendule as a trickster defeating the mighty and blustery Flambeau with wit and illusions have become part of Hermetic lore.
 
@@ -11500,64 +11391,56 @@ Followers of Pendule usually Initiate Spell Timing and Glamour (described in Hou
 
 Pendule quietly succumbed to death in 854 AD, but not before imparting one last magical secret to each of his followers. To maintain this tradition, the Inner Mystery of Perpetuity is usually kept from a maga until her master is dying, Initiated as a final lesson from teacher to student.
 
-Sample Followers of Pendule Initiation: Spell Timing
+#### Sample Followers of Pendule Initiation: Spell Timing
 
-Ease Factor: 15
+**Ease Factor:** 15 (Minor Virtue known to the Mystagogue)
 
-(Minor Virtue known to the Mystagogue)
+**Script Bonus:** +12
 
-Script Bonus: +12
+**Script Details:** The Initiate undergoes a ceremony wherein she must go an entire day and night without sleeping, casting a non-Fatiguing Imaginem spell every round to count how many individual moments pass (+3). After this rite she gains three Minor Flaws to represent how her magic becomes more illusionary, and her way of thinking about time becomes more rigid: Harmless Magic (+3), Poor Memory (faces) (+3), and a Social Handicap (+3). Because of this ordeal, the Initiate is said to begin to more closely resemble Pendule, and many of his followers adopt wild, multicolored clothing, dye their hair, or radically alter their physical appearance soon after their Initiation.
 
-Script Details: The Initiate undergoes a ceremony wherein she must go an entire day and night without sleeping, casting a non-Fatiguing Imaginem spell every round to count how many individual moments pass (+3). After this rite she gains three Minor Flaws to represent how her magic becomes more illusionary, and her way of thinking about time becomes more rigid: Harmless Magic (+3), Poor Memory (faces) (+3), and a Social Handicap (+3). Because of this ordeal, the Initiate is said to begin to more closely resemble Pendule, and many of his followers adopt wild, multicolored clothing, dye their hair, or radically alter their physical appearance soon after their Initiation.
-
-# Spell Timing (Minor Illusion Mustery)
+#### Spell Timing (Minor Illusion Mustery)
 
 This Mystery gives a maga access to several new Durations for her spells. Only those who have Initiated this Mystery may cast or invent spells and effects that use them.
 
 Three of these new durations allow the maga to cast the spell but keep it dormant, "holding" it for a specified length of time. The effect and its Penetration are evaluated when it is released, as if she had just cast the spell. If the parameters are no longer applicable (the target has moved out of range, for example, or dramatically changed size), the spell has no effect.
 
-Held (Duration): This duration is the same level as Concentration. The maga may cast the spell as normal, but the effect is delayed for as long as she concentrates. When she releases it, treat it as if cast with Momentary duration.
+*Held (Duration):* This duration is the same level as Concentration. The maga may cast the spell as normal, but the effect is delayed for as long as she concentrates. When she releases it, treat it as if cast with Momentary duration.
 
-Midday/Midnight (Duration): This duration is equivalent to Sun, but does not manifest until dawn, dusk, noon, or midnight. It then lasts until the next dawn, dusk, noon, or midnight. For example, a spell cast just after dawn would not manifest until noon, and would then last until dusk.
+*Midday/Midnight (Duration):* This duration is equivalent to Sun, but does not manifest until dawn, dusk, noon, or midnight. It then lasts until the next dawn, dusk, noon, or midnight. For example, a spell cast just after dawn would not manifest until noon, and would then last until dusk.
 
-Season (Duration): This duration is held until the start of the next equinox or solstice, and lasts only until the following equinox or solstice. It is the same level as Moon, but requires a ritual spell like Year.
+*Season (Duration):* This duration is held until the start of the next equinox or solstice, and lasts only until the following equinox or solstice. It is the same level as Moon, but requires a ritual spell like Year.
 
 Three other durations have conditions that must be built into the spell when it is designed, similar to the Until (Condition) Duration.
 
-While (Condition) (Duration): The target must perform some activity, such as a musical
+*While (Condition) (Duration):* The target must perform some activity, such as a musical performance or reading a book, or fulfill some common and temporary physical condition, such as sleeping or being drunk. As long as that condition lasts, the spell remains in effect. This is the same level as Concentration.
 
-performance or reading a book, or fulfill some common and temporary physical condition, such as sleeping or being drunk. As long as that condition lasts, the spell remains in effect. This is the same level as Concentration.
+*Not (Condition) (Duration):* The spell lasts for as long as the target does not fulfill some common physical condition, such as sleeping or speaking. It is equivalent in level to Sun duration, but cannot last longer than a month.
 
-Not (Condition) (Duration): The spell lasts for as long as the target does not fulfill some common physical condition, such as sleeping or speaking. It is equivalent in level to Sun duration, but cannot last longer than a month.
+*If (Condition) (Duration):* This effect triggers if the target fulfills a specific condition. It has an additional Duration which determines how long the triggered spell lasts after it takes effect. To determine the level, you should add four magnitudes to the level calculated based on the Duration that the spell has when it takes effect, and it must be cast as a ritual spell. The spell expires without triggering if the caster passes into Twilight, even temporarily, if the caster dies, or if a year passes.
 
-If (Condition) (Duration): This effect triggers if the target fulfills a specific condition. It has an additional Duration which determines how long the triggered spell lasts after it takes effect. To determine the level, you should add four magnitudes to the level calculated based on the Duration that the spell has when it takes effect, and it must be cast as a ritual spell. The spell expires without triggering if the caster passes into Twilight, even temporarily, if the caster dies, or if a year passes.
+In addition, this Mystery allows the Merinita's spells to have **recurring** effects—she designs the spell so that from then on it always triggers in response to an environmental or physical condition, increasing its level as described on the chart in the insert. The recurring spell must be cast as a ritual, and effects that require a ritual because of their unusual effects or non-Hermetic origins (not because of their level or spell parameters) cannot recur. For example, a ritual with Year duration can be made to recur, but a lasting effect like Chirurgeon's Healing Touch (CrCo20) or a unique effect like Breath of the Open Sky (ReAu40) cannot.
 
-In addition, this Mystery allows the Merinita's spells to have recurring effects—she designs the spell so that from then on it always triggers in response to an environmental or physical condition, increasing its level as described on the chart in the insert. The recurring spell must be cast as a ritual, and effects that require a ritual because of their unusual effects or non-Hermetic origins (not because of their level or spell parameters) cannot recur. For example, a ritual with Year duration can be made to recur, but a lasting effect like Chirurgeon's Healing Touch (CrCo20) or a unique effect like Breath of the Open Sky (ReAu40) cannot.
+Recurring spells may be given triggers, using the special (Condition) durations above. The cost for making them recur is based on how often they can be activated; if a daily-recurring effect is activated twice in one day, the second trigger will have no effect. Also, spells cannot stack; when a spell recurs, it cancels before starting again. This is not a noticeable interruption; as with an enchanted device, the transition usually appears constant.
 
-Recurring spells may be given triggers, using the special (Condition) durations above. The cost for making them recur is based on how often they
-
-## Recurring Spells
+##### Recurring Spells
 
 Use the frequency that most closely matches how often the spell recurs, rounding up to the next greater magnitude. For example, a spell that recurs every ten minutes adds five magnitudes. Spells cannot recur more often than once per minute.
 
 
 | Frequency | Magnitudes |
-| ----------- | ------------ |
+| --------- | ---------- |
 | minute    | +5         |
 | day       | +4         |
 | month     | +3         |
 | year      | +2         |
 | decade    | +1         |
 
-can be activated; if a daily-recurring effect is activated twice in one day, the second trigger will have no effect. Also, spells cannot stack; when a spell recurs, it cancels before starting again. This is not a noticeable interruption; as with an enchanted device, the transition usually appears constant.
-
-# Verditius — Verditius Magic
+### Verditius — Verditius Magic
 
 Verditius magi are initiated into the Outer Mystery of Verditius Magic, which allows them to incorporate craft Abilities into their magic. To do this, the magus crafts the item from raw materials as part of the first season of enchanting it. For a talisman or standard invested device, this is the season in which it is opened for enchantment. For lesser enchanted items and charged items, this is the whole process. If crafting the item would normally take the magus a season or less, this does not increase the time required for the enchantment. If crafting the item would normally take more than a season, the process takes a whole number of seasons that is at least as long as the time it would normally take the magus to craft the item. For example, if it would normally take the magus four months to craft the item, then it takes him two seasons to craft and enchant it. No matter how long this takes, it only includes the first season of enchantment.
 
-As part of this process, the magus may add details that enhance the Shape and Material bonus of the item. These details give an additional bonus to all the item's existing Shape and Material bonuses equal to the creating magus's Philosophiae score, for the purposes of enchantment. These bonuses apply in the season that the details are added, as well as in the future. Other uses of Shape and Material bonuses, such as the casting bonuses from a talisman, use the standard bonus. Other magi refer to these
-
-details as Verditius Runes, but they are far more complex than that suggests, and do not normally look like actual runes. Other magi get this bonus if they instill appropriate powers into an item created by a Verditius. The total bonus from Shape and Material and Verditius Runes is still limited by the magus's Magic Theory score.
+As part of this process, the magus may add details that enhance the Shape and Material bonus of the item. These details give an additional bonus to all the item's existing Shape and Material bonuses equal to the creating magus's Philosophiae score, for the purposes of enchantment. These bonuses apply in the season that the details are added, as well as in the future. Other uses of Shape and Material bonuses, such as the casting bonuses from a talisman, use the standard bonus. Other magi refer to these details as Verditius Runes, but they are far more complex than that suggests, and do not normally look like actual runes. Other magi get this bonus if they instill appropriate powers into an item created by a Verditius. The total bonus from Shape and Material and Verditius Runes is still limited by the magus's Magic Theory score.
 
 The magus uses the magic of the enchantment to shape the item. This does not require any Craft Ability, although most Verditius magi will use an Ability that they have, and the final form may be impossible to make by mundane means. For example, a Verditius magus could set a gem into a wooden lattice in such a way that it cannot be removed without breaking the wood — even though the lattice shows no signs of having been broken to insert the gem. The final form must be able to sustain itself by mundane means once created; in particular, it must be strong enough to bear its own weight. If the magus is not using Craft Ability and an Ability score is needed, use the magus's Finesse in place of Craft.
 
@@ -11569,7 +11452,7 @@ A Verditius naturally reinforces Verditius Runes as part of the enchantment proc
 
 Verditius magi need casting tools to cast Formulaic or Ritual spells. They make these themselves, in a form that appeals to them, and it only takes an hour or so to make a new one. However, if they lose or cannot reach their tools, they cannot cast their Formulaic spells. Spontaneous spells do not require casting tools, although Flaws hampering Spontaneous magic are very common among the Verditius.
 
-## Hubris
+#### Hubris
 
 A magus's first Initiation into an Inner Mystery of House Verditius is always accompanied by an Ordeal that gives him the minor Flaw: Hubris. Every Verditius magus who seeks knowledge of the Inner Mysteries is plagued by this psychological shortcoming, the growth of exaggerated self-esteem. The magus realizes the worldly benefits he can reap from his magical creations, and his prideful image of himself blossoms. At first this is just a slight personality shift, but as the Verditius magus profits from his magical craft, his hubris grows. This trait, which beleaguered the founder, is inherent in the magic of the Inner Mysteries. In game terms, characters receive the Minor Personality Flaw: Hubris and the corresponding Personality Trait: Hubris 1.
 
@@ -11580,8 +11463,8 @@ For role-playing purposes, the specific flavor of a magus' Hubris should be note
 Hubris increases over time, building like an Ability. Hubris cannot be deliberately changed by the player, unlike other Personality Traits. Specific situations grant Experience Points that are applied to a character's Hubris score. If a Verditius magus receives recognition, fame, money, or vis for his magical efforts, his Hubris score increases. While a degree of pride is inevitable for every Verditius magus, a completely conceited nature is avoidable. Those wishing to keep their Hubris score low need merely avoid many of the behaviors that result in increasing that score.
 
 
-| Experience<br>Points    | Behavior                                                                                                                                                |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Experience    Points    | Behavior                                                                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                       | Selling a charged item or an item of quality. Manufacturing a similar item for another person and receiving pay for your efforts (either money or vis). |
 | 1                       | Repairing or reforging an item for another for pay.                                                                                                     |
 | 1                       | Selling or manufacturing for another a lesser enchanted device.                                                                                         |
@@ -11598,13 +11481,11 @@ Hubris increases over time, building like an Ability. Hubris cannot be deliberat
 
 The higher a magus's Hubris score grows, the harder it is for him to resist situations that will further increase it. A magus with Hubris 4 will be quite tempted to continue to sell magical items, for example. If a character wishes to resist such temptations, in hopes of maintaining a low Hubris score, you can make opposed Personality Trait rolls. This assumes the character has a Personality Trait that she can uses against her Hubris score. She can also spend a Confidence Point to walk away from the situation.
 
-Magi with Hubris scores of 6 and higher are extremely self-centered. These are the magi most prone to engage in vendettas with other Verditius magi, usually with those as self-centered as themselves. Resisting a declared vendetta is difficult. If the maga wishes to resist, you must make an opposed Personality Trait + stress die roll against an Ease Factor of your maga's Hubris score + her challenger's Hubris score. You may
-
-substitute her Intelligence if she does not have a Personality Trait that works opposite Hubris.
+Magi with Hubris scores of 6 and higher are extremely self-centered. These are the magi most prone to engage in vendettas with other Verditius magi, usually with those as self-centered as themselves. Resisting a declared vendetta is difficult. If the maga wishes to resist, you must make an opposed Personality Trait + stress die roll against an Ease Factor of your maga's Hubris score + her challenger's Hubris score. You may substitute her Intelligence if she does not have a Personality Trait that works opposite Hubris.
 
 Demons and other Infernal agents are quite aware that Verditius magi are susceptible to the great sin of pride, and many lick their chops in anticipation as a maga advances through the Inner Mysteries. Some will offer seemingly innocuous assistance to young magi to propel them on their hubristic path: anonymous gifts of vis, coincidental deliveries of Verditius Cult Lore texts to copy, and accidental meetings with wealthy clients willing to pay large amounts for minor magical gewgaws.
 
-# Anchant Casting Tools — Minor House Mystery Virtue
+#### Enchant Casting Tools — Minor House Mystery Virtue
 
 Soon after Fenistour invented casting tools, allowing Verditius magi to cast Formulaic spells, her filii sought to develop a method of enchanting them, hoping to further compensate their brethren for their clumsiness at spell casting. Achieving their goal in the ninth century, Verditius magi began sharing these secrets, developing Scripts so that their fellows could be more easily Initiated into this Mystery. This is particularly useful for those adventurous Verditius magi who like casting spells outside of their laboratory. This is a very common Inner House Mystery among Verditius magi in the thirteenth century.
 
@@ -11612,190 +11493,178 @@ The magus may enchant his casting tools to mirror certain effects of mastered sp
 
 To enchant a casting tool compare the magus's Technique and Form Lab Total to the level of the spell that the casting tool is associated with. A casting tool is closely linked to the spell through the Verditius Mysteries, and so the magus may carve Verditius runes into the casting tool, adding his Philosophiae score to the Lab Total, even if the tool would not normally have a Shape or Material bonus for that spell. If the magus has a Craft Ability that could include making the tools, you may also add his Craft score. Because enchanted casting tools become permanent Arcane Connections to the magus, add his Hubris Personality score to the Lab Total. The magus also receives a bonus for knowing the spell in the first place, adding the magnitude of the spell to the Lab Total, much like the bonus received from knowing a similar spell (page 260). The Lab Total must double the level of the spell plus any additional powers the magus wishes to instill.
 
-Enchant Casting Tools Lab Total:
-Technique + Form + Intelligence
-
-+ Magic Theory + Aura Modifier + Philosophiae
-+ Hubris + Magnitude of Known Spell
-+ Craft (if applicable)
+**ENCHANT CASTING TOOLS LAB TOTAL: Technique + Form + Intelligence + Magic Theory + Aura Modifier + Philosophiae + Hubris + Magnitude of Known Spell + Craft (if applicable)**
 
 The base effect level of the casting tool equals the level of the spell it is used for. The effect level increases based upon the additional effects the magus wishes to enchant it with. There is no limit to the number of effects he can add, as long as his Lab Total plus bonuses is double the final effect level.
 
 
-| Effect level<br>Increase | Casting Tool Effect                                                                                                                                                                                                                                     |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                        | Fast Casting (as a mastered spell).                                                                                                                                                                                                                     |
-| 2                        | Multiple Casting (as a mastered spell).<br>This allows one additional spell.<br>additional spells may be added for a +2<br>effect level increase each.                                                                                                  |
-| 2                        | Quiet Casting (as a mastered spell).<br>This can be taken twice to cast the<br>spell silently.                                                                                                                                                          |
-| + X                      | Increase spell casting roll by x.                                                                                                                                                                                                                       |
-| 10                       | Summon casting tool. The casting tool appears in the magus's hand no matter where he stores it, although this is usually in his sanctum.                                                                                                                |
+| Effect level<br>Increase | Casting Tool Effect             |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| 2                        | Fast Casting (as a mastered spell). |
+| 2                        | Multiple Casting (as a mastered spell). This allows one additional spell. Additional spells may be added for a +2 effect level increase each. |
+| 2                        | Quiet Casting (as a mastered spell). This can be taken twice to cast the spell silently. |
+| + X                      | Increase spell casting roll by x. |
+| 10                       | Summon casting tool. The casting tool appears in the magus's hand no matter where he stores it, although this is usually in his sanctum. |
 | 10                       | Dismiss casting tool. The casting tool disappears from the magus's person, traveling back to a place chosen at the time of enchantment. An Arcane Connection to this place must be bound into the item, and so it is almost always the magus's sanctum. |
 
 Enchanting casting tools requires vis. The magus must spend one pawn of Technique or Form specific vis per 10 levels of the final effect level total, rounded up.
 
-INITIATION OF ENCHANT CASTING TOOLS
+#### INITIATION OF ENCHANT CASTING TOOLS
 
-Ease Factor: 15 (Minor Virtue known to the Mystagogue)
+**Ease Factor:** 15 (Minor Virtue known to the Mystagogue)
 
-Script Bonus: +9
+**Script Bonus:** +9
 
-Script Details: The Mystagogue spends a season with the Initiate, creating casting tools one after another (+3). The Initiate must know the exact time and date that she was Initiated into the House's Outer Mystery. On an anniversary of that date, she ritualistically buries all her casting tools in a Magic regio (+3). If the Initiation is successful, the Initiate learns the Inner House Minor Mystery: Enchant Casting Tools. The buried casting tools are destroyed and the Initiate receives the Minor Flaw Hubris if this her first Initiation into an Inner Mystery, or Limited Magic Resistance with Vim if it is not (Ordeal +3).
+**Script Details:** The Mystagogue spends a season with the Initiate, creating casting tools one after another (+3). The Initiate must know the exact time and date that she was Initiated into the House's Outer Mystery. On an anniversary of that date, she ritualistically buries all her casting tools in a Magic regio (+3). If the Initiation is successful, the Initiate learns the Inner House Minor Mystery: Enchant Casting Tools. The buried casting tools are destroyed and the Initiate receives the Minor Flaw Hubris if this her first Initiation into an Inner Mystery, or Limited Magic Resistance with Vim if it is not (Ordeal +3).
 
-# Ex Miscellanea Traditions
+## Ex Miscellanea Traditions
 
-ouse Ex Miscellanea is not at all unified, consisting of many different magical traditions. A large number are described in Houses of Hermes: Societates,
+House Ex Miscellanea is not at all unified, consisting of many different magical traditions. A large number are described in Houses of Hermes: Societates, including the Columbae, who brought the techniques of warding into Hermetic magic, and the Cult of Orpheus, which may be the heir to an ancient Greek mystery cult. This section provides details of three relatively simple traditions that you may choose for your maga, or you may create your own following the guidelines in the Characters chapter.
 
-including the Columbae, who brought the techniques of warding into Hermetic magic, and the Cult of Orpheus, which may be the heir to an ancient Greek mystery cult. This section provides details of three relatively simple traditions that you may choose for your maga, or you may create your own following the guidelines in the Characters chapter.
-
-## Beast Masters
+### Beast Masters
 
 This tradition commands magic which Hermetic Theory finds very hard: the summoning and control of wild creatures. Every apprentice of this tradition was abandoned by his master in areas of wilderness at a very young age, where he had to fend for himself. During this time he developed a particular affinity for a specific group of animals, which forever shapes his magic. Due to this unusual training, all Beast Masters also have the Virtues of Animal Ken and a Minor Magical Focus with a specific group of animals. They are never taught how to turn into animal form, or how to harm animals, which results in the Incompatible Arts Flaw (MuCo & PeAn). They must take at least one more Flaw to balance their Virtues, and then have only 8 points of Flaws available to them to buy another 8 points of Virtues.
 
-Major Non-Hermetic Virtue: Summon Animals
-Minor Hermetic Virtue: Inoffensive to Animals
-Major Hermetic Flaw: Study Requirement
-Required Virtues and Flaws: Animal Ken, Minor
-Magical Focus; Incompatible Arts.
+*Major Non-Hermetic Virtue:* Summon Animals
+*Minor Hermetic Virtue:* Inoffensive to Animals
+*Major Hermetic Flaw:* Study Requirement
+*Required Virtues and Flaws:* Animal Ken, Minor Magical Focus; Incompatible Arts.
 
-## Summon Animals
+#### Summon Animals
 
-This Ability allows the character to summon mundane animals from potentially long distances away. To use this Ability, the character must be capable of making an audible call to the creatures he wishes to summon, and must be within one day's journey of a habitat where the required species are found. The number of animals which respond to his summons is determined by the score in the character's Ability, see the table
-
-below. He must then make a Communication + Summon Animals roll against an Ease Factor of 9. If successful, the animals arrive within 1 hour of the character making the call, although exceeding the Ease Factor by 3 makes them come in 2 minutes, and exceeding it by 6 summons them in a single round.
+This Ability allows the character to summon mundane animals from potentially long distances away. To use this Ability, the character must be capable of making an audible call to the creatures he wishes to summon, and must be within one day's journey of a habitat where the required species are found. The number of animals which respond to his summons is determined by the score in the character's Ability, see the table below. He must then make a Communication + Summon Animals roll against an Ease Factor of 9. If successful, the animals arrive within 1 hour of the character making the call, although exceeding the Ease Factor by 3 makes them come in 2 minutes, and exceeding it by 6 summons them in a single round.
 
 The character cannot directly communicate with the animals unless he has another Ability which allows him to do so (such as Animal Ken), and they depart naturally, as determined by the storyguide. Even if the character lacks the ability to communicate with the animals, they act as if friendly towards him, and if naturally aggressive, may fight to defend him.
 
-*Specialties*: a particular type of animal (Supernatural)
-
+*Specialties:* a particular type of animal (Supernatural)
 
 | Ability<br>Score | Number of Animals Arriving                                                                                     |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| ---------------- | -------------------------------------------------------------------------------------------------------------- |
 | 1                | 1 animal of Size -2, or equivalent mass (2 of Size -3, 5 of Size -4, 10 of Size -5, 20 of Size -6, etc.)       |
 | 2                | 2 animals of Size -2, or equivalent mass (1 of Size -1, 5 of Size -3, 10 of Size -4, 20 of Size -5, etc.)      |
-| 3                | 5 animals of Size -2, or equivalent mass<br>(1 of Size 0, 2 of Size -1, 10 of Size -3,<br>20 of Size -4, etc.) |
+| 3                | 5 animals of Size -2, or equivalent mass (1 of Size 0, 2 of Size -1, 10 of Size -3, 20 of Size -4, etc.)       |
 | 4                | 10 animals of Size -2, or equivalent mass (1 of Size +1, 2 of Size 0, 5 of Size -1, 20 of Size -3, etc.)       |
-| 5                | 20 animals of Size –2, or equivalent mass (1 of Size +2, 2 of Size +1, 5 of Size 0, 10 of Size –1, etc.)     |
+| 5                | 20 animals of Size –2, or equivalent mass (1 of Size +2, 2 of Size +1, 5 of Size 0, 10 of Size –1, etc.)       |
 
-## The Nemthengacha
+> #### Story Seed: Animal Experimentation
+>
+> This Ability can call animals quicker than they could possibly travel under their own speed, and therefore breaks the Limit of Arcane Connection. A magus interested in pursuing breakthroughs in Magic Theory might seek out a character with this Ability.
+
+### The Nemthengacha
 
 The Nemthengacha (singular: Nemthenga) are a sect of Ex Miscellanea magi who have the ability to create animosity and dissent in their listeners. Their origins are clouded. Some claim the Irish poet/demigod Bricriu mac Carbada is the progenitor of the line, while others say that the Welsh hero Efnisien is the first of the breed. Asserting an even more grandiose foundation, some Ex Miscellanea say that their tradition descends from Loki, the multi-faceted and often malevolent Norse god. It is true that this tradition is only found in Celtic and Scandinavian sorcerers.
 
-Nemthengacha, also known as "poisontongues", "bitter-tongues", or "deceivers", were more frequent before the advent of Christianity. In pre-Christian society, Nemthengacha held a devastating reputation. In a society where loyalty and family bonds are everything, a Nemthenga's ability to turn one man against his allies was devastating. People avoided Nemthengacha, but since many lived among the tribe, they could not be entirely ignored
-
-and were placated as best as the tribe could manage. While no more anticlerical than any other Ex Miscellanea tradition, they suffered severely from interactions with Christian missionaries. Perhaps it was due to their overt presence. The unGifted Nemthengacha did not need to hide from their tribesmen, and several held prominent social positions as shamans, wise men, and king's champions. Their tradition ebbed, and practitioners retreated to remote parts of their lands.
+Nemthengacha, also known as "poisontongues", "bitter-tongues", or "deceivers", were more frequent before the advent of Christianity. In pre-Christian society, Nemthengacha held a devastating reputation. In a society where loyalty and family bonds are everything, a Nemthenga's ability to turn one man against his allies was devastating. People avoided Nemthengacha, but since many lived among the tribe, they could not be entirely ignored and were placated as best as the tribe could manage. While no more anticlerical than any other Ex Miscellanea tradition, they suffered severely from interactions with Christian missionaries. Perhaps it was due to their overt presence. The unGifted Nemthengacha did not need to hide from their tribesmen, and several held prominent social positions as shamans, wise men, and king's champions. Their tradition ebbed, and practitioners retreated to remote parts of their lands.
 
 In the thirteenth century, Gifted Nemthengacha have been systematically accepted into the Order of Hermes, although some unGifted Nemthengacha still remain, living in the far hinterlands of Mythic Europe. Though stretched, they never severed their connections to their clans, so that many are still related to members of a local tribe or kin group. Nor have they abandoned their connection to royal society, with many Nemthengacha still serving their local king.
 
-## Powers
+#### Powers
 
 Like every Ex Miscellanea character, a magus of the Nemthengacha tradition receives a free Major non-Hermetic Virtue, a compulsory Major Flaw, and a free Minor Hermetic Virtue. The Major Non-Hermetic Virtue is Embitterment, a new Major Supernatural Ability. Embitterment is similar to Entrancement (page 164), but the effects are more specific and potent. Due to this focus, Nemthengacha find it difficult to control other emotions in a target's mind, which spills over into other aspects of Hermetic magic. Each has the Major Hermetic Flaw: Deficient Technique Rego. Since Embitterment depends solely on the Nemthenga's voice, his magic is less dependent on gestures than other Hermetic magi. He receives the Minor Hermetic Virtue: Subtle Magic, at no cost.
 
-Major Non-Hermetic Virtue: Embitterment Minor Hermetic Virtue: Subtle Magic Major Hermetic Flaw: Deficient Technique (Rego)
+**Major Non-Hermetic Virtue:** Embitterment
 
-## Embitterment
+**Minor Hermetic Virtue:** Subtle Magic
+
+**Major Hermetic Flaw:** Deficient Technique (Rego)
+
+#### Embitterment
 
 Embitterment is a Major Supernatural Ability that allows the speaker to make a listener hostile to a target of the speaker's choice. This hostility can range from simple antagonism to murder. Through simple conversation, the speaker makes the listener dislike, resent, or hate a person formerly considered a friend. The conversation does not have to be long; a round is time enough for this effect to take place.
 
 To embitter a target, the player states the exact specifications of how the target will act against the intended victim. He then rolls the character's Communication + Embitterment + a stress die and compares it to a variable Ease Factor, which depends on the level of aggression he wishes to instill, and the level of loyalty possessed between the target and the former ally. Since this is a Supernatural Ability, the roll always uses a stress die. The Embitterment power of the Nemthengacha is a Magic power for purposes of determining its interaction with the other realms of power; it seems likely that an Infernal version also exists.
 
-## Roll: Communication + Embitterment + Stress Die
+**EMBITTERMENT ROLL: Communication + Embitterment + Stress Die**
 
 Consult the following chart to determine the Ease Factor.
 
 
 | Ease<br>Factor | Desired Effect                                                     |
-| ---------------- | -------------------------------------------------------------------- |
-| 6              | Turn a man against his neighbor,<br>business partner, or co-worker |
+| -------------- | ------------------------------------------------------------------ |
+| 6              | Turn a man against his neighbor, business partner, or co-worker    |
 | 9              | Turn a man against his wife, friend, or cousin (distant kin)       |
 | 12             | Turn a man against his kin (father, brother, and nuclear family)   |
 | 15             | Turn a man against his lord                                        |
 | 18             | Turn a man against his king                                        |
 
-The base effect makes the victim dislike the target, leading to slander, resentment, and a refusal to cooperate with him. Increasing this animosity to hatred adds +3 to the Ease Factor. Victims made to hate the indicated target desire to do some kind of harm to him, but stop short of killing the person. Such a person would destroy someone's fields, ruin a business opportunity, wreck their marriage, or perhaps wound them in a duel. Increasing hatred to loathing adds another +3 to the Ease Factor (+6 in total), and makes the
-
-victim try to slay the intended target. For example, the Ease Factor is 18 to embitter a man to commit patricide (base 12 + 6), and 24 to commit regicide (base 18 + 6).
+The base effect makes the victim dislike the target, leading to slander, resentment, and a refusal to cooperate with him. Increasing this animosity to hatred adds +3 to the Ease Factor. Victims made to hate the indicated target desire to do some kind of harm to him, but stop short of killing the person. Such a person would destroy someone's fields, ruin a business opportunity, wreck their marriage, or perhaps wound them in a duel. Increasing hatred to loathing adds another +3 to the Ease Factor (+6 in total), and makes the victim try to slay the intended target. For example, the Ease Factor is 18 to embitter a man to commit patricide (base 12 + 6), and 24 to commit regicide (base 18 + 6).
 
 The Range of embitterment is Voice and the Target is always Individual. The Duration is Sun, although this can be increased to Moon by increasing Ease Factor by +3. Because embitterment acts through conversation, the caster must speak a language that the target comprehends.
 
 A character so embittered cannot disobey the command. He is not allowed a Loyalty roll to see if he can ignore the emotional summons, or other quibbling based on the character's Personality Traits. Hermetic magic can cancel the embitterment with a Perdo Vim spell. Rego Mentem magic can replace the feelings of animosity with feelings of loyalty or compassion, Creo Mentem can create feelings of loyalty that supersede the effect, and Perdo Mentem could erase the feelings of animosity. To determine how powerful a Hermetic spell needs to be, consider the effective level of the embitterment to be equal to the Nemthenga's score in Embitterment times five.
 
-# Tempestaria (Ceather Citch)
+### Tempestaria (Weather Witch)
 
 This tradition figures prominently in lands occupied by the Saxons, including their homeland in northern Germany as well as in England and Denmark. Weather magic is well-integrated into Hermetic Magic, and the art of Auram is populated with highly useful spells. The hedge witches known as Tempestariae are experts in these very magics. There are weather-witches who can summon rain which can last for days, or who cause no rain to fall at all for an entire season. The fogs summoned by a tempestaria from the sea have bound ships into the harbors all along an entire coastline. The most common type of tempestaria, however, is one who can bind the wind to her service. They require simple improvised tools which have sympathetic relationships to their spells – feathers for snow magic, drums for thunder magic, scattered sand for rain magic, and so forth.
 
-$Major\ Non-Hermetic\ Virtue:\ Whistle\ Up\ The\ Wind\ (or\ similar\ Ability)$
+*Major Non-Hermetic Virtue:* Whistle Up The Wind (or similar Ability)
 
-Minor Hermetic Virtue: Affinity with Auram Major Hermetic Flaw: Necessary Condition (tools for their magic to work)
+*Minor Hermetic Virtue:* Affinity with Auram
 
-## Thistle Tp The Tind
+*Major Hermetic Flaw:* Necessary Condition (tools for their magic to work)
+
+#### Whistle Up The Wind
 
 A character with this Ability is able to create a wind, duplicating the effects of any wind-based Creo Auram spell at Range Voice, Target Individual; similar Supernatural Abilities exist for other weather phenomena. To invoke the wind, the character literally has to whistle, and makes a Stamina + Whistle Up The Wind roll, against the Ease Factor listed in the table below. If successful, the wind immediately starts to blow as commanded by the character. It will continue to blow in the same manner even if the character stops whistling. A character who summons a wind at a particular strength can change that wind to another type with a similar strength (such as from Circling Winds of Protection to Broom of the Winds), diminish it to a weaker effect (such as Chamber of Spring Breezes), or end it entirely. Each of these changes requires a Communication + Music roll, using the Ease Factors for Maintaining Concentration on a spell (page 215). Whistling a new tune in this manner cannot increase the strength of a wind, or return a diminished wind to its former intensity; instead the character must make a new Whistle Up The Wind roll. All effects of this Ability diminish to the next lowest level of strength once every 24 hours, when the sun sets, until they dwindle to nothing.
 
 
 | Easer<br>Factor | Strength of Wind                                              |
-| ----------------- | --------------------------------------------------------------- |
+| --------------- | ------------------------------------------------------------- |
 | 6               | Light breeze, strong enough to clear a stench from a room     |
 | 9               | Moderate wind, strong enough to affect the accuracy of arrows |
 | 12              | Strong wind, powerful enough to propel a sailing ship         |
 | 15              | Gale force wind, strong enough to knock someone over          |
 | 18              | Hurricane force wind, strong enough to uproot trees           |
 
-Specialties: at sea, in mountains, during the winter (Supernatural)
+*Specialties:* at sea, in mountains, during the winter (Supernatural)
+
+---
+
+> Torches flicker in our covenant’s shadowed corridors, as my quick footsteps navigate the labyrinthine passages. The iron-clad door creaks on worn hinges, opening to a dimly lit chamber cluttered with the amassed learning of centuries. My master pores over a shimmering crystal sphere, his face illuminated by the eerie glow of the arcane, his brow furrowed in concentration as he unlocks its long-forgotten secrets. My arrival is an intrusion into his sanctum, but a welcome one. My arms are laden with stacks of ancient tomes, their leather bindings embossed with symbols of power, ready to aid in his quest for knowledge.
 
 # VIII. Laboratory
 
-magus spends much more time in his laboratory engaged in study and other activities than adventuring in the lands outside the covenant. There are Arts to
+A magus spends much more time in his laboratory engaged in study and other activities than adventuring in the lands outside the covenant. There are Arts to study, books to write, spells to invent, and items to enchant. Time between stories is recorded in seasons, each of which is enough time to accomplish a single long-term laboratory activity. Each of those activities is described in this chapter.
 
-study, books to write, spells to invent, and items to enchant. Time between stories is recorded in seasons, each of which is enough time to accomplish a single long-term laboratory activity. Each of those activities is described in this chapter.
+## The Laboratory in Play
 
-# The Laboratory in Play
-
-aboratory activities take up most of your life as a magus, so you should take some care in deciding both your individual laboratory activities and your
-
-attitude towards your laboratory and your creations. Your laboratory itself is an important reflection of your personality, as it is where you spend much of your time. Take the time to think about what your sanctum looks like and what's in it. Does it bear protective spells? Where do you sleep? What do you have in your lab, and where do you keep it? Do you hide your most prized possessions? Is your laboratory clean and well kept, or a disorganized mess where no one but you can find anything?
+Laboratory activities take up most of your life as a magus, so you should take some care in deciding both your individual laboratory activities and your attitude towards your laboratory and your creations. Your laboratory itself is an important reflection of your personality, as it is where you spend much of your time. Take the time to think about what your sanctum looks like and what's in it. Does it bear protective spells? Where do you sleep? What do you have in your lab, and where do you keep it? Do you hide your most prized possessions? Is your laboratory clean and well kept, or a disorganized mess where no one but you can find anything?
 
 Answering such questions helps you define your magus, and is usually fun to boot. The rules for Laboratory personalization on page 286 explain the ways in which such descriptions can have an impact on the mechanics of laboratory activities.
 
 ## Basic Laboratory Activities
 
-ou use one sum, called the Lab Total, frequently in calculating your ability to accomplish various laboratory tasks. This total varies from task to task
+You use one sum, called the Lab Total, frequently in calculating your ability to accomplish various laboratory tasks. This total varies from task to task because it uses the Technique and Form appropriate to the task at hand. For instance, your Lab Total when learning a Rego Terram spell includes your Rego and Terram scores. Spell requisites might also apply, as can other modifications, depending on the specific activity.
 
-because it uses the Technique and Form appropriate to the task at hand. For instance, your Lab Total when learning a Rego Terram spell includes your Rego and Terram scores. Spell requisites might also apply, as can other modifications, depending on the specific activity.
-
-YOUR BASIC LAB TOTAL IS:
-
-Technique + Form + Intelligence + Magic Theory + Aura Modifier
+**YOUR BASIC LAB TOTAL IS: Technique + Form + Intelligence + Magic Theory + Aura Modifier**
 
 The Lab Total for a particular Technique and Form is called the Technique Form Lab Total: for example, the Creo Vim Lab Total is Creo + Vim + Intelligence + Magic Theory + Aura Modifier. If an activity is based on a Lab Total, the magus needs a laboratory to do it, and there are also a few activities that do need a laboratory, but are not based on a Lab Total.
 
-## Creating a Laboratory
+### Creating a Laboratory
 
 A laboratory is normally created in a space with at least 500 square feet of floor area, and a ceiling at least ten feet high, and it is normally well protected from the elements; normal canvas is not sufficient, but a wooden wall is. (Laboratories that do not reach these standards cause problems for work in them; see page 286.) A character must have a Magic Theory score of at least 3 to set up a laboratory, and overall it takes two seasons of work.
 
 The first season creates a basic laboratory, which makes laboratory activities possible but imposes a -3 penalty to all Lab Totals. The second season completes the process, making a standard laboratory and removing the penalty. A maga can go on to personalize her laboratory, and the process of doing so is described at the end of this chapter.
 
-## Arcane Studies
+### Arcane Studies
 
 Knowledge of Magic Theory and the magical Arts is important to magi — so much so that many spend their entire lives in study. Magi may increase their Art scores in several different ways. Each is described in turn in the "Experience and Advancement" section, which begins on page 375.
 
-## Fixing Arcane Connections
+### Fixing Arcane Connections
 
 A magus who has an active Arcane Connection (see page 219) may make it permanent by spending a season of laboratory work and one pawn of Vim vis. The connection must be active at the beginning of the season, but need not be such as to naturally last for the whole season. This activity must be performed in a laboratory, even though it is not based on a Lab Total.
 
-## Vis
+### Vis
 
 Manipulation of vis is a key pursuit in any magus' laboratory.
 
-## Vis Extraction
+#### Vis Extraction
 
 You can extract raw vis from a magical environment (that is, any area with a Magical aura) by focusing the magical energy into a physical form. For each season that you spend extracting vis from the environment, calculate your Creo Vim Lab Total. For every ten points or part thereof in the result, one pawn of Vim vis is produced.
 
-VIS EXTRACTION:
-One tenth (round up) of
-Creo Vim Lab Total pawns of
-Vim vis
+**VIS EXTRACTION:** One tenth (round up) of Creo Vim Lab Total pawns of Vim vis
 
-## Vis Transfer
+#### Vis Transfer
 
 A magus can easily move raw vis from one physical form to another in his laboratory. This takes a day (from sunrise to sunrise), and can be done while the magus is engaged in another laboratory activity. It must, however, be done in a laboratory.
 
@@ -11805,20 +11674,17 @@ An item that has been opened for enchantment (see page 254, below) cannot contai
 
 Note that this changes the physical thing that the vis is in, not the Hermetic Art to which the vis is attuned.
 
-## Vis Use
+#### Vis Use
 
 The amount of raw vis that a magus may use in a single season is limited to twice his Magic Theory score. The magus cannot successfully integrate any more vis into a single project. In many sagas, vis will be rare enough that this limit will not come into play.
 
-VIS LIMIT:
-Magic Theory x 2 pawns per season
+**VIS LIMIT: Magic Theory x 2 pawns per season**
 
 ## Spells
 
-ormulaic spells are a major measure of your power because they determine those things you can do easily and predictably. As a magus, you
+Formulaic spells are a major measure of your power because they determine those things you can do easily and predictably. As a magus, you may invent new spells in several ways.
 
-may invent new spells in several ways.
-
-# Learning Spells from a Teacher
+### Learning Spells from a Teacher
 
 You may learn spells from another magus who is willing to spend a season teaching you. These spells may be of different Techniques and Forms, so a magus could teach you a Creo Ignem spell and a Perdo Terram spell in the same season.
 
@@ -11828,13 +11694,13 @@ The highest individual spell level you may learn is equal to your Lab Total in t
 
 Even when you learn a spell from a teacher, it is your Wizard's Sigil that manifests in your version; you actually invent the spell yourself, but with constant guidance from the teacher.
 
-$\begin{tabular}{ll} Maximum Total Levels: \\ Teacher's highest applicable Lab Total \\ \end{tabular}$
+**MAXIMUM TOTAL LEVELS: Teacher's highest applicable Lab Total**
 
-$\begin{tabular}{lllllllllllllllllllllllllllllllllll$
+**MAXIMUM LEVELS IN ONE TECHNIQUE AND FORM: Teacher's Lab Total in that Technique and Form**
 
-$\begin{array}{c} \hbox{Highest Level of an Individual Spell:} \\ \hbox{Student's Lab Total in the Technique and Form} \\ \hbox{of the Spell} \end{array}$
+**HIGHEST LEVEL OF AN INDIVIDUAL SPELL: Student's Lab Total in the Technique and Form of the Spell**
 
-## Inventing Spells
+### Inventing Spells
 
 Inventing a spell by yourself is more difficult than learning one, but of course you don't need a teacher to do it. First, decide the effects of the spell you wish to invent, you may pick a spell described in the Spells chapter to invent, invent a variant of a spell listed there, or make up something completely on your own.
 
@@ -11848,21 +11714,19 @@ Once you have determined the specifics of the spell you are trying to invent, yo
 
 It is also possible to invent a spell based on another magus's Laboratory Text (see page 262). This is much faster, and most spells that magi know are invented in this way.
 
-# Example: Inventing Spells
-
-Tillitus of House Bonisagus wants to invent some warding spells, as minor mystical creatures seem to give him a lot of trouble. General wards of this sort are Rego Vim (see page 370), and can be invented at any level. Semita Errabunda, Tillitus's covenant, has a Magic aura of 5, and Tillitus himself has Intelligence +5, Magic Theory 3, +2 for Puissant Magic Theory, his free Bonisagus Virtue, Rego 5, and Vim 5. Thus, his Rego Vim Lab Total is 25.
-
-Consulting the Spells chapter, Matt, Tillitus's player, sees that a separate spell must be invented for each of the four Realms. He decides to start by inventing a good ward against magical creatures. He picks level 20, as this is less than his Lab Total.
-
-Tillitus's Lab Total of 25 exceeds the spell level, 20, by 5, so every season Tillitus gains 5 points towards the spell. Since the spell is level 20, that means it will take him four seasons, a whole year, to invent the spell. Matt isn't sure that he wants to spend that much time on it, so he looks at a lower level spell.
-
-If Tillitus tries to invent a level 12 spell, he gets 13 points towards it every season, and thus can invent it in a single season. If he tries to invent a level 13 spell, he gets 12 points per season, so it would take him two seasons. Matt thus decides that Tillitus will invent a level 12 ward against magical creatures.
+> #### Example: Inventing Spells
+>
+> Tillitus of House Bonisagus wants to invent some warding spells, as minor mystical creatures seem to give him a lot of trouble. General wards of this sort are Rego Vim (see page 370), and can be invented at any level. Semita Errabunda, Tillitus's covenant, has a Magic aura of 5, and Tillitus himself has Intelligence +5, Magic Theory 3, +2 for Puissant Magic Theory, his free Bonisagus Virtue, Rego 5, and Vim 5. Thus, his Rego Vim Lab Total is 25.
+> 
+> Consulting the Spells chapter, Matt, Tillitus's player, sees that a separate spell must be invented for each of the four Realms. He decides to start by inventing a good ward against magical creatures. He picks level 20, as this is less than his Lab Total.
+>
+> Tillitus's Lab Total of 25 exceeds the spell level, 20, by 5, so every season Tillitus gains 5 points towards the spell. Since the spell is level 20, that means it will take him four seasons, a whole year, to invent the spell. Matt isn't sure that he wants to spend that much time on it, so he looks at a lower level spell.
+>
+> If Tillitus tries to invent a level 12 spell, he gets 13 points towards it every season, and thus can invent it in a single season. If he tries to invent a level 13 spell, he gets 12 points per season, so it would take him two seasons. Matt thus decides that Tillitus will invent a level 12 ward against magical creatures.
 
 ## Enchantments
 
-hysical creations, as surely as magical knowledge, can increase your power as a magus. In addition to talismans, which you can use to
-
-concentrate your magical powers, you can create invested devices, which mimic the powers of spells; lesser enchanted devices, simpler versions of invested devices; charged items, which can be used a limited number of times; and longevity rituals, which extend your mortal life. Since magical enchantments are unique creations that follow the logic of individual magi, determining how to use one that someone else has created can be a lengthy and even dangerous process.
+Physical creations, as surely as magical knowledge, can increase your power as a magus. In addition to talismans, which you can use to concentrate your magical powers, you can create invested devices, which mimic the powers of spells; lesser enchanted devices, simpler versions of invested devices; charged items, which can be used a limited number of times; and longevity rituals, which extend your mortal life. Since magical enchantments are unique creations that follow the logic of individual magi, determining how to use one that someone else has created can be a lengthy and even dangerous process.
 
 Magical enchantments are created through a type of ritual magic, and therefore require a great deal of time, effort, and magical resources. You must take the time to prepare your laboratory for the task, gather all the necessary materials and equipment, and then craft your work in earnest, exercising great care with the details of the enchantment. In the end, you have an item that is independent and that generates its own magical energies in order to function, but that is uniquely tied to your magical abilities. Your magical sigil figures just as prominently in the effects produced by your magical enchantments as it does in the effects produced by your spells.
 
@@ -11870,40 +11734,41 @@ Raw vis is often required to create magical enchantments. The process of enchant
 
 Effects matching those of Ritual spells may not be placed in any enchantment. The elaborate rituals needed to control that much magical power simply cannot be contained in an unthinking physical item. The exception is that spells that are Rituals only because the spell level is over 50, not because of Duration, Target, or major effect, may be placed in items.
 
-## Enchantment Summary
+> ### Enchantment Summary
+>
+> 1. CHOOSE TYPE OF ITEM.
+>
+> *Invested Items:* Must be opened to enchantment, expensive. Can contain many effects, which can be powerful.
+>
+> *Lesser Enchantments:* Need not be opened, cheap. Can only contain one effect, and the creator must be able to make it in a single season.
+>
+> *Charged Items:* No vis cost, can always be created in a single season. Run out.
+>
+> 2. OPEN ITEM FOR ENCHANTMENT (INVESTED ITEMS ONLY).
+>
+> Uses a number of pawns of Vim vis equal to the product of the material base and the size multiplier, from the Size and Material table. A magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
+>
+> 3. INVEST EFFECT.
+>
+> *Invested Items and Lesser Enchantments:* For every point by which your Lab Total exceeds the level of the effect, you gain one point towards the effect per season. Once your points equal the level of the effect, it is invested. You must invest a Lesser Enchantment in one season. Uses a number of pawns of vis matching the Technique or Form of the effect equal to the level divided by ten (rounded up). Again, a magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
+>
+> *Charged Items:* For every five points or fraction by which your Lab Total exceeds the level of the effect, you get one charge.
+>
+> 4. INVEST FURTHER EFFECTS (INVESTED ITEMS ONLY).
+>
+> You can use a number of pawns of vis equal to the number of pawns spent opening the item to invest effects. Once the number of pawns used to invest effects equals the number of pawns used to open the item, the item is full, and no further effects can be added.
 
-1. CHOOSE TYPE OF ITEM.
-
-Invested Items: Must be opened to enchantment, expensive. Can contain many effects, which can be powerful.
-
-Lesser Enchantments: Need not be opened, cheap. Can only contain one effect, and the creator must be able to make it in a single season.
-
-Charged Items: No vis cost, can always be created in a single season. Run out.
-
-2. Open Item For Enchantment (Invested Items Only).
-   Uses a number of pawns of Vim vis equal to the product of the material base and the size multiplier, from the Size and Material table. A magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
-3. INVEST EFFECT.
-
-Invested Items and Lesser Enchantments: For every point by which your Lab Total exceeds the level of the effect, you gain one point towards the effect per season. Once your points equal the level of the effect, it is invested. You must invest a Lesser Enchantment in one season. Uses a number of pawns of vis matching the Technique or Form of the effect equal to the level divided by ten (rounded up). Again, a magus cannot use more than 2 x Magic Theory pawns of vis in a single season.
-
-Charged ITEMS: For every five points or fraction by which your Lab Total exceeds the level of the effect, you get one charge.
-
-4. INVEST FURTHER EFFECTS
-
-(INVESTED ITEMS ONLY).
-You can use a number of pawns of vis equal to the number of pawns spent opening the item to invest effects. Once the number of pawns used to invest effects equals the number of pawns used to open the item, the item is full, and no further effects can be added.
-
-## Types of Enchanted Item
+### Types of Enchanted Item
 
 Enchanted devices come in three types: invested items, lesser enchantments, and charged items.
 
-## Innested Items
+#### Invested Items
 
 Invested items must be prepared for enchantment before any powers are instilled, but multiple effects can be instilled in one item. A magus may spend several seasons instilling one effect, and need not instill all desired effects in the item at once.
 
 The total number of pawns of vis expended when instilling effects may not exceed the number of pawns of vis spent to prepare the item for enchantment. Once the two numbers match, the invested device is 'full'. It is not possible to remove an effect from a device to make room for a better one.
 
-## Lesser Enchantments
+#### Lesser Enchantments
 
 Lesser enchantments do not need to be prepared before a power is instilled, but only one power may be instilled. In addition, the creating magus must be able to instill the power in a single season; his Lab Total must be at least twice the adjusted level of the effect.
 
@@ -11911,55 +11776,72 @@ Investing an effect in a lesser enchantment costs one pawn of appropriate vis fo
 
 A lesser enchantment can never receive any further magical powers; once the magus has spent a single season on it, the work is complete.
 
-## Charged Items
+#### Charged Items
 
 Charged items do not cost vis, but can only be used a limited number of times. It takes a single season to create charged items.
 
 Design the level of effect for the charged item using the normal rules for enchanted items, with the exception that you do not have to pick a number of uses per day. A charged item can be used as desired until the charges run out.
 
-Once you have chosen the effect, you spend a season and compare your Lab Total to the level of the effect. For every 5 points, or fraction thereof, by which you exceed the level, you get one charge, but if your Lab Total is exactly equal to the level, you get one charge rather than none. If your Lab Total exceeds the level by 1 to 5 points,
-
-you still only get one charge. If your Lab Total is less than the level of the effect you cannot create charged items of this kind.
+Once you have chosen the effect, you spend a season and compare your Lab Total to the level of the effect. For every 5 points, or fraction thereof, by which you exceed the level, you get one charge, but if your Lab Total is exactly equal to the level, you get one charge rather than none. If your Lab Total exceeds the level by 1 to 5 points, you still only get one charge. If your Lab Total is less than the level of the effect you cannot create charged items of this kind.
 
 You may split the charges produced between as many physical objects as you wish, although each object must be identical. The objects could be arrows, which cast the spell when they strike the target, or potions, which have their effect on the person drinking them, or anything else you can imagine. You may also make fewer charges than your Lab Total would permit, if you so desire.
 
 Charged items may be of any material or size, as they do not have to hold vis. Appropriate shapes and materials do grant bonuses to the Lab Total, as normal.
 
-## Charged Items Example
+> #### Charged Items Example
+>
+> Mari Amwithig wants to make a wand that casts Agony of the Beast, but she doesn't have much vis, so she considers doing it as a charged item.
+>
+> Agony of the Beast is a level 15 effect, and for a charged item she decides to leave it unchanged. She isn't planning to use the item against creatures with Magic Resistance, and it doesn't really matter if other people can use it.
+>
+> Her Perdo Animal Lab Total is 15 (Perdo 12 + 3 from Puissant Art) + 7 (Animal) + 3 (Intelligence) +4 (Magic Theory) +5 (Magic aura at Semita Errabunda), a total of 34. As she knows the spell, she adds a similar spell bonus of +3, because the spell is third magnitude. In addition, a wand gives a +4 bonus to destroying things at a distance. This gives her a final total of 41. She could create the item even if she didn't know the spell, but she does get some benefit from her prior knowledge.
+>
+> 41 is 26 higher than the level of the effect, which means she gets six charges, five from the five fives by which she exceeds the level, and one from the one point that is the final fraction.
+>
+> Neil, Mari's player, decides to look at making a lesser enchanted item instead, because Mari's Lab Total is a lot higher than the level of the spell.
 
-Mari Amwithig wants to make a wand that casts Agony of the Beast, but she doesn't have much vis, so she considers doing it as a charged item.
+### Shape and Material
 
-Agony of the Beast is a level 15 effect, and for a charged item she decides to leave it unchanged. She isn't planning to use the item against creatures with Magic Resistance, and it doesn't really matter if other people can use it.
-
-Her Perdo Animal Lab Total is 15 (Perdo 12 + 3 from Puissant Art) + 7 (Animal) + 3 (Intelligence) +4 (Magic Theory) +5 (Magic aura at Semita Errabunda), a total of 34. As she knows the spell, she adds a similar spell bonus of +3, because the spell is third magnitude. In addition, a wand gives a +4 bonus to destroying things at a distance. This gives her a final total of 41. She could create the item even if she didn't know the spell, but she does get some benefit from her prior knowledge.
-
-41 is 26 higher than the level of the effect, which means she gets six charges, five from the five fives by which she exceeds the level, and one from the one point that is the final fraction.
-
-Neil, Mari's player, decides to look at making a lesser enchanted item instead, because Mari's Lab Total is a lot higher than the level of the spell.
-
-## Shape and Material
-
-The first thing you must do for any magical device is choose the physical form of the item you wish to enchant — both the shape of the item and the item's material. Look at the Shape and Material Bonuses Table to see what sorts of items grant bonuses relevant to the types of enchantments you wish to place. An item with multiple materials and incorporating multiple shapes can grant several
-
-bonuses, and they do stack. However, the highest bonus that you can receive to a single enchantment is equal to your Magic Theory — this represents your ability to tie all of the correspondences into your enchantment. It is possible to place an effect in an item that does not give any bonus to that effect, and a magus may want to do so if placing multiple effects in the same item. For a single effect, however, it normally makes sense to choose a shape or material that does offer a bonus.
+The first thing you must do for any magical device is choose the physical form of the item you wish to enchant — both the shape of the item and the item's material. Look at the Shape and Material Bonuses Table to see what sorts of items grant bonuses relevant to the types of enchantments you wish to place. An item with multiple materials and incorporating multiple shapes can grant several bonuses, and they do stack. However, the highest bonus that you can receive to a single enchantment is equal to your Magic Theory — this represents your ability to tie all of the correspondences into your enchantment. It is possible to place an effect in an item that does not give any bonus to that effect, and a magus may want to do so if placing multiple effects in the same item. For a single effect, however, it normally makes sense to choose a shape or material that does offer a bonus.
 
 You should also pay attention to mundane criteria as well as magical. Enchanting a gold sword might appeal to you, but such an item would be too heavy and soft to use in combat. And while a diamond might be perfect for your ring, do you have a diamond? You might have to go out into the dangerous world to find your materials, especially if your covenant is poor.
 
 Before you begin the process of enchantment, you must acquire the item you will enchant, and note its size and composition.
 
-## Enchanted Item Example
+> #### Enchanted Item Example
+>
+> Mari turns her attention to making her wand as a real enchanted item. A wand gives a +4 bonus to destroy things at a distance, which makes it a good choice. Animal bone also gives a +4 bonus. Unfortunately, Mari's Magic Theory is only 4, so she would get no additional bonus from making her wand from animal bone. She decides to stick with wood, which is less conspicuous.
 
-Mari turns her attention to making her wand as a real enchanted item. A wand gives a +4 bonus to destroy things at a distance, which makes it a good choice. Animal bone also gives a +4 bonus. Unfortunately, Mari's Magic Theory is only 4, so she would get no additional bonus from making her wand from animal bone. She decides to stick with wood, which is less conspicuous.
+#### Material and Size Tables
 
-## Preparation for Enchantment
+| MATERIAL | BASE POINTS |
+| -------- | --- |
+| cloth, glass | 1  |
+| wood, leather | 2  |
+| bone, soft stone | 3  |
+| hard stone | 4 |
+| base metal | 5 |
+| silver | 6 |
+| gold | 10 |
+| semi-precious gem | 12 |
+| precious gem | 15 |
+| priceless gem | 20 |
+
+| SIZE     | EXAMPLE | MULTIPLIER |
+| -------- | ------- | --- |
+| tiny gem | ring, bracelet, pendant, any gem | x1 |
+| small    | wand, dagger, belt, cap | x2 |
+| medium   | sword, tunic, boots, skull | x3 |
+| large    | staff, shield, cloak, skeleton | x4 |
+| huge     | boat, wagon, human body, small room | x5 |
+
+### Preparation for Enchantment
 
 Invested devices are powerful items that require special preparation before any effective enchantments can be performed on them.
 
 Once you have the physical item to enchant, you must spend a season preparing it. To do this, you must simply expend the time and a number of pawns of raw Vim vis equal to the number derived from the "Material and Size Table" for the form you have selected.
 
-It is possible to enchant only part of an item. For example, you can enchant a ruby on the end of a staff. Because it is on a staff, the gem gains bonuses appropriate to the shape (but not the material) of the staff (see the Shape and Material Bonuses Table), and you don't have to enchant the whole staff. However, any effect that relies on the attachment of gem and staff for a bonus (for example, any spell in the gem that uses a Shape bonus for the staff) is permanently lost if
-
-the two are separated. When you enchant a part of an item, you must use the number of pawns of vis that would be required to enchant that part if it were a separate item.
+It is possible to enchant only part of an item. For example, you can enchant a ruby on the end of a staff. Because it is on a staff, the gem gains bonuses appropriate to the shape (but not the material) of the staff (see the Shape and Material Bonuses Table), and you don't have to enchant the whole staff. However, any effect that relies on the attachment of gem and staff for a bonus (for example, any spell in the gem that uses a Shape bonus for the staff) is permanently lost if the two are separated. When you enchant a part of an item, you must use the number of pawns of vis that would be required to enchant that part if it were a separate item.
 
 It is also possible to prepare a compound item for enchantment, so that you get the shape and material bonuses from all the components for all effects. For example, you might want to enchant a wooden staff, shod in iron, with a quartz crystal bound on the top. There are two ways to do this, but you must select one when the item is first prepared, and the choice cannot be changed later. Work out how many pawns of vis it would take to prepare each component for enchantment. You may then either prepare it with a number of pawns equal to the sum of the pawns for each component, or with a number of pawns equal to the highest required by a single component. The example staff would take eight pawns to prepare the staff alone (a large wooden item), five pawns for the iron shoeing (tiny base metal item), and twelve pawns for the quartz (tiny semi-precious gem). Thus, the whole complex can be prepared at a cost of twelve pawns or twenty five pawns. A compound item of this sort may not contain more components than your Magic Theory score, as binding disparate things together magically takes some skill.
 
@@ -11969,15 +11851,15 @@ It is possible to prepare even larger items than "huge" items on the table. The 
 
 An item that has been prepared for enchantment is useless for any magical purpose until it is attuned as a talisman, or instilled with magical powers.
 
-## Enchanted Item Example
+> #### Enchanted Item Example
+> 
+> A wooden wand is a small wooden object, and thus can only contain four pawns of vis. As Mari is making a Lesser Enchantment she doesn't need to open the item, but she can still only invest four pawns worth of effects. This isn't a problem; with a Lab Total of 41 the highest level effect she can invest is 20, which takes just two pawns.
 
-A wooden wand is a small wooden object, and thus can only contain four pawns of vis. As Mari is making a Lesser Enchantment she doesn't need to open the item, but she can still only invest four pawns worth of effects. This isn't a problem; with a Lab Total of 41 the highest level effect she can invest is 20, which takes just two pawns.
-
-## Instilling Affects
+### Instilling Affects
 
 The effects instilled in enchanted items are designed like spells, but they are not spells. In particular, a magus may instill an effect in a device even if he does not know a spell with the same effect. Designing an effect takes no time above and beyond the time spent to instill the effect in the item.
 
-## Designing the Offect
+#### Designing the Offect
 
 First, choose an effect to be invested in your device and determine its level. An effect is like a spell, and must be fully defined, as a spell is. You may base the effect on a spell from the Spells chapter, or may invent your own effect. If inventing a new effect, you must design the effect carefully, as if inventing a new spell. The level of the effect is the equivalent of its spell level. You should confirm your effect level with the troupe. Note the starting level of the effect. for future reference. This is the effect level, and is used when assessing the effects produced by the enchanted device — for example, whether they cause Warping, or whether a maga succeeds in dispelling one. Choices made in the rest of this process may change this level, determining the modified effect level. This is used when dealing with the enchanted device itself, for example when investing the effects in the laboratory, or trying to disenchant a device.
 
@@ -11987,66 +11869,72 @@ In general, enchanted devices may not mimic the effects of Ritual spells. There 
 
 After laying out the parameters of the effect, you must decide how frequently you use the effect. Consult the "Effect Frequency Table." The number you choose corresponds to a modifier, which is added to the level of the effect.
 
-Next you must specify the conditions under which the effect is triggered. A trigger can involve a command word or phrase, moving the item in a specific way (for example, waving or pointing a wand), a stance to be adopted, or anything physical that you can imagine. Most enchanted items cannot read thoughts, so the trigger action must be physical, not mental. By default, the trigger action must be performed by someone holding the item, although intention does not matter. Wands with offensive powers usually have very specific triggers, to make sure that they do
-
-not go off by accident; some other items trigger whenever they are put on.
+Next you must specify the conditions under which the effect is triggered. A trigger can involve a command word or phrase, moving the item in a specific way (for example, waving or pointing a wand), a stance to be adopted, or anything physical that you can imagine. Most enchanted items cannot read thoughts, so the trigger action must be physical, not mental. By default, the trigger action must be performed by someone holding the item, although intention does not matter. Wands with offensive powers usually have very specific triggers, to make sure that they do not go off by accident; some other items trigger whenever they are put on.
 
 It is possible to modify an effect (see below) so that it is triggered by conditions in its immediate environment. This might include an item that triggers at sunrise and sunset.
 
 Effects can also be linked to a second effect (see below) so that they trigger depending on the result of the second effect. By linking an effect to an Intellego Mentem effect which works whenever the device is held it is possible to produce an effect triggered by thought or intention. Any number of effects can be linked to a single triggering, and may depend in different ways on the result of that effect. Thus, if two powers are linked to a mind-reading effect, one might trigger when the wielder thinks 'Fire' with the intention of activating the item, and the other when the wielder thinks 'Ice' with the same intention
 
-## Effect Modifications
+#### Effect Frequency Table
+
+| FREQUENCY | MODIFIER |
+| --------- | -------- |
+| 1 use per day | 0  |
+| 2 uses per day | +1 |
+| 3 uses per day | +2 |
+| 6 uses per day | +3 |
+| 12 uses per day | +4 |
+| 24 uses per day | +5 |
+| 50 uses per day | +6 |
+| Unlimited | +10 |
+
+#### Effect Modifications
 
 You have some options on how effects in an enchanted device operate. They are listed below. These modifications change the "standards" for enchanted devices.
 
-Penetration: You may elect to give the effect non-zero Penetration. For every level you add to the effect's level, that effect gets +2 Penetration. If there are multiple effects in a device, each must be given a Penetration score separately.
+**Penetration:** You may elect to give the effect non-zero Penetration. For every level you add to the effect's level, that effect gets +2 Penetration. If there are multiple effects in a device, each must be given a Penetration score separately.
 
-Concentration: When investing an effect, you can arrange to have the device maintain concentration on the effect for the wielder. This option adds +5 to the effect's level. Note that the wielder still needs to concentrate to change how the effect is used. For instance, a levitation belt that does not require concentration can hold someone in the air, but to move up or down the wielder must concentrate. Effects left to their own concentration start to wear off at sunset and sunrise. At these times the wielder must concentrate on the effect for a few moments to perpetuate it until the next sunrise or sunset, whichever comes first. This effect is useful for things like invisibility rings, which have their effect when put on, and then maintain concentration and invisibility until removed. This
-
-allows the wearer to end the effect at will, and start it again if the device still has uses left.
+**Concentration:** When investing an effect, you can arrange to have the device maintain concentration on the effect for the wielder. This option adds +5 to the effect's level. Note that the wielder still needs to concentrate to change how the effect is used. For instance, a levitation belt that does not require concentration can hold someone in the air, but to move up or down the wielder must concentrate. Effects left to their own concentration start to wear off at sunset and sunrise. At these times the wielder must concentrate on the effect for a few moments to perpetuate it until the next sunrise or sunset, whichever comes first. This effect is useful for things like invisibility rings, which have their effect when put on, and then maintain concentration and invisibility until removed. This allows the wearer to end the effect at will, and start it again if the device still has uses left.
 
 The item can only maintain one instance of the effect at a time, unless the same effect is invested in the same item multiple times. For example, a wand of invisibility that can make a person invisible six times per day and maintain concentration can only make one person invisible at a time. However, if the wand were instead invested with six effects each of which could be used once per day, and maintained concentration, then it could make six people invisible at once. This would require more vis, more seasons, and a different trigger for each effect.
 
-Effect Use: You can restrict the use of a device's effect to a specific list of people (for example, to you and all your current apprentices) by adding +3 to the level of the effect. You work the identities of these people into the enchantment itself, so the list can never be changed, nor can the restriction be bypassed.
+**Effect Use:** You can restrict the use of a device's effect to a specific list of people (for example, to you and all your current apprentices) by adding +3 to the level of the effect. You work the identities of these people into the enchantment itself, so the list can never be changed, nor can the restriction be bypassed.
 
 You may also restrict the use of the device to an undefined group, such as 'only women', or 'only people in my direct magical lineage' by using a linked trigger (see below).
 
 Otherwise, invested devices can be activated by anyone who knows their trigger actions.
 
-Effect Expiry: It is possible to instill an effect which will only work for a limited period. This period is counted from the first use of the effect, not from its creation. A single item may mix temporary and permanent effects. Limiting an effect in this way multiplies the amount by which the magus's Lab Total exceeds the modified level of the effect, allowing him to instill effects more quickly. It does not allow him to instill effects he could not otherwise manage. Effect Expiry cannot be applied to Lesser Enchanted Items or Charged Items.
-
+**Effect Expiry:** It is possible to instill an effect which will only work for a limited period. This period is counted from the first use of the effect, not from its creation. A single item may mix temporary and permanent effects. Limiting an effect in this way multiplies the amount by which the magus's Lab Total exceeds the modified level of the effect, allowing him to instill effects more quickly. It does not allow him to instill effects he could not otherwise manage. Effect Expiry cannot be applied to Lesser Enchanted Items or Charged Items.
 
 | ITEM LASTS | Excess Modifier |
-| ------------ | ----------------- |
+| ---------- | --------------- |
 | 1 year     | x10             |
 | 7 years    | x5              |
 | 70 years   | x2              |
 
-Environmental Trigger: The effect is triggered by some feature of the item's environment, rather than a specific action. The item is only sensitive to major magical features of the environment. Thus, it can respond to the events that end spell durations (sunrise, sunset, phases of the moon, etc.), and to changes in the modifier applied to magical activities by the local aura. This adds +3 to the level of the effect.
+**Environmental Trigger:** The effect is triggered by some feature of the item's environment, rather than a specific action. The item is only sensitive to major magical features of the environment. Thus, it can respond to the events that end spell durations (sunrise, sunset, phases of the moon, etc.), and to changes in the modifier applied to magical activities by the local aura. This adds +3 to the level of the effect.
 
-Fast Trigger: The effect gains a +3 Initiative modifier. This adds +5 to the level of the effect.
+**Fast Trigger:** The effect gains a +3 Initiative modifier. This adds +5 to the level of the effect.
 
-## Constant Effect Devices
-
-An enchanted device can have a constant effect by giving the effect a duration of Sun, two uses per day, and an environmental trigger (sunrise or sunset). This adds two magnitudes (to raise the duration to Sun) and four levels (one for two uses per day and three for an environmental trigger) to the guideline given in the Spells chapter for the effect. Such a device has a truly continuous effect; there are no 'flickers' at sunrise or sunset.
-
-Linked Trigger: The effect is triggered by the results of another effect in the same item. This is most commonly used to allow an item to activate on a mental command, or to limit the people who can use an item. An effect to allow mental activation needs to be able to read surface thoughts continually, with at least Touch Range. This is a base level of 15, +1 magnitude for Touch Range, +1 magnitude for Concentration Duration, +5 levels to have the device maintain concentration, for a final level of 30.
+**Linked Trigger:** The effect is triggered by the results of another effect in the same item. This is most commonly used to allow an item to activate on a mental command, or to limit the people who can use an item. An effect to allow mental activation needs to be able to read surface thoughts continually, with at least Touch Range. This is a base level of 15, +1 magnitude for Touch Range, +1 magnitude for Concentration Duration, +5 levels to have the device maintain concentration, for a final level of 30.
 
 If a linked trigger effect is resisted, the item will not work, but the wielder can choose not to resist.
 
 A linked trigger adds +3 to the level of the triggered effect. The level of the triggering effect is not altered.
 
-## Enchanted Item Example
+#### Constant Effect Devices
 
-Mari doesn't want any Penetration, and just wants the basic Agony of the Beast effect. That sets the base level at 15. Neil notes that he can raise the level to 20 without the process costing any more vis or taking any longer, so he might as well. The only addition that seems worthwhile is additional uses per day, so he decides to have Mari make a wand that can be used 24 times per day, as that adds five levels to the base fifteen, for a final level of 20.
+An enchanted device can have a constant effect by giving the effect a duration of Sun, two uses per day, and an environmental trigger (sunrise or sunset). This adds two magnitudes (to raise the duration to Sun) and four levels (one for two uses per day and three for an environmental trigger) to the guideline given in the Spells chapter for the effect. Such a device has a truly continuous effect; there are no 'flickers' at sunrise or sunset.
 
-## Instilling the Offect
+> #### Enchanted Item Example
+>
+> Mari doesn't want any Penetration, and just wants the basic Agony of the Beast effect. That sets the base level at 15. Neil notes that he can raise the level to 20 without the process costing any more vis or taking any longer, so he might as well. The only addition that seems worthwhile is additional uses per day, so he decides to have Mari make a wand that can be used 24 times per day, as that adds five levels to the base fifteen, for a final level of 20.
+
+#### Instilling the Effect
 
 Once you have designed the effect that you want to invest in your device, you have to perform the ritual of joining. Your Lab Total (based on the Form and Technique scores appropriate to the effect) is compared to the total modified effect level. Several other modifiers apply to your Lab Total:
 
-If the effect you are investing mimics a spell with casting requisites, those requisites apply
-
-to your Lab Total.
+- If the effect you are investing mimics a spell with casting requisites, those requisites apply to your Lab Total.
 
 - If any of the bonuses listed on the "Shape and Material Bonuses Table" for the material or shape of the device you are using matches the effect being invested, thoses bonuses are added to your Lab Total. For example, if you were enchanting a lamp to constantly produce magical light, you would add +7 to your Lab Total. Your total bonus from the shape and material of the device may not exceed your Magic Theory score. This represents the ability of the magus to tie all the correspondences into the enchantment.
 - For each effect already in the device that has a Technique and/or Form in common with the effect being invested, add +1 to your Lab Total. The bonus is +1 per preexisting effect, even if it matches both the Technique and Form.
@@ -12056,13 +11944,13 @@ You can only invest an effect if this modified Lab Total exceeds the modified le
 
 For every 10 points, or fraction thereof, of the modified level of the effect, you must also expend one pawn of raw vis of an Art matching either the Technique or Form of the effect being invested. This vis is expended in the first season you begin investing the effect. But remember, a given item can only hold a limited number of effects. If the amount of raw vis required to instill an effect brings the total amount of raw vis used above the total used to prepare the item for enchantment in the first place, the effect cannot be invested. So if you are enchanting a silver dagger (which takes 12 pawns of vis to prepare for enchantment), you can only put 12 pawns worth of effects in it. If the dagger already has 10 pawns worth of effects, an effect that requires 3 pawns of vis (that is, an effect of level 21 to 30) does not fit; you cannot put it in the dagger.
 
-## Enchanted Item Example
+> #### Enchanted Item Example
+>
+> Mari has, as calculated before, a Perdo Animal Lab Total of 41, which allows her to invest a level 20 effect in a single season. She gets one pawn of Perdo vis and one pawn of Animal vis, and uses them to invest the wand. The process is automatically successful.
+> 
+> *Wand of Bestial Agony:* This plain wooden wand can cast Agony of the Beast 24 times per day, with 0 Penetration.
 
-Mari has, as calculated before, a Perdo Animal Lab Total of 41, which allows her to invest a level 20 effect in a single season. She gets one pawn of Perdo vis and one pawn of Animal vis, and uses them to invest the wand. The process is automatically successful.
-
-Wand of Bestial Agony: This plain wooden wand can cast Agony of the Beast 24 times per day, with 0 Penetration.
-
-## Using Enchanted Devices
+### Using Enchanted Devices
 
 Several rules apply to all enchanted devices, unless an effect modification has been made, and specifically states otherwise.
 
@@ -12075,7 +11963,7 @@ Several rules apply to all enchanted devices, unless an effect modification has 
 - If the enchanted device is broken, all its powers are lost.
 - You may use an enchanted item before it is "filled up" with effects and still add effects later.
 
-## Talisman Attunement
+### Talisman Attunement
 
 Talismans help you concentrate and extend your magical powers. A talisman is a very personal item that contains magics and materials that tie it intimately to you and that can be used as a channel for your magical power.
 
@@ -12095,21 +11983,17 @@ Finally, a talisman becomes very easy to enchant, and its capacity for enchantme
 
 When a magus instills effects into a talisman, he gets a +5 bonus to his Lab Total, reflecting his close connection to the item. However, it is impossible for any other magus to instill an effect in the device.
 
-In addition to the basic powers of a talisman, you may also open your talisman to one kind of magic attunement, based on the shape and material of the talisman, every time you prepare it for enchantment or instill an effect. Use the "Shape and Material Bonuses
-
-Table" to determine what attunements are possible. Your talisman may be able to accept more than one kind of attunement, and can hold more than one attunement, but you can only invest one new attunement per season. For instance, a magus can enhance his staff talisman by attuning it to spells that control things at a distance. He then gets a +4 bonus on his Casting Score for spells that control things at a distance (because that is the bonus listed on the Shape and Material Bonuses Table). He could further enhance it to give him a +3 to project bolts and missiles (for example), but that would have to be done while he was instilling another effect.
+In addition to the basic powers of a talisman, you may also open your talisman to one kind of magic attunement, based on the shape and material of the talisman, every time you prepare it for enchantment or instill an effect. Use the "Shape and Material Bonuses Table" to determine what attunements are possible. Your talisman may be able to accept more than one kind of attunement, and can hold more than one attunement, but you can only invest one new attunement per season. For instance, a magus can enhance his staff talisman by attuning it to spells that control things at a distance. He then gets a +4 bonus on his Casting Score for spells that control things at a distance (because that is the bonus listed on the Shape and Material Bonuses Table). He could further enhance it to give him a +3 to project bolts and missiles (for example), but that would have to be done while he was instilling another effect.
 
 Bonuses from attunements only apply when the magus is touching the talisman, and only the highest bonus applies. They apply to Casting Scores for Ritual, Formulaic and Spontaneous magic, but they do not apply to Magic Resistance or any laboratory activities. There is no limit to the number of attunements a talisman can have at one time, though remember that you can only add one per season. There is no roll involved in giving your talisman an attunement bonus.
 
-## Investigating Enchantments
+### Investigating Enchantments
 
 If you wish to determine the powers of someone else's enchantment, you must investigate it in your lab. You inspect the item's physical construction, investigate the Form and Technique with Intellego magics, and test to see how the enchantment responds to other magics. All of this indicates how the item was created, what its powers are, and how to unleash them.
 
 You discover the powers in an enchanted device in order from weakest to strongest — that is, from the power of the lowest modified effect level to that of the highest. (A device's function as a talisman is treated as a level 20 power.) When you investigate an enchantment for the first time, you spend a season, add a stress die to your Intellego Vim Lab Total, and compare the result to the level of the weakest power in the enchantment. If you succeed in your roll to find the weakest power, you may roll again in that same season to identify the power immediately above it in strength. For example, if a device has three powers of level 10, 20, and 30 and you rolled a Lab Total of 25, you do not automatically find the first two powers. As your rolled Lab Total is over 10 (the level of the first power), you find the first power and may roll again in the season to find the second power (level 20), and the third power if you discover the second. Note that the level of a power in an enchanted device includes any effect modifications that apply to the power.
 
-As long as you succeed in finding powers, you keep rolling to find more in that season. If you roll and find nothing, it either means that there are no more powers in the enchantment or that you did not roll high enough to find the next one. Only
-
-the storyguide knows for certain. In either case, you can keep trying as long as you want, but each failure to discover a power ends the rolls for that season, and you can do nothing else that season.
+As long as you succeed in finding powers, you keep rolling to find more in that season. If you roll and find nothing, it either means that there are no more powers in the enchantment or that you did not roll high enough to find the next one. Only the storyguide knows for certain. In either case, you can keep trying as long as you want, but each failure to discover a power ends the rolls for that season, and you can do nothing else that season.
 
 If you botch an investigation roll, many results can arise, and the storyguide makes the final decision based on the situation. You could misinterpret a power, thinking it does something different from its actual function. You could misread the triggering action of a power, making it useless to you. Or you could somehow disturb the enchanted item, setting off its powers. If you survive an investigation botch, your season ends there. However, you may approach the device again next season to properly identify the power that confounded you.
 
@@ -12117,11 +12001,9 @@ Magi sometimes use the Waiting Spell (see page 372) to guard their enchanted dev
 
 ## Similar Spells
 
-magus gets some benefit from knowing a spell similar to the effect he is creating. He gets a bonus to his Lab Total equal to the magnitude of the highest-
+A magus gets some benefit from knowing a spell similar to the effect he is creating. He gets a bonus to his Lab Total equal to the magnitude of the highest-level similar spell that he knows. Only a single spell grants a bonus; there is no laboratory advantage to knowing dozens of similar spells.
 
-level similar spell that he knows. Only a single spell grants a bonus; there is no laboratory advantage to knowing dozens of similar spells.
-
-$S_{\text{IMILAR}} \; S_{\text{PELL}} \; Bonus: \\ Magnitude \; of \; highest-level \; similar \; spell \; known \\$
+**SIMILAR SPELL BONUS: Magnitude of highest-level similar spell known**
 
 A spell is similar if it meets one of the following requirements:
 
@@ -12132,55 +12014,35 @@ Two spells have the same effect if the rules description of the spell is the sam
 
 ## Longevity Rituals
 
-our time to study and increase your power has an ultimate deadline: your inevitable demise. In their attempts to gain themselves more time in this world, the magi of Hermes have developed Longevity Rituals. Though death is still
+Your time to study and increase your power has an ultimate deadline: your inevitable demise. In their attempts to gain themselves more time in this world, the magi of Hermes have developed Longevity Rituals. Though death is still Longevity Rituals. Though death is still inevitable, these rituals can stave it off for a hundred years or more. Magi of two hundred years or older are rare, but not unheard of.
 
-Longevity Rituals. Though death is still inevitable, these rituals can stave it off for a hundred years or more. Magi of two hundred years or older are rare, but not unheard of.
-
-The Longevity Ritual creates a magical anchor, sustaining the vital life force of the magus, often by directly affecting the tissues of the magus's body. This anchor, however, prevents the magus from expending his life force in normal human fashion, so the magus becomes permanently sterile. The ritual takes a season, and culminates in some sort of focus, which is appropriate to the magus in question. The most common form of the focus is a potion which the magus drinks. but it could be a bath, a ritual in which the magus inhales the smoke of special incense, or even a magical fire that the magus stands within to burn away the impurities that cause aging. The focus is always something that can be repeated, and does not require continuing actions or the possession of an object. Magi who have a potion as a focus often refer to their longevity potion; magi with different foci use different terms as appropriate, but if they feel that the nature of the focus is too revealing, they might refer simply to the Longevity Ritual.
+The Longevity Ritual creates a magical anchor, sustaining the vital life force of the magus, often by directly affecting the tissues of the magus's body. This anchor, however, prevents the magus from expending his life force in normal human fashion, so the magus becomes permanently sterile. The ritual takes a season, and culminates in some sort of focus, which is appropriate to the magus in question. The most common form of the focus is a potion which the magus drinks, but it could be a bath, a ritual in which the magus inhales the smoke of special incense, or even a magical fire that the magus stands within to burn away the impurities that cause aging. The focus is always something that can be repeated, and does not require continuing actions or the possession of an object. Magi who have a potion as a focus often refer to their longevity potion; magi with different foci use different terms as appropriate, but if they feel that the nature of the focus is too revealing, they might refer simply to the Longevity Ritual. 
 
 The Longevity Ritual takes one season to develop and perform, and the subject of the ritual must be present for the whole of that season. If appropriate, he may help the magus creating the ritual with his lab work (see page 264).
 
-Every magus has a unique Longevity Ritual, though it is possible for a magus to create a Longevity Ritual for another. Indeed, many young magi hire older magi to devise their Longevity Rituals, as the older magus's higher Lab Total makes the ritual much more effective. It
+Every magus has a unique Longevity Ritual, though it is possible for a magus to create a Longevity Ritual for another. Indeed, many young magi hire older magi to devise their Longevity Rituals, as the older magus's higher Lab Total makes the ritual much more effective. It is most common for a magus to pay his parens for this, and in some parts of the Order this is almost an expected custom.
 
-is most common for a magus to pay his parens for this, and in some parts of the Order this is almost an expected custom.
+**LONGEVITY RITUAL: +1 bonus for every five points or fraction of Creo Corpus Lab Total**
 
-LONGEVITY RITUAL:
-
-+1 bonus for every five points or fraction of Creo Corpus Lab Total
+**LONGEVITY RITUAL VIS COST: 1 pawn for every five years of age (rounded up)**
 
 Normally, only Creo, Corpus, and Vim vis may be used in a Longevity Ritual. However, a Longevity Ritual is a very personal creation, and as such, it is uniquely tied to your magical abilities. You may, with the approval of the troupe or storyguide, substitute any type of vis that your magical talents are strongly associated with.
 
-A Longevity Ritual's effect lasts until you suffer an aging crisis (see "Aging" on page 391). After this, the ritual loses its effectiveness and the focus must be repeated. You can invent a new ritual
+A Longevity Ritual's effect lasts until you suffer an aging crisis (see "Aging" on page 391). After this, the ritual loses its effectiveness and the focus must be repeated. You can invent a new ritual (following the normal rules for doing so), or perform the ritual from the old ritual again. This involves simply making a new investment of vis (of an amount based on your current age) but no significant investment in time. You must have the Laboratory Text (see page 262) from the original ritual to do this, and this is the only benefit from a Longevity Ritual's Laboratory Text. If your Longevity Ritual fails and you make aging rolls before you create a new one, you suffer the full effects of your age. You do not gain back any Aging Points or Decrepitude Points that you suffered when you were not under the effects of a ritual when you do finally perform a new ritual.
 
-(following the normal rules for doing so),
+When creating a Longevity Ritual for the first time, you can increase its potency by adding extra vis to the ceremony. This vis is above and beyond that which you must spend for your current age. For each additional pawn you add to the ritual, add 1 to your Lab Total. This vis is invested when you originally create a given version of a ritual, but you must use the same amount of extra vis every time you perform the focus again after the ritual fails. If you reinvent the ritual to take advantage of increased Art scores, you can choose not to use extra vis. 
 
-or perform the ritual from the old ritual again. This involves simply making a new investment of vis (of an amount based on your current age) but no significant investment in time. You must have the Laboratory Text (see page 262) from the original ritual to do this, and this is the only benefit from a Longevity Ritual's Laboratory Text. If your Longevity Ritual fails and you make aging rolls before you create a new one, you suffer the full effects of your age. You do not gain back any Aging Points or Decrepitude
-
-Points that you suffered when you
-
-ritual when you do finally perform
-
-were not under the effects of a
-
-a new ritual.
-
-When creating a Longevity Ritual for the first time, you can increase its potency by adding extra vis to the ceremony. This vis is above and beyond that which you must spend for your current age. For each additional pawn you add to the ritual, add 1 to your Lab Total. This vis is invested when you originally create a given version of a ritual, but you must use the same amount of extra vis every time you perform the focus again after the ritual fails. If you reinvent the ritual to take advantage of increased Art scores, you can choose not to use extra vis.
-
-You can perform Longevity Rituals for others, even for nonmagi. To do so, you need a Creo
-
-Corpus Lab Total of at least 30. A Longevity Ritual made for another magus or a character with a Supernatural Ability functions just as if made for you (-1 to aging rolls for every 5 points of Lab Total). Non-magical people, however, are not as resilient as magi. The ritual you create for a mundane therefore only subtracts one from the character's aging rolls for every 10 points (round up) in your Lab Total. A Longevity Ritual performed for someone else also fails when the subject suffers from an aging crisis. If the subject is a magus and has access to the Laboratory Text, he may perform the ritual himself. (Vis usage is limited by the magus's Arts, as for a spell, which may make it impossible.) As the magus was present for the original creation of the ritual, and quite possibly assisting in it, he understands the shorthand. A subject who is not a Hermetic magus may not repeat the ritual. Any magus with access to the Laboratory Text may do this, no matter what his Lab Total, but a magus who was not involved in the initial creation needs an accessible Laboratory Text.
+You can perform Longevity Rituals for others, even for non-magi. To do so, you need a Creo Corpus Lab Total of at least 30. A Longevity Ritual made for another magus or a character with a Supernatural Ability functions just as if made for you (-1 to aging rolls for every 5 points of Lab Total). Non-magical people, however, are not as resilient as magi. The ritual you create for a mundane therefore only subtracts one from the character's aging rolls for every 10 points (round up) in your Lab Total. A Longevity Ritual performed for someone else also fails when the subject suffers from an aging crisis. If the subject is a magus and has access to the Laboratory Text, he may perform the ritual himself. (Vis usage is limited by the magus's Arts, as for a spell, which may make it impossible.) As the magus was present for the original creation of the ritual, and quite possibly assisting in it, he understands the shorthand. A subject who is not a Hermetic magus may not repeat the ritual. Any magus with access to the Laboratory Text may do this, no matter what his Lab Total, but a magus who was not involved in the initial creation needs an accessible Laboratory Text.
 
 ## Laboratory Texts
 
-hen a magus creates something in the laboratory, he keeps a set of notes recording what he has done, what worked, and what didn't. With the aid of these
-
-notes he, or another magus, can reproduce the effect much more quickly, as he knows exactly what he should be doing.
+When a magus creates something in the laboratory, he keeps a set of notes recording what he has done, what worked, and what didn't. With the aid of these notes he, or another magus, can reproduce the effect much more quickly, as he knows exactly what he should be doing.
 
 One Laboratory Text is created for every effect that the magus creates. Thus, a magus creates a single Laboratory Text when he invents a single spell, or invests a single power into an enchanted item.
 
 The most common Laboratory Texts in the Order of Hermes are those detailing the creation of spells. Almost every covenant has a substantial collection of these, as they at least double the speed at which magi can add new Formulaic spells to their repertoire.
 
-## Using Laboratory Texts
+### Using Laboratory Texts
 
 A magus who has a Laboratory Text for a particular effect may reproduce it in a single season if his Lab Total equals or exceeds the level of the effect. If his Lab Total is less than the level of the effect, he may not use the Laboratory Text until his Lab Total increases to be at least equal to the level. A magus may reproduce multiple effects if they are all of the same Technique and Form, and the total of their levels is no greater than his Lab Total. The Lab Total is calculated in exactly the same way when working from a Laboratory Text as when working without one.
 
@@ -12192,21 +12054,23 @@ The Laboratory Text for a Longevity Ritual only allows the magus to reproduce th
 
 It is not possible to experiment (see page 274) while working from a Laboratory Text. The benefit comes from following the procedures exactly, which is inconsistent with experimentation. It is, of course, possible to look at a Laboratory Text and then experiment to create an almost identical effect, but the magus would get no benefit from the Laboratory Text.
 
-## Laboratory Texts Example
-
-Carolus decides that he needs at least one combat spell, or he risks being in serious trouble if he gets caught stealing. Given his magical strengths, he decides to look at Perdo Corpus. His Perdo Corpus Lab Total is 10 (Perdo) + 5 (Corpus) + 2 (Intelligence) + 4 (Magic Theory) + 1 (Magic Theory is specialized in inventing spells) + 5 (Aura of Semita Errabunda), for a total of 27. He could invent a level 13 spell by himself in a season, but that wouldn't be much use.
-
-Fortunately, the covenant library has a Lab Text for *Grip of the Choking Hand*. This spell is level 25, which would take him 13 seasons to invent by himself. His Lab Total is 2 higher than the level, so after thirteen seasons he would have accumulated 26 points, and thus invented the spell. Working from the Lab Text, however, he can invent the spell in a single season.
-
 Laboratory Texts are not immediately useful to others, however, as they include all sorts of personal abbreviations and shortcuts that others cannot understand. (Remember that everything is written by hand in the Middle Ages.)
 
 If you would like to copy a Laboratory Text of yours so others can easily use it, you can spend a season rewriting up to (Latin x 20) levels of Laboratory Texts to make them usable by others. Also, in one season, you can copy (Profession: Scribe x 60) levels of Laboratory Texts that are already written understandably. Note that copying is a different skill from writing from scratch. It is entirely possible for a skilled writer to be faster at writing than copying.
 
 Any person who assisted in a particular Laboratory Activity, adding their Intelligence + Magic Theory to the Lab Total, understands the Laboratory Texts produced for that activity without needing to translate them, and may make generally accessible copies. This also applies to a magus who is the subject of a Longevity Ritual created by another magus, even if he does not assist. Assistants do not, however, create Laboratory Texts.
 
-Writing Laboratory Texts: Latin x 20 levels per season Copying Laboratory Texts: Profession: Scribe x 60 levels per season
+**WRITING LABORATORY TEXTS: Latin x 20 levels per season**
 
-## Casting Tablets
+**COPYING LABORATORY TEXTS: Profession: Scribe x 60 levels per season**
+
+> #### Laboratory Texts Example
+>
+> Carolus decides that he needs at least one combat spell, or he risks being in serious trouble if he gets caught stealing. Given his magical strengths, he decides to look at Perdo Corpus. His Perdo Corpus Lab Total is 10 (Perdo) + 5 (Corpus) + 2 (Intelligence) + 4 (Magic Theory) + 1 (Magic Theory is specialized in inventing spells) + 5 (Aura of Semita Errabunda), for a total of 27. He could invent a level 13 spell by himself in a season, but that wouldn't be much use.
+> 
+> Fortunately, the covenant library has a Lab Text for *Grip of the Choking Hand*. This spell is level 25, which would take him 13 seasons to invent by himself. His Lab Total is 2 higher than the level, so after thirteen seasons he would have accumulated 26 points, and thus invented the spell. Working from the Lab Text, however, he can invent the spell in a single season.
+
+#### Casting Tablets
 
 A Casting Tablet is a variant on a Laboratory Text that contains a simple series of instructions for casting a particular spell. Magi who have not learned the spell's intricacies through laboratory research may use a Casting Tablet instead. Casting from tablets is dangerous, because the magus is calling on power that he cannot control accurately. Casting from tablets is also an inflexible style of spellcasting.
 
@@ -12214,78 +12078,105 @@ A magus casting from a tablet does not understand the spell's workings, and so m
 
 Rituals may be cast from tablets. It is possible, but dangerous, for a magus with a tablet to lead a Wizard's Vigil. A botch by any member of the group causes the leader also to botch. An odd effect of casting from a tablet is that the sigil of the writer is preserved in the spell, and is visible along with the sigil of the caster.
 
-When casting from a tablet, determine the magus's Casting Total according to the following formula, then subtract the spell level from the
+When casting from a tablet, determine the magus's Casting Total according to the following formula, then subtract the spell level from the Casting Total and look up the result on the table that follows. Use this formula for both Formulaic and Ritual spells. The table replaces the normal results for casting either type of spell. For Formulaic spells, the Fatigue levels lost are short-term, and for Ritual spells they are long-term.
 
-Casting Total and look up the result on the table that follows. Use this formula for both Formulaic and Ritual spells. The table replaces the normal results for casting either type of spell. For Formulaic spells, the Fatigue levels lost are short-term, and for Ritual spells they are long-term.
+**CASTING TOTAL: Stamina + Form + Technique + Aura + stress die (modified by Virtues, Flaws and requisites)**
 
-#### CASTING TOTAL:
+**CASTING TOTAL - SPELL LEVEL:**
 
-Stamina + Form + Technique + Aura + stress die (modified by Virtues, Flaws and requisites)
+Magi can only author Casting Tablets for spells they have mastered (see page 225), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
 
-CASTING TOTAL - SPELL LEVEL:
+|     |     |
+| --- | --- |
+| 0 or more | Spell cast, lose one Fatigue level. |
+| -1 to -10 | Spell cast, lose two Fatigue levels. |
+| −11 to −20 | Spell cast, lose three Fatigue levels. |
+| −21 to −30 | Spell cast. Gain a Warping point. Lose four Fatigue levels. |
+| -31 or less | Gain Warping points equal to the magnitude of the spell, lose five Fatigue levels. If the caster gains two or more Warping Points, he must check for Twilight. |
 
-Magi can only author Casting Tablets for spells they have mastered (see page 225), although anyone can copy tablets written by others. A character spending a season as an author or copyist may create Laboratory Texts or Casting 0 or more Spell cast, lose one Fatigue level.
-
-- -1 to -10 Spell cast, lose two Fatigue levels.
-- −11 to −20 | Spell cast, lose three Fatigue levels.
-- −21 to −30 Spell cast. Gain a Warping point. Lose four Fatigue levels.
-- -31 or less Gain Warping points equal to the magnitude of the spell, lose five Fatigue levels. If the caster gains two or more Warping Points, he must check for Twilight.
-
-Tablets from the same pool of levels. Casting Tablets do not aid magi to learn spells the way Laboratory Texts do.
-
-# Translating Laboratory Texts
+### Translating Laboratory Texts
 
 If you want to translate the Laboratory Texts of another magus whose secrets and abbreviations you do not know, you must work out his system of abbreviations. Every season you spend studying one of his texts, you accumulate a number of points equal to your Lab Total in the appropriate Technique and Form. Once you have accumulated points equal to or exceeding the level of the effect, you understand the text. This is a process of experimentation, and thus requires a laboratory.
 
-Once you have understood a magus's abbreviations for one Laboratory Text, you may write up any of his Laboratory Texts as if they were your own (that is, Latin x 20 levels per season), as long as none of them exceed the level of the text you decoded. This is a simple process of translation, and does not require a laboratory. If you come across a higher level text, you must decode that separately, but you start with a
-
-number of accumulated points equal to the level of the highest level text you have translated. Note that Laboratory Texts cannot be translated into Casting Tablets.
+Once you have understood a magus's abbreviations for one Laboratory Text, you may write up any of his Laboratory Texts as if they were your own (that is, Latin x 20 levels per season), as long as none of them exceed the level of the text you decoded. This is a simple process of translation, and does not require a laboratory. If you come across a higher level text, you must decode that separately, but you start with a number of accumulated points equal to the level of the highest level text you have translated. Note that Laboratory Texts cannot be translated into Casting Tablets.
 
 As noted above, laboratory assistants automatically understand the Laboratory Texts for the activities with which they helped. This also helps them to translate other Laboratory Texts by the same magus. A magus may also teach someone his (or another maga's) abbreviations, by spending a season writing Laboratory Texts with that person present, and explaining the abbreviations. In that case, the student counts as understanding Laboratory Texts by that magus with a level up to the teacher's Latin x 20. Note that such students need not have The Gift, but must be literate in Latin and have a score of at least 1 in Magic Theory to write or copy Laboratory Texts without corrupting them (see page 380).
 
 ## Multiple Laboratory Activities
 
-ometimes you may wish to perform laboratory activities that, though rewarding, are well within your capabilities. In this case, you may choose to
-
-perform multiple activities within a single season, splitting your time among them all. All the activities you perform in a season must be of the same type (for example, learning spells, instilling powers in an invested device, creating potions) and must use the same Technique and Form. Some or all of the activities may be based on Laboratory Texts. To perform multiple activities, simply add up the levels of all activities performed and apply your Lab Total to the total of the levels.
+Sometimes you may wish to perform laboratory activities that, though rewarding, are well within your capabilities. In this case, you may choose to perform multiple activities within a single season, splitting your time among them all. All the activities you perform in a season must be of the same type (for example, learning spells, instilling powers in an invested device, creating potions) and must use the same Technique and Form. Some or all of the activities may be based on Laboratory Texts. To perform multiple activities, simply add up the levels of all activities performed and apply your Lab Total to the total of the levels.
 
 If the Lab Totals for the different activities are different, due to requisites, a Magical Focus, or similar, apply the lowest of the Lab Totals to the total of the levels.
 
 If you perform arcane experimentation (page 274), you add a single simple die + risk modifier to your Lab Total, but any results rolled on the "Extraordinary Results Chart" apply to all activities performed in the season.
 
-# help in the Laboratory
+## Help in the Laboratory
 
-hough the Code of Hermes provides protection for magi who meet on neutral grounds, the sanctum of a magus (laboratory and living quarters)
-
-is a special place in which magi hold their greatest treasures and deepest secrets. Thus, the Code of Hermes allows for magi to exact any toll on magi who trespass within their sancta. Because one magus foregoes protection of the Code when in the laboratory sanctum of another, very few magi ever cooperate in laboratory work.
+Though the Code of Hermes provides protection for magi who meet on neutral grounds, the sanctum of a magus (laboratory and living quarters) is a special place in which magi hold their greatest treasures and deepest secrets. Thus, the Code of Hermes allows for magi to exact any toll on magi who trespass within their sancta. Because one magus foregoes protection of the Code when in the laboratory sanctum of another, very few magi ever cooperate in laboratory work.
 
 Nevertheless, there are times when magi receive help in their laboratory work, either from trusting magi or from apprentices. Anyone who has The Gift and a score of at least one in Magic Theory may help you to perform any activity that uses your Magic Theory. If you are being helped to perform some activity that uses your Magic Theory, you add the helper's Intelligence + Magic Theory to your Lab Total for the season. Any helper's Virtues and Flaws affect the Lab Total, in the same way as those of the primary magus. If this total is negative, the 'assistant' imposes a penalty on your Lab Total. If the assistant has some appropriate Virtue or Flaw, like Inventive Genius, that Virtue or Flaw applies to the primary researcher's efforts.
 
 Thus, when two magi cooperate, one must always be the primary researcher and one must be the assistant. This research may take place outside the sanctum of either magus (see The Sanctum, page 297), in which case both parties are protected by the Code. However, the assistant is announcing to the Order that he considers the primary researcher to be his superior. This substantially limits the range of magi that most members of the Order are willing to assist. A magus is conventionally supposed to regard his parens as superior throughout his life, so helping your parens attracts no stigma, even for those magi who actually regard their parentes with contempt.
 
-You may not normally have more than one helper in the lab, as it is difficult to coordinate several helpers with you and with each other. However, if people are exceptionally well-organized and cooperative, more can work together, each helper adding his Magic Theory and Intelligence scores to the primary researcher's scores. The total number of assistants that the primary researcher can make use of in one season is limited to his
+You may not normally have more than one helper in the lab, as it is difficult to coordinate several helpers with you and with each other. However, if people are exceptionally well-organized and cooperative, more can work together, each helper adding his Magic Theory and Intelligence scores to the primary researcher's scores. The total number of assistants that the primary researcher can make use of in one season is limited to his Leadership score (though he can always have at least one). The exception is that a magus with a familiar may always have at least one assistant in addition to his familiar; this does not increase the maximum if he has a Leadership score of 2 or more. 
 
-Leadership score (though he can always have at least one). The exception is that a magus with a familiar may always have at least one assistant in addition to his familiar; this does not increase the maximum if he has a Leadership score of 2 or more. Lab assistants gain exposure experience, typically in Magic Theory, but do not gain anything else from the experience. Distractions from Lab Work he rules for what a magus can do in a season assume that the season is uninterrupted. Sometimes, however, magi take time away from their labs to travel and explore, and this lost time makes itself felt in their lab performance. You may miss up to ten days from any laboratory activity, and make up the time by working harder during the remainder of the season. There is no penalty for this. However, if you miss eleven days or more, your Lab Total is penalized by 10 points, plus two points for every day over ten that you miss, up to a maximum penalty of 30 when you miss twenty days. If you miss more than twenty days, you cannot perform a laboratory activity at all, as you lose your synchronization with the cycles of the heavens.
+Lab assistants gain exposure experience, typically in Magic Theory, but do not gain anything else from the experience. 
 
-## Pamiliars
+## Distractions from Lab Work 
 
-rotective of their secrets and suspicious of any who might hold power over them, magi are notoriously distant from other people. They can find
+The rules for what a magus can do in a season assume that the season is uninterrupted. Sometimes, however, magi take time away from their labs to travel and explore, and this lost time makes itself felt in their lab performance. You may miss up to ten days from any laboratory activity, and make up the time by working harder during the remainder of the season. There is no penalty for this. However, if you miss eleven days or more, your Lab Total is penalized by 10 points, plus two points for every day over ten that you miss, up to a maximum penalty of 30 when you miss twenty days. If you miss more than twenty days, you cannot perform a laboratory activity at all, as you lose your synchronization with the cycles of the heavens.
 
-some companionship with apprentices, but the master-apprentice bond often atrophies after the apprentice becomes a magus, and sometimes former master and former apprentice become rivals. For longer-lasting and deeper companionship, many magi turn to a familiar.
+## Familiars
+
+Protective of their secrets and suspicious of any who might hold power over them, magi are notoriously distant from other people. They can find some companionship with apprentices, but the master-apprentice bond often atrophies after the apprentice becomes a magus, and sometimes former master and former apprentice become rivals. For longer-lasting and deeper companionship, many magi turn to a familiar.
 
 A familiar is a beast that a magus befriends and then magically bonds with, instilling the beast with magical powers in the process and then using magic to merge its powers and abilities with his own. Though a familiar is very close to the magus who creates it, it always has its own will, and is not under the control of the magus. The familiar is the closest friend and ally a magus will ever have... but even friends fight occasionally.
 
-# Finding and Befriending an Animal
+### Finding and Befriending an Animal
 
 The first step in getting a familiar is finding an animal with inherent magic. With inherent magic, the beast is likely to have a Magic Might score, which may be assigned based on the scores of comparable magical creatures. The means of finding such a creature are ultimately left to the storyguide to determine. Wandering at random in search of a magical creature is usually profitless — magi generally follow rumors to the locations of the familiars they want. Some receive visions of animals that are somehow "meant" for them.
 
 Once found, the animal must be befriended. You must genuinely admire or even love the animal in question, and it must trust you freely, under no coercion, magical or mundane. The animal can sense something of your nature when you are in close contact. If your natures clash, it rejects you. The need for mutual admiration between magus and familiar is why air magi, for example, often take birds as familiars, and why you can often tell something about magi by the familiars they have chosen and that have chosen them.
 
-## Enchanting the Pamiliar
+### Enchanting the Familiar
 
 Once you and the familiar accept each other, you take the animal to your laboratory and begin a series of enchantments. Enchanting a familiar is different from other enchantments. The bond between you and your familiar causes changes to you both, and you do not have full control over how the enchantment affects you. Your troupe and storyguide determine how you are affected throughout the enchantment, though you do have control over the changes your familiar undergoes.
 
-## The Initial Bond
+### Suggested Familiars by Art
+
+The Arts used to bond a familiar must correspond to either the animal itself, or its powers. The following list gives examples of animals that may be suited to particular Arts.
+
+**Creo:** beaver, eagle, lizard, pelican, weasel, any animal that can rejuvenate itself
+
+**Intellego:** cat (tortoiseshell), crow, goat, raven, woodpecker, toad, any animal with keen senses, any animal thought to foretell the future
+
+**Muto:** cat (white or tortoiseshell), fox, hare, moths and butterflies, toad, other amphibians
+
+**Perdo:** asp, hedgehog, salamander, shrew, weasel, any venomous animal
+
+**Rego:** badger, cat (black), cockerel, dog, lion, owl, wolf, any pack leader or similarly dominant animal
+
+**Animal:** any animal
+
+**Aquam:** coot, duck, frog, kingfisher, otter, swan, any amphibious or semi-aquatic animal
+
+**Auram:** crow, kingfisher, spider, any bird or bat
+
+**Corpus:** caladrius, cat, dog, goose
+
+**Herbam:** beaver, monkey, squirrel, woodpecker
+
+**Ignem:** eagle, hercinia, salamander, scitalis, very small dragons
+
+**Imaginem:** chameleon (lizard), cricket, magpie, partridge, peacock, scitalis
+
+**Mentem:** ape, cat (black or tortoiseshell), fox, owl, wolf, any animal with an Intelligence score (before bonding)
+
+**Terram:** badger, hedgehog, ferret, frog, fox, mole, mouse
+
+**Vim:** hoopoe, any magical animal
+
+### The Initial Bond
 
 The laboratory total for binding the familiar is any appropriate Technique + any appropriate Form + Int + Magic Theory + Aura Modifier. Puissant Arts and foci may apply to this. A Technique or Form is appropriate if it corresponds in some way to the animal or its powers. Thus, Animal and Vim are always appropriate Forms for binding magical animals. Aquam is appropriate for aquatic or semiaquatic animals, and Auram for birds, or creatures with power over air or weather. Corpus applies to animals that can take human form, or with powers to heal or transform people. Herbam might be appropriate to arboreal creatures, or to beasts with powers over plants. Ignem is suitable for firebreathing or shining creatures, and Imaginem for those that change their appearance. Mentem fits any animal that has a true mind, or which can affect the minds of people, while Terram is appropriate to burrowing animals or creatures with powers affecting earth, stone, or metal.
 
@@ -12293,57 +12184,15 @@ The Techniques are more likely to correspond to abilities of the animal. Builder
 
 Any magus should be able to find an animal that he can bind with his best Technique and Form, and such an animal will automatically be in sympathy with the magus's magic.
 
-The level for the enchantment is equal to 25 plus the familiar's Magic Might plus 5 times its Size. If the familiar has negative Size, this reduces the level for the enchantment. For example, a familiar with a Size of –2 and a Magic Might of 10 can be bound as a level 25 enchantment: 10 for the Magic Might, plus 25, minus 10 from the negative Size. A magus can only bind a familiar if his Lab Total equals or exceeds this level. If it does, he can bind the familiar in a single season. This costs one pawn of vis for every five points or fraction thereof of the Lab Total. The vis used must match either
+The level for the enchantment is equal to 25 plus the familiar's Magic Might plus 5 times its Size. If the familiar has negative Size, this reduces the level for the enchantment. For example, a familiar with a Size of –2 and a Magic Might of 10 can be bound as a level 25 enchantment: 10 for the Magic Might, plus 25, minus 10 from the negative Size. A magus can only bind a familiar if his Lab Total equals or exceeds this level. If it does, he can bind the familiar in a single season. This costs one pawn of vis for every five points or fraction thereof of the Lab Total. The vis used must match either the Technique or the Form used in calculating the Lab Total, and the magus may use both kinds.
 
-## Suggested Familiars by Art
+**FAMILIAR BONDING LAB TOTAL: Any Technique + any Form + Intelligence + Magic Theory + Aura Modifier**
 
-The Arts used to bond a familiar must correspond to either the animal itself, or its powers. The following list gives examples of animals that may be suited to particular Arts.
+**FAMILIAR BONDING LEVEL: Familiar's Magic Might + 25 + (5 x Size)**
 
-Creo: beaver, eagle, lizard, pelican, weasel, any animal that can rejuvenate itself
+**FAMILIAR BONDING COST: 1 pawn of vis per five levels or fraction of the binding Lab Total. Vis must match Technique or Form**
 
-Intellego: cat (tortoiseshell), crow, goat, raven, woodpecker, toad, any animal with keen senses, any animal thought to foretell the future
-
-Muto: cat (white or tortoiseshell), fox, hare, moths and butterflies, toad, other amphibians
-
-Perdo: asp, hedgehog, salamander, shrew, weasel, any venomous animal
-
-Rego: badger, cat (black), cockerel, dog, lion, owl, wolf, any pack leader or similarly dominant animal
-
-Animal: any animal
-
-Aquam: coot, duck, frog, kingfisher, otter, swan, any amphibious or semi-aquatic animal
-
-Auram: crow, kingfisher, spider, any bird or bat
-
-Corpus: caladrius, cat, dog, goose
-
-Herbam: beaver, monkey, squirrel, woodpecker
-
-Ignem: eagle, hercinia, salamander, scitalis, very small dragons
-
-Imaginem: chameleon (lizard), cricket, magpie, partridge, peacock, scitalis
-
-Mentem: ape, cat (black or tortoiseshell), fox, owl, wolf, any animal with an Intelligence score (before bonding)
-
-Terram: badger, hedgehog, ferret, frog, fox, mole, mouse
-
-Vim: hoopoe, any magical animal
-
-the Technique or the Form used in calculating the Lab Total, and the magus may use both kinds.
-
-Familiar Bonding Lab Total:
-Any Technique + any Form + Intelligence +
-Magic Theory + Aura Modifier
-
-Familiar Bonding Level:
-Familiar's Magic Might + 25 + (5 x Size)
-
-Familiar Bonding Cost:
-
-1 pawn of vis per five levels or fraction of the binding Lab Total. Vis must match
-Technique or Form
-
-## The Three Cords
+#### The Three Cords
 
 As part of the process of binding a familiar, the magus forges three mystical cords. A golden cord connects the magus and familiar's magical abilities, a silver cord connects their minds, and a bronze cord connects their bodies. These cords may be seen by someone with the Second Sight Virtue, but they are otherwise imperceptible.
 
@@ -12351,17 +12200,17 @@ The strength of each of these cords is rated from 0 to +5. To determine all the 
 
 Each cord has a varying effect (described below) depending on how well it is forged. These benefits also apply to the familiar.
 
-The Golden Cord: The familiar helps you avoid magical errors, letting you roll fewer botch rolls when using magic. Your golden cord score is the number subtracted from the number of botch dice you would normally roll (though the Golden Cord cannot reduce the number of botch dice to zero).
+**The Golden Cord:** The familiar helps you avoid magical errors, letting you roll fewer botch rolls when using magic. Your golden cord score is the number subtracted from the number of botch dice you would normally roll (though the Golden Cord cannot reduce the number of botch dice to zero).
 
-The Silver Cord: You can apply your silver cord score as a bonus to all rolls that involve Personality Traits, and to rolls to protect you from natural or supernatural mental influence, such as a spell, intimidation, or verbal trickery. In addition, if your mind is ever overcome by another force your familiar may be able to free you. To be successful, it must roll 9+ on a stress die with the silver cord score as its bonus (one attempt per day). If the roll botches, the animal's mind is overcome along with yours.
+**The Silver Cord:** You can apply your silver cord score as a bonus to all rolls that involve Personality Traits, and to rolls to protect you from natural or supernatural mental influence, such as a spell, intimidation, or verbal trickery. In addition, if your mind is ever overcome by another force your familiar may be able to free you. To be successful, it must roll 9+ on a stress die with the silver cord score as its bonus (one attempt per day). If the roll botches, the animal's mind is overcome along with yours.
 
-The Bronze Cord: You can apply your bronze cord score as a bonus to Soak rolls and totals, to healing rolls, to rolls to withstand deprivation (such as to holding your breath or resisting sleepiness), and to rolls to resist aging. It does not help you withstand Fatigue.
+**The Bronze Cord:** You can apply your bronze cord score as a bonus to Soak rolls and totals, to healing rolls, to rolls to withstand deprivation (such as to holding your breath or resisting sleepiness), and to rolls to resist aging. It does not help you withstand Fatigue.
 
 The magus binds a familiar by forging the cords, so both the initial bond and the forging of the cords take place in the same season.
 
 The magus may choose to strengthen the bonds after binding the familiar. He must use the same Arts as for the initial binding, and may buy bond strengths with the new value of the Lab Total. This strengthening also takes a single season, and costs a number of pawns of vis equal to one fifth of the magus's Lab Total, rounded up, minus the number of pawns of vis already spent on binding the familiar. This does not include pawns of vis spent on empowering the bond (see below). Thus, the number of pawns of vis that must be spent to get cords of a certain strength remains the same whether the magus does it all at once, or over several seasons.
 
-## The Bound Familiar
+### The Bound Familiar
 
 The familiar binding gives both the magus and the familiar the Minor Virtue True Friend, relating to the other half of the partnership. Thus, they also gain Personality Traits of Loyal (partner) +3.
 
@@ -12373,15 +12222,13 @@ The familiar uses the better of its Magic Resistance or the magus's Form resista
 
 Both the familiar and the magus retain any abilities that they had before the ritual was performed.
 
-## Empowering the Bond
+### Empowering the Bond
 
 A maga may, at any time, invest powers in the familiar bond. This is a laboratory activity, and the rules are the same as those for investing a power in an invested device, with four exceptions.
 
 First, there is no limit to the number of powers which may be invested in a familiar.
 
-Second, the maga gets no bonus to the Lab Total from other effects already invested in the
-
-familiar. Instead, she gets +5 if the effect matches either the Technique or Form used to bind the familiar, and +10 if it matches both.
+Second, the maga gets no bonus to the Lab Total from other effects already invested in the familiar. Instead, she gets +5 if the effect matches either the Technique or Form used to bind the familiar, and +10 if it matches both.
 
 Third, powers are limited to effects which target the maga, the familiar, or both.
 
@@ -12399,7 +12246,7 @@ Investing a power into the bond costs the same as investing a power into an ench
 
 One very important benefit of enchanting a power into the familiar bond is that the power does not cause Warping (page 389) as a constant mystical effect.
 
-## The Familiar in Play
+### The Familiar in Play
 
 You and your familiar will undoubtedly grow closer as the saga progresses, learning from each other and strengthening your common bond. Over the years, your familiar learns what you know, provided that you keep the familiar with you when you study and that you share your knowledge with it.
 
@@ -12407,53 +12254,43 @@ Your familiar ages along with you, generally dying a few days before or several 
 
 You can only have one familiar at a time. Your familiar will be with you for a long time, so make it interesting.
 
-## Example Powers
+> ### Example Powers
+>
+> **Speech:** Giving an animal the ability to form human speech is Muto Animal, with a base level of 5 (a minor change that makes the animal unnatural). The duration needs to be Concentration, with the bond maintaining concentration, and the range needs to be increased to Touch. This gives level 20. The maga needs to maintain the ability at sunrise and sunset, but can reactivate it once per day if she 'forgets'.
+>
+> **Mental communication:** Two effects, each allowing one partner to communicate with the other. The effect is Creo Mentem, as one partner is creating things in the mind of the other. If only words can be transmitted, the base level is 3, plus one magnitude for Touch range, plus ten levels for unlimited use, which is 14. If more complex thoughts, such as images and emotions, can be transmitted, then the base level is four, plus one magnitude for Touch range, plus ten for unlimited use, for a final level of 15.
+> 
+> **Shapechanging:** The most efficient way to get controllable changes is to set the duration of the spell to Concentration, and then enhance the effect so that the bond maintains concentration. To change the familiar into a human, the effect is Muto Animal with a Corpus requisite, and the base level is 10. Add one magnitude each for Touch range and Concentration duration, and five levels for the item to maintain Concentration. The final level is 25, if the transformation can be done once per day. The level required to transform the maga into the form of her familiar varies. Both can also take on other forms, if the appropriate powers are invested.
+>
+> **Shared Senses:** Looking through the other's eyes or hearing through their ears is an Intellego Mentem effect. The base level to share a single sense is five (by analogy from the guidelines), plus five for Touch range and five for Concentration duration. Another five levels lets the bond maintain the effect, for a total level of 20 if the sense can be shared once per day. Note that this sharing works only in one direction; a second power must be instilled for mutual sharing to be possible.
+>
+> **Location:** The base level to find the partner is 3, which needs to be increased by one magnitude, to 4, for Touch range. This is Intellego Corpus to find the maga, and Intellego Animal to find the familiar.
+>
+> **Aura of Fire:** Wreath the maga or familiar in flames, which do not burn her but do burn anything that comes within them. This is creating flame in an unnatural shape, so the fire does damage equal to its level. The Arts are Creo Ignem, with a Rego requisite. +5 levels to raise the duration to Diameter, +5 levels for range Touch, +5 for the Rego requisite, and +10 for unlimited uses. Final level is damage + 25.
+>
+> **Razor-sharp steel claws:** The Arts are Muto Animal (for the familiar) or Muto Corpus (for the maga), with a Terram requisite. The Muto Animal base level would be 3, and the Muto Corpus would be 2 or 3, so the base level is 5, to create base metal. Add five levels for range Touch, and ten total for Concentration duration and concentration maintained by the bond. Because the claws are supposed to be magically sharp, the level is raised by five. Add ten levels so that the effect can be invoked at will, for a final level of 35.
 
-Speech: Giving an animal the ability to form human speech is Muto Animal, with a base level of 5 (a minor change that makes the animal unnatural). The duration needs to be Concentration, with the bond maintaining concentration, and the range needs to be increased to Touch. This gives level 20. The maga needs to maintain the ability at sunrise and sunset, but can reactivate it once per day if she 'forgets'.
-
-Mental communication: Two effects, each allowing one partner to communicate with the other. The effect is Creo Mentem, as one partner is creating things in the mind of the other. If only words can be transmitted, the base level is 3, plus one magnitude for Touch range, plus ten levels for unlimited use, which is 14. If more complex thoughts, such as images and emotions, can be transmitted, then the base level is four, plus one magnitude for Touch range, plus ten for unlimited use, for a final level of 15.
-
-Shapechanging: The most efficient way to get controllable changes is to set the duration of the spell to Concentration, and then enhance the effect so that the bond maintains concentration. To change the familiar into a human, the effect is Muto Animal with a Corpus requisite, and the base level is 10. Add one magnitude each for Touch range and Concentration duration, and five levels for the item to maintain Concentration. The final level is 25, if the transformation can be done once per day. The level required to transform the maga into the form of her familiar varies. Both can also take on other forms, if the appropriate powers are invested.
-
-Shared Senses: Looking through the other's eyes or hearing through their ears is an Intellego Mentem effect. The base level to share a single sense is five (by analogy from the guidelines), plus five for Touch range and five for Concentration duration. Another five levels lets the bond maintain the effect, for a total level of 20 if the sense can be shared once per day. Note that this sharing works only in one direction; a second power must be instilled for mutual sharing to be possible.
-
-Location: The base level to find the partner is 3, which needs to be increased by one magnitude, to 4, for Touch range. This is Intellego Corpus to find the maga, and Intellego Animal to find the familiar.
-
-Aura of Fire: Wreath the maga or familiar in flames, which do not burn her but do burn anything that comes within them. This is creating flame in an unnatural shape, so the fire does damage equal to its level. The Arts are Creo Ignem, with a Rego requisite. +5 levels to raise the duration to Diameter, +5 levels for range Touch, +5 for the Rego requisite, and +10 for unlimited uses. Final level is damage + 25.
-
-Razor-sharp steel claws: The Arts are Muto Animal (for the familiar) or Muto Corpus (for the maga), with a Terram requisite. The Muto Animal base level would be 3, and the Muto Corpus would be 2 or 3, so the base level is 5, to create base metal. Add five levels for range Touch, and ten total for Concentration duration and concentration maintained by the bond. Because the claws are supposed to be magically sharp, the level is raised by five. Add ten levels so that the effect can be invoked at will, for a final level of 35.
-
-# The Participation of Other Players
+### The Participation of Other Players
 
 The storyguide plays an important role in the creation of your familiar. If your troupe has someone who acts as storyguide for laboratory activities, that person may act as storyguide while you are creating your familiar. However, you may wish to use the whole troupe as the acting storyguide during this process, both to get more creative input and to make the familiar more acceptable to your fellow players, who may find it a challenge to deal with such a strange addition to the company.
 
-Because you and your familiar are so close, you may roleplay your familiar as an extension of your character. After all, you may have similar abilities and personality quirks. However, you may also have another player act as your familiar. This alternative assures that your familiar is at least distinct from you, and is advised if you and your familiar don't get along
-
-very well.
+Because you and your familiar are so close, you may roleplay your familiar as an extension of your character. After all, you may have similar abilities and personality quirks. However, you may also have another player act as your familiar. This alternative assures that your familiar is at least distinct from you, and is advised if you and your familiar don't get along very well.
 
 ## Apprentices
 
-teaching your apprentice rather than doing research, the apprentice in turn is required to help you do your lab work. In addition, an apprentice provides you close human companionship and the chance to leave a living legacy when you die. Your apprentice will likely be the closest thing to a son or daughter that you, as a magus, will ever have.
+In your pursuit of the art of magic, you are likely to want an apprentice. Though the Code of Hermes requires that you devote a season a year to teaching your apprentice rather than doing research, the apprentice in turn is required to help you do your lab work. In addition, an apprentice provides you close human companionship and the chance to leave a living legacy when you die. Your apprentice will likely be the closest thing to a son or daughter that you, as a magus, will ever have.
 
-## Finding Your Apprentice
+### Finding Your Apprentice
 
-Among the common people there sometimes appear rare individuals with The Gift — those who have innate magical power. Only these individuals can become apprentices and eventually magi. Luckily for those magi who seek them, these people inevitably stand out from the crowd. Most potential apprentices somehow attract supernatural attention to themselves. In many populations there is a youth who is prone to wandering alone at night, who is the subject of much town gossip, and who displays a precocious wit. Chances are that such a
+Among the common people there sometimes appear rare individuals with The Gift — those who have innate magical power. Only these individuals can become apprentices and eventually magi. Luckily for those magi who seek them, these people inevitably stand out from the crowd. Most potential apprentices somehow attract supernatural attention to themselves. In many populations there is a youth who is prone to wandering alone at night, who is the subject of much town gossip, and who displays a precocious wit. Chances are that such a person is a potential apprentice.
 
-person is a potential apprentice.
+Searching for an apprentice can lead to good storytelling and roleplaying possibilities, especially if the search is complicated by enemy forces or uncooperative members of the child's family. However, if you do not wish to make a story out of finding an apprentice, you may determine the results of the search with a die roll. For every season you spend searching for a potential apprentice, make a stress die and add your Perception. If the result is 9+, you find one. If you botch, you may think you've found a child fit to be an apprentice but are somehow duped, either by the child or by some power that replaces your child with its servant.
 
-Searching for an apprentice can lead to good storytelling and roleplaying possibilities, especially if the search is complicated by enemy forces or uncooperative members of the child's family. However, if you do not wish to make a story out of finding an apprentice, you may determine the results of the search with a die roll. For every season you spend searching for a
-
-potential apprentice, make a stress die and add your Perception. If the result is 9+, you find one. If you botch, you may think you've found a child fit to be an apprentice but are somehow duped, either by the child or by some power that replaces your child with its servant.
-
-Your student should normally be
-
-at least seven years old, as younger children rarely have the ability to start Hermetic training. It is rare for Hermetic apprentices to be older than twenty when they are taken, but it
-
-does happen. Most Gifted people have learned other supernatural abilities by that age, making it difficult to train them (see page 270, below).
+Your student should normally be at least seven years old, as younger children rarely have the ability to start Hermetic training. It is rare for Hermetic apprentices to be older than twenty when they are taken, but it does happen. Most Gifted people have learned other supernatural abilities by that age, making it difficult to train them (see page 270, below).
 
 Being taken away by a magus to parts unknown is normally disturbing and frightening to a new apprentice, even to one excited or relieved to be free of a miserable living situation. Some children chosen for apprenticeship are kidnapped by their masters, some are coaxed away with promises of knowledge and power, while others are actually offered (or sold) to magi by families who cannot handle the youngsters' strange ways. Though most children chosen to be apprentices come willingly and freely, the Code of Hermes does not require that they do. Strictly speaking, magi are allowed to obtain apprentices in whatever manner they wish.
 
-## Training Your Apprentice
+### Training Your Apprentice
 
 Once you have your apprentice, the training begins. The Peripheral Code contains a substantial number of rulings on the relationship between a magus and his apprentice. A magus claims an apprentice from the beginning of the season in which he opens the Arts. A magus must personally teach the apprentice for at least one season per year over the course of the apprenticeship, and the season spent opening the Arts counts as the first of these seasons.
 
@@ -12465,21 +12302,15 @@ Use the rules in the Experience and Advancement section of the Long Term Events 
 
 Since an apprentice without a Parma Magica would normally suffer a –3 penalty to all totals due to the effect of The Gift, the Order has ruled that failing to extend your Parma Magica to cover your apprentice during training is a violation of the requirement to train your apprentice properly. If your score in Parma Magica is three or less, it does not give you any bonus to Magic Resistance while shared, but it still deadens the effect of The Gift.
 
-# Opening the Arts in house Ex Miscellanea
-
-Some Ex Miscellanea traditions rely on an inborn Supernatural Virtue as their Major Virtue. Members of those traditions do not need any minimum Intellego Vim Lab Total to preserve the tradition's Major Virtue when opening the Arts. Other Supernatural Virtues impose the normal minimums.
-
 It is a good idea to have someone else teach the apprentice Latin, and possibly Magic Theory, before you start the apprenticeship, as this makes your apprentice more useful to you. However, until you open the character's Arts he is not your apprentice, and may choose to attach himself to another magus, or may be taken by another magus. Stealing potential apprentices who are obviously intended for magical training is frowned upon, and may be punished, but rescuing Gifted people who are simply being exploited as lab assistants is well-regarded. Indeed, a magus keeping a Gifted character as a simple lab assistant is normally required by a Tribunal to either start training him or to pass him on to a magus who is willing to do so.
 
 While the magus must personally provide the minimum one season per year, he may have others teach the apprentice in other seasons, or allow the apprentice to study from books. Most magi do allow their apprentices some extra study, as it is rare for a magus to spend fifteen years without studying the Arts from a book, and apprentices are no help with those activities.
 
-## Opening the Arts
+#### Opening the Arts
 
 One of your seasons of teaching must be spent training the apprentice in the basics of Hermetic magic, and you can teach nothing else in that season. Thus, in this season the apprentice gains a score of 0 in all fifteen Hermetic Arts, but learns nothing else. This is referred to as 'opening the Arts'.
 
-If you have a score of less than five in any Art when you open them, your apprentice automatically has a Deficiency (see pages 125 and 272) in that Art. Giving an apprentice Deficiencies in this way is normally treated as a Low Crime by the Tribunals of the Order, and attracts a great deal of social stigma. As a result, few magi train an apprentice until they have a score of five or higher in all Arts. (Note that this is far from the only way that an apprentice can gain a Deficiency, and most of the other ways are not under the master's control,
-
-and thus not Low Crimes.) You may teach Magic Theory before opening the Arts, but you may not teach Arts or spells.
+If you have a score of less than five in any Art when you open them, your apprentice automatically has a Deficiency (see pages 125 and 272) in that Art. Giving an apprentice Deficiencies in this way is normally treated as a Low Crime by the Tribunals of the Order, and attracts a great deal of social stigma. As a result, few magi train an apprentice until they have a score of five or higher in all Arts. (Note that this is far from the only way that an apprentice can gain a Deficiency, and most of the other ways are not under the master's control, and thus not Low Crimes.) You may teach Magic Theory before opening the Arts, but you may not teach Arts or spells.
 
 If your apprentice already has some non-Hermetic Supernatural Ability, you can only open the Arts if your Intellego Vim Lab Total equals or exceeds five times the apprentice's score in the relevant Ability, and is at least 10 if the Ability normally derives from a Minor Virtue, or at least 30 if it normally derives from a Major Virtue. For supernatural powers without a linked Ability, you need a Lab Total of 10 for Minor Virtues and 30 for Major ones. If the apprentice has multiple Supernatural Abilities, add all the levels together to determine whether you can open the Arts.
 
@@ -12487,11 +12318,15 @@ If your Intellego Vim Lab Total merely equals or exceeds the level, the Supernat
 
 Once the Arts are Opened, the apprentice character has a 0 in each of the five Techniques and ten Forms. She can immediately cast spontaneous spells. She can read any casting tablets the covenant may have, providing she has a score of 1 in Artes Liberales and 4 in Latin. Barring some logical limitations — the apprentice can't cast Formulaic spells because she doesn't know any — an apprentice can undertake any magical activity a magus can. Simply use the applicable formula based on the current Arts scores of the apprentice for any magical activity she undertakes.
 
-## Teaching Hermetic Virtues
+> #### Opening the Arts in house Ex Miscellanea
+>
+> Some Ex Miscellanea traditions rely on an inborn Supernatural Virtue as their Major Virtue. Members of those traditions do not need any minimum Intellego Vim Lab Total to preserve the tradition's Major Virtue when opening the Arts. Other Supernatural Virtues impose the normal minimums.
+
+#### Teaching Hermetic Virtues
 
 Teaching a Hermetic Virtue combines aspects of learning a Supernatural Ability (page 159) with learning a Mystery Cult Virtue (page 387). The instructor, typically an apprentice's parens, generates a Teaching Source Quality total that is compared to a required target level. Both teacher and student must be Gifted individuals trained in Hermetic Magic Theory. A magus cannot teach a Gifted hedge wizard a Hermetic Virtue because the two men do not understand magic in the same way. At the end of a season's instruction, the parens generates a Teaching Source Quality just as if he were teaching an Ability or an Art.
 
-$T_{\text{EACHING}} \ Source \ Quality: \\ Communication + Teaching + 3 + bonus$
+**TEACHING SOURCE QUALITY: Communication + Teaching + 3 + bonus**
 
 The bonuses for the Instruction Total are the same bonuses that apply for every teacher (page 378). Like Arts, Hermetic Virtues can only be taught one-on-one, so every parens' Teaching Source Quality receives a +6 bonus. Virtues that affect teaching also apply.
 
@@ -12499,53 +12334,49 @@ An additional bonus can be included if the teacher includes a Hermetic Flaw alon
 
 Like Mystery Initiations and regular teaching, there is no die roll. The Hermetic Virtue is taught in a single season if the Teaching Source Quality meets or exceeds the Target Level.
 
-TEACHING A MINOR HERMETIC VIRTUE: Target level is 15
+**TEACHING A MINOR HERMETIC VIRTUE: Target level is 15**
 
-Teaching a Major Hermetic Virtue: Target Level is 21
+**TEACHING A MAJOR HERMETIC VIRTUE: Target Level is 21**
 
 The more Hermetic Virtues a Gifted student has, the harder it is to teach him new Hermetic Virtues. Learning Supernatural Abilities is also hindered by knowledge possessed in other Supernatural Abilities, and Hermetic theorists speculate that whatever nuance of The Gift so limits learning Supernatural Abilities also limits learning Hermetic Virtues through instruction. Each Minor Hermetic Virtue the character already possesses adds +3 to the Target Level, and each Major Hermetic Virtue adds +9.
 
-A teacher can only teach a Hermetic Virtue that he has. If he decides to include a Hermetic Flaw in the instruction, to make the process
-
-easier, he can only include a Hermetic Flaw that he possesses. The student cannot instruct himself, another difference between learning Hermetic Virtues and Mystery Cult Virtues. Not every magus teaches Hermetic Virtues to his apprentice, although doing so does fulfill the annual requirement of one season of personal instruction due the apprentice. If a magus would rather teach Hermetic Virtues than Arts or Abilities, the apprentice may end up with less knowledge (fewer experience points) than his peers. Like most of apprenticeship, it is the parens' decision. It isn't unusual for a parens to teach Arts, Abilities, and spells during the required seasons of instruction, and spend additional seasons teaching the apprentice a Hermetic Virtue or two.
+A teacher can only teach a Hermetic Virtue that he has. If he decides to include a Hermetic Flaw in the instruction, to make the process easier, he can only include a Hermetic Flaw that he possesses. The student cannot instruct himself, another difference between learning Hermetic Virtues and Mystery Cult Virtues. Not every magus teaches Hermetic Virtues to his apprentice, although doing so does fulfill the annual requirement of one season of personal instruction due the apprentice. If a magus would rather teach Hermetic Virtues than Arts or Abilities, the apprentice may end up with less knowledge (fewer experience points) than his peers. Like most of apprenticeship, it is the parens' decision. It isn't unusual for a parens to teach Arts, Abilities, and spells during the required seasons of instruction, and spend additional seasons teaching the apprentice a Hermetic Virtue or two.
 
 Training is not the only source of Hermetic Virtues; some Gifted individuals have Gifts that are naturally apt for certain areas of Hermetic magic. In game terms, they take the Hermetic Virtue before training.
 
-## Acquiring house Virtues
+#### Acquiring house Virtues
 
 Every Hermetic House has one or more Virtues associated with it, and every Hermetic magus receives a free Minor Virtue based on his House. Players often refer to this Virtue as the "House Virtue," because it comes free with the character's Hermetic House. The House Virtue does not have to be specifically taught, although it can be. Often it is learned over time, assumed by the impressionable young apprentice as she learns magic during the prolonged teaching and laboratory interactions with her parens.
 
 For over half of the Houses, it takes 10 seasons of one-to-one interactions with a parens for an apprentice to gain the free Minor House Virtue. Teaching Arts, Arcane Abilities, and spells and helping in the laboratory all count as seasons of one-to-one interactions. If an apprentice does not receive 10 seasons of one-to-one interaction, he does not receive the free House Virtue. In such a case, there would likely be other problems due to legal issues.
 
-Acquiring the Minor Hermetic House Virtue: Requires 10 Seasons of one-to-one Interaction with Parens
+**ACQUIRING THE MINOR HERMETIC HOUSE VIRTUE: Requires 10 Seasons of one-to-one Interaction with Parens**
 
-This rule pertains to seven of the twelve Houses: all four True Lineages, and three of the Societates. The fourth Societas, House Ex Miscellanea, is a special case because an apprentice of a House Ex Miscellanea magus receives a package of House Virtues and Flaws: one Minor Hermetic Virtue, one Major non-Hermetic Virtue, and one Major Hermetic Flaw. Because there are several types of Ex Miscellanea magi, the troupe should decide if an apprentice of a specific tradition learns the House Virtues and Flaws
-
-through one-on-one association or through a process similar to a Mystery Initiation like the Mystery Cult Houses.
+This rule pertains to seven of the twelve Houses: all four True Lineages, and three of the Societates. The fourth Societas, House Ex Miscellanea, is a special case because an apprentice of a House Ex Miscellanea magus receives a package of House Virtues and Flaws: one Minor Hermetic Virtue, one Major non-Hermetic Virtue, and one Major Hermetic Flaw. Because there are several types of Ex Miscellanea magi, the troupe should decide if an apprentice of a specific tradition learns the House Virtues and Flaws through one-on-one association or through a process similar to a Mystery Initiation like the Mystery Cult Houses.
 
 An apprentice of a magus of a Mystery Cult gains the free House Virtue by undergoing an Initiation to learn the House's Outer Mystery. House Verditius Initiates an apprentice immediately following the opening of an apprentice's Arts. House Bjornaer Initiates an apprentice's Heartbeast at some point during apprenticeship, at the Ritual of Twelve Years (see Houses of Hermes: Mystery Cults, page 16). Houses Criamon and Merinita Initiate apprentices at various times, usually dependent on the master. Initiation into a House's Outer Mystery takes a season.
 
 The apprentice must learn the same free House Virtue that his parens knows. In a House where there is a choice of House Virtues, the parens can decide which House Virtue is acquired, if he has both. House Flambeau, for example, has the choice of Puissant Perdo or Puissant Ignem. If the master has both Virtues, he can choose either as the apprentice's House Virtue.
 
-## Gaining hermetic Flaws
+#### Gaining hermetic Flaws
 
 Few apprentices purposefully gain Hermetic Flaws. A player can always select a Hermetic Flaw at character generation, and while this will develop sometime during the child character's life, that is different from gaining a Hermetic Flaw after creating the character. Hermetic Flaws acquired after character generation affect a character as soon as they are gained, their effects manifesting immediately. Hermetic magi have not found a way to remove Hermetic Flaws, and once gained a Hermetic Flaw is permanent, barring a story.
 
-The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus (page 230). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. Realms of Power: Madic and Realms of Power: Faerie have details and example creatures.
+The two most common ways characters gain Hermetic Flaws are through learning Hermetic Virtues, and as a consequence of game play. As mentioned previously, it is easier to learn a Hermetic Virtue from a teacher if that teacher includes a Hermetic Flaw in the process. Hermetic magi do not fully understand why this is so, but like Mystery Cult Initiations, tainting the learning process with an incurred liability makes instruction easier. The second way characters gain Hermetic Flaws is through play. Uncontrolled Temporary Twilight episodes are a frequent cause, bestowing Hermetic Flaws on an apprentice in the same way they grant Hermetic Flaws to a magus (page 230). Gaining a Hermetic Deficiency Flaw during the opening of the Arts is another path to receiving a new Flaw during play. Some Supernatural creatures have the power to grant Minor and Major Flaws, and while these aren't always Hermetic, they can be. These Flaws are not necessarily permanent and many are temporary inconveniences. *Realms of Power: Magic* and *Realms of Power: Faerie* have details and example creatures.
 
-# Fleshing Out Your Apprentice
+### Fleshing Out Your Apprentice
 
 The basic benefit that an apprentice provides you is the addition of his Intelligence and Magic Theory scores to your Lab Totals (see page 264). If all you want is a lab assistant, you only need to keep track of your apprentice's Intelligence and Magic Theory scores, and after fifteen years, your apprentice becomes a full magus and leaves your service.
 
 However, if created as a full character, an apprentice can be developed as the saga progresses into both a very important companion to your magus and a valuable member of the covenant. To create your apprentice as a character, determine Characteristics, Virtues and Flaws, and Abilities for a character of young age. Make sure that the character has The Gift, otherwise he cannot be taught Hermetic magic, and consider carefully whether to take any other supernatural abilities. Make sure that your magus can open the apprentice's Arts. Choose Abilities that the character learned in his childhood. As the saga progresses, update the apprentice's Abilities, magical Arts, spells known, and other statistics as you train him, just as you would those of any other character.
 
-## The Apprentice in Play
+### The Apprentice in Play
 
 A fully developed apprentice makes a playable character. If you want to play an apprentice, keep in mind that you have no natural niche in the story. Grogs fight, companions provide skilled assistance, and magi have powerful spells. As an apprentice you are outclassed in all areas. Nevertheless, some stories are made exciting by an apprentice character or characters, as apprentices are interesting individuals, especially if there's no magus around to overshadow the apprentice's magic with his own. The *Apprentices* sourcebook covers these sorts of stories in much more detail, and gives more information on child characters.
 
 When you are a magus and teacher, some of the best roleplaying opportunities for your apprentice arise when he is interacting with you. To encourage this, you may want to let another player roleplay your apprentice, or you may consider your apprentice a troupe character to be played by different members of the troupe at different times, much as a grog is (see Troupe Style Play on page 528).
 
-## The End of Apprenticeship
+### The End of Apprenticeship
 
 Apprenticeship ends with the 'apprentice's gauntlet', which is normally administered after fifteen years. This is set by the parens, and is intended to demonstrate that the apprentice is worthy to become a full magus. If the apprentice fails the gauntlet, he remains an apprentice, traditionally for another year.
 
@@ -12553,19 +12384,17 @@ If an apprentice fails three gauntlets, the Quaesitores set the fourth and subse
 
 ## Arcane Experimentation
 
-he preceding rules assume that you are being careful with your alaboratory work and staying safely within the bounds of what you know how to do. If you
+The preceding rules assume that you are being careful with your alaboratory work and staying safely within the bounds of what you know how to do. If you wish, however, you can test your limits and experiment with new and possibly dangerous techniques. You can experiment when inventing a spell, creating any magical enchantment (device or familiar), or investigating an enchantment. In any case, you have the chance to perform feats that are normally beyond your capabilities, but you also run the risk of failing utterly, perhaps dangerously.
 
-wish, however, you can test your limits and experiment with new and possibly dangerous techniques. You can experiment when inventing a spell, creating any magical enchantment (device or familiar), or investigating an enchantment. In any case, you have the chance to perform feats that are normally beyond your capabilities, but you also run the risk of failing utterly, perhaps dangerously.
-
-## The Experimental Premise
+### The Experimental Premise
 
 At the beginning of each season, consider the project you're working on and decide whether you want to experiment on it. If you want to work from and benefit from a Laboratory Text, you cannot experiment, because you must follow the Laboratory Text precisely. If you do experiment, add a simple die roll to your Lab Total. This bonus represents the fruits of the risks you take. However, you must also roll a stress die on the "Extraordinary Results Chart" for each season that the project involves. If you experiment over multiple seasons, inventing the same spell or instilling the same power in a device, the chart results for each season accumulate and apply to the whole project. For example, if it takes two seasons to invest a power into your staff, you have to make a roll on the chart each season. Both results affect the staff or the power you're investing into it.
 
-## Exceptional Risk
+#### Exceptional Risk
 
 You may choose to push your limits even further, adding from +1 to +3 (your choice) to the die roll; this bonus is called your risk modifier. When you do this, you must add the risk modifier to all your rolls on the "Extraordinary Results Chart," and you get a number of extra botch dice on your rolls equal to your bonus.
 
-## Extraordinary Results
+### Extraordinary Results
 
 Some of the results listed on the "Extraordinary Result Chart" require some interpretation. When interpreting these results, consider the magus's sigil, specialties, and weaknesses. Also take into account the type of spell or power being worked on, and the Laws of Magic. The more aspects of magic that you bring together, the more interesting the result is. The level of the effect is not changed by any extraordinary result, nor does it gain any requisites. This may result in a spell or effect that is more or less powerful than a conventional Hermetic effect of its
 
@@ -12573,141 +12402,133 @@ When referring to the "Extraordinary Results Chart," roll a stress die, adding y
 
 If your creation comes out flawed or difficult to use because of your roll on the "Extraordinary Results Chart," you have two choices: live with the anomaly, or recreate the effect. If you recreate it, use the normal laboratory rules. However, you gain your Magic Theory score (your score at the time of your experiment) as a bonus to your Lab Total to accomplish the invention, having learned something from your nearly successful experiment. Thus, your Magic Theory score is applied twice to your Lab Total. The recreation process must occur in another season, and you need not experiment then. While this may often be a good option for spells, the additional costs for enchanted items make it less appealing there, and magi are more likely to choose to live with flaws, even quite serious ones.
 
-## Inventing a Spell by Experimentation
+#### Extraordinary Results Chart
+
+| ROLL  | RESULT |
+| ----- | ------ |
+| Botch | Disaster |
+| 0-4   | No extraordinary effects |
+| 5-6   | Side effect |
+| 7     | No benefit |
+| 8     | Complete failure |
+| 9     | Special or story event | 
+| 10    | Discovery | 
+| 11    | Modified effect |
+| 12    | +Roll twice more on this chart. |
+
+### Inventing a Spell by Experimentation
 
 Points from the simple die, added to your Lab Total, might let you finish a spell sooner, or even invent a spell that is otherwise beyond your capacity. If even with the added simple die your Lab Total is still lower than the spell's level, you cannot invent the spell, and must still make a roll on the "Extraordinary Results Chart." Even though your experiment fails, it can still blow up in your face. Having failed to invent the spell, you may try again next season, and may experiment again. You do not gain your Magic Theory score as a bonus, however, as you did not nearly succeed.
 
-## Enchanted Items Oreated by Experimentation
+### Enchanted Items Created by Experimentation
 
-Even with the added bonus of a simple die, vour Lab Total may not meet the level of the effect you're investing. In that case, you lose all the vis involved and must still roll on the "Extraordinary Effects Chart." You may try again next season, though, and may experiment again.
+Even with the added bonus of a simple die, your Lab Total may not meet the level of the effect you're investing. In that case, you lose all the vis involved and must still roll on the "Extraordinary Effects Chart." You may try again next season, though, and may experiment again.
 
-If your Lab Total is high enough to invest an effect, but the effect turns out to be flawed (as determined by a roll on the chart), it still "takes
+If your Lab Total is high enough to invest an effect, but the effect turns out to be flawed (as determined by a roll on the chart), it still "takes up space" in your device, just like a normal effect. Thus, if you risk experimentation and make a mistake, you can permanently limit the effectiveness of your magical item.
 
-up space" in your device, just like a normal effect. Thus, if you risk experimentation and make a mistake, you can permanently limit the effectiveness of your magical item.
-
-# Anchanting a Familiar by Axperimentation
+### Enchanting a Familiar by Experimentation
 
 A magus would have to be insane to enchant his familiar by experimentation, as a mistake in any season of binding or instilling powers could taint the deepest bond he has. Still, some magi are insane. Experimenting on this activity adds to the Lab Total as normal.
 
-# Experimenting on Longevity Rituals
+### Experimenting on Longevity Rituals
 
 You may experiment on Longevity Rituals, adding the simple die to your Lab Total. This bonus increases the potency of your ritual, giving you greater resilience against the effects of aging. If your ritual is flawed by a roll on the "Extraordinary Results Chart," you may create a second ritual, which over-rides the effects of the flawed ritual, but this takes an additional season.
 
-# Investigating an Enchanted Item by Experimentation
+### Investigating an Enchanted Item by Experimentation
 
 The simple die is added to every roll made to discover an item's invested powers. If you cannot bring your Lab Total high enough to discover an item's powers, you still have to roll on the "Extraordinary Results Chart," though.
 
-Extraordinary Results Chart ROLL RESULT Botch Disaster No extraordinary effects 0 - 45 - 6Side effect No benefit Complete failure Special or story event Discovery 10 Modified effect 11 12 +Roll twice more on this chart.
-
 When investigating an enchanted item by experimenting on it, you take risks not normally taken, and may damage or destroy the magic item in the process. Any results from the chart indicating damage or changes to the project you are working on are applied to the magic item or one of its powers. It's possible, though, that a magic item's own protections can preserve it from the dangers of your experiments. If the level of an item's protecting power (like Magic Resistance or an appropriate spell) exceeds your Lab Total (including any bonus for experimentation), the item resists any damaging effects rolled on the chart.
 
-Disaster: You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
+**Disaster:** You fail miserably. Consult the following table for the result, depending on the number of zeroes rolled on the botch dice. Suffer the effect for the number you roll and for all lower numbers, unless explicitly told otherwise. For example, an explosion (3) also destroys the creation and inflicts Warping Points on the magus.
 
-
-| Zeroes | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Zeroes | Result                                  |
+| ------ | --------------------------------------- |
 | 1      | Everyone in the lab gains Warping Points equal to the number of zeroes on the botch roll. Hermetic magi (and anyone else opened to the Hermetic Arts) must roll for Twilight if they gain two or more; members of other traditions may also suffer serious effects, as determined by their tradition. The season is completely wasted; see Complete Failure. If there are other results and magi choose not to resist Twilight, they enter Twilight before the effects occur, and thus avoid any personal damage. |
-| 2      | Your creation is destroyed. If it is a single-<br>season project, this is the same as a<br>Complete Failure.                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 3      | Your laboratory gains the Damaged Flaw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 4      | Explosion! Your laboratory gains the Wrecked Flaw (instead of the Damaged Flaw), and anyone in the laboratory takes two Heavy Wounds.                                                                                                                                                                                                                                                                                                                                                                             |
-| 5+     | The storyguide picks one of the following: A story event threatens the whole covenant. This may arise immediately from the explosion (a mundane fire, for example), or may be a lingering after-effect of the uncontrolled magic, causing a story some time later.  The explosion completely destroys the laboratory. The structure gains the Deformed and Unstable Flaws, and the whole laboratory must be rebuilt from nothing, rather than gaining the Wrecked                                                 |
-|        | Flaw. Anyone in the laboratory takes an additional Incapacitating Wound.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2      | Your creation is destroyed. If it is a single-season project, this is the same as a Complete Failure. |
+| 3      | Your laboratory gains the Damaged Flaw. |
+| 4      | Explosion! Your laboratory gains the Wrecked Flaw (instead of the Damaged Flaw), and anyone in the laboratory takes two Heavy Wounds. |
+| 5+     | The storyguide picks one of the following: A story event threatens the whole covenant. This may arise immediately from the explosion (a mundane fire, for example), or may be a lingering after-effect of the uncontrolled magic, causing a story some time later.  The explosion completely destroys the laboratory. The structure gains the Deformed and Unstable Flaws, and the whole laboratory must be rebuilt from nothing, rather than gaining the Wrecked Flaw. Anyone in the laboratory takes an additional Incapacitating Wound. |
 
-No Extraordinary Effects: Your experiment works without producing any unintended effects.
+**No Extraordinary Effects:** Your experiment works without producing any unintended effects.
 
-**Side** Effect: Your magical creation acquires a side effect. Roll a simple die, and work out the specifics with the storyguide.
+**Side Effect:** Your magical creation acquires a side effect. Roll a simple die, and work out the specifics with the storyguide.
 
-# ROLL RESULT Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect. 2-3 The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends. 4-5 The spell has a minor side effect. For example,
+| ROLL | RESULT                    |
+| ---- | ------------------------- |
+| 1    | Your sigil is exaggerated to many times its normal strength, becoming a significant portion of the effect.
+| 2-3  | The effect has a minor flaw. For example, a spell that allows you to communicate with animals causes you to retain some of the animal's speech patterns for a time after the spell ends. |
+| 4-5  | The spell has a minor side effect. For example, a spell that controls an animal causes grass to grow under its feet. |
+| 6    | The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable. |
+| 7    | The spell has a major flaw. For example, a healing spell causes its targets great pain. |
+| 8    | The spell has a major side effect. For example, a plant control spell attracts all birds in 100 paces. |
+| 9    | The spell has a major side benefit. For example, a spell that transforms you into a wolf also lets you speak to all beasts while a wolf. |
+| 10   | The spell has a fatal flaw. For example, an invisibility spell makes you glow. |
 
-- 4-5 The spell has a minor side effect. For example a spell that controls an animal causes grass to grow under its feet.
-- 6 The spell has a minor side benefit. For example, a wind spell has a pleasant smell and makes flying insects uncomfortable.
-- 7 The spell has a major flaw. For example, a healing spell causes its targets great pain.
-- 8 The spell has a major side effect. For example, a plant control spell attracts all birds in 100 paces.
-- 9 The spell has a major side benefit. For example, a spell that transforms you into a wolf also lets you speak to all beasts while a wolf.
-- 10 The spell has a fatal flaw. For example, an invisibility spell makes you glow.
+**No Benefit:** Your experimentation produces no results. You lose the benefit of the extra die and risk modifier — recalculate your Lab Total without those modifiers. If your new Lab Total is too low to succeed in the project, it must be abandoned.
 
-No Benefit: Your experimentation produces no results. You lose the benefit of the extra die and risk modifier — recalculate your Lab Total without those modifiers. If your new Lab Total is too low to succeed in the project, it must be abandoned.
-
-Complete Failure: You get nothing from your efforts, and your season is wasted. If you were working on a familiar or enchanted item, roll a simple die. On a 0, it is destroyed.
+**Complete Failure:** You get nothing from your efforts, and your season is wasted. If you were working on a familiar or enchanted item, roll a simple die. On a 0, it is destroyed.
 
 **Special or Story Event**: The storyguide picks one of the following.
 
-The creation requires additional raw vis. The magus must spend a number of additional pawns of vis that match the Technique or Form of the project equal to the magnitude of the effect (including modifications) plus the risk modifier. If he is unable to do so, either because he does not have the vis, or because he cannot handle enough vis in a single season, treat as a Complete Failure.
+- The creation requires additional raw vis. The magus must spend a number of additional pawns of vis that match the Technique or Form of the project equal to the magnitude of the effect (including modifications) plus the risk modifier. If he is unable to do so, either because he does not have the vis, or because he cannot handle enough vis in a single season, treat as a Complete Failure.
 
-The magus also creates a spell, with the same Technique and Form as the project, of any level that he could create in a single season. The spell is designed by the storyguide or troupe, and need not have an
+- The magus also creates a spell, with the same Technique and Form as the project, of any level that he could create in a single season. The spell is designed by the storyguide or troupe, and need not have an obvious connection to the project. The magus knows it, and can write up the Laboratory Text as normal, allowing other magi to create it as well. It is simpler if this spell does follow all the rules of Hermetic Magic, but that is not essential if the troupe is happy with the complications. Treat this as No Extraordinary Effects for the main project.
 
-obvious connection to the project. The magus knows it, and can write up the Laboratory Text as normal, allowing other magi to create it as well. It is simpler if this spell does follow all the rules of Hermetic Magic, but that is not essential if the troupe is happy with the complications. Treat this as No Extraordinary Effects for the main project.
+- The creation is modified in some way that does not necessarily fall under the categories of Side Effect or Modified Effect, although it may if desired. This allows the storyguide to introduce any sort of supernatural effect — the creation could even be strongly affected by a different realm. The result may be positive or negative from the magus's perspective, but should be interesting for the troupe.
 
-The creation is modified in some way that does not necessarily fall under the categories of Side Effect or Modified Effect, although it may if desired. This allows the storyguide to introduce any sort of supernatural effect — the creation could even be strongly affected by a different realm. The result may be positive or negative from the magus's perspective, but should be interesting for the troupe.
+- A story event happens. This can be anything, it could be used as an opportunity to introduce a major plot line, or as a brief and amusing distraction. It does not need to happen immediately, the uncontrolled magic might set something in motion, or it might be a result of using the creation in a particular context, some time later. The story event may be basically positive — the magus might attract the attention of a potential familiar, for example. Unless the story event requires otherwise, treat this as No Extraordinary Effects for the project itself.
 
-A story event happens. This can be anything, it could be used as an opportunity to introduce a major plot line, or as a brief and amusing distraction. It does not need to happen immediately, the uncontrolled magic might set something in motion, or it might be a result of using the creation in a particular context, some time later. The story event may be basically positive — the magus might attract the attention of a potential familiar, for example. Unless the story event requires otherwise, treat this as No Extraordinary Effects for the project itself.
-
-Discovery: Roll a simple die and add your risk modifier. If you are engaged in Arcane Discovery (see page 277), you make a discovery that advances your project, and ignore this table.
-
+**Discovery:** Roll a simple die and add your risk modifier. If you are engaged in Arcane Discovery (see page 277), you make a discovery that advances your project, and ignore this table.
 
 | Roll | Result                                                                                                                                                  |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1–4 | You gain 15 experience points in Magic Theory.                                                                                                          |
-| 5–6 | You gain 15 experience points in some<br>Ability related to the experiment                                                                              |
-| 7–8 | You gain three experience points in one of the Arts used in the experiment.                                                                             |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–4  | You gain 15 experience points in Magic Theory.                                                                                                          |
+| 5–6  | You gain 15 experience points in some Ability related to the experiment                                                                                 |
+| 7–8  | You gain three experience points in one of the Arts used in the experiment.                                                                             |
 | 9    | You gain enough experience points to bring one of the Arts used in the experiment to the next level (or three experience points, whichever is greater). |
 | 10+  | Roll twice, and reroll this result if it is generated again.                                                                                            |
 
-Modified Effect: Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
+**Modified Effect:** Roll a simple die and add your risk modifier. If you were investigating a magic item, you have changed one or more of its powers.
 
 
-| Roll  | Result                                                                                                                                                 |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1–3  | The spell or effect is reduced in range, duration, target, or potency.                                                                                 |
-| 4–6  | The spell or effect's range, duration, target, or potency is increased.                                                                                |
-| 7–8  | The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining.                         |
-| 9–10 | The actual effect of your experiment is modified. For example, a spell like Curse of Circe (page 334) turns the target into a goat instead of a pig.   |
-| 11+   | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar. |
+| Roll | Result                                                                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1–3  | The spell or effect is reduced in range, duration, target, or potency.                                                                                  |
+| 4–6  | The spell or effect's range, duration, target, or potency is increased.                                                                                 |
+| 7–8  | The use of the spell or effect is restricted. For example, it fails to work in certain circumstances, like when it is raining.                          |
+| 9–10 | The actual effect of your experiment is modified. For example, a spell like Curse of Circe (page 334) turns the target into a goat instead of a pig.    |
+| 11+  | The actual effect of your experiment is changed completely, save that the relevant Technique and Form remain unchanged, and the level remains similar.  |
 
 ## Arcane Discovery
 
-ermetic magi can expand the possibilities of Hermetic magic through their own discoveries. It did not spring, perfect, from the brow of Bonisagus, and it has
+Hermetic magi can expand the possibilities of Hermetic magic through their own discoveries. It did not spring, perfect, from the brow of Bonisagus, and it has been developed and expanded since. The most famous examples are probably the development of the Aegis of the Hearth by Notatus of Bonisagus, the first Primus of that House, and the expansion of Vim magic to the Divine, Infernal, and Faerie realms by Conciatta of Bonisagus in the tenth century. (For more details on Conciatta, see Legends of Hermes.) Player characters may also attempt to expand Hermetic magic in this way, and while the immediate benefits of power are less than those of other laboratory projects, the gain in prestige may be far greater.
 
-been developed and expanded since. The most famous examples are probably the development of the Aegis of the Hearth by Notatus of Bonisagus, the first Primus of that House, and the expansion of Vim magic to the Divine, Infernal, and Faerie realms by Conciatta of Bonisagus in the tenth century. (For more details on Conciatta, see Legends of Hermes.) Player characters may also attempt to expand Hermetic magic in this way, and while the immediate benefits of power are less than those of other laboratory projects, the gain in prestige may be far greater.
-
-## The Breakthrough
+### The Breakthrough
 
 To achieve an arcane discovery, you must accumulate a number of **breakthrough points** determined by the type of Breakthrough your magus is attempting. There are three kinds of Breakthrough: **Minor**, **Major** and **Hermetic**. Note that it is recommended that the exact number of breakthrough points required may be varied, so the players do not know the precise number needed for the Breakthrough.
 
-A Minor Breakthrough is a development that is immediately useful and applicable in the existing framework of Hermetic magic, such as a new Range, Target or Duration. It improves upon or adds to existing theory without truly reaching the limits of magic. A Minor Breakthrough typically requires around 30 breakthrough points. In many sagas, Minor Breakthroughs happen easily enough that a maga can expect to achieve this goal once or twice during her lifetime. Minor Breakthroughs could be more common, but are few because most magi Bonisagi have loftier goals. Why invent a new Range when you can attempt to break a Hermetic Limit? Grandiosity usually propels magi toward harder projects.
+A **Minor Breakthrough** is a development that is immediately useful and applicable in the existing framework of Hermetic magic, such as a new Range, Target or Duration. It improves upon or adds to existing theory without truly reaching the limits of magic. A Minor Breakthrough typically requires around 30 breakthrough points. In many sagas, Minor Breakthroughs happen easily enough that a maga can expect to achieve this goal once or twice during her lifetime. Minor Breakthroughs could be more common, but are few because most magi Bonisagi have loftier goals. Why invent a new Range when you can attempt to break a Hermetic Limit? Grandiosity usually propels magi toward harder projects.
 
-A Major Breakthrough pushes those limits, but does not break them; these include Hermetic Virtues for Gifted characters. Incorporating hedge magic into Hermetic theory is a Major Breakthrough, and the incorporation can then be taught to others as Supernatural Virtues. A Major Breakthrough typically requires around 45 breakthrough points. Notatus' development of the Aegis of the Hearth was a Major Breakthrough, a variable spell based on Bonisagus' Parma Magica. Major Breakthroughs make a magus famous. With persistence, a troupe playing in a fast saga could realistically see a player make a Major Breakthrough.
+A **Major Breakthrough** pushes those limits, but does not break them; these include Hermetic Virtues for Gifted characters. Incorporating hedge magic into Hermetic theory is a Major Breakthrough, and the incorporation can then be taught to others as Supernatural Virtues. A Major Breakthrough typically requires around 45 breakthrough points. Notatus' development of the *Aegis of the Hearth* was a Major Breakthrough, a variable spell based on Bonisagus' Parma Magica. Major Breakthroughs make a magus famous. With persistence, a troupe playing in a fast saga could realistically see a player make a Major Breakthrough.
 
-A Hermetic Breakthrough is research that breaks one of the Lesser Limits of Magic, for example a new Arcane Ability or the ability to cast permanent duration spells without vis. Hermetic Breakthroughs re-write the theory books; the only Hermetic Breakthrough in 450 years was the development of the Parma Magica by Bonisagus, which broke the Lesser Limit of Magic Resistance, a limit that still binds all known forms of non-Hermetic magic. A Hermetic Breakthrough typically requires around 60 breakthrough points.
+A **Hermetic Breakthrough** is research that breaks one of the Lesser Limits of Magic, for example a new Arcane Ability or the ability to cast permanent duration spells without vis. Hermetic Breakthroughs re-write the theory books; the only Hermetic Breakthrough in 450 years was the development of the Parma Magica by Bonisagus, which broke the Lesser Limit of Magic Resistance, a limit that still binds all known forms of non-Hermetic magic. A Hermetic Breakthrough typically requires around 60 breakthrough points.
 
-A Breakthrough may be something entirely new, born from the imagination of a creative maga. It may also be based on a form of non-Hermetic magic, as a magus tries to make it possible for Hermetic magi to do something that non-Hermetic wizards do. In either case, the researcher may accumulate breakthrough points through experimentation, as described later. In the latter case, the magus may also study the non-Hermetic magic, seeking insights into its nature and applying them to Hermetic magic. Both of these approaches yield breakthrough points, and points from both sources may be mixed in a single project. In either case, the troupe must define the result of the research in advance and agree on the level of Breakthrough. Success will change the saga, and so
+A Breakthrough may be something entirely new, born from the imagination of a creative maga. It may also be based on a form of non-Hermetic magic, as a magus tries to make it possible for Hermetic magi to do something that non-Hermetic wizards do. In either case, the researcher may accumulate breakthrough points through experimentation, as described later. In the latter case, the magus may also study the non-Hermetic magic, seeking insights into its nature and applying them to Hermetic magic. Both of these approaches yield breakthrough points, and points from both sources may be mixed in a single project. In either case, the troupe must define the result of the research in advance and agree on the level of Breakthrough. Success will change the saga, and so it is important that the whole troupe is happy with those changes. *Ancient Magic* and *Hedge Magic Revised Edition* contain a large number of suggested Breakthroughs that would allow a magus to incorporate certain aspects of non-Hermetic magic into Hermetic theory. These can also serve as inspiration for Breakthroughs that are not linked to any existing tradition.
 
-the research in advance and agree on the level of Breakthrough. Success will change the saga, and so it is important that the whole troupe is happy with those changes. Ancient Magic and Hedge Magic Revised Edition contain a large number of suggested Breakthroughs that would allow a magus to incorporate certain aspects of non-
-
-Hermetic magic into Hermetic theory. These can also serve as inspiration for Breakthroughs that are not linked to any existing tradition.
-
-## Experimentation
+### Experimentation
 
 Once you have determined what sort of Breakthrough you would like to accomplish, you must invent something Hermetically that somehow incorporates your idea. This can be a spell or a magical enchantment, either a lesser enchantment or a charged item. Detail the effect fully, as per the normal rules. Since you are searching for clues aimed at surpassing regular Hermetic theories, you must experiment, using the rules found in the Arcane Experimentation section earlier, including choosing a risk modifier for your experiment and rolling on the Extraordinary Results Chart.
 
-For your original research to be fruitful you must roll the Discovery result on the Extraordinary Results Chart. Fortune plays a large roll in the research process. However, you can hedge your bet with original research in a way that you can not with regular experimentation. Instead of adding your risk modifier into your Lab Total during the season, you use that modifier to adjust your roll on the Extraordinary Results Chart. The risk modifier still runs the range of +1 to +3, but you are restricted in your choice by your Magic Theory score. For every five points or fraction
+For your original research to be fruitful you must roll the Discovery result on the Extraordinary Results Chart. Fortune plays a large roll in the research process. However, you can hedge your bet with original research in a way that you can not with regular experimentation. Instead of adding your risk modifier into your Lab Total during the season, you use that modifier to adjust your roll on the Extraordinary Results Chart. The risk modifier still runs the range of +1 to +3, but you are restricted in your choice by your Magic Theory score. For every five points or fraction thereof of Magic Theory (including Puissant Magic Theory) you may choose a risk modifier of 1. Thus, to chose a risk modifier of +2 your Magic Theory must be 6 or higher, and a risk modifier of +3 requires a Magic Theory of 11+.
 
-thereof of Magic Theory (including Puissant Magic Theory) you may choose a risk modifier of 1. Thus, to chose a risk modifier of +2 your Magic Theory must be 6 or higher, and a risk modifier of +3 requires a Magic Theory of 11+.
-
-#### RISK MODIFIER:
-
-+1 per 5 points of Magic Theory or fraction thereof, up to +3
+**RISK MODIFIER: +1 per 5 points of Magic Theory or fraction thereof, up to +3**
 
 Consult the Extraordinary Results Chart as normal to determine the effect on your spell, including adding your Risk Modifier. However, you may also add or subtract all or part of your Risk Modifier in order to get a Discovery in addition to the normal effect of experimentation. Thus, if you had a Risk Modifier of +3, and rolled an 8, you would get a Modified Effect (from a total of 11). You could also subtract 1 to get a Discovery in addition. The effect of the spell is still modified. You cannot use the Risk Modifier to get a supplementary result other than a Discovery.
 
-#### Breakthrough:
+**BREAKTHROUGH: Roll Discovery on the Extraordinary Results Chart during a season of Arcane Experimentation**
 
-Roll Discovery on the Extraordinary Results Chart during a season of Arcane Experimentation
-
-#### RISK MODIFIER:
-
-Do not add risk modifier into Lab Total. Add or Subtract up to risk modifier again from the stress die rolled on the Extraordinary Results Chart
+**RISK MODIFIER: Do not add risk modifier into Lab Total. Add or Subtract up to risk modifier again from the stress die rolled on the Extraordinary Results Chart**
 
 You are hoping for a Discovery. If you do not roll a Discovery, your spell or item is still affected by the Extraordinary Results Chart. Most likely you will end up with a slightly odd Hermetic effect. If your original research involved a spell and that spell is flawed or difficult to cast, you may reinvent the spell using the rules found in the Arcane Experimentation section. If your research involved an item and that item is flawed, you may attempt to reinvent that item, but all vis used in the initial experiment is lost.
 
@@ -12717,45 +12538,41 @@ If you do achieve a Discovery during your experimentation then the original rese
 
 Each spell or magical enchantment can only lead to one discovery. You may repeatedly invent the same spell or enchantment experiment until a discovery is rolled, even if the experiment was a success. Thus, you may accumulate many usable versions of the same spell in process of your research. However, once a specific experiment yields a Discovery, you may no longer explore that spell or magical enchantment for further discoveries.
 
-## Stabilizing The Unknown
+#### Stabilizing The Unknown
 
-After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added
-
-your risk modifier to your roll your must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
+After you have achieved your Discovery, you must stabilize that process through exact repetition. You must repeat the experimentation, continuing for the same number of seasons and using the exact Lab Total and risk modifier that you used to find your Discovery. If you used vis during your process you must repeat the amount used. You must roll again on the Extraordinary Results Chart, and you must modify your roll in the same direction as you did to make the Discovery. This means that if you added your risk modifier to your roll your must add it again, if you subtracted your risk modifier from your roll you must subtract it this second time.
 
 During the stabilization season you do not need to roll a Discovery to succeed. As long as you do not roll a harmful effect (Disaster, No Benefit, Complete Failure) you stabilize your discovery. Ignore any beneficial result you might roll. If you do roll a harmful effect your stabilization process fails, although you may try again in a subsequent season.
 
 If your stabilization season succeeds, you gain one breakthrough point per magnitude of the invented Hermetic spell or enchanted item. You also create a Laboratory Text that explains your discovery.
 
-#### Successful Stabilization Season Magnitudes of Stabilized Discovery = Breakthrough Points
+**SUCCESSFUL STABILIZATION SEASON: Magnitudes of Stabilized Discovery = Breakthrough Points**
 
 As a side affect to this stabilization process, you receive Warping Points from your attempts to understand this new magic. The number of Warping Points gained is the magnitude of the effect minus a simple die. If you gain 2 or more Warping Points you must roll to avoid Wizard's Twilight (page 228). You can obviously mitigate the chance of gaining Warping Points by experimenting with lower magnitude effects. However, this lengthens your original research process, since it is your accumulated effect magnitudes that ultimately add up to your Breakthrough. Experimenting with higher magnitude spells hastens you toward your Breakthrough and increases your risk of Wizard's Twilight.
 
-# The magnitude of the Stabilized Discovery ???
+**WARPING POINTS GAINED: The magnitude of the Stabilized Discovery – a simple die**
 
 You receive Warping Points whether you succeed or fail at stabilizing your discovery. If your stabilization attempt fails, you may spend another season and try it again. You may continue to stabilize your discovery until you succeed, providing you spend consecutive seasons until you succeed and you do not suffer some dire event along the way.
 
-## Integration
+### Integration
 
 Insight can also be gained from studying some feature of a non-Hermetic magical practice. Every insight the magus gains allows him to produce a partially Hermetic effect incorporating some aspect of the magic in question. As he produces more of these effects, he gains the broader understanding necessary to incorporate that aspect into Hermetic theory as a whole.
 
-The seasons spent gaining insight produce Laboratory Texts. Any magus may study these
+The seasons spent gaining insight produce Laboratory Texts. Any magus may study these Laboratory Texts over the course of a season in order to gain the same insight for himself, even without direct access to the artifacts. Summaries of Laboratory Texts are not useful in this way, however, only the whole thing can be used. For purposes of copying, insight Laboratory Texts have a level equal to the typical number of breakthrough points needed for the type of Breakthrough in question.
 
-Laboratory Texts over the course of a season in order to gain the same insight for himself, even without direct access to the artifacts. Summaries of Laboratory Texts are not useful in this way, however, only the whole thing can be used. For purposes of copying, insight Laboratory Texts have a level equal to the typical number of breakthrough points needed for the type of Breakthrough in question.
+There are three sources of insight: **texts**, **relics** and **teachers**.
 
-There are three sources of insight: texts, relics and teachers.
+*Texts* are books and tomes, symbolic wall paintings, or other explanatory sources which describe how to learn, perform or cast a magical effect. If the text contains the information needed to improve a Supernatural Ability, a character who already had the Ability could use it, as per the normal rules. Most Hermetic magi however, do not have other Supernatural Abilities. Alternatively, the text may contain the rites and practices needed to perform a magical spell or ritual associated with an ancient magical tradition.
 
-Texts are books and tomes, symbolic wall paintings, or other explanatory sources which describe how to learn, perform or cast a magical effect. If the text contains the information needed to improve a Supernatural Ability, a character who already had the Ability could use it, as per the normal rules. Most Hermetic magi however, do not have other Supernatural Abilities. Alternatively, the text may contain the rites and practices needed to perform a magical spell or ritual associated with an ancient magical tradition.
+*Relics* are the mystical devices or sacred items enchanted by practitioners of the tradition, and incorporating unique aspects of that tradition. Additionally, a relic may be an on-going mystical effect caused by the magical tradition. Like Hermetic magical devices, a magus is able to investigate the device to learn its secrets and unlock the methods used to craft it.
 
-Relics are the mystical devices or sacred items enchanted by practitioners of the tradition, and incorporating unique aspects of that tradition. Additionally, a relic may be an on-going mystical effect caused by the magical tradition. Like Hermetic magical devices, a magus is able to investigate the device to learn its secrets and unlock the methods used to craft it.
-
-Teachers are individuals who possess the Supernatural Abilities associated with the ancient magic and are able and willing to instruct a Hermetic magus. For contemporary traditions of non-Hermetic magic, such individuals are relatively accessible, although close collaboration with a "hedge wizard" might harm a maga's reputation. The ghosts of practitioners of extinct traditions may remain in Mythic Europe, and might be convinced to teach a maga.
+*Teachers* are individuals who possess the Supernatural Abilities associated with the ancient magic and are able and willing to instruct a Hermetic magus. For contemporary traditions of non-Hermetic magic, such individuals are relatively accessible, although close collaboration with a "hedge wizard" might harm a maga's reputation. The ghosts of practitioners of extinct traditions may remain in Mythic Europe, and might be convinced to teach a maga.
 
 For every season a magus spends investigating a source of insight, make a stress roll of Intelligence + Magic Theory against an Ease Factor of 18. Inventive Genius adds three to this roll, and some sources of insight may add their own modifiers. If the roll succeeds, the magus gains an insight. If it fails, he learns nothing now, but may try again in another season. He may do other things before returning to his study. On a botch, the magus thinks he has an insight, but does not. He realizes this if he creates an effect, as described below, in an attempt to use the insight, the final product is entirely Hermetic, or simply non-functional.
 
 A single source can generally only provide a single insight, although there may be rare exceptions. The same source provides the same insight for any magus who studies it.
 
-## Creating the Effect
+#### Creating the Effect
 
 A particular insight allows the researcher to create one, specified effect. This effect might be a spell, or an effect enchanted into an item. It could, conceivably, be another laboratory project; anything that uses a Lab Total and creates something. However, spells are by far the most common, followed by item enchantments. The magus must experiment while creating the effect, as he is most certainly stretching the boundaries of Hermetic magic.
 
@@ -12775,7 +12592,7 @@ The effect produced in this way can be reproduced by other Hermetic magi. Howeve
 
 Reproducing the effect in this way does not grant breakthrough points unless the reproducing magus also gains the relevant insight, whether from investigating the same item or from reading the original investigator's Laboratory Texts. It is possible to reproduce the effect first, and study the insight Laboratory Texts later.
 
-## After the Breakthrough
+### After the Breakthrough
 
 Minor Breakthroughs are usable immediately in the game, and are understandable by all Hermetic magi. New Ranges or Durations may be incorporated into new spells or items, and the Laboratory Texts distributed for a spell may be used by another Hermetic magus without his needing to research the Breakthrough. Any magus who has created an effect using the Breakthrough can then use that Range or Duration freely in his other spells, and any magus trained by that magus, in either Arts or spells, may also do so.
 
@@ -12785,302 +12602,293 @@ A new Virtue may be Initiated according to the normal rules for Mysteries. The d
 
 A second Major Breakthrough integrates a Major or Hermetic Breakthrough completely into Hermetic magic. If this succeeds, any magus may create an effect using the Breakthrough as long as he has a Lab Text, and then may use the Breakthrough freely. As for Minor Breakthroughs, the same applies to any magus taught Arts or spells by a magus who understands the Breakthrough. Experimentation is always suitable for this second Breakthrough, and integration may be used if there are suitable non-Hermetic traditions to study.
 
-## Shape and Material Bonuses Table
+> ### Ink of Hermes
+> This ink (also called “Hermaic Ink”) is mentioned in many alchemical texts. The ingredients are four drams of myrrh, three karian figs, seven pits of Nikolaus dates, seven dried pine cones, seven piths of single-stemmed wormwood, seven wings of the Hermaic ibis, and spring water. The ingredients are burned, reduced, and mixed.
 
+### Shape and Material Bonuses Table
 
-|                        | Shape and Material Bonuses Table       |                         |                                                    |
-| ------------------------ | ---------------------------------------- | ------------------------- | ---------------------------------------------------- |
-| Adze                   | +2 beautify wood structures            | Basket                  | +2 collect items                                   |
-| Agate                  | +3 air                                 |                         | +3 create things within                            |
-|                        | +5 protection from storms              |                         | +4 preserve contents                               |
-|                        | +7 protection from venom               |                         | +5 create food within                              |
-| Alabaster              | +2 forgiving                           | Bed                     | +6 affect sleep and dreams                         |
-|                        | +4 mental acuity                       | Beech Wood              | +3 knowledge                                       |
-| Alder Wood             | +1 resist decay                        | Bell                    | +5 warning                                         |
-|                        | +2 royalty                             | Bellows                 | +4 create wind                                     |
-| Almond Wood            | +3 Creo Herbam                         |                         | +5 strengthen fire                                 |
-| Aloe                   | +3 friendship                          | Belt or Girdle          | +3 affect strength                                 |
-| Amber                  | +3 controlling movement                | Beryl                   | +3 water                                           |
-|                        | +3 Corpus                              | Billhook                | +2 pruning                                         |
-| Amethyst               | +2 wealth                              | Birch Wood              | +1 Creo                                            |
-|                        | +2 hearing                             |                         | +3 childbirth                                      |
-|                        | +3 versus poison                       | Blackthorn Wood         | +2 dark fay                                        |
-|                        | +3 dreams                              |                         |                                                    |
-|                        | +4 temperance                          |                         | +6 guardians                                       |
-|                        | +7 versus drunkenness                  | Bloodstone              | +4 blood and wounds                                |
-| Amulet Bearing         | +7 ward against demons                 | Boat                    | +3 sailing                                         |
-| the Sigils of Angels   | +7 banish demons                       | Bookshelf               | +3 hide things within                              |
-| Anchor                 | +3 prevent movement                    |                         | +4 protect things within                           |
-| Animal Bone            | +4 harm or destroy animals             | Boots                   | +5 affect walking                                  |
-| Animal Hide            | +7 turn into appropriate animal        | Bow                     | +5 destroy things at a distance                    |
-| Apple Wood             | +1 longevity                           | Brass                   | +3 music                                           |
-|                        | +1 Corpus                              |                         | +3 Ignem                                           |
-| Aquamarine             | +3 water                               |                         | +4 demons, devils, and angels                      |
-| Armillary Sphere       | +5 display the heavens                 | Bronze                  | +3 Terram                                          |
-|                        | +5 celestial time                      |                         | +5 darkness                                        |
-| Armor                  | +7 protect wearer                      | Candle, Black           | +2 summon demons                                   |
-| Arrow                  | +2 aiming                              | Candle Made of Goat Fat | +3 summon demons                                   |
-|                        | +3 direction                           | Cappadocian Salt        | +6 purifying effects                               |
-| Artifacts from Pompeii |                                        | Carving of Behemoth     | +3 great size                                      |
-| and Herculaneum        | +3 volcanoes                           | Cask                    | +3 induce drunkenness                              |
-| Ash (Burned Debris)    | +2 burning things                      | Cat's Eye               | +3 versus malign Corpus                            |
-|                        | +2 Ignem                               | Catoblepas Esophagus    | +7 kill or harm humans                             |
-|                        | +5 affect things that have been burned | Cedar Wood              | +2 binding spirits                                 |
-| Ash Wood               | +2 harm people                         |                         | +5 any effect with Mentem and<br>Herbam requisites |
-| Aspen Wood             | +2 cure disease                        | Chalice                 | +4 detect poison within                            |
-|                        | +5 cure fever                          |                         | +5 transform or create liquid in                   |
-| Astrolabe              | +5 astrology                           | Chalk, Blue             | +2 wards against demons                            |
-|                        | +5 measure the stars and heavens       | Cherry Wood             | +4 bloodshed                                       |
-|                        | +5 navigation                          | Chestnut Wood           | +3 justice                                         |
-| Auger                  | +2 shape wood                          |                         | +4 honesty                                         |
-|                        | +2 puncture wood                       | Chimera Tongue          | +8 create fire                                     |
-| Axe                    | +4 destroy wood                        | Cinnabar                | +3 long life                                       |
-| Bag/Sack               | +3 moving things into or out of        |                         | +4 wealth                                          |
-|                        | +5 trapping things within              |                         | +4 language                                        |
-| Bandage                | +4 healing wounds                      |                         | +5 dragons                                         |
-| Basalt                 | +3 Ignem                               |                         |                                                    |
-|                        | +3 Perdo                               | Cinnamon                | +2 destroying ghosts                               |
-| Basilisk Eye           | 282<br>+8 kill at a distance           |                         | +4 Imaginem                                        |
-
-*VIII*
-
-
-|      | Cinquefoil           | +2 making amends                             | Elm Wood                      | +2 death and decay                                         |
-| ------ | ---------------------- | ---------------------------------------------- | ------------------------------- | ------------------------------------------------------------ |
-|      |                      | +3 drive away demons                         | Emerald                       | +4 incite love or passion                                  |
-|      |                      | +4 resist poison                             |                               | +7 snakes and dragonkind                                   |
-|      | Clam Shell           | +2 protection                                |                               | +2 calm                                                    |
-|      | Cleaver              | +2 butchery                                  | Fan                           | +4 banish weather phenomena<br>+4 create or control winds  |
-|      |                      | +3 Perdo Animal                              | Fig Wood                      | +3 sex magic                                               |
-|      | Clear Glass          | +4 invisibility                              |                               | +3 gambling                                                |
-|      |                      | +5 seeing through something                  | Fir Wood                      | +3 darkness                                                |
-|      | Cloak                | +3 flight                                    |                               | +1 malicious faeries                                       |
-|      |                      | +4 transform wearer                          | Fired Clay                    | +4 contain or protect from fire                            |
-|      |                      | +5 alter/suppress wearer's image             | Flail                         | +3 harvesting grain                                        |
-|      | Cloth Shears         | +2 shaping fabrics                           | Floor                         | +7 affect movement across                                  |
-|      | Coin                 | +4 induce greed                              | Frankincense                  | +3 Perdo Vim                                               |
-|      |                      | +4 wealth and mercantile                     |                               | +3 dreams                                                  |
-|      | Collar               | +6 control wearer                            | Garnet                        | +4 cleanse a place of Infernal influence<br>+2 navigation  |
-|      | Comb                 | +5 beauty                                    |                               | +2 strengthen body and mind                                |
-|      |                      | +7 affect hair                               |                               | +2 vigor                                                   |
-|      | Container            | +5 create or transform within                |                               | +3 bonds of commitment                                     |
-|      | Copper               | +2 passion                                   |                               | +4 repel insects                                           |
-|      |                      | +2 sex magic                                 | Glove                         | +4 affect things by touch<br>+4 manipulation at a distance |
-|      |                      | +3 bloodshed                                 | Gold                          | +2 health                                                  |
-|      |                      | +4 effects that change its own shape         |                               | +4 induce greed                                            |
-|      |                      | +4 deftness                                  |                               | +4 nobility                                                |
-|      | Coral, Red           | +10 versus demons                            |                               | +4 peace                                                   |
-|      | Cross                | +5 ward away supernatural                    |                               | +4 affect wealth                                           |
-|      |                      | +5 cause damage to Infernal                  | Granite                       | +2 wealth<br>+3 Terram                                     |
-|      |                      | creatures                                    | Green Turquoise +4 necromancy |                                                            |
-|      |                      | +5 banish demons                             | Griffin Feather               | +5 strength                                                |
-| VIII | Crowbar              | +2 moving stone                              |                               | +6 flying                                                  |
-|      | Crown                | +2 wisdom                                    | Hall                          | +3 magical transportation                                  |
-|      |                      | +3 control people                            |                               | +6 affect movement through                                 |
-|      |                      | +5 gain respect, authority                   | Handsaw                       | +3 delicately shape wood                                   |
-|      | Crystal              | +5 water-related effect                      | Hat                           | +4 affect image of self                                    |
-|      | Cypress Wood         | +3 spirits                                   | Hatchet                       | +4 destroy wood                                            |
-|      |                      | +3 necromancy                                | Hawthorn Wood +3 wards        |                                                            |
-|      | Dagger/ Knife        | +2 precise destruction                       | Hazel Wood                    | +1 good judgement                                          |
-|      |                      | +3 betrayal, assassination                   |                               | +3 divination                                              |
-|      |                      | +3 poisoning                                 | Hearth                        | +5 destroy things within<br>+7 create fire and heat        |
-|      | Diamond              | +5 versus demons                             | Helmet                        | +4 affect wearer's mind/emotions                           |
-|      | Dividers             | +2 measuring                                 |                               | +6 affect wearer's sight                                   |
-|      | Dogwood              | +5 pixies                                    | Hippogriff Liver              | +5 freedom from restraints                                 |
-|      | Door                 | +5 warding                                   |                               | +6 flying                                                  |
-|      | Doorway              | +5 magical transportation                    | Holly Wood                    | +2 inflict wounds                                          |
-|      |                      | +7 affect movement through                   |                               | +2 inflict pain                                            |
-|      |                      | +7 magical gates and portals                 | Hornbeam<br>Wood              | +6 strength                                                |
-|      | Doum Palm Leaf       | +3 controlling instincts and                 |                               | +6 Vim against hostile magic                               |
-|      |                      | base emotions                                | Horseshoe                     | +2 warding                                                 |
-|      | Down                 | +3 silence                                   |                               | +6 affect horse's movement                                 |
-|      | Dragon Eye           | +8 protection against ghosts                 | Hourglass                     | +3 increasing speed                                        |
-|      | Dragon Heart         | +7 Intellego                                 |                               | +7 timing and alarms                                       |
-|      | Dragon Teeth<br>Drum | +6 invisibility<br>+2 cause fear             | Human Bone                    | +3 destroy the human mind                                  |
-|      |                      |                                              |                               | +4 destroy the human body                                  |
-|      |                      | +3 create storms and thunder<br>+5 deafening | Human Skull                   | +4 destroy human body                                      |
-|      | Earring              |                                              |                               | +5 destroy human mind                                      |
-|      | Elder Wood           | +5 affect hearing                            |                               | +5 destroy or control ghosts                               |
-|      |                      | +1 Vim<br>+4 malicious magic                 |                               | +10 destroy or control ghost of particular skull           |
-|      | Electrum             | +3 scrying                                   |                               |                                                            |
-|      |                      | +3 deception                                 |                               |                                                            |
-|      |                      | +4 Muto Terram                               |                               |                                                            |
-|      |                      |                                              |                               |                                                            |
-
-**283**
-
-
-| Hyacinth                              | +2 healing                                                            |                          | Myrmecoleon Exoskeleton +6 deprivation and starvation |
-| --------------------------------------- | ----------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------- |
-| Hydra Teeth                           | +6 Creo                                                               | Myrrh                    | +3 spirits                                            |
-|                                       | +8 regeneration                                                       | Necklace                 | +4 affect breathing and speaking                      |
-| Ink of Hermes                         | +3 Vim                                                                | Net                      | +5 immobilization                                     |
-|                                       | +5 books                                                              | Oak Wood                 | +7 protection from storms                             |
-| Iron                                  | +7 harm or repel faeries                                              | Oar                      | +4 affect currents                                    |
-| Iron Shackles                         | +8 bind faeries                                                       |                          |                                                       |
-| Ivory                                 | +5 healing                                                            | Obsidian                 | +5 darkness                                           |
-| Jade                                  | +4 Aquam                                                              | Onyx                     | +4 darkness                                           |
-| Jasper                                | +2 healing                                                            |                          | +4 death                                              |
-|                                       | +2 versus demons                                                      | Opal                     | +2 images                                             |
-| Jet                                   | +2 protection                                                         |                          | +2 imagination<br>+2 invisibility                     |
-|                                       | +3 darkness                                                           |                          | +4 travel                                             |
-| Jewelry/Clothing                      | +2 move self<br>+4 protect self                                       |                          | +4 memory                                             |
-|                                       | +4 transform self                                                     |                          | +6 eyes                                               |
-| Lamp                                  | +4 create fire                                                        | Orange Tree Wood         | +5 sight                                              |
-|                                       | +7 produce light                                                      | Palm Wood                | +3 animating wood                                     |
-| Linden Wood                           | +1 good fortune                                                       |                          |                                                       |
-|                                       | +2 protection against weapons                                         | Panpipes                 | +3 affect emotions<br>+5 control children             |
-| Lead                                  | +3 summoning or binding                                               |                          | +5 revelry                                            |
-|                                       | ghosts and spirits                                                    |                          | +6 affect faerie emotion                              |
-|                                       | +3 hatred                                                             | Panther of Virtue's Hide | +6 song and melodious sounds                          |
-|                                       | +4 wards                                                              |                          |                                                       |
-| Lemon Wood                            | +5 hearing                                                            | Pearl                    | +5 detect or eliminate poisons                        |
-| Leucrota Tongue                       | +6 mimic human voices                                                 | Pelican of Virtue's Beak | +8 healing and nurturing                              |
-| Lilac Wood                            | +2 travel                                                             | Pepper                   | +2 Perdo                                              |
-| Lion's Blood                          | +2 leadership                                                         | Peridot                  | +3 protection against nightmares                      |
-|                                       | +3 courage<br>+4 protection from wild beasts                          | Phoenix Ashes            | +11 rejuvenation and regeneration                     |
-|                                       |                                                                       | Phylactery               | +5 protect wearer                                     |
-| Lion's Mane                           | +5 strength, courage, pride                                           | Pick                     | +4 destroy stone                                      |
-| Living Tree                           | Triple the bonus for the type of<br>wood (oak, ash, etc), but not for | Pin Feather              | +2 Auram                                              |
-|                                       | wood as such. This only applies if                                    |                          | +5 flight                                             |
-|                                       | the whole living tree is enchanted.                                   | Pine Wood                | +1 friendly faeries                                   |
-| Lyre                                  | +3 create sounds                                                      |                          | +3 light                                              |
-|                                       | +5 affect music                                                       | Pitchfork                | +2 gathering reaped grain                             |
-| Magnes Stone (Female) +2 invisibility |                                                                       | Plum Wood                | +2 blood                                              |
-|                                       | +3 purification                                                       | Pure Honey               | +2 preservation                                       |
-| Magnes Stone (Male)                   | +3 divination                                                         |                          |                                                       |
-|                                       | +7 control iron                                                       |                          | +5 spiritual travel                                   |
-| Magnet                                | +2 Rego                                                               | Quartz                   | +5 invisibility                                       |
-|                                       | +4 Rego Corpus                                                        | Quill                    | +7 scribing                                           |
-|                                       | +4 Rego Terram                                                        | Rat Skull                | +3 cause disease                                      |
-| Magnetite                             | +3 Animal                                                             | Red Gold                 | +1 Perdo                                              |
-| Mallet                                | +2 precision                                                          |                          | +4 war                                                |
-| Manacles                              | +4 binding                                                            | Remora of                | +7 slow or halt a moving object                       |
-| Marble                                | +2 cold                                                               | Virtue's Fins            |                                                       |
-|                                       | +3 beauty                                                             | Rhodocrosite             | +2 memories                                           |
-|                                       | +5 wards                                                              |                          | +3 forgetfulness                                      |
-| Mask                                  | +2 affect wearer's sight                                              |                          | +3 binding wounds                                     |
-|                                       | +2 affect wearer's breathing                                          | Ring                     | +2 constant effect                                    |
-|                                       | +3 hiding                                                             | Rock Crystal             | +3 healing                                            |
-|                                       | +7 disguise                                                           |                          | +3 ice                                                |
-| Mason Chisel                          | +2 shape stone                                                        |                          | +4 clarity                                            |
-| Mast                                  | +2 protection from temptation                                         |                          | +5 clairvoyance                                       |
-| Mercury                               | +3 arts and sciences                                                  |                          |                                                       |
-|                                       | +3 Aquam                                                              | Room                     | +4 create things within                               |
-|                                       | +3 Terram                                                             |                          | +6 affect everything within at once                   |
-| Mirror                                | +5 Muto                                                               | Rope or Cord             | +2 strangulation                                      |
-|                                       | +3 summon or bind ghosts                                              |                          | +4 restraint or binding                               |
-|                                       |                                                                       |                          |                                                       |
-|                                       | +5 see the truth                                                      | Rowan Wood               | +1 Vim                                                |
-|                                       | +6 display images<br>284<br>+7 illusions                              |                          | +4 protection against malicious magic                 |
-
-
-|      | Ruby                                 | +2 courage                                     | Sulfur                                 | +2 sowing discord                                                   |
-| ------ | -------------------------------------- | ------------------------------------------------ | ---------------------------------------- | --------------------------------------------------------------------- |
-|      |                                      | +3 battle wounds                               |                                        | +2 preserving or decaying                                           |
-|      |                                      | +3 affect blood                                |                                        | +3 binding tongues                                                  |
-|      |                                      | +4 leadership in war<br>+6 fire-related effect |                                        | +4 demons                                                           |
-|      |                                      |                                                | Sun Scarab                             | +4 detect magic                                                     |
-|      | Rug                                  | +3 affect those upon it                        | Sword                                  | +3 block single attack                                              |
-|      | Saddle                               | +4 affect horse                                |                                        | +4 harm human and animal bodies                                     |
-|      |                                      | +7 affect riding                               | Tablet                                 | +2 command spirits                                                  |
-|      | Saffron                              | +4 physical strength                           | Tin                                    | +1 law                                                              |
-|      | Salamander of                        | +8 extinguish fire                             |                                        | +3 weakness                                                         |
-|      | Virtue's Skin                        |                                                | Tongs                                  | +2 controlling metal                                                |
-|      | Sapphire                             | +2 knowledge                                   | Topaz                                  | +4 leadership                                                       |
-|      |                                      | +2 versus malign Corpus                        |                                        | +4 strength, courage, pride                                         |
-|      |                                      | +2 Perdo Vim against spirits                   |                                        | +5 controlling wild beast                                           |
-|      |                                      | +3 healing<br>+3 reducing anger                | Toy                                    | +4 control children                                                 |
-|      |                                      |                                                | Trowel                                 | +2 building                                                         |
-|      | Sardonyx                             | +2 versus malign Corpus                        | True Purple                            | +5 control people                                                   |
-|      | Scales                               | +3 weighing goods and money                    |                                        | +7 rulership and authority                                          |
-|      | Scythe                               | +3 reaping                                     |                                        | +10 royalty                                                         |
-|      |                                      | +3 Year-Duration effects                       | Turquoise                              | +4 necromancy                                                       |
-|      |                                      | +4 effects expressly causing death             | Unicorn Horn                           | +8 healing                                                          |
-|      | Sea Shell                            | +2 the sea                                     |                                        | +10 detect poison<br>+11 fertility                                  |
-| VIII |                                      | +3 sea creatures                               | Vent                                   | +7 affect air passing through it                                    |
-|      | Serpentine                           | +3 vs. infection and animal poison             | Violet Amethyst                        | +4 ascendancy over masses                                           |
-|      | Shackles                             | +6 restraint or magical binding                |                                        | +7 versus drunkenness                                               |
-|      | Sharp Blade                          | +2 shape leather                               | Walnut Wood                            | +4 mind                                                             |
-|      | Shearing Shears                      | +2 fleecing                                    | Wand/Staff                             | +2 repel things                                                     |
-|      | Shield                               | +5 protection                                  |                                        | +3 project bolt or other missile<br>+4 control things at a distance |
-|      | Ship                                 | +5 sailing                                     |                                        | +4 destroy things at a distance                                     |
-|      | Ship Sail                            | +4 affect winds                                | Waterskin                              | +5 create liquid within                                             |
-|      |                                      |                                                | Whip                                   | +4 control human or animal body                                     |
-|      | Siberian Six-Legged<br>Antelope Hoof | +6 speed and quickness                         |                                        | +5 induce fear in animals                                           |
-|      | Sickle                               | +2 harvesting                                  | White Poplar Wood                      | +4 mind                                                             |
-|      | Silver                               | +1 Terram                                      | Willow Wood                            | +1 cure wounds                                                      |
-|      |                                      | +2 Intellego                                   |                                        | +4 restore limb                                                     |
-|      |                                      | +3 protect spirits                             | Wood (Dead)                            | +3 affect living wood                                               |
-|      |                                      | +5 lycanthropes in general                     |                                        | +4 affect dead wood                                                 |
-|      |                                      | +10 harm lycanthropes                          | Wood from a Tree                       | +2 Auram                                                            |
-|      | Small Hammer                         | +2 building                                    | Struck by Lightning                    |                                                                     |
-|      | Snake Tongue                         | +3 deception                                   | Wood from a Twisted<br>Tree in a Field | +4 disfigure                                                        |
-|      |                                      | +6 lying                                       |                                        |                                                                     |
-|      | Snip                                 | +2 shape metal                                 | Yellow Sandalwood                      | +3 binding people                                                   |
-|      |                                      |                                                | Yew Wood                               | +2 corpses                                                          |
-|      | Spade                                | +4 move or destroy earth                       |                                        | +2 visions                                                          |
-|      | Star Ruby                            | +5 conjure/control occult entities             | Yoke                                   | +4 control wearer                                                   |
-|      |                                      |                                                |                                        | +5 enhance strength of wearer                                       |
+|             |                               |
+| ----------- | ----------------------------- |
+| Adze        | +2 beautify wood structures   |
+| Agate       | +3 air<br>+5 protection from storms<br>+7 protection from venom |
+| Alabaster   | +2 forgiving<br>+4 mental acuity |
+| Alder Wood  | +1 resist decay<br>+2 royalty |
+| Almond Wood | +3 Creo Herbam |
+| Aloe        | +3 friendship |
+| Amber       | +3 controlling movement<br>+3 Corpus |
+| Amethyst    | +2 wealth<br>+2 hearing<br>+3 versus poison<br>+3 dreams<br>+4 temperance<br>+7 versus drunkenness |
+| Amulet Bearing<br>the Sigils of Angels | +7 ward against demons<br>+7 banish demons |
+| Anchor      | +3 prevent movement |
+| Animal Bone | +4 harm or destroy animals |
+| Animal Hide | +7 turn into appropriate animal |
+| Apple Wood  | +1 longevity<br>+1 Corpus |
+| Aquamarine  | +3 water |
+| Armillary Sphere | +5 display the heavens<br>+5 celestial time |
+| Armor       | +7 protect wearer |
+| Arrow       | +2 aiming<br>+3 direction |
+| Artifacts from Pompeii<br>and Herculaneum | +3 volcanoes |
+| Ash (Burned Debris) | +2 burning things<br>+2 Ignem<br>+5 affect things that have been burned |
+| Ash Wood    | +2 harm people |
+| Aspen Wood  | +2 cure disease<br>+5 cure fever |
+| Astrolabe   | +5 astrology<br>+5 measure the stars and heavens<br>+5 navigation |
+| Auger       | +2 shape wood<br>+2 puncture wood |
+| Axe         | +4 destroy wood |
+| Bag/Sack    | +3 moving things into or out of<br>+5 trapping things within |
+| Bandage     | +4 healing wounds |
+| Basalt      | +3 Ignem<br>+3 Perdo |
+| Basilisk Eye | +8 kill at a distance |
+| Basket      | +2 collect items<br>+3 create things within<br>+4 preserve contents<br>+5 create food within |
+| Bed         | +6 affect sleep and dreams |
+| Beech Wood  | +3 knowledge |
+| Bell        | +5 warning |
+| Bellows     | +4 create wind<br>+5 strengthen fire |
+| Belt or Girdle | +3 affect strength |
+| Beryl       | +3 water |
+| Billhook    | +2 pruning |
+| Birch Wood  | +1 Creo<br>+3 childbirth |
+| Blackthorn Wood | +2 dark fay<br>+6 guardians |
+| Bloodstone  | +4 blood and wounds |
+| Boat        | +3 sailing |
+| Bookshelf   | +3 hide things within<br>+4 protect things within |
+| Boots       | +5 affect walking |
+| Bow         | +5 destroy things at a distance |
+| Brass       | +3 music<br>+3 Ignem<br>+4 demons, devils, and angels |
+| Bronze      | +3 Terram<br>+5 darkness |
+| Candle, Black | +2 summon demons |
+| Candle Made of Goat Fat | +3 summon demons |
+| Cappadocian Salt | +6 purifying effects |
+| Carving of Behemoth | +3 great size |
+| Cask        | +3 induce drunkenness |
+| Cat's Eye   | +3 versus malign Corpus |
+| Catoblepas Esophagus | +7 kill or harm humans |
+| Cedar Wood  | +2 binding spirits<br>+5 any effect with Mentem and Herbam requisites |
+| Chalice     | +4 detect poison within<br>+5 transform or create liquid in | 
+| Chalk, Blue | +2 wards against demons |
+| Cherry Wood | +4 bloodshed |
+| Chestnut Wood | +3 justice<br>+4 honesty |
+| Chimera Tongue | +8 create fire |
+| Cinnabar    | +3 long life<br>+4 wealth<br>+4 language<br>+5 dragons |
+| Cinnamon    | +2 destroying ghosts<br>+4 Imaginem |
+| Cinquefoil  | +2 making amends<br>+3 drive away demons<br>+4 resist poison |
+| Clam Shell  | +2 protection |
+| Cleaver     | +2 butchery<br>+3 Perdo Animal |
+| Clear Glass | +4 invisibility<br>+5 seeing through something |
+| Cloak       | +3 flight<br>+4 transform wearer<br>+5 alter/suppress wearer's image |
+| Cloth Shears | +2 shaping fabrics |
+| Coin        | +4 induce greed<br>+4 wealth and mercantile |
+| Collar      | +6 control wearer |
+| Comb        | +5 beauty<br>+7 affect hair |
+| Container   | +5 create or transform within |
+| Copper      | +2 passion<br>+2 sex magic<br>+3 bloodshed<br>+4 effects that change its own shape<br>+4 deftness |
+| Coral, Red  | +10 versus demons |
+| Cross       | +5 ward away supernatural<br>+5 cause damage to Infernal creatures<br>+5 banish demons |
+| Crowbar     | +2 moving stone |
+| Crown       | +2 wisdom<br>+3 control people<br>+5 gain respect, authority |
+| Crystal     | +5 water-related effect |
+| Cypress Wood | +3 spirits<br>+3 necromancy |
+| Dagger/ Knife | +2 precise destruction<br>+3 betrayal, assassination<br>+3 poisoning |
+| Diamond     | +5 versus demons |
+| Dividers    | +2 measuring |
+| Dogwood     | +5 pixies |
+| Door        | +5 warding |
+| Doorway     | +5 magical transportation<br>+7 affect movement through<br>+7 magical gates and portals |
+| Doum Palm Leaf | +3 controlling instincts and base emotions |
+| Down        | +3 silence |
+| Dragon Eye  | +8 protection against ghosts |
+| Dragon Heart | +7 Intellego |
+| Dragon Teeth | +6 invisibility |
+| Drum         | +2 cause fear<br>+3 create storms and thunder<br>+5 deafening |
+| Earring     | +5 affect hearing |
+| Elder Wood  | +1 Vim<br>+4 malicious magic |
+| Electrum    | +3 scrying<br>+3 deception<br>+4 Muto Terram |
+| Elm Wood    | +2 death and decay |
+| Emerald | +4 incite love or passion<br>+7 snakes and dragonkind<br>+2 calm |
+| Fan | +4 banish weather phenomena<br>+4 create or control winds |
+| Fig Wood | +3 sex magic<br>+3 gambling |
+| Fir Wood | +3 darkness<br>+1 malicious faeries |
+| Fired Clay | +4 contain or protect from fire |
+| Flail | +3 harvesting grain |
+| Floor | +7 affect movement across |
+| Frankincense | +3 Perdo Vim<br>+3 dreams<br>+4 cleanse a place of Infernal influence |
+| Garnet | +2 navigation<br>+2 strengthen body and mind<br>+2 vigor<br>+3 bonds of commitment<br>+4 repel insects |
+| Glove | +4 affect things by touch<br>+4 manipulation at a distance |
+| Gold | +2 health<br>+4 induce greed<br>+4 nobility<br>+4 peace<br>+4 affect wealth |
+| Granite | +2 wealth<br>+3 Terram |
+| Green Turquoise | +4 necromancy |
+| Griffin Feather | +5 strength<br>+6 flying |
+| Hall | +3 magical transportation<br>+6 affect movement through |
+| Handsaw | +3 delicately shape wood |
+| Hat | +4 affect image of self |
+| Hatchet | +4 destroy wood |
+| Hawthorn Wood | +3 wards |
+| Hazel Wood | +1 good judgement<br>+3 divination |
+| Hearth | +5 destroy things within<br>+7 create fire and heat |
+| Helmet | +4 affect wearer's mind/emotions<br>+6 affect wearer's sight |
+| Hippogriff Liver | +5 freedom from restraints<br>+6 flying |
+| Holly Wood | +2 inflict wounds<br>+2 inflict pain |
+| Hornbeam Wood | +6 strength<br>+6 Vim against hostile magic |
+| Horseshoe | +2 warding<br>+6 affect horse's movement |
+| Hourglass | +3 increasing speed<br>+7 timing and alarms |
+| Human Bone | +3 destroy the human mind<br>+4 destroy the human body |
+| Human Skull | +4 destroy human body<br>+5 destroy human mind<br>+5 destroy or control ghosts<br>+10 destroy or control ghost of particular skull |
+| Hyacinth | +2 healing |
+| Hydra Teeth | +6 Creo<br>+8 regeneration |
+| Ink of Hermes | +3 Vim<br>+5 books |
+| Iron | +7 harm or repel faeries |
+| Iron Shackles | +8 bind faeries |
+| Ivory | +5 healing |
+| Jade | +4 Aquam |
+| Jasper | +2 healing<br>+2 versus demons |
+| Jet | +2 protection<br>+3 darkness |
+| Jewelry/Clothing | +2 move self<br>+4 protect self<br>+4 transform self |
+| Lamp | +4 create fire<br>+7 produce light |
+| Linden Wood | +1 good fortune<br>+2 protection against weapons |
+| Lead | +3 summoning or binding ghosts and spirits<br>+3 hatred<br>+4 wards |
+| Lemon Wood | +5 hearing |
+| Leucrota Tongue | +6 mimic human voices |
+| Lilac Wood | +2 travel |
+| Lion’s Blood | +2 leadership<br>+3 courage<br>+4 protection from wild beasts |
+| Lion's Mane | +5 strength, courage, pride |
+| Living Tree | Triple the bonus for the type of wood (oak, ash, etc), but not for wood as such.<br>This only applies if the whole living tree is enchanted. |
+| Lyre | +3 create sounds<br>+5 affect music |
+| Magnes Stone (Female) | +2 invisibility<br>+3 purification |
+| Magnes Stone (Male) | +3 divination<br>+7 control iron |
+| Magnet | +2 Rego<br>+4 Rego Corpus<br>+4 Rego Terram |
+| Magnetite | +3 Animal |
+| Mallet | +2 precision |
+| Manacles | +4 binding |
+| Marble | +2 cold<br>+3 beauty<br>+5 wards |
+| Mask | +2 affect wearer's sight<br>+2 affect wearer’s breathing<br>+3 hiding<br>+7 disguise |
+| Mason Chisel | +2 shape stone |
+| Mast | +2 protection from temptation |
+| Mercury | +3 arts and sciences<br>+3 Aquam<br>+3 Terram<br>+5 Muto |
+| Mirror | +3 summon or bind ghosts<br>+5 see the truth<br>+6 display images<br>+7 illusions |
+| Myrmecoleon Exoskeleton | +6 deprivation and starvation |
+| Myrrh | +3 spirits |
+| Necklace | +4 affect breathing and speaking |
+| Net | +5 immobilization |
+| Oak Wood | +7 protection from storms |
+| Oar | +4 affect currents |
+| Obsidian | +5 darkness |
+| Onyx | +4 darkness<br>+4 death |
+| Opal | +2 images<br>+2 imagination<br>+2 invisibility<br>+4 travel<br>+4 memory<br>+6 eyes |
+| Orange Tree Wood | +5 sight |
+| Palm Wood | +3 animating wood |
+| Panpipes | +3 affect emotions<br>+5 control children<br>+5 revelry<br>+6 affect faerie emotion |
+| Panther of Virtue’s Hide | +6 song and melodious sounds |
+| Pearl | +5 detect or eliminate poisons |
+| Pelican of Virtue’s Beak | +8 healing and nurturing |
+| Pepper | +2 Perdo |
+| Peridot | +3 protection against nightmares |
+| Phoenix Ashes | +11 rejuvenation and regeneration |
+| Phylactery | +5 protect wearer |
+| Pick | +4 destroy stone |
+| Pin Feather | +2 Auram<br>+5 flight |
+| Pine Wood | +1 friendly faeries<br>+3 light |
+| Pitchfork | +2 gathering reaped grain |
+| Plum Wood | +2 blood |
+| Pure Honey | +2 preservation<br>+5 spiritual travel |
+| Quartz | +5 invisibility |
+| Quill | +7 scribing |
+| Rat Skull | +3 cause disease |
+| Red Gold | +1 Perdo<br>+4 war |
+| Remora of Virtue’s Fins | +7 slow or halt a moving object |
+| Rhodocrosite | +2 memories<br>+3 forgetfulness<br>+3 binding wounds |
+| Ring | +2 constant effect |
+| Rock Crystal | +3 healing<br>+3 ice<br>+4 clarity<br>+5 clairvoyance |
+| Room | +4 create things within<br>+6 affect everything within at once |
+| Rope or Cord | +2 strangulation<br>+4 restraint or binding |
+| Rowan Wood | +1 Vim<br>+4 protection against malicious magic |
+| Ruby | +2 courage<br>+3 battle wounds<br>+3 affect blood<br>+4 leadership in war<br>+6 fire-related effect |
+| Rug | +3 affect those upon it |
+| Saddle | +4 affect horse<br>+7 affect riding |
+| Saffron | +4 physical strength |
+| Salamander of<br>Virtue’s Skin | +8 extinguish fire |
+| Sapphire | +2 knowledge<br>+2 versus malign Corpus<br>+2 Perdo Vim against spirits<br>+3 healing<br>+3 reducing anger |
+| Sardonyx | +2 versus malign Corpus |
+| Scales | +3 weighing goods and money |
+| Scythe | +3 reaping<br>+3 Year-Duration effects<br>+4 effects expressly causing death |
+| Sea Shell | +2 the sea<br>+3 sea creatures |
+| Serpentine | +3 vs. infection and animal poison |
+| Shackles | +6 restraint or magical binding |
+| Sharp Blade | +2 shape leather |
+| Shearing Shears | +2 fleecing |
+| Shield | +5 protection |
+| Ship | +5 sailing |
+| Ship Sail | +4 affect winds |
+| Siberian Six-Legged<br>Antelope Hoof | +6 speed and quickness |
+| Sickle | +2 harvesting |
+| Silver | +1 Terram<br>+2 Intellego<br>+3 protect spirits<br>+5 lycanthropes in general<br>+10 harm lycanthropes |
+| Small Hammer | +2 building |
+| Snake Tongue | +3 deception<br>+6 lying |
+| Snip | +2 shape metal |
+| Spade | +4 move or destroy earth |
+| Star Ruby | +5 conjure/control occult entities |
+| Sulfur | +2 sowing discord<br>+2 preserving or decaying<br>+3 binding tongues<br>+4 demons |
+| Sun Scarab | +4 detect magic |
+| Sword | +3 block single attack<br>+4 harm human and animal bodies |
+| Tablet | +2 command spirits |
+| Tin | +1 law<br>+3 weakness |
+| Tongs | +2 controlling metal |
+| Topaz | +4 leadership<br>+4 strength, courage, pride<br>+5 controlling wild beast |
+| Toy | +4 control children |
+| Trowel | +2 building |
+| True Purple | +5 control people<br>+7 rulership and authority<br>+10 royalty |
+| Turquoise | +4 necromancy |
+| Unicorn Horn | +8 healing<br>+10 detect poison<br>+11 fertility |
+| Vent | +7 affect air passing through it |
+| Violet Amethyst | +4 ascendancy over masses<br>+7 versus drunkenness |
+| Walnut Wood | +4 mind |
+| Wand/Staff | +2 repel things<br>+3 project bolt or other missile<br>+4 control things at a distance<br>+4 destroy things at a distance |
+| Waterskin | +5 create liquid within |
+| Whip | +4 control human or animal body<br>+5 induce fear in animals |
+| White Poplar Wood | +4 mind |
+| Willow Wood | +1 cure wounds<br>+4 restore limb |
+| Wood (Dead) | +3 affect living wood<br>+4 affect dead wood |
+| Wood from a Tree<br>Struck by Lightning | +2 Auram |
+| Wood from a Twisted<br>Tree in a Field | +4 disfigure |
+| Yellow Sandalwood | +3 binding people |
+| Yew Wood | +2 corpses<br>+2 visions |
+| Yoke | +4 control wearer<br>+5 enhance strength of wearer |
 
 ## Laboratory Personalization Rules
 
-fter settling in to her standard and average laboratory, a young maga will sooner or later start to consider the possibilities of adding a little personal touch and flavor to her
-
-workspace. This will help her to feel a greater sense of identity and comfort with her own lab, but perhaps more importantly, the lab will also become more effective in her preferred areas of research. Needless to say, labs usually grow to become colored according to the personal habits and magical specialties of a magus. A long-established laboratory tells a great deal about its owner, in its features and outfittings, as well as in its cleanliness and orderliness.
+After settling in to her standard and average laboratory, a young maga will sooner or later start to consider the possibilities of adding a little personal touch and flavor to her workspace. This will help her to feel a greater sense of identity and comfort with her own lab, but perhaps more importantly, the lab will also become more effective in her preferred areas of research. Needless to say, labs usually grow to become colored according to the personal habits and magical specialties of a magus. A long-established laboratory tells a great deal about its owner, in its features and outfittings, as well as in its cleanliness and orderliness.
 
 In introducing the new statistics for laboratories, it may be helpful to think of the lab as a character in its own right: it has Characteristics, Virtues and Flaws, Specializations (which are analogous to Abilities for human characters), and possibly also Personality Traits.
 
 Each laboratory is characterized by a set of eight Characteristics, with a standard (default) lab starting with scores of 0 in each. Unlike human Characteristics, however, these values are relatively easy to change. Labs with a positive Warping Characteristic also have one or more Personality Traits. Each lab may also have a number of Virtues and Flaws, which may be Major (worth 3 points), Minor (worth 1 point), or Free (0 points), just as for human characters. Certain Virtues and Flaws may grant a lab a small number of Specializations. A Specialization adds its score to any Lab Total with a particular Art or type of activity. For example, a lab might have Specializations Spells 1 and Creo 2.
 
-## Laboratory Characteristics
+### Laboratory Characteristics
 
 The eight Laboratory Characteristics are as follows:
 
-Size, Refinement, General Quality, Upkeep, Safety, Warping, Health, Aesthetics
+**Size, Refinement, General Quality, Upkeep, Safety, Warping, Health, Aesthetics**
 
 Apart from Warping, which cannot be negative, each Characteristic may be positive, negative, or zero. A standard lab starts with all Characteristics at zero.
 
 To determine the Characteristics of a non-standard laboratory, proceed as follows:
 
-- Select the Size and Refinement scores according to the descriptions of these Characteristics below.
-- 2. Set the Safety to be equal to the Refinement. If the occupied Size (see below) is greater than zero, subtract it from the Safety. Set the scores of the remaining five Characteristics to zero.
-- 3. For each of the lab's Virtues and Flaws, apply any adjustments to the Characteristics that they specify.
+1. Select the Size and Refinement scores according to the descriptions of these Characteristics below.
 
-## Size
+2. Set the Safety to be equal to the Refinement. If the occupied Size (see below) is greater than zero, subtract it from the Safety. Set the scores of the remaining five Characteristics to zero.
+
+3. For each of the lab's Virtues and Flaws, apply any adjustments to the Characteristics that they specify.
+
+#### Size
 
 Size specifies broadly how much floor space is provided by the physical structure of the laboratory. The larger the laboratory is, the more benefits (Virtues) it can accommodate. Thus, each point of Size adds to the maximum permitted number of Virtue points minus Flaw points (see Virtues and Flaws, below).
 
-It is sometimes necessary to use the **occupied**Size, which might be less than the Size. More often than not, the laboratory is filled to capacity (there is no more room for extra points of Virtues), in which case the occupied Size is
-
-simply equal to the Size. However, if the lab space is not fully used, then the occupied Size is equal to the Size minus the number of free points available for new Virtues. (We will see below that this is exactly the same as the number of points of Virtues minus Flaws, minus the Refinement.) For example, a lab with Size +4 and Refinement 0, and two points of Virtues minus Flaws, has an occupied Size of +2. In this case, the occupied Size is given in parentheses, so for this example, the Size would be written as +4 (+2).
+It is sometimes necessary to use the **occupied**Size, which might be less than the Size. More often than not, the laboratory is filled to capacity (there is no more room for extra points of Virtues), in which case the occupied Size is simply equal to the Size. However, if the lab space is not fully used, then the occupied Size is equal to the Size minus the number of free points available for new Virtues. (We will see below that this is exactly the same as the number of points of Virtues minus Flaws, minus the Refinement.) For example, a lab with Size +4 and Refinement 0, and two points of Virtues minus Flaws, has an occupied Size of +2. In this case, the occupied Size is given in parentheses, so for this example, the Size would be written as +4 (+2).
 
 Despite the extra Virtues that they may accommodate, most magi do not opt to have a significantly above-average sized lab. This is because labs with positive Size have two drawbacks:
 
 Firstly, the more a laboratory is expanded, the more unmanageable and dangerous it becomes — it becomes harder to oversee it all, and it takes longer to get around it. Magi can only cope with a certain extent of equipment and outfittings, before they begin to lose track of it all. For this reason, and as stated above, the occupied Size (if positive) subtracts from the lab's base Safety. (Since Refinement has the opposite effect, however, this penalty may be offset by taking a Refinement at least as high as the Size.) There is no Safety benefit to an occupied Size less than zero.
 
-Secondly, it looks slightly ridiculous if a chamber is far larger than it needs to be to accommodate a laboratory. It is not aesthetically pleasing if, for example, all your furniture and equipment squats in the middle of a much larger room, surrounded by an echo chamber of unused space which merely gathers dust and cobwebs. For this reason, for every full two points by which the Size exceeds the occupied Size, you should take
-
-Size and Refinement
-Summary
-
-Limit of Virtue Points Minus Flaw Points:
-Size + Refinement
-
-Occupied Size:
-current Virtue points
-
-- Flaw points - Refinement
-
-Base Safety of Lab:
-Refinement - occupied Size
-(if greater than zero)
-
-the Empty Flaw. For example, a lab with Size +5 (0) should take the Empty Flaw twice.
-
+Secondly, it looks slightly ridiculous if a chamber is far larger than it needs to be to accommodate a laboratory. It is not aesthetically pleasing if, for example, all your furniture and equipment squats in the middle of a much larger room, surrounded by an echo chamber of unused space which merely gathers dust and cobwebs. For this reason, for every full two points by which the Size exceeds the occupied Size, you should take the Empty Flaw. For example, a lab with Size +5 (0) should take the Empty Flaw twice.
 
 | Size | Square Feet |
-| ------ | ------------- |
+| ---- | ----------- |
 | -3   | 100         |
 | -2   | 200         |
 | -1   | 350         |
@@ -13093,7 +12901,15 @@ the Empty Flaw. For example, a lab with Size +5 (0) should take the Empty Flaw t
 
 A lab cannot be smaller than Size –3. However, there is no upper limit; for each additional 500 square feet beyond 1500, add a further +1 to Size.
 
-## Befinement
+> #### Size and Refinement Summary
+> 
+> **LIMIT OF VIRTUE POINTS MINUS FLAW POINTS: Size + Refinement**
+>
+> **OCCUPIED SIZE: current Virtue points – Flaw points – Refinement**
+>
+> **BASE SAFETY OF LAB: Refinement – occupied Size (if greater than zero)**
+
+#### Refinement
 
 Refinement is a measure of the expertise and time taken to assemble the contents of the lab efficaciously. The more experienced a maga is, the more efficiently she can make use of the available space. Just like Size, therefore, each point of Refinement adds to the maximum permitted number of Virtue points minus Flaw points (see Virtues and Flaws, below). Highly-refined labs can thus either be smaller than normal, without needing to suffer Flaws, or permit more points of Virtues than would otherwise be possible.
 
@@ -13101,19 +12917,17 @@ A freshly-assembled lab starts with a Refinement score of 0, unless the assemble
 
 The rules for increasing a lab's Refinement are quite straightforward: You need to be familiar with the lab in question (as a rule of thumb, you need to have worked in the lab for a number of years equal to the existing Refinement score) and need a Magic Theory equal to at least the desired Refinement score, plus 3. Increasing the Refinement by one point takes a season of work, during which time the lab's contents are optimized and rearranged. For example, if you have a Magic Theory of 5 and a lab with a Refinement 0, you can spend one season to increase the Refinement to +1, and a further season to increase it to +2.
 
-Such a season of work also gives a chance to gain the Highly Organized and Spotless Virtues or to gain or lose the Hidden Defect Flaw. Make an Intelligence + Magic Theory stress roll. If this meets an Ease Factor of 12, Highly Organized is gained. If this also meets an Ease Factor of 15,
-
-then any existing Hidden Defect Flaw may be spotted and corrected (the Flaw is removed). However if the roll results in a botch, the Hidden Defect Flaw is gained. If you wish, you may also make a Tidy (or other relevant Personality Trait) roll against an Ease Factor of 9. If this succeeds, the Spotless Virtue is gained. See below for the effects of these two Virtues and the Hidden Defect Flaw.
+Such a season of work also gives a chance to gain the Highly Organized and Spotless Virtues or to gain or lose the Hidden Defect Flaw. Make an Intelligence + Magic Theory stress roll. If this meets an Ease Factor of 12, Highly Organized is gained. If this also meets an Ease Factor of 15, then any existing Hidden Defect Flaw may be spotted and corrected (the Flaw is removed). However if the roll results in a botch, the Hidden Defect Flaw is gained. If you wish, you may also make a Tidy (or other relevant Personality Trait) roll against an Ease Factor of 9. If this succeeds, the Spotless Virtue is gained. See below for the effects of these two Virtues and the Hidden Defect Flaw.
 
 Whenever the Refinement score increases by one, the occupied Size decreases by one, since there is one extra spare point made available for Virtues. Since the base Safety of a lab is equal to Refinement – occupied Size (if positive), whenever the Refinement score increases by one, the net Safety increase is either one point (if the new occupied Size is negative) or two points (otherwise).
 
 For example, Darius (when he has a Magic Theory of 4) spends a season to increase the Refinement of his standard laboratory (with all Characteristics equal to zero, and no Virtues and Flaws) to +1. This causes the occupied Size to drop to -1 and the Safety to increase to +1. There is now free space for one Minor Virtue. If, in the next season, he installs such a Virtue, the occupied Size returns to 0, and the Safety stays at +1. Later on, he has an extension to the chamber constructed, taking its Size to +1 (0), and allowing space for one more Minor Virtue. When he spends a further season to install such a Virtue, the occupied Size increases to +1, and the Safety thus drops to 0. Later still (when Darius has increased his Magic Theory to 5) he spends a further season to increase the Refinement to +2. This causes the occupied Size to drop to 0 and the Safety to increase to +2. When he spends another season to install his third Minor Virtue, the occupied Size returns to +1, and the Safety drops to +1.
 
-## General Quality
+#### General Quality
 
 General Quality is simply an overall measure of the effectiveness of the lab in all areas. General Quality adds to all Lab Totals. This bonus (or penalty, if the General Quality is negative) applies in addition to any other Lab Total adjustments (such as from Specializations). This Characteristic has no effect on teaching (except for teaching spells, which uses a Lab Total) or the scribing of texts.
 
-## Upkeep
+#### Upkeep
 
 Upkeep specifies the monetary cost of building and maintaining the lab. For example, a lab with priceless ingredients may have a better General Quality, but it is also more expensive to maintain. A lab with an Upkeep of 0 costs 5 pounds to build and 1 pound per typical year of use to maintain. See Chapter 6: Covenants for the costs of labs with other Upkeep scores.
 
@@ -13121,91 +12935,107 @@ There may be insufficient money to maintain a lab at its current Upkeep. In this
 
 If a new Virtue or Flaw (or its removal) results in a increase to Upkeep, then the difference between the old and new build costs (which are 1 pound per 2 points of the lab; see Chapter 6: Covenants) must be paid. For example, raising the Upkeep from +2 to +4 (an increase of 70 points) costs 35 pounds. Thereafter, maintenance is paid at the new, higher rate. However if the Upkeep score should drop, there is no refund.
 
-## Safety
+#### Safety
 
 The higher the Safety, the lower the risk of any lab accidents, and vice versa. The Safety score subtracts its value from the number of botch dice on all lab activities. (Thus, a negative Safety results in more botch dice.) Labs with a zero or better Safety are fairly trustworthy places — there is only a significant danger of an accident with certain categories of lab activities (those requiring a stress roll, such as when using experimentation, or when studying from vis). Labs with a negative Safety, however, are deemed unsafe. With an unsafe lab, there is always the risk of an accident, no matter what type of lab work is undertaken. While some magi are prepared to accept the level of risk of a slightly negative Safety, such as -1 or -2, it is a very reckless magus who is prepared to work repeatedly in a highly unsafe lab.
 
 For each season of work in an unsafe lab, roll a simple die. (This extra roll is in addition to any others which may be made, such as for experimentation or study from vis.) If the result is less than or equal to the absolute value of the Safety (in other words, ignore the minus sign), there is a chance of suffering a lab botch, in which case make a roll the usual number of botch dice (including the extra dice for having a negative Safety). For this roll, you cannot have no botch dice; there is always a minimum of at least one. In the event of a botch, a lab accident is suffered — consult the Disaster sub-chart of the Experimentation: Extraordinary Results chart (see page 275).
 
-For example, Helvius spends a season to invent a spell (something that would normally be safe, and not require a roll) in his laboratory,
+For example, Helvius spends a season to invent a spell (something that would normally be safe, and not require a roll) in his laboratory, which has a Safety of –2. Helvius's player rolls a simple die, getting a 1, which is less than or equal to 2, so there is a chance of suffering a lab botch. He then rolls for botch with two botch dice (the base number of none for this activity, plus two for the Safety score). One of the dice comes up as 0, for a lab accident. On a single botch, Helvius suffers a single Warping Point. He got off quite lightly.
 
-which has a Safety of –2. Helvius's player rolls a simple die, getting a 1, which is less than or equal to 2, so there is a chance of suffering a lab botch. He then rolls for botch with two botch dice (the base number of none for this activity, plus two for the Safety score). One of the dice comes up as 0, for a lab accident. On a single botch, Helvius suffers a single Warping Point. He got off quite lightly.
+#### Warping
 
-## Carping
-
-A laboratory with a zero Warping score produces consistent and predictable results (at least, it does if it isn't unsafe and you don't use experimentation). A lab with a positive Warping score, however, sometimes yields altered or unintended results. For each season of labwork, roll a simple die. If the result is less than or equal to the Warping score, then the product of that season's work (be it an item, spell, or something else) suffers Warping. Warping on labwork is not the same as for characters; instead refer to the Experimentation: Extraordinary Results chart (see page 275). If the outcome of the simple die was odd, roll once for a Side Effect. If the outcome was even, roll once for a Modified Effect. Effects should be chosen as appropriate for the cause(s) of the Warping. For example, an item
-
-enchanted in an invisible lab might be found to be invisible itself, once it is finished and removed from the lab.
+A laboratory with a zero Warping score produces consistent and predictable results (at least, it does if it isn't unsafe and you don't use experimentation). A lab with a positive Warping score, however, sometimes yields altered or unintended results. For each season of labwork, roll a simple die. If the result is less than or equal to the Warping score, then the product of that season's work (be it an item, spell, or something else) suffers Warping. Warping on labwork is not the same as for characters; instead refer to the Experimentation: Extraordinary Results chart (see page 275). If the outcome of the simple die was odd, roll once for a Side Effect. If the outcome was even, roll once for a Modified Effect. Effects should be chosen as appropriate for the cause(s) of the Warping. For example, an item enchanted in an invisible lab might be found to be invisible itself, once it is finished and removed from the lab.
 
 A lab with a positive Warping score should also be assigned one or more Personality Traits, with a total score equal to the Warping score. For example, a lab with a Warping score of +1, due to faerie ingredients, might gain the Personality Trait Whimsical +1. These Personality Traits tend to color the experience of the lab's owner and any other residents or guests, and are suggestive of suitable Warping effects, both for Warping on labwork, and on any character Warping suffered by the inhabitant(s). At the storyguide's discretion, a Personality Trait may be added to a Lab Total for an effect which matches it closely, or subtracted from a Lab Total for an opposite effect.
+
+#### Health
 
 The environment of a laboratory might be either beneficial or detrimental to the health of its owner. A lab with a positive Health score might be especially snug, comfortable, or clean, whereas a lab with a negative Health might be drafty, awkward to get around, or bear a foul stench. The Health score adds to any Wound Recovery rolls for inhabitants of the lab. Also, half of the Health score (rounded down) adds to the Living Conditions modifier (used for Aging rolls) for inhabitants, provided that they spend at least half of the year there. In this way, the Living Conditions modifier of a lab (or sanctum) might differ from that of the covenant as a whole.
 
 For example, the lab of Igor Rastvan has a Health of +2, giving +1 to the Living Conditions modifier. His covenant of Roznov has a base Living Conditions modifier of +2 for magi, therefore his total Living Conditions modifier is +3.
 
-## Aesthetics
+#### Aesthetics
 
-Aesthetics is a measure of the impressiveness, splendor, and luxury of the laboratory. Whilst this is mostly a question of personal comfort and preferences, the aesthetic quality of a lab may affect the prestige enjoyed by its owner, influencing her standing amongst her peers. The Aesthetics score is indicative of the typical impression received by
-
-## Laboratory Specializations and Appearance
-
-Experimentation: The lab might or refining contraption, such as outfittings, or have a nonstandard configuration which appears confusing or even dangerous to the uninitiated.
-
-Familiar: Such a lab often resembles one with a specialization in Animal. It likely features some kind of pen or dwelling for a familiar prominently.
-
-Items: The lab usually resembles a kind of workshop, with a great variety of tools, and is likely to be smelly, dirty, or noisy.
-
-Longevity Rituals: The lab often closely resembles one with a specialization in Creo or Corpus. It might feature a pallet where a live subject can be
-
-Spells: This Specialization is not usually immediately obvious, as the lab differs in only subtle ways from the norm. It may feature a large empty space, such as a summoning circle, where spells are tested.
-
-Teaching: The lab is usually comfortable, with a preordained position for both master and pupil, such as a desk before a teaching pulpit.
-
-Texts: The lab usually features a desk or bookstand prominently, contains a wide variety of writing materials, and is well lit.
-
-Vis Extraction: Such a lab often features some kind of measuring
-
-be equipped with bizarre custom an elaborate still, and numerous containers for vis
-
-> Creo: The lab is often brightly lit, clean, or contains many growing things. It is usually a pleasant environment.
-
-Intellego: Such an esoteric lab might contain many books or astronomical devices, as well as viewing objects such as orbs or a scrying pool.
-
-Muto: The lab might appear chaotic or in a state of constant change. Perhaps the owner is continually rearranging things.
-
-Perdo: The lab might be dark or dirty, possibly containing decaying or dead things. It is often an unpleasant place.
-
-Rego: Such a lab is tidy and well ordered, with everything neatly arranged.
-
-Animal: This Specialization is usually evident from the lab's feral smell. It may contain numerous fauna specimens, dead or alive, and the floor may be littered with straw, fur, or droppings.
-
-Aguam: The lab almost always features some kind of water, either still or flowing, and may be damp.
-
-Auram: Such a lab is often spacious, with a high ceiling, and might feature a window or balcony, or even be exposed to the elements.
-
-Corpus: The lab might contain human corpses and body parts, such as blood, bones, and skin, or even live subjects. Perhaps it resembles a surgery, with the tools of a chirurgeon present.
-
-Herbam: Such a lab. predictably, features plants, either in pots, or growing out of the floor or walls, or the lab itself might be built of living wood. It may have a smell of foliage, blossom, or wood.
-
-Ignem: The lab is usually very well heated, with multiple fireplaces or a furnace, or it may be lit by many hundreds of candles. It may smell of smoke or sulfur.
-
-Imaginem: The lab may be extravagantly decorated, or even partly illusory. Equally, it may give the impression of having some other specialization, since this lab may not be all it seems.
-
-Mentem: Such a lab is often puzzling and elaborate, and may feature esoteric toys or ornate
-
-Terram: The lab is often subterranean, and is usually solidly built, with an earthy or mineral smell. Many samples of metals, gems, or crystals may be present.
-
-Vim: Such a Specialization is usually hard to spot, as there is no characteristic appearance, apart perhaps from an increased overall complexity.
-
-visitors to the lab, and whether or not it is favorable. For every point of Aesthetics, either positive or negative, the owner gains five experience points in an appropriate Reputation. These points might not all be gained immediately, especially if few people visit the laboratory. Sooner or later, however, rumors will spread about just what is believed to be inside, even if it is mostly speculation, especially among the covenfolk.
+Aesthetics is a measure of the impressiveness, splendor, and luxury of the laboratory. Whilst this is mostly a question of personal comfort and preferences, the aesthetic quality of a lab may affect the prestige enjoyed by its owner, influencing her standing amongst her peers. The Aesthetics score is indicative of the typical impression received by visitors to the lab, and whether or not it is favorable. For every point of Aesthetics, either positive or negative, the owner gains five experience points in an appropriate Reputation. These points might not all be gained immediately, especially if few people visit the laboratory. Sooner or later, however, rumors will spread about just what is believed to be inside, even if it is mostly speculation, especially among the covenfolk.
 
 For example, Lutisse has a lab with an Aesthetics of -2. She gains ten experience points in her Impoverished Hedge Wizard Reputation.
 
-## Laboratory Specializations
+#### Laboratory Specializations
 
 Laboratories that have Specializations are particularly well-suited to one or more types of laboratory work or to certain Arts, providing a bonus (in almost all cases, to the Lab Total) equal to their value. These benefits arise, either by design or by accident, from certain properties of the lab and its outfittings according to the law of sympathy. For example, a brightly lit lab is more suited to Imaginem, a lab with a water feature is suited to Aquam, and a lab with caged slaves is suited to Corpus.
 
-## Build Point Cost for Starting Laboratories
+A lab can have at most two activity Specializations, plus four Art Specializations (at most two of which can be Techniques). Bonuses to Lab Totals from all applicable Specializations are cumulative. The value of an Art Specialization adds to any Lab Total (but not Advancement Total) involving that Art. The following is a list of possible activity Specializations:
+
+*Experimentation:* The value of the Specialization adds to all Lab Totals when experimenting (see page 274).
+
+*Familiar:* The value of the Specialization adds to all Lab Totals when binding or enchanting a familiar
+
+*Items:* The value of the Specialization adds to all Lab Totals when enchanting items and when investigating enchanted items.
+
+*Longevity Rituals:* The value of the Specialization adds to all Lab Totals when creating a Longevity Ritual.
+
+*Spells:* The value of the Specialization adds to all Lab Totals when inventing a spell, including when being taught the spell.
+
+*Teaching:* The value of the Specialization adds to all Training and Teaching Source Qualities, whenever training or teaching is performed in the lab. However, this can provide a bonus of at most three points. (Note that teaching spells does not involve a Source Quality, and so is not covered here.)
+
+*Texts:* The value of the Specialization adds to all Lab Totals when creating an effect with the benefit of a Laboratory Text, as well as to Lab Totals for translating Laboratory Texts. For every full three points of this Specialization, you may also add one to Profession: Scribe whenever copying Laboratory Texts and books, and one to the relevant Language Ability when writing Laboratory Texts and books.
+
+*Vis Extraction:* The value of the Specialization adds to the Lab Total for vis extraction.
+
+Specializations are gained due to Virtues (most notably Features and Magic Items) and sometimes also due to Flaws. Therefore, to determine the Specializations of your magus's lab (if any), simply total up the Specializations specified for each of its Virtues and Flaws (for some of them, you are able to choose the Specialization).
+
+If you find that the laboratory has more than the allowed number of Specializations, you will have to drop one or more of them. You do not need to drop any Virtues or Flaws, just choose which Specializations you least want, and strike them out. Once made, however, the choice of dropped Specializations is hard to change — the magus must spend a season reconfiguring the laboratory to do so, which can be combined with a season of work to improve the Refinement of the laboratory.
+
+> #### Laboratory Specializations and Appearance
+> 
+> **Experimentation:** The lab might be equipped with bizarre custom outfittings, or have a non-standard configuration which appears confusing or even dangerous to the uninitiated.
+>
+> **Familiar:** Such a lab often resembles one with a specialization in Animal. It likely features some kind of pen or dwelling for a familiar prominently.
+>
+> **Items:** The lab usually resembles a kind of workshop, with a great variety of tools, and is likely to be smelly, dirty, or noisy.
+> 
+> **Longevity Rituals:** The lab often closely resembles one with a specialization in Creo or Corpus. It might feature a pallet where a live subject can be
+> 
+> **Spells:** This Specialization is not usually immediately obvious, as the lab differs in only subtle ways from the norm. It may feature a large empty space, such as a summoning circle, where spells are tested.
+> 
+> **Teaching:** The lab is usually comfortable, with a preordained position for both master and pupil, such as a desk before a teaching pulpit.
+> 
+> **Texts:** The lab usually features a desk or bookstand prominently, contains a wide variety of writing materials, and is well lit.
+> 
+> **Vis Extraction:** Such a lab often features some kind of measuring or refining contraption, such as an elaborate still, and numerous containers for vis.
+> 
+> **Creo:** The lab is often brightly lit, clean, or contains many growing things. It is usually a pleasant environment.
+> 
+> **Intellego:** Such an esoteric lab might contain many books or astronomical devices, as well as viewing objects such as orbs or a scrying pool.
+> 
+> **Muto:** The lab might appear chaotic or in a state of constant change. Perhaps the owner is continually rearranging things.
+> 
+> **Perdo:** The lab might be dark or dirty, possibly containing decaying or dead things. It is often an unpleasant place.
+> 
+> **Rego:** Such a lab is tidy and well ordered, with everything neatly arranged.
+> 
+> **Animal:** This Specialization is usually evident from the lab's feral smell. It may contain numerous fauna specimens, dead or alive, and the floor may be littered with straw, fur, or droppings.
+> 
+> **Aquam:** The lab almost always features some kind of water, either still or flowing, and may be damp.
+> 
+> **Auram:** Such a lab is often spacious, with a high ceiling, and might feature a window or balcony, or even be exposed to the elements.
+> 
+> **Corpus:** The lab might contain human corpses and body parts, such as blood, bones, and skin, or even live subjects. Perhaps it resembles a surgery, with the tools of a chirurgeon present.
+> 
+> **Herbam:** Such a lab. predictably, features plants, either in pots, or growing out of the floor or walls, or the lab itself might be built of living wood. It may have a smell of foliage, blossom, or wood.
+> 
+> **Ignem:** The lab is usually very well heated, with multiple fireplaces or a furnace, or it may be lit by many hundreds of candles. It may smell of smoke or sulfur.
+> 
+> **Imaginem:** The lab may be extravagantly decorated, or even partly illusory. Equally, it may give the impression of having some other specialization, since this lab may not be all it seems.
+> 
+> **Mentem:** Such a lab is often puzzling and elaborate, and may feature esoteric toys or ornate
+> 
+> **Terram:** The lab is often subterranean, and is usually solidly built, with an earthy or mineral smell. Many samples of metals, gems, or crystals may be present.
+> 
+> **Vim:** Such a Specialization is usually hard to spot, as there is no characteristic appearance, apart perhaps from an increased overall complexity.
+
+#### Build Point Cost for Starting Laboratories
 
 If using the Customized Covenant Creation rules (page 178), the baseline is that there is one standard laboratory (Size 0, Refinement 0) for each member of the covenant. Extra (spare) labs cost 50 Build Points each. For each magus that completely lacks a lab, 50 Build Points are gained. To determine the Build Point cost of labs which are either larger or smaller than average, multiply their Size Characteristics by 20.
 
@@ -13217,37 +13047,15 @@ It is suggested that labs for starting magi in a Spring covenant should begin wi
 
 Labs in established covenants, on the other hand, especially Autumn or Winter covenants, might have more Virtues and Flaws, as might the labs of experienced magi. The storyguide should determine the labs of starting magi in an established covenant. For example, they might have one or more Supernatural Virtues and Flaws. For experienced magi, the Build Point total of the lab's Virtues should be subtracted from their experience point total, instead of from the covenant's Build Point total, assuming they were responsible for the improvements. This is due to the time required to achieve the Virtues; each Minor Virtue, taking one season, costs 10 points, and each Major Virtue, taking two seasons, costs 20 points, according to the rules for generating magi after apprenticeship (see page 50).
 
-A lab can have at most two activity Specializations, plus four Art Specializations (at most two of which can be Techniques). Bonuses to Lab Totals from all applicable Specializations are cumulative. The value of an Art Specialization adds to any Lab Total (but not Advancement Total) involving that Art. The following is a list of possible activity Specializations:
+### Laboratory Virtues and Flaws
 
-Experimentation: The value of the Specialization adds to all Lab Totals when experimenting (see page 274).
-
-Familiar: The value of the Specialization adds to all Lab Totals when binding or enchanting a familiar
-
-*Items*: The value of the Specialization adds to all Lab Totals when enchanting items and when investigating enchanted items.
-
-Longevity Rituals: The value of the Specialization adds to all Lab Totals when creating a Longevity Ritual.
-
-*Spells*: The value of the Specialization adds to all Lab Totals when inventing a spell, including when being taught the spell.
-
-Teaching: The value of the Specialization adds to all Training and Teaching Source Qualities, whenever training or teaching is performed in the lab. However, this can provide a bonus of at most three points. (Note that teaching spells does not involve a Source Quality, and so is not covered here.)
-
-Texts: The value of the Specialization adds to all Lab Totals when creating an effect with the benefit of a Laboratory Text, as well as to Lab Totals for translating Laboratory Texts. For every full three points of this Specialization, you may also add one to Profession: Scribe whenever copying Laboratory Texts and books, and one to the relevant Language Ability when writing Laboratory Texts and books.
-
-*Vis Extraction*: The value of the Specialization adds to the Lab Total for vis extraction.
-
-Specializations are gained due to Virtues (most notably Features and Magic Items) and sometimes also due to Flaws. Therefore, to determine the Specializations of your magus's lab (if any), simply total up the Specializations specified for each of its Virtues and Flaws (for some of them, you are able to choose the Specialization).
-
-If you find that the laboratory has more than the allowed number of Specializations, you will have to drop one or more of them. You do not need to drop any Virtues or Flaws, just choose which Specializations you least want, and strike them out. Once made, however, the choice of dropped Specializations is hard to change — the magus must spend a season reconfiguring the laboratory to do so, which can be combined with a season of work to improve the Refinement of the laboratory.
-
-## Laboratory Virtues and Flaws
-
-lust as for characters. Virtues for labs reflect some kind of merit, improvement, or advantage, whereas Flaws reflect a drawback, deficiency, or story opportunity. The most important rule to bear in mind is that the number of points spent on Virtues, minus the number of points spent on Flaws, cannot exceed the Size + Refinement of the lab. The sum of these two Characteristics specifies the overall available space for the installment of improvements. Virtues with a point cost take up a certain amount of space, whereas Flaws with a point cost free up space, or allow the lab to be smaller. Free Virtues and Flaws make a negligible contribution to space. For example, a lab with a Size of +1 and a Refinement of +1 (for a total of +2) might have one Major Virtue and one Minor Virtue (+4 points) and two Minor Flaws (-2 points) as well as a number of Free Virtues and Flaws. A standard lab of Size 0 or greater starts with no Virtues and Flaws, but a lab smaller than the standard or less refined automatically starts with sufficient points of Flaws to pay for its negative Size + Refinement.
+Just as for characters. Virtues for labs reflect some kind of merit, improvement, or advantage, whereas Flaws reflect a drawback, deficiency, or story opportunity. The most important rule to bear in mind is that the number of points spent on Virtues, minus the number of points spent on Flaws, cannot exceed the Size + Refinement of the lab. The sum of these two Characteristics specifies the overall available space for the installment of improvements. Virtues with a point cost take up a certain amount of space, whereas Flaws with a point cost free up space, or allow the lab to be smaller. Free Virtues and Flaws make a negligible contribution to space. For example, a lab with a Size of +1 and a Refinement of +1 (for a total of +2) might have one Major Virtue and one Minor Virtue (+4 points) and two Minor Flaws (-2 points) as well as a number of Free Virtues and Flaws. A standard lab of Size 0 or greater starts with no Virtues and Flaws, but a lab smaller than the standard or less refined automatically starts with sufficient points of Flaws to pay for its negative Size + Refinement.
 
 Most laboratory Virtues and Flaws can only be taken once — those few that can be taken multiple times are asterisked in the list below. Two of these Virtues in particular, Feature and Magic Item, come in a multitude of types and are described in more detail later. The storyguide may always adjust the benefits of particular Virtues and Flaws as she sees fit, and is encouraged to devise new ones in consultation with the players.
 
 The Covenants supplement includes a wider range of Virtues and Flaws (from page 113), expanding on those given here.
 
-## Virtues
+#### Virtues
 
 A laboratory has free space for one or more new Virtues if its current points of Virtues minus points of Flaws is less than the Size + Refinement, and thus the occupied Size is less than the Size. If there are sufficient points of free space, a Virtue can be taken without needing to take a Flaw. Otherwise, one or more Flaws must be taken simultaneously to balance it. A magus who wishes to install a Virtue (Minor or Major) into a standard laboratory thus has four choices: either first spend a season to increase the Refinement to +1 (requiring a Magic Theory of 4), accept a Flaw to balance the Virtue, somehow increase the physical space of the existing lab, or move into a bigger lab. Free Virtues have no point cost and are thus not restricted in this way.
 
@@ -13257,273 +13065,253 @@ Minor Virtue, and two seasons to gain a Major Virtue. This time is occupied with
 
 Sometimes, the magus might wish to lose Virtues. This is not always possible, since some Virtues are due to fundamental properties of the lab (such as its physical location) which cannot readily be changed. Where it is possible, a Minor or Major Virtue can only be removed during a season or more of work to improve the laboratory (either by increasing the Refinement, or installing a different Virtue). For example, the magus can remove an existing Lesser Feature and replace it with a new one, in one season. Where it is possible to remove a Free Virtue, it can usually be done in a day or so.
 
-## Flaws
+#### Flaws
 
 Flaws may be chosen either due to choice or to general neglect, or because you need to free up points of space to balance a new Virtue. There is no limit on their number and they take effect immediately. In the event of a lack of funds, you may also be forced to take a Flaw resulting in a lower Upkeep (see the Upkeep section, above).
 
-Just as for Virtues, some Flaws can later be removed, whereas others are due to fundamental properties of the lab, and cannot be altered. If removing a Minor or Major Flaw, the magus needs to have sufficient free points of space, since the occupied Size will increase. Where it is possible, removing a Free Flaw usually takes one season (unless otherwise stated), removing a Minor Flaw also takes one season, and removing a Major Flaw takes two seasons. This time is occupied with repairing or restoring the faulty component, but it can be combined with a season spent improving
+Just as for Virtues, some Flaws can later be removed, whereas others are due to fundamental properties of the lab, and cannot be altered. If removing a Minor or Major Flaw, the magus needs to have sufficient free points of space, since the occupied Size will increase. Where it is possible, removing a Free Flaw usually takes one season (unless otherwise stated), removing a Minor Flaw also takes one season, and removing a Major Flaw takes two seasons. This time is occupied with repairing or restoring the faulty component, but it can be combined with a season spent improving the Refinement. For example, a lab might start out with Size -1, Refinement 0, and the Cramped Flaw. With a Magic Theory of 4, one season of work will suffice both to increase the Refinement to +1 and to lose the Cramped Flaw.
 
-the Refinement. For example, a lab might start out with Size -1, Refinement 0, and the Cramped Flaw. With a Magic Theory of 4, one season of work will suffice both to increase the Refinement to +1 and to lose the Cramped Flaw.
-
-## Structure Virtues and Flams
+### Structure Virtues and Flams
 
 These Virtues and Flaws are due to the physical structure and basic arrangement of the laboratory, and its location. Gaining or losing them usually entails some kind of construction project on or within the lab, or on the immediate surrounds.
 
 #### VIRTUES (MAJOR)
 
-Greater Feature\*: The lab prominently features a unique and extensive structure which aids certain types of lab work — see the list of possible Features later (page 296). +2 Aesthetics; 3 points on appropriate Specialization(s).
+**Greater Feature\*:** The lab prominently features a unique and extensive structure which aids certain types of lab work — see the list of possible Features later (page 296). +2 Aesthetics; 3 points on appropriate Specialization(s).
 
-Natural Environment: A swathe of natural scenery, such as forest, desert, or a river, is located in the lab, or the lab is built in or around it. +2 Aesthetics; 3 points among Specializations in Cr, An, Aq, Au, He, Ig, or Te, depending upon terrain type.
+**Natural Environment:** A swathe of natural scenery, such as forest, desert, or a river, is located in the lab, or the lab is built in or around it. +2 Aesthetics; 3 points among Specializations in Cr, An, Aq, Au, He, Ig, or Te, depending upon terrain type.
 
 #### VIRTUES (MINOR)
 
-Extensive Stores: The lab's large stores mean that it can withstand shortages better. In the case of a lack of funds, the lab can last six seasons before you have to take a Flaw to lower the Upkeep, instead of the usual two. However you need to make a one-off payment of a number of pounds equal to the lab's yearly maintenance cost, to stock up the stores in the first place. Vis and dangerous materials can also be stored more safely. +2 Safety.
+**Extensive Stores:** The lab's large stores mean that it can withstand shortages better. In the case of a lack of funds, the lab can last six seasons before you have to take a Flaw to lower the Upkeep, instead of the usual two. However you need to make a one-off payment of a number of pounds equal to the lab's yearly maintenance cost, to stock up the stores in the first place. Vis and dangerous materials can also be stored more safely. +2 Safety.
 
-Gallery: The lab is fitted with an interior gallery or platform, designed to allow someone to view the whole of the lab without disturbing it. +1 Safety, +1 Aesthetics; +1 Teaching.
+**Gallery:** The lab is fitted with an interior gallery or platform, designed to allow someone to view the whole of the lab without disturbing it. +1 Safety, +1 Aesthetics; +1 Teaching.
 
-**Lesser Feature\***: The lab features a unique structure which aids certain types of lab work — see the list of possible Features later (page 296). +1 Aesthetics; 1 point on an appropriate Specialization.
+**Lesser Feature\*:** The lab features a unique structure which aids certain types of lab work — see the list of possible Features later (page 296). +1 Aesthetics; 1 point on an appropriate Specialization.
 
 #### VIRTUES (FREE)
 
 **Dedicated Building:** The lab (and probably the living quarters of the owner) is in its own building, shared with no-one else. There are likely to be fewer distractions. +1 Upkeep, +1 Aesthetics; +1 Re.
 
-Mobile: The entire lab can be readily moved. For example, it might be located on a ship or (if it is very small) a cart. This Virtue is usually taken with the Unstable Flaw. +1 Experimentation.
+**Mobile:** The entire lab can be readily moved. For example, it might be located on a ship or (if it is very small) a cart. This Virtue is usually taken with the Unstable Flaw. +1 Experimentation.
 
-**Superior Construction**: The lab benefits from distinguished construction techniques, for example, high quality building materials were used, or it was made by a master architect or a
-
-magus (such as with the spell *Conjuring the Mystic Tower*). If constructing the building, its cost is doubled. +1 Safety, +1 Aesthetics.
+**Superior Construction:** The lab benefits from distinguished construction techniques, for example, high quality building materials were used, or it was made by a master architect or a magus (such as with the spell *Conjuring the Mystic Tower*). If constructing the building, its cost is doubled. +1 Safety, +1 Aesthetics.
 
 #### FLAWS (FREE)
 
-**Deformed**: Part of the structure has subsided or is otherwise warped. For example, one wall has partially collapsed into rubble, and has to be propped up. –1 Safety, –1 Aesthetics; +1 Mu or Pe.
+**Deformed:** Part of the structure has subsided or is otherwise warped. For example, one wall has partially collapsed into rubble, and has to be propped up. –1 Safety, –1 Aesthetics; +1 Mu or Pe.
 
-Empty\*: The lab has a large amount of empty, unused space. A lab that is much bigger than it needs to be is a disadvantage since it costs more to maintain the empty space — it takes more to heat, light, and clean the chamber. Alternatively, if the empty space is neglected, it will likely gather dirt and cobwebs, or cause a draft. This Flaw should be taken for every full two points by which the Size of the lab exceeds the occupied Size. As soon as the empty space is filled up, this Flaw is lost.
+**Empty\*:** The lab has a large amount of empty, unused space. A lab that is much bigger than it needs to be is a disadvantage since it costs more to maintain the empty space — it takes more to heat, light, and clean the chamber. Alternatively, if the empty space is neglected, it will likely gather dirt and cobwebs, or cause a draft. This Flaw should be taken for every full two points by which the Size of the lab exceeds the occupied Size. As soon as the empty space is filled up, this Flaw is lost. –1 Aesthetics, either +1 Upkeep or –1 Health.
 
-–1 Aesthetics, either +1 Upkeep or –1 Health.
+**Low Ceiling\*:** The ceiling is lower than the requisite ten feet, which slightly hampers some magical activities. This Flaw should be taken twice if the ceiling is less than eight feet, or thrice if the magus has to stoop (in which case also take —2 Health). —1 General Quality, —1 Safety, —1 Aesthetics.
 
-Low Ceiling\*: The ceiling is lower than the requisite ten feet, which slightly hampers some magical activities. This Flaw should be taken twice if the ceiling is less than eight feet, or thrice if the magus has to stoop (in which case also take —2 Health). —1 General Quality, —1 Safety, —1 Aesthetics.
+**Subterranean:** The lab is underground. There is a lack of natural light, and so more candles are required for lighting. +1 Upkeep, -1 Health, -1 Aesthetics; +1 Te.
 
-Subterranean: The lab is underground. There is a lack of natural light, and so more candles are required for lighting. +1 Upkeep, -1 Health, -1 Aesthetics; +1 Te.
-
-**Unstable\***: The lab is prone to movements, for example it is on a ship, is earthquake-prone, or merely has dodgy foundations, which is the occasional cause of accidents or breakages. This Flaw may be taken more than once for a greater instability. +1 Upkeep, -1 Safety.
+**Unstable\*:** The lab is prone to movements, for example it is on a ship, is earthquake-prone, or merely has dodgy foundations, which is the occasional cause of accidents or breakages. This Flaw may be taken more than once for a greater instability. +1 Upkeep, -1 Safety.
 
 #### FLAWS (MINOR)
 
-Cramped: The lab equipment is packed a little too close together for comfort, due to lack of space. This slightly hampers all but one type of lab activity, which is taken as a Specialization. The lab can be reconfigured to change the Specialization with a season of work. (This can be done at the same time as working to increase the Refinement.) –1 General Quality, –1 Upkeep, –2 Safety, –1 Aesthetics; 1 point on an activity Specialization.
+**Cramped:** The lab equipment is packed a little too close together for comfort, due to lack of space. This slightly hampers all but one type of lab activity, which is taken as a Specialization. The lab can be reconfigured to change the Specialization with a season of work. (This can be done at the same time as working to increase the Refinement.) –1 General Quality, –1 Upkeep, –2 Safety, –1 Aesthetics; 1 point on an activity Specialization.
 
-Lesser Focus: An existing Lesser Feature is the central focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –1 General Quality, 2 points among Specializations provided by the Feature.
+**Lesser Focus:** An existing Lesser Feature is the central focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –1 General Quality, 2 points among Specializations provided by the Feature.
 
-No Stores: The lab has nowhere to store supplies, and so it cannot withstand any shortages (in the case of a lack of funds, compulsory Flaw(s) to reduce the Upkeep are taken immediately, instead of after the usual two seasons). Vis and dangerous materials cannot be stored very safely. –2 Safety.
+**No Stores:** The lab has nowhere to store supplies, and so it cannot withstand any shortages (in the case of a lack of funds, compulsory Flaw(s) to reduce the Upkeep are taken immediately, instead of after the usual two seasons). Vis and dangerous materials cannot be stored very safely. –2 Safety.
 
 #### FLAWS (MAJOR)
 
-Greater Focus: An existing Greater Feature is the overwhelming focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –2 General Quality, 4 points among Specializations provided by the Feature.
+**Greater Focus:** An existing Greater Feature is the overwhelming focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –2 General Quality, 4 points among Specializations provided by the Feature.
 
-## Outfittings Virtues and Flaws
+### Outfittings Virtues and Flaws
 
 These Virtues and Flaws are due to the quality and quantity of the mundane materials and equipment that are in the lab, as well as any other inhabitants of the lab. Gaining or losing these Virtues and Flaws thus usually entails the purchase or acquisition of things to put in the lab, or the lack of (or defects in) such things.
 
 #### VIRTUES (MAJOR)
 
-Greater Expansion: The extent of the lab is greatly increased, with at least double the usual amount of equipment. This allows it to have more areas and equipment dedicated to specialized tasks.
-
-+2 General Quality, +4 Upkeep, +1 Aesthetics; 2 points on any Specialization(s).
+**Greater Expansion:** The extent of the lab is greatly increased, with at least double the usual amount of equipment. This allows it to have more areas and equipment dedicated to specialized tasks. +2 General Quality, +4 Upkeep, +1 Aesthetics; 2 points on any Specialization(s).
 
 #### VIRTUES (MINOR)
 
-Lesser Expansion: The extent of the lab is increased, with some more specialized equipment. +1 General Quality, +2 Upkeep, 1 point on any Specialization.
+**Lesser Expansion:** The extent of the lab is increased, with some more specialized equipment. +1 General Quality, +2 Upkeep, 1 point on any Specialization.
 
-Living Quarters: The lab contains suitable furniture, such as a bed, a wardrobe, and so on, such that the owner may live and sleep in it. There is a small benefit to lab work if you live in the lab proper, but it is not good for your health, and is considered somewhat obsessive. +1 General Quality, -1 Safety, -2 Health, -2 Aesthetics.
+**Living Quarters:** The lab contains suitable furniture, such as a bed, a wardrobe, and so on, such that the owner may live and sleep in it. There is a small benefit to lab work if you live in the lab proper, but it is not good for your health, and is considered somewhat obsessive. +1 General Quality, -1 Safety, -2 Health, -2 Aesthetics.
 
-**Specimens\***: The lab has a large collection of related things, stored in visible containers such as jars, or otherwise serving as objects of study or decoration. +1 Upkeep, +1 Aesthetics; 1 point on any Form Specialization.
+**Specimens\*:** The lab has a large collection of related things, stored in visible containers such as jars, or otherwise serving as objects of study or decoration. +1 Upkeep, +1 Aesthetics; 1 point on any Form Specialization.
 
-#### Virtues (Free)
+#### VIRTUES (FREE)
 
-Assistant\*: A Gifted assistant (such as an Hermetic apprentice) helps out in the lab, affording a bonus to lab work. +(assistant's Intelligence + Magic Theory) General Quality. (This is simply a restatement of the existing bonuses.)
+**Assistant\*:** A Gifted assistant (such as an Hermetic apprentice) helps out in the lab, affording a bonus to lab work. +(assistant's Intelligence + Magic Theory) General Quality. (This is simply a restatement of the existing bonuses.)
 
-**Guard\***: A shield grog is on permanent duty at the lab's entrance, and may dissuade unwanted visitors from pestering the magus or intruding. +1 Aesthetics.
+**Guard\*:** A shield grog is on permanent duty at the lab's entrance, and may dissuade unwanted visitors from pestering the magus or intruding. +1 Aesthetics.
 
-Highly Organized: The lab's contents have been optimally arranged. There is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). A season of such work (with the normal chances of changes to laboratory Virtues and Flaws) may still be undertaken, even if no improvement to
+**Highly Organized:** The lab's contents have been optimally arranged. There is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). A season of such work (with the normal chances of changes to laboratory Virtues and Flaws) may still be undertaken, even if no improvement to Refinement is possible. This Virtue is lost if a major accident is suffered, if someone else uses the lab, or if someone of lower Intelligence helps in it. +1 General Quality.
 
-Refinement is possible. This Virtue is lost if a major accident is suffered, if someone else uses the lab, or if someone of lower Intelligence helps in it. +1 General Quality.
+**Person\*:** There is another person, perhaps a close family member or a maid, who is to be found very frequently (as a rule of thumb, most days, for at least an hour) in the lab. This Virtue may be taken once for each such person who regularly comes in to the lab. Do not count the owner or any full-time lab assistants, such as an apprentice. A full-time trained mundane assistant is instead catered for by the Servant Virtue. –1 Safety; +1 Co or Me.
 
-Person\*: There is another person, perhaps a close family member or a maid, who is to be found very frequently (as a rule of thumb, most days, for at least an hour) in the lab. This Virtue may be taken once for each such person who regularly comes in to the lab. Do not count the owner or any full-time lab assistants, such as an apprentice. A full-time trained mundane assistant is instead catered for by the Servant Virtue. –1 Safety; +1 Co or Me.
-
-Servant: One of the covenfolk is employed as a full-time lab servant, to perform the most mundane or bothersome tasks in the lab, and cater to the needs of the magus. +(servant's Intelligence/2, rounding up) Safety, +1 Aesthetics; +1 Me.
+**Servant:** One of the covenfolk is employed as a full-time lab servant, to perform the most mundane or bothersome tasks in the lab, and cater to the needs of the magus. +(servant's Intelligence/2, rounding up) Safety, +1 Aesthetics; +1 Me.
 
 **Spotless:** The lab is impeccably clean. This requires a season of work to gain. Also, there is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). This Virtue is lost if cleanliness is not maintained, or after an accident or neglect is suffered. +1 Health, +1 Aesthetics; +1 Cr.
 
 #### FLAWS (FREE)
 
-Basic: The lab setup is incomplete, and not all the necessary equipment has been installed. This Flaw is acquired after the first season of lab construction (see The Standard Hermetic Laboratory, earlier). It is removed after the second season of work completes the lab. –3 General Quality.
+**Basic:** The lab setup is incomplete, and not all the necessary equipment has been installed. This Flaw is acquired after the first season of lab construction (see The Standard Hermetic Laboratory, earlier). It is removed after the second season of work completes the lab. –3 General Quality.
 
-Damaged: The lab is partially damaged, for example as the result of a lab accident. It takes one season to repair the damage and lose this Flaw.
+**Damaged:** The lab is partially damaged, for example as the result of a lab accident. It takes one season to repair the damage and lose this Flaw. -2 General Quality, -1 Safety, -1 Aesthetics.
 
--2 General Quality, -1 Safety, -1 Aesthetics.
+**Disorganized:** The lab is organized in a rather haphazard or carefree fashion. Some magi prefer it this way. –1 Safety, –1 Aesthetics; +1 Mu or Experimentation.
 
-**Disorganized**: The lab is organized in a rather haphazard or carefree fashion. Some magi prefer it this way. –1 Safety, –1 Aesthetics; +1 Mu or Experimentation.
+**Hidden Defect\*:** A subtle and potentially dangerous error exists in the lab's configuration. This is usually the fault of the owner, but it may also be caused by a malicious and clever third party. There is a chance to gain (or lose) this Flaw whenever a season of work is undertaken to improve the Refinement (see Refinement, earlier). Whenever this defect is the cause of a lab botch, make a Perception + Magic Theory roll against an Ease Factor of 12. If this succeeds, the defect is spotted and may be corrected with a few hours of work. –3 Safety.
 
-Hidden Defect\*: A subtle and potentially dangerous error exists in the lab's configuration. This is usually the fault of the owner, but it may also be caused by a malicious and clever third party. There is a chance to gain (or lose) this Flaw whenever a season of work is undertaken to improve the Refinement (see Refinement, earlier). Whenever this defect is the cause of a lab botch, make a Perception + Magic Theory roll against an Ease Factor of 12. If this succeeds, the defect is spotted and may be corrected with a few hours of work. –3 Safety.
+**Missing Ingredients\*:** Due to a lack of certain ingredients, lab work involving either one specific Technique or two specific Forms is severely hampered — relevant Lab Totals are halved. For example, the lab might contain no silver, in which case Terram and Vim Lab Totals are halved. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. –1 Upkeep.
 
-Missing Ingredients\*: Due to a lack of certain ingredients, lab work involving either one specific Technique or two specific Forms is severely hampered — relevant Lab Totals are halved. For example, the lab might contain no silver, in which case Terram and Vim Lab Totals
+**Missing Sanctum Marker:** The sanctum marker is not prominently displayed, and is thus easy to miss, or it is missing altogether. Hermetic magi might (unwittingly or knowingly) intrude. It does not take a season to remove this Flaw. –1 Aesthetics.
 
-are halved. It does not take a season to remove this Flaw, if sufficient funds are available to increase the Upkeep. –1 Upkeep.
-
-Missing Sanctum Marker: The sanctum marker is not prominently displayed, and is thus easy to miss, or it is missing altogether. Hermetic magi might (unwittingly or knowingly) intrude. It does not take a season to remove this Flaw. –1 Aesthetics.
-
-**Wrecked**: The lab is very heavily damaged, for example as the result of a major lab accident. It takes two seasons to repair the damage completely and lose this Flaw. (After one season, it may be replaced by the Damaged Flaw.) –5 General Quality, –2 Safety, –2 Aesthetics.
+**Wrecked:** The lab is very heavily damaged, for example as the result of a major lab accident. It takes two seasons to repair the damage completely and lose this Flaw. (After one season, it may be replaced by the Damaged Flaw.) –5 General Quality, –2 Safety, –2 Aesthetics.
 
 #### FLAWS (MINOR)
 
-Missing Equipment\*: Due to a lack of certain equipment, lab work in one or two types of activity is totally impossible. For example, if there is no desk, parchment, or inks, you cannot work with texts. If you pick Items, Spells, or Texts, only this one activity cannot be undertaken. Otherwise, you must pick two of the activity categories (see the Specialization section earlier, page 290). This Flaw cannot be taken more than twice. —1 Upkeep.
+**Missing Equipment\*:** Due to a lack of certain equipment, lab work in one or two types of activity is totally impossible. For example, if there is no desk, parchment, or inks, you cannot work with texts. If you pick Items, Spells, or Texts, only this one activity cannot be undertaken. Otherwise, you must pick two of the activity categories (see the Specialization section earlier, page 290). This Flaw cannot be taken more than twice. —1 Upkeep.
 
-**Undecorated:** The lab has very spartan decoration, or the decoration is completely lacking, making the place rather uninspiring and unwelcoming.
-
-–1 Upkeep, –1 Aesthetics; subtract one point from any Specializations with a score of 2 or more.
+**Undecorated:** The lab has very spartan decoration, or the decoration is completely lacking, making the place rather uninspiring and unwelcoming. –1 Upkeep, –1 Aesthetics; subtract one point from any Specializations with a score of 2 or more.
 
 #### FLAWS (MAJOR)
 
-Elementary: This is a cut-down version of a Hermetic laboratory, with an extremely limited selection of lab equipment installed, so that only one category of lab activity (see the list of possible activity Specializations earlier on page ) is possible at all. The type of activity is determined at the time of construction, and is fixed thereafter. Still, such a limited lab is cheaper to maintain and takes only one season to build completely. It might be suitable for an extremely confined space, such as in a small cave, or in a wagon. Some covenants build elementary labs in powerful auras for the purposes of vis extraction. –2 General Quality, –3 Upkeep.
+**Elementary:** This is a cut-down version of a Hermetic laboratory, with an extremely limited selection of lab equipment installed, so that only one category of lab activity (see the list of possible activity Specializations earlier on page ) is possible at all. The type of activity is determined at the time of construction, and is fixed thereafter. Still, such a limited lab is cheaper to maintain and takes only one season to build completely. It might be suitable for an extremely confined space, such as in a small cave, or in a wagon. Some covenants build elementary labs in powerful auras for the purposes of vis extraction. –2 General Quality, –3 Upkeep.
 
-## Supernatural Virtues and Plaws
+### Supernatural Virtues and Plaws
 
 These Virtues and Flaws are due to supernatural effects, creatures, or items. The means of gaining or losing these Virtues and Flaws varies widely — most cannot be gained by some straightforward effort on the part of a magus. Some, such as gaining a supernatural guardian, may require a story or a Hermetic breakthrough. Others, such as the presence of a vis source in the lab, or a Hermetic predecessor, are generally choices for the storyguide to make, rather than the player. In the latter case, the player might not be aware of these Virtues and Flaws (and thus the complete statistics of the lab).
 
-## Virtues (Major)
+#### VIRTUES (MAJOR)
 
-Greater Guardian: A powerful supernatural creature (Might 20 or higher), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. Woe betide any who should intrude. +(creature's Intelligence) Safety, +1 Warping, +1 Aesthetics; 3 points on appropriate Art specialization(s).
+**Greater Guardian:** A powerful supernatural creature (Might 20 or higher), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. Woe betide any who should intrude. +(creature's Intelligence) Safety, +1 Warping, +1 Aesthetics; 3 points on appropriate Art specialization(s).
 
 #### VIRTUES (MINOR)
 
-Familiar: The owner of the lab has a familiar, and the familiar lives in the lab. Perhaps it even helps with lab work. This Virtue assumes that the familiar takes up a non-trivial amount of space. If not, this can be instead taken as a Free Virtue. +(familiar's Intelligence + Magic Theory) General Quality, +(Golden Cord) Safety. (This is simply a restatement of the existing bonuses.)
+**Familiar:** The owner of the lab has a familiar, and the familiar lives in the lab. Perhaps it even helps with lab work. This Virtue assumes that the familiar takes up a non-trivial amount of space. If not, this can be instead taken as a Free Virtue. +(familiar's Intelligence + Magic Theory) General Quality, +(Golden Cord) Safety. (This is simply a restatement of the existing bonuses.)
 
-Lesser Guardian: A supernatural creature (less than Might 20), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. +1 Safety; 1 point on an appropriate Art specialization.
+**Lesser Guardian:** A supernatural creature (less than Might 20), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. +1 Safety; 1 point on an appropriate Art specialization.
 
-Vis Source\*: A naturally-occurring source of vis is to be found in the lab. -1 Safety, +1 Warping; 2 points on the appropriate Art Specialization.
+**Vis Source\*:** A naturally-occurring source of vis is to be found in the lab. -1 Safety, +1 Warping; 2 points on the appropriate Art Specialization.
 
-#### Virtues (Free)
+#### VIRTUES (FREE)
 
-Enchantment\*: The lab itself has been enchanted as a magic item. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
+**Enchantment\*:** The lab itself has been enchanted as a magic item. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
 
-Inexhaustible Supplies: The lab is blessed with magically replenishing ingredients and consumables which never run out. –3 Upkeep, +1 Warping.
+**Inexhaustible Supplies:** The lab is blessed with magically replenishing ingredients and consumables which never run out. –3 Upkeep, +1 Warping.
 
-Magic Item\*: A magic item is installed in the lab. It might be self-made, donated, purchased, or perhaps some kind of artifact which was found in the lab. If the item is very large, taking up a significant amount of space in the lab, then it should be treated as a Minor Virtue instead of a Free Virtue. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
+**Magic Item\*:** A magic item is installed in the lab. It might be self-made, donated, purchased, or perhaps some kind of artifact which was found in the lab. If the item is very large, taking up a significant amount of space in the lab, then it should be treated as a Minor Virtue instead of a Free Virtue. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
 
-Regio\*: The interior of the lab is in a regio, and there is an another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. +3 Size, +1 Warping.
+**Regio\*:** The interior of the lab is in a regio, and there is an another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. +3 Size, +1 Warping.
 
 #### FLAWS (FREE)
 
-Abyss: The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). –2 Safety; +2 Pe.
+**Abyss:** The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). –2 Safety; +2 Pe.
 
-Haunted: The lab is home to a haunting spirit, who occasionally disturbs the current owner. + 1 Warping. -1 Aesthetics: +2 Me.
+**Haunted:** The lab is home to a haunting spirit, who occasionally disturbs the current owner. + 1 Warping. -1 Aesthetics: +2 Me.
 
-Impregnable: The lab is completely inaccessible, except through reasonably powerful magic. For example, it is blocked off by a stone wall and requires a Muto Terram spell to access. While the owner is much less likely to be disturbed, fewer people will ever get to see the lab, or they may assume that the owner is rather paranoid.
+**Impregnable:** The lab is completely inaccessible, except through reasonably powerful magic. For example, it is blocked off by a stone wall and requires a Muto Terram spell to access. While the owner is much less likely to be disturbed, fewer people will ever get to see the lab, or they may assume that the owner is rather paranoid. —2 Aesthetics.
 
-—2 Aesthetics.
+**Inhabitants:** Residency in the lab is shared with some other creatures, who consider the place as their home, not a lab. They may provide a nuisance to the owner, and vice-versa. –1 Safety, –1 Aesthetics; 1 point on an appropriate Art Specialization.
 
-Inhabitants: Residency in the lab is shared with some other creatures, who consider the place as their home, not a lab. They may provide a nuisance to the owner, and vice-versa. –1 Safety, –1 Aesthetics; 1 point on an appropriate Art Specialization.
+**Predecessor:** The lab retains some foibles due to its (notable) previous owner. –1 Safety, +1 Warping; +1 Experimentation.
 
-Predecessor: The lab retains some foibles due to its (notable) previous owner. –1 Safety, +1 Warping; +1 Experimentation.
-
-Restriction: The lab might forbid certain activities (one category of lab activity cannot be performed), or otherwise tiresome or expensive rituals or practices are required in order to perform lab work.
-
-—1 General Quality or +2 Upkeep as appropriate.
+**Restriction:** The lab might forbid certain activities (one category of lab activity cannot be performed), or otherwise tiresome or expensive rituals or practices are required in order to perform lab work. —1 General Quality or +2 Upkeep as appropriate.
 
 #### FLAWS (MINOR)
 
-Lesser Illusion\*: One of the seeming merits of the lab is but an illusion. You should take one Minor Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be hung with fine tapestries, but which do not really exist. In this case, take the Superior Decoration Virtue, but do not apply its modifications to the lab's statistics. +1 Warping, +1 Aesthetics; +1 Im.
+**Lesser Illusion\*:** One of the seeming merits of the lab is but an illusion. You should take one Minor Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be hung with fine tapestries, but which do not really exist. In this case, take the Superior Decoration Virtue, but do not apply its modifications to the lab's statistics. +1 Warping, +1 Aesthetics; +1 Im.
 
 **Lightless:** The lab is totally dark and its contents cannot be seen. The owner must devise some other means of spatial perception in order to work normally. -1 Upkeep, +1 Warping, the Aesthetics score cannot exceed -1; +1 Pe or Im.
 
 #### FLAWS (MAJOR)
 
-Greater Illusion\*: One of the major parts or aspects of the lab is but an illusion. You should take one Major Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be twice as large as it really is. In this case, take the Greater Expansion Virtue, but do not apply its modifications to the lab's statistics. +2 Warping, +2 Aesthetics; +2 Im.
+**Greater Illusion\*:** One of the major parts or aspects of the lab is but an illusion. You should take one Major Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be twice as large as it really is. In this case, take the Greater Expansion Virtue, but do not apply its modifications to the lab's statistics. +2 Warping, +2 Aesthetics; +2 Im.
 
-## Laboratory Features
+### Laboratory Features
 
 Specialized labs often have certain noteworthy or unique structural features (one or more Greater Feature or Lesser Feature Virtues), which aid or inspire certain types of magic. Features may be added to a lab with relatively little disruption, if space permits. Alternatively, the lab may be rearranged such that one Feature becomes the lab's central focus (in which case, take the Greater Focus or Lesser Focus Flaw, as appropriate). A lab may only have one Focus. In this case, lab activities which are unrelated to the Feature are disadvantaged, but the specialized benefits of the Feature are increased. In either case, it takes one or two seasons to build or assemble the structure, for a Lesser Feature or Greater Feature, respectively.
 
 Below are listed some example Features, together with the possible Specializations for each. Many labs have a number of these things, but they do not necessarily count as a Feature, unless purchased with either the Greater Feature or Lesser Feature Virtue. The former provides three points on Specialization(s), the latter one point. You may choose to distribute these points amongst the listed Specializations as you wish. You should feel free to come up with your own ideas for Features, since just about anything that may be found in a Hermetic laboratory may be made into a Feature.
 
-$\begin{array}{l} \textbf{Altar:} \ An \ or namental \ place \ of \ ritual \ worship, \ such \\ as \ a \ raised \ dais. \ Specializations: \ any \ Technique, \ Vi. \end{array}$
+**Altar:** An ornamental place of ritual worship, such as a raised dais. Specializations: any Technique, Vi.
 
-Animal Pen: An enclosure for one or more animals, often a familiar, to dwell. Specializations: Familiar, An.
+**Animal Pen:** An enclosure for one or more animals, often a familiar, to dwell. Specializations: Familiar, An.
 
-Antechamber: A separate enclosure or compartment. Spells may be cast here in a more secure environment. Specializations: Experimentation, Spells, Re.
+**Antechamber:** A separate enclosure or compartment. Spells may be cast here in a more secure environment. Specializations: Experimentation, Spells, Re.
 
-Astronomical Device: A sophisticated tool for measuring the movements of the heavens, often placed near a window or skylight. The most common such item is an astrolabe, and example of a more advanced device is the armillary sphere. Specializations: In, Vi.
+**Astronomical Device:** A sophisticated tool for measuring the movements of the heavens, often placed near a window or skylight. The most common such item is an astrolabe, and example of a more advanced device is the armillary sphere. Specializations: In, Vi.
 
-**Balance**: An exact weighing device, such as a pair of scales. Specializations: Vis Extraction, In, Re.
+**Balance:** An exact weighing device, such as a pair of scales. Specializations: Vis Extraction, In, Re.
 
-**Balcony**: An outdoors balcony, where the magus may cast spells into the open air. Specializations: Spells, Au.
+**Balcony:** An outdoors balcony, where the magus may cast spells into the open air. Specializations: Spells, Au.
 
-Cage: A large cage, usually built of sturdy metal bars, for imprisoning or immobilizing a subject. Specializations: Pe, Re, Co, An.
+**Cage:** A large cage, usually built of sturdy metal bars, for imprisoning or immobilizing a subject. Specializations: Pe, Re, Co, An.
 
-Cauldron: A heavy copper or brass cauldron, for the heating and mixing of large quantities of ingredients. Specializations: Experimentation, Longevity Rituals, Vis Extraction, Mu, Aq, He, Ig.
+**Cauldron:** A heavy copper or brass cauldron, for the heating and mixing of large quantities of ingredients. Specializations: Experimentation, Longevity Rituals, Vis Extraction, Mu, Aq, He, Ig.
 
-Desk: A comfortable and stout table, designed for reading and scribing. Specializations: Texts, In.
+**Desk:** A comfortable and stout table, designed for reading and scribing. Specializations: Texts, In.
 
-Fireplace: A stone enclosure, where fuel is burnt for heating, but where substances may also be heated or immolated. Specializations: Pe, Ig, Im.
+**Fireplace:** A stone enclosure, where fuel is burnt for heating, but where substances may also be heated or immolated. Specializations: Pe, Ig, Im.
 
-Forge: A furnace — a more tightly enclosed and robust fireplace often operated by bellows, which yields heat sufficient for the smelting of metals — accompanied by an anvil and smithy. Specializations: Items, Ig, Te.
+**Forge:** A furnace — a more tightly enclosed and robust fireplace often operated by bellows, which yields heat sufficient for the smelting of metals — accompanied by an anvil and smithy. Specializations: Items, Ig, Te.
 
-Grave: The burial place of one or more corpses. This may be either a simple earthen grave or something more elaborate, such as a stone sarcophagus. Specializations: Pe, Co.
+**Grave:** The burial place of one or more corpses. This may be either a simple earthen grave or something more elaborate, such as a stone sarcophagus. Specializations: Pe, Co.
 
 **Lofty Ceiling:** A light, airy space overhead, for which a tall chamber, perhaps with a vaulted ceiling, is required. Specializations: Au.
 
-**Loom**: A large wooden apparatus for the weaving of threads into a fabric. Specializations: Re, He.
+**Loom:** A large wooden apparatus for the weaving of threads into a fabric. Specializations: Re, He.
 
-Map: An elaborate and detailed plan or model, accurately illustrating surrounding lands or buildings, perhaps. Specializations: In, Te.
+**Map:** An elaborate and detailed plan or model, accurately illustrating surrounding lands or buildings, perhaps. Specializations: In, Te.
 
-Mechanism: Any kind of large mechanical device, consisting of many moving parts such as cogs and wheels, used for the basic automation of one or more tasks. Specializations: Vis Extraction, Re.
+**Mechanism:** Any kind of large mechanical device, consisting of many moving parts such as cogs and wheels, used for the basic automation of one or more tasks. Specializations: Vis Extraction, Re.
 
-Mirror: A grand and ornamental silvered mirror, or other reflective surface. Specializations: In. Im. Me.
+**Mirror:** A grand and ornamental silvered mirror, or other reflective surface. Specializations: In. Im. Me.
 
-Monolith: A huge slab of primal rock, possibly carved with mystical symbols. Specializations: Te, Vi.
+**Monolith:** A huge slab of primal rock, possibly carved with mystical symbols. Specializations: Te, Vi.
 
-**Orb**: A smooth sphere of precious stone, possibly opaque or semi-opaque, used in conjunction with divinatory effects. Specializations: In, Im, Me, Vi.
+**Orb:** A smooth sphere of precious stone, possibly opaque or semi-opaque, used in conjunction with divinatory effects. Specializations: In, Im, Me, Vi.
 
-Pallet: A bed upon which a patient may be treated or examined, perhaps equipped with some surgeon's tools. Specializations: Longevity Rituals, Cr, Co.
+**Pallet:** A bed upon which a patient may be treated or examined, perhaps equipped with some surgeon's tools. Specializations: Longevity Rituals, Cr, Co.
 
-Pit: A deep hole dug in the floor. Things placed inside it cannot easily get out. Specializations: Pe, Te.
+**Pit:** A deep hole dug in the floor. Things placed inside it cannot easily get out. Specializations: Pe, Te.
 
-**Pool**: A still body of water, or a well. It may be used when scrying. Specializations: In, Aq.
+**Pool:** A still body of water, or a well. It may be used when scrying. Specializations: In, Aq.
 
-Portal: A gateway, through which things may be summoned or sent away. Specializations: Cr, Re.
+**Portal:** A gateway, through which things may be summoned or sent away. Specializations: Cr, Re.
 
-Rack: A rather unpleasant large mechanical construct, used for torturing persons placed inside it. Specializations: Pe, Co, Me.
+**Rack:** A rather unpleasant large mechanical construct, used for torturing persons placed inside it. Specializations: Pe, Co, Me.
 
-Running Water: Any kind of water which runs through or around the lab, such as a stream or fountain. Specializations: Items, Aq.
+**Running Water:** Any kind of water which runs through or around the lab, such as a stream or fountain. Specializations: Items, Aq.
 
-Summoning Circle: An elaborate pentagram marked on the floor, into which things are summoned. Specializations: Experimentation, Spells, Cr, Re, An, Vi.
+**Summoning Circle:** An elaborate pentagram marked on the floor, into which things are summoned. Specializations: Experimentation, Spells, Cr, Re, An, Vi.
 
-Statue: A carved semblance of some person, creature, or thing, usually made of stone, metal, or porcelain. Specializations: Re, An, Co, Te.
+**Statue:** A carved semblance of some person, creature, or thing, usually made of stone, metal, or porcelain. Specializations: Re, An, Co, Te.
 
-Still: A network of glass or metal tubing connecting delicate containers, such as retorts, designed for the distillation and refinement of compounds. Specializations: Vis Extraction, Mu, Re, Aq.
+**Still:** A network of glass or metal tubing connecting delicate containers, such as retorts, designed for the distillation and refinement of compounds. Specializations: Vis Extraction, Mu, Re, Aq.
 
 **Tablet:** A large framed slab of wax, for temporary scribing with a stylus. Specializations: Texts, In, Im.
 
-Tank: A bulky container for storing fluids. Specializations: Vis Extraction, Re, Aq.
+**Tank:** A bulky container for storing fluids. Specializations: Vis Extraction, Re, Aq.
 
-Throne: An opulent and raised seat for a ruler (or at least, the self-important) to sit in.
+**Throne:** An opulent and raised seat for a ruler (or at least, the self-important) to sit in.
 
-Specializations: Teaching, Re, Me.
+**Specializations:** Teaching, Re, Me.
 
-**Tree**: A live tree or a large plant, such as a vine. Specializations: Cr, He.
+**Tree:** A live tree or a large plant, such as a vine. Specializations: Cr, He.
 
-**Void**: A shaft, hole, or opening. Specializations: In, Pe, Au.
+**Void:** A shaft, hole, or opening. Specializations: In, Pe, Au.
 
-Wall: A large blank wall, onto which images may be summoned. Specializations: In, Im.
+**Wall:** A large blank wall, onto which images may be summoned. Specializations: In, Im.
 
-Wheel: A wheel powered by water, wind, horse, slaves, or magic. Specializations: Items, Re.
+**Wheel:** A wheel powered by water, wind, horse, slaves, or magic. Specializations: Items, Re.
 
-Window: A portal to the outside world, which lets in the sun, moon, and stars. Specializations: In, Au, Im.
+**Window:** A portal to the outside world, which lets in the sun, moon, and stars. Specializations: In, Au, Im.
 
-## The Sanctum
+> #### The Sanctum
+> 
+> Any member of the Order of Hermes may designate an area as their "sanctum," and most choose to designate their laboratory and living quarters. A decision of the First Tribunal means that a magus in another's sanctum has no legal protection from the owner of the sanctum and may be attacked or killed without legal consequences. There is a strong convention against entering a sanctum without permission, but the Peripheral Code on these points differs between Tribunals. See Houses of Hermes: True Lineages for more details—particularly pages 46–47, 62, and 71. A ruling of the Grand Tribunal of 997 requires a sanctum to be marked by a circle inscribed within a square, with lines joining the square's opposite corners.
 
-Any member of the Order of Hermes may designate an area as their "sanctum," and most choose to designate their laboratory and living quarters. A decision of the First Tribunal means that a magus in another's sanctum has no legal protection from the owner of the sanctum and may be attacked or killed without legal consequences. There is a strong convention against entering a sanctum without permission, but the Peripheral Code on these points differs between Tribunals. See Houses of Hermes: True Lineages for more details—particularly pages 46–47, 62, and 71. A ruling of the Grand Tribunal of 997 requires a sanctum to be marked by a circle inscribed within a square, with lines joining the square's opposite corners.
-
-## Magic Items for Laboratories
+### Magic Items for Laboratories
 
 A magic item designed for lab use (or an enchantment on the whole lab itself) can grant one or more Virtues or Flaws, or add to the Characteristics or Specializations of the lab. A magic item may be made into a Feature, in which case that Virtue should be paid for as usual. Equally, an existing Feature may be enchanted as a magic item. In this case, if the Shape and Material bonus(es) of the Feature are not listed elsewhere, you may assume it to have Shape and Material Bonuses equal to its points of Arts Specializations provided.
 
@@ -13532,11 +13320,13 @@ Specific effects for each item should be created as normal. If an effect cannot 
 - If the effect duplicates an existing Laboratory Virtue or Flaw, then the item simply grants that Virtue or Flaw to the lab. It is gained immediately and has no space cost, apply its stated modifications to Characteristics or Specializations, as usual.
 - If the effect does not resemble a Laboratory Virtue or Flaw, then the final level of the effect determines how many points of Characteristics or Specializations may be gained. Every ten levels may grant one point in a Specialization, or every 20 levels may improve a Characteristic by one point. For example, an effect with a final level of 50 might improve one Characteristic by one point (20 levels), and one Specialization by three points (30 levels). Also, items or enchantments with powerful effects, influencing the whole of the lab, may (unintentionally) increase the Warping Characteristic, at the discretion of the storyguide.
 
+---
+
+> A wave of ghostly skeletons rises from the fetid ground around us, animated by infernal magic, eyes glowing with malevolent intent. A chill wind rustles through the twisted branches overhead, whispers of the dead echoing through the ages, as we face the undead horde. Our party’s magi stand together, unleashing bolts of crackling energy, streaks of light that tear through the skeletal ranks. I stand firm at their backs, arrows whistling through the spectres in futile defence of my masters. Above the fray, their swift-winged companion circles, its keen eyes seeking tactical advantage against the advancing skeletal tide.
+
 # IX. Spells
 
-he Order of Hermes has collected and created hundreds of spells that have been passed down to apprentices and traded among magi for centuries. Those listed here are representative of
-
-the most useful, interesting, and exemplary of those spells — in no way are the spells listed here a definitive list of those available, and more examples can be found throughout the supplements, particularly in *Magi of Hermes*. Instead, they should be used as examples so that you may invent spells of your own. Many of these spells serve as good examples for creating other, similar spells. For instance, a spell to turn you into a wolf can be used as a model for a spell to turn you into another animal.
+The Order of Hermes has collected and created hundreds of spells that have been passed down to apprentices and traded among magi for centuries. Those listed here are representative of the most useful, interesting, and exemplary of those spells — in no way are the spells listed here a definitive list of those available, and more examples can be found throughout the supplements, particularly in *Magi of Hermes*. Instead, they should be used as examples so that you may invent spells of your own. Many of these spells serve as good examples for creating other, similar spells. For instance, a spell to turn you into a wolf can be used as a model for a spell to turn you into another animal.
 
 ## Levels
 
@@ -13868,7 +13658,7 @@ Each increase in size on this list indicates a ten-fold increase in volume, and 
 
 10 Cubic Paces = 2,000 gallons/7,570.83 liters, 8-foot/2.44-meter-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
 
-**100** Cubic Paces = 6-pace-diameter sphere, five base Individuals of Aguam (water).
+**100** Cubic Paces = 6-pace-diameter sphere, five base Individuals of Aquam (water).
 
 1000 Cubic Paces = 12-pace-diameter sphere, cylinder 20 paces high and half as wide, cylinder 8 paces high and twice as wide, pool 16 paces in diameter and half as deep.
 
@@ -14511,7 +14301,7 @@ Part: A part of an Individual. This category applies easily.
 
 Room, Structure and Boundary: work as for other Forms; the spell affects all the liquid within the target area.
 
-A base Individual for Aguam is a pool of water about five paces (fifteen feet) across, and two paces deep at the center. Naturally-occurring liquids, such as fruit juice or olive oil, have a base Individual one-tenth the size. about two paces across and about one deep. Processed liquids, such as wine or beer, have a base Individual one hundredth the size, a pool about one pace across and half a pace deep. Corrosive and otherwise dangerous liquids have a base Individual ten times smaller again, a puddle about half a pace across and about a fifth of a pace deep. Poisons have a base Individual of a single dose.
+A base Individual for Aquam is a pool of water about five paces (fifteen feet) across, and two paces deep at the center. Naturally-occurring liquids, such as fruit juice or olive oil, have a base Individual one-tenth the size. about two paces across and about one deep. Processed liquids, such as wine or beer, have a base Individual one hundredth the size, a pool about one pace across and half a pace deep. Corrosive and otherwise dangerous liquids have a base Individual ten times smaller again, a puddle about half a pace across and about a fifth of a pace deep. Poisons have a base Individual of a single dose.
 
 ## Creo Aquam Spells
 
@@ -14715,7 +14505,7 @@ Level 10: • Change a liquid into a very unnatural solid or gas.
 
 ## Perdo Aquam Guidelines
 
-As magnitudes in these spells rise, the destruction caused becomes more subtle, or more pervasive. Sigils commonly seen in Perdo Aguam spells usually involve destruction in some specific way. Destroying water that is part of something, such as the fluid in a human being, requires a target of Part. Destroying water that is merely on someone, such as the water making a person wet, only needs a target of Individual.
+As magnitudes in these spells rise, the destruction caused becomes more subtle, or more pervasive. Sigils commonly seen in Perdo Aquam spells usually involve destruction in some specific way. Destroying water that is part of something, such as the fluid in a human being, requires a target of Part. Destroying water that is merely on someone, such as the water making a person wet, only needs a target of Individual.
 
 Perdo Aquam botches might destroy all water in the caster, as Curse of the Desert, or create water instead of destroying it.
 
@@ -22597,7 +22387,7 @@ A magus uses Incantation of Lightning (or a similar spell of 6th magnitude or gr
 
 ## The Unforgiving Sea
 
-Concerned that a colleague has not been heard from for a while, the player magi are dispatched to see if anything is wrong. The magus — an expert in Aguam — discovered a way to increase the Might (and size) of his pet water elemental, using raw Aquam vis that he transferred into a sufficient quantity of pure elemental matter. The infused water was then absorbed by the elemental as the magus cast a Creo Aguam spell (with a Vim requisite) of his own devising. Unfortunately for the magus, the elemental became too powerful for him to control, and he is now trapped in his sanctum. Alternatively, the characters may just come across his shattered laboratory and his lab texts, and not realize the danger involved in recreating his work.
+Concerned that a colleague has not been heard from for a while, the player magi are dispatched to see if anything is wrong. The magus — an expert in Aquam — discovered a way to increase the Might (and size) of his pet water elemental, using raw Aquam vis that he transferred into a sufficient quantity of pure elemental matter. The infused water was then absorbed by the elemental as the magus cast a Creo Aquam spell (with a Vim requisite) of his own devising. Unfortunately for the magus, the elemental became too powerful for him to control, and he is now trapped in his sanctum. Alternatively, the characters may just come across his shattered laboratory and his lab texts, and not realize the danger involved in recreating his work.
 
 ## Lunchtime in the Vis Stores
 
@@ -23687,7 +23477,7 @@ Pretenses: Carouse 9 (drinking), Charm 4 (drunk people), Etiquette 2 (parties), 
 
 Heady Brew, 0 points, Init -10, Corpus: Any drink served by Mateos is three times as intoxicating as normal. Drinks that were non-alcoholic to start with become as alcoholic as ale. This does not change the taste of the drink. The extra intoxication is a magical effect, with Penetration 10, and can be resisted.
 
-Unending Drinks, 1 point, Init –10, Aguam: For as long as he is serving a particular person, the drink in Mateos's barrel does not run out, even if he serves other people as well. If the chosen person (who is not the target of the power, and thus cannot resist) leaves, passes out, or stops drinking for any other reason, the contents of the barrel start to run out.
+Unending Drinks, 1 point, Init –10, Aquam: For as long as he is serving a particular person, the drink in Mateos's barrel does not run out, even if he serves other people as well. If the chosen person (who is not the target of the power, and thus cannot resist) leaves, passes out, or stops drinking for any other reason, the contents of the barrel start to run out.
 
 **Equipment**: Barrel of alcoholic drink.
 
@@ -23966,7 +23756,7 @@ Gift of Youth, 10 points, Init –10, Corpus: This power targets a single woman,
 
 Inner Warmth, 1 point, Init 0, Ignem: The recipient of this gift is unaffected by mundane cold until she (or he) enters an aura aligned with a realm other than Faerie. (Simply leaving a Faerie aura for an area with no aura doesn't end it, but entering a Magic, Infernal, or Divine aura does.) The gift provides no protection against magical cold.
 
-Lord of Ice, 1 or more points, Init +8, Aguam: Marsyne can create any effect he wants involving ice, including effects that would require a Hermetic ritual. For every point he spends, up to a maximum of 5, the effect has three Hermetic magnitudes of power. Thus, if he spends 5 points, he can create a 15th magnitude effect.
+Lord of Ice, 1 or more points, Init +8, Aquam: Marsyne can create any effect he wants involving ice, including effects that would require a Hermetic ritual. For every point he spends, up to a maximum of 5, the effect has three Hermetic magnitudes of power. Thus, if he spends 5 points, he can create a 15th magnitude effect.
 
 Lord of the Castle, 0 points, Init +15, Mentem or Corpus: Marsyne can command any one of his servants to do anything, and the command is irresistible. He can also take control of the servant's body, and move it like a puppet, or even make it fly through the air. The only limits are that he can only target one servant at once, and can only target beings who have voluntarily agreed to serve him. Most are faeries, but his wives also qualify.
 
@@ -23974,7 +23764,7 @@ Equipment: Anything he wants, although particularly elaborate items gained parti
 
 Encumbrance: 0 (0)
 
-Vis: 10 Aguam, in his blood.
+Vis: 10 Aquam, in his blood.
 
 Appearance: Tall, well-built, and handsome, with white skin, pale blond hair, and eyes the clear gray of sea ice. He wears fine clothes in white and blue, and a crown of diamonds rests on his brow. He almost looks like a human being, but the authority in his voice belies that, as does the fact that literal ice water runs in his veins; when he bleeds, there are small crystals of ice in the water that flows out.
 
@@ -26877,7 +26667,7 @@ Multiply size by ten for each magnitude added to the spell.
 
 Each increase in size on this list indicates a ten-fold increase in volume, and thus a 1 magnitude increase in spell level.
 
-50 Cubic Inches/819  $cm^3 =$ 2 pints/1.14 ml, 4-inch/10.16cm-diameter sphere, five base Individuals of Aguam (poison), a Small object on the Material and Size table (p97/p255).
+50 Cubic Inches/819  $cm^3 =$ 2 pints/1.14 ml, 4-inch/10.16cm-diameter sphere, five base Individuals of Aquam (poison), a Small object on the Material and Size table (p97/p255).
 
 500 Cubic Inches/8,194  $cm^3 =$ 2 gallons/7.57 liters, 1-foot/ .3-meter-diameter sphere, three base Individuals of Terram (precious metal), a Medium object on the Material and Size table.
 
@@ -26887,7 +26677,7 @@ Each increase in size on this list indicates a ten-fold increase in volume, and 
 
 200 gallons/757 liters, 4-foot/ 1.22-meter-diameter sphere, base Individual of Ignem, base Individual of Terram (stone), five base Individuals of Aquam (processed liquid), a Huge object on the Material and Size table.
 
-10 Cubic Paces = 2,000 gallons/7,570.83 liters, 8-foot/2.44-meter-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aguam (natural liquid).
+10 Cubic Paces = 2,000 gallons/7,570.83 liters, 8-foot/2.44-meter-diameter sphere, base Individual of Terram (dirt), five base Individuals of Aquam (natural liquid).
 
 100 Cubic Paces = 6-pace-diameter sphere, five base Individuals of Aquam (water).
 
@@ -26897,7 +26687,7 @@ Each increase in size on this list indicates a ten-fold increase in volume, and 
 
 Animal: a pony-sized animal, Size +1 or lower.
 
-Aguam:
+Aquam:
 
 Water: a pool five paces across, two paces deep.
 

@@ -2843,7 +2843,7 @@ A character may not have more than one Major Personality Flaw. A character shoul
 
 You may not take Hermetic Virtues and Flaws, unless you have The Gift (this would be highly unusual)
 
-#### MYTHIC COMPANIONS
+#### Mythic Companions
 
 - You make take up to 10 points of Flaws, and 2 points of Virtues for every 1 point of Flaws, for a maximum of 20 points of Virtues
 - You may not have more than 5 Minor Flaws
@@ -3515,7 +3515,7 @@ For determining the spell level, Body-of-water is the same level of Target as
 
 Structure (remember to increase the spell magnitude to affect a very large body-of-water, like a sea or the ocean).
 
-> ### Possible Abuses of Storms
+> #### Possible Abuses of Storms
 >
 > A ReAu spell with Storm duration intended to "keep a storm raging" will not result in a storm that lasts indefinitely. It will keep the storm raging for whatever its original lifetime was. A ReAu spell with a duration of Sun can be used to keep to a storm raging for a day, of course, and repeated castings of such a spell will keep the storm present until the caster gives up.
 >
@@ -3830,7 +3830,7 @@ Like other working characters, he must spend two seasons a year practicing his p
 
 This Virtue is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues. It is only available to male characters, with the exception of Doctors in Medicine who graduated from Salerno. That university does train female physicians.
 
-> ### Animal Characters
+> #### Animal Characters
 >
 > An animal can have personality and add greatly to stories, just as a human can. Despite their obvious limitations, it can be a great deal of fun to play one as a grog, probably while running human grogs as well. More details on animal characters are given in *Grogs*, page 136,
 >
@@ -4261,17 +4261,17 @@ Major, Supernatural
 
 You have been blessed by some supernatural power. The effects of the benediction should be comparable to other Major Virtues. (See insert for examples.)
 
-> ### Greater Benediction Examples
+> #### Greater Benediction Examples
 >
-> #### Flight
+> ##### Flight
 >
 > You are able to fly without the need of wings. Every time you take to the air, you lose a Long-Term Fatigue Level, and can remain airborne for a maximum of an hour, traveling up to fifty miles in this hour. Once you touch the ground, your current flight ends regardless of how much of your hour has elapsed. You require a prop to fly, such as a carpet or staff, but any prop of the appropriate type suffices.
 >
-> #### True Sight
+> ##### True Sight
 >
 > You are rarely fooled by glamour or illusions that change the appearance of something (although a false image that does not change any particular thing's appearance, such as from a Creo Imaginem spell, still fools you). Further, you can always detect the true form of a shapechanged creature (although not members of House Bjornaer, since both their human and animal forms are "true" forms). This power has a Penetration of 20.
 >
-> #### Universally Liked
+> ##### Universally Liked
 >
 > Everyone who knows you is your friend. You receive a +3 bonus to all social rolls with people who have known you more than one month. Anyone who tries to act against you by swaying the emotions or opinions of others has +3 added to all Ease Factors. This effect has a Penetration of 0.
 
@@ -4515,7 +4515,7 @@ You are capable of performing minor exorcism spells through your knowledge of th
 
 To cast a spell you must expend a Fatigue level, whether the spell succeeds or fails. You must also spend at least 5 minutes preparing the spell, during which time you need unbroken concentration and expend one handful of Kassalan Dust. The spell is designed exactly like a Hermetic spell; if affecting a ghost you must be able to sense your target. Your Casting Total is equal to (Stamina + Organization Lore: Mortuary Society + Aura modifier + stress die) / 2. Penetration is calculated in the normal fashion: Casting Total – Spell Level + Penetration modifiers. Kassalan Exorcism is aligned to the Magic Realm.
 
-> ### Kassalan Dust
+> #### Kassalan Dust
 >
 > Made by the Mortuary
 > Society of Kassala, this dust has
@@ -4631,7 +4631,7 @@ Minor, Supernatural
 
 You have been blessed by some supernatural power. The effects of the benediction should be comparable to other Minor Virtues. (See insert for examples.)
 
-> ### Lesser Benediction Examples
+> #### Lesser Benediction Examples
 >
 > ##### Gift of the Gab
 >
@@ -4831,7 +4831,7 @@ When you cast a spell or generate a Lab Total within your focus, add the lowest 
 
 A character can have only one Magical Focus, either major or minor, regardless of the source of the focus.
 
-> ### Sample Major Magical Foci
+> #### Sample Major Magical Foci
 >
 > This list is merely exemplary. Other foci are possible.
 >
@@ -5010,7 +5010,7 @@ When you cast a spell or generate a Lab Total within your focus, add the lowest 
 
 A magus may only have one Magical Focus, whether major or minor, regardless of the source of the focus.
 
-> ### Sample Minor Magical Foci
+> #### Sample Minor Magical Foci
 >
 > This list is merely exemplary; other foci are possible.
 >
@@ -5131,7 +5131,7 @@ Minor, Social Status
 
 You are one of the leaders of the Cathar heretics, found mainly in southern France. Your responsibilities include preaching the Gospel, abstaining from eating meat and dairy produce, from sex and romance, and from other acts that ensuare you in the sinful world. You should normally take the Flaw: Vow to represent your solemn religious obligations. You may not take the Wealthy Virtue, as you are supported by the tithes and contributions of your congregations. As a heretic you are at great risk from the Church, which will execute you if you are caught and refuse to recant your beliefs. Due to your training, you may take Academic Abilities during character creation. You may take the Purity and Transcendence Supernatural Abilities from Realms of Power: The Divine Revised Edition (page 53) if your character has the True Faith Virtue, but these are not free Virtues. You may, however, take them as Virtues, as normal. More details on the Cathars can be found in Faith and Flame, from page 13.
 
-> ### Example
+> #### Example
 >
 > Orlando is a musician and magus, and knows Sorcerous Music and Subtle Magic. He may cast spells while he sings (with no penalty for no gestures), plays his lute, or sings and plays. If he sings or plays quietly, he suffers the normal –5 penalty. He can cast spells silently, but only by not using Sorcerous Music.
 >
@@ -5163,13 +5163,13 @@ The spell fails if this fails, and botches if the roll botches. The spell ends w
 
 Formulaic spells must be devised with the new Duration to use this Ability, if so designed, the spell cannot be cast without performing.
 
-> ### Example
+> #### Example
 >
 > Harold knows Performance Magic (Hunt), casts Hunter's Tracks of the Faerie Glow (a variant of Tracks of the Faerie Glow), and succeeds with his simple Hunt roll. His magically enhanced vision persists as long as he keeps up the hunt, even if he is distracted by chatter or other spellcasting.
 >
 > Orlando sings while he casts a Sung Lamp Without Flame. The light continues while he continues to sing, however badly, but ends when he stops singing. Needing to convey urgent instructions to a recalcitrant grog, he uses an enchanted device with Maintaining the Demanding Spell to maintain the spell while he stops to shout at the grog, before the Maintaining effect ends he resumes his sung performance.
 
-> ### Performance Abilities
+> #### Performance Abilities
 >
 > Of the Abilities listed in this book, the following qualify for Performance Magic (although not all are particularly effective, and some may be hard to use effectively):
 >
@@ -5183,7 +5183,7 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 >
 > While Brawl and Martial Abilities may be used in Performance Magic, the magus needs to perform semi-ritualistic movements to cast spells, responding to the needs of the spell, not to the actions of an opponent. If the magus is in combat, then he may only use Performance Magic (Brawl or Martial Abilities) if the player rolls a stress die with three extra botch dice, and treats all nonbotches as die rolls of zero. (This represents ignoring the opponent and casting the spell.)
 
-> ### Sorcerous Music (Performance Magic)
+> #### Sorcerous Music (Performance Magic)
 >
 > Performance Magic (Music) is often known as Sorcerous Music.
 >
@@ -5193,7 +5193,7 @@ Formulaic spells must be devised with the new Duration to use this Ability, if s
 >
 > When using Voice Range with Sorcerous Music, the spell carries as far as the music (song or instrument) could be heard. For some loud instruments, this may be a long way.
 
-> ### Recognizing Performance Magic
+> #### Recognizing Performance Magic
 >
 > Most people do not recognize performing an Ability as spellcasting, so the performer may act more openly than most magi, even other Hermetic magi do not automatically recognize his actions.
 >
@@ -5263,18 +5263,15 @@ Major Potent Magic covers the same wide fields as a Major Magical Focus, and gra
 
 A maga with Potent Magic may also invent new Potent spells within the field of her Potent Magic, and may vary spells she knows.
 
-> ### How Potent Magic Works
+> #### How Potent Magic Works
 >
-> #### Potent Spells
+> ##### Potent Spells
 >
 > A Potent spell has a bonus known as its Potency, which is arrived at by combining one or more Casting Items into the design of the spell. Casting Items use the factors given in the Shape and Material Bonus table (page 282): each Casting Item provides one bonus. (If more than one bonus is possible, the spell design states which one is used.)
 >
-> POTENCY SCORE
-> Sum of Bonus from each
-> Casting Item
+> **POTENCY SCORE:** Sum of Bonus from each Casting Item
 >
-> POTENCY BONUS:
-> Add Potency to Casting Score
+> **POTENCY BONUS: Add Potency to Casting Score**
 >
 > Potency is part of the spell design; a Lab Text for a Potent spell includes the specified Casting Items and Potency Score. A magus teaching a Potent spell teaches the formula he knows, including the Casting Items and Potency Score. The level, for the purposes of inventing it as well as for casting, of a Potent spell is unaltered by the Potency Score. However, a magus may not invent a Potent spell with a Potency higher than his Magic Theory score, even with the aid of a Lab Text or teacher.
 >
@@ -5288,7 +5285,7 @@ A maga with Potent Magic may also invent new Potent spells within the field of h
 >
 > Potency applies only to Formulaic spells — Spontaneous Magic allows Ceremonial Casting to produce similar results, and enchanted devices use Shape and Material Bonuses during enchantment.
 >
-> #### Potent Magic and Potent Spells
+> ##### Potent Magic and Potent Spells
 >
 > A magus with Potent Magic may create new Potent spells or alter Potent spells to vary the Casting Items.
 >
@@ -5680,19 +5677,18 @@ Minor, Hermetic
 
 When given the opportunity to study an Art from books or raw vis in the presence of the Form or Technique, your surroundings give you new insights into your studies. Add two to die rolls to study from vis, or two to the Quality of any text you study from. Your current Art score determines the magnitude of the surroundings you require to get the bonus. See the table for some guidelines.
 
-> ### Study Bonus Examples
+> #### Study Bonus Examples
 >
->
-> | Art Score | Minimum Presence of Art                                                                                                                                                                                                                            |
-> | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | 0         | A candle flame (Ignem), a magic aura (Vim), a dying insect (Perdo)                                                                                                                                                                                 |
-> | 5         | A pond (Aquam), a painting (Imaginem), a caterpillar and butterfly (Muto)                                                                                                                                                                          |
-> | 10        | A breezy place in the open air (Auram), a live animal at least the size of a cat (Animal), half a dozen plants at different stages of growth (Creo)                                                                                                |
-> | 15        | An area of bare natural rock, such as a mountainside (Terram), a human corpse to dissect (Corpus), at least one book on each of a dozen mundane subjects (Intellego)                                                                               |
-> | 20        | In a forest (Herbam), at a gathering of scholars (Mentem), at a law court (Rego)                                                                                                                                                                   |
-> | 25        | In a boat on a large body of water (Aquam), in a strong (6+) magic aura (Vim), in a hospital full of people dying of pestilence (Perdo)                                                                                                            |
+> | Art Score | Minimum Presence of Art  |
+> | --------- | ------------------------ |
+> | 0         | A candle flame (Ignem), a magic aura (Vim), a dying insect (Perdo) |
+> | 5         | A pond (Aquam), a painting (Imaginem), a caterpillar and butterfly (Muto) |
+> | 10        | A breezy place in the open air (Auram), a live animal at least the size of a cat (Animal), half a dozen plants at different stages of growth (Creo) |
+> | 15        | An area of bare natural rock, such as a mountainside (Terram), a human corpse to dissect (Corpus), at least one book on each of a dozen mundane subjects (Intellego)  |
+> | 20        | In a forest (Herbam), at a gathering of scholars (Mentem), at a law court (Rego) |
+> | 25        | In a boat on a large body of water (Aquam), in a strong (6+) magic aura (Vim), in a hospital full of people dying of pestilence (Perdo) |
 > | 30        | In the middle of a large fire (Ignem), in a building covered with elaborate figured decoration in many media, where music is constantly played (Imaginem), in the presence of a magical shapeshifter whose transformations you can control (Muto). |
-> | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego)                                               |
+> | 35        | Flying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego) |
 
 #### Subtle Magic
 
@@ -5736,7 +5732,7 @@ The difficulty is that the wealth is cursed, so it lacks the natural increase in
 
 The wealth may be used to purchase the services of people, who, because they have souls, choose their own fates. The limitation that the wealth only allows itself to be spent sinfully remains, however, so it is likely to be given to amoral, covetous, envious, dangerous people.
 
-> ### The Knights Templar
+> #### The Knights Templar
 >
 > The Poor Knights of the Temple of Solomon, the Knights Templar, are an extremely important and influential order in Mythic Europe. Women cannot pay a fine, with the Paid Rights Virtue, to take a role in the order that is restricted to men. For full details, see Chapter 7 of The Church.
 
@@ -7117,7 +7113,7 @@ Animals are not usually bothered by monsters — the character still has the cor
 
 Some examples of possible monstrosities are listed nearby, but the troupe may devise their own, as required:
 
-> ### Monstrosity Examples
+> #### Monstrosity Examples
 >
 >
 > | Form     | Monstrosity                                                             |   |   |
@@ -8395,7 +8391,7 @@ Major, Hermetic
 
 Any form of Magic Resistance you generate is much weaker under relatively common circumstances which are fairly easy for an opponent to utilize, such as when you are wet or facing away from the caster of the spell. If the conditions are met, do not subtract the level of the effect from the casting total before calculating Penetration. You would be well advised to keep your weakness from being discovered by too many potential enemies.
 
-> ### Environmental Temperatures
+> #### Environmental Temperatures
 >
 > - Unnaturally hot
 > - As hot as being next to a raging fire, molten lava, or molten iron
@@ -8529,7 +8525,7 @@ The Gift allows characters to learn Supernatural Abilities in play (see page 383
 
 ## Abilities by Type
 
-#### GENERAL ABILITIES
+#### General Abilities
 
 Animal Handling
 (Area) Lore\*
@@ -8560,7 +8556,7 @@ Survival
 Swim
 Teaching
 
-#### ACADEMIC ABILITIES
+#### Academic Abilities
 
 Art of Memory\*
 Artes Liberales\*
@@ -8575,7 +8571,7 @@ Theology: Christian\*
 Theology: Islam\*
 Theology: Judaism\*
 
-#### ARCANE ABILITIES
+#### Arcane Abilities
 
 Code of Hermes\*
 Dominion Lore\*
@@ -8597,7 +8593,7 @@ Great Weapon
 Single Weapon
 Thrown Weapon
 
-#### SUPERNATURAL ABILITIES
+#### Supernatural Abilities
 
 Animal Ken\*
 Corpse Magic\*
@@ -8756,8 +8752,7 @@ Compare the result to the Ease Factors at right to determine success.
 
 To throw a curse, the afflicted person must be physically present, and the recipient of the curse must be represented either in person or by an Arcane Connection. Afflictions can be passed from humans to animals or vice versa, but this is harder than transferring within the same species. Curse-Throwers sometimes transfer the curse to themselves, but such altruism is rare. To throw a curse, the character must perform an elaborate ritual which involves the crafting of a charm which transfers the curse. This charm is a combination of a physical object and a chant. The object is repeatedly touched to the target and the recipient (or the Arcane Connection), whilst the chant is repeated over and over. The ritual typically takes an hour for every 5 points (or fraction) of the Ease Factor (see below). At the end of this time, the character generates a Casting Total, which must equal or exceed the Ease Factor listed below. If either the sufferer or the intended recipient of the curse has Magic Resistance, the Penetration Total must exceed it, else the curse stays where it is. A botched Curse-Throwing roll swaps the recipient of the curse to the caster.
 
-Curse-Throwing Casting Total:
-Presence + Curse-Throwing + Aura + stress die
+**CURSE-THROWING CASTING TOTAL: Presence + Curse-Throwing + Aura + stress die**
 
 Penetration Total:
 Casting Total – Ease Factor + Penetration Bonus
@@ -8773,7 +8768,6 @@ Casting Total – Ease Factor + Penetration Bonus
 | Power                           | 12 + Might points spent | 
 
 \*A Minor disease inflicts a Light wound, a Serious disease inflicts a Medium wound, a Major disease inflicts a Heavy wound, and a Critical disease inflicts an Incapacitating wound. See *Art & Academe*, Chapter 4:Medicine for more details. Minor Afflictions include boils and warts. Serious Afflictions are equivalent to a Minor Flaw in magnitude, whereas Major Afflictions are as severe as a Major Flaw.
-
 
 | Situation                                                                | Modifier to<br>Casting Total |
 | ------------------------------------------------------------------------ | ---------------------------- |
@@ -8880,7 +8874,7 @@ You must also state a time frame for the hex, anywhere from an effect that occur
 
 When you have framed the hex appropriately, roll Intelligence + Hex + aura bonus + the delay modifier and compare this to the Ease Factor on the Hex Effects chart. The severity of these effects is comparable to the effects of botching a roll with a specific number of 0's on the botch dice. If you should botch the Hex roll, the hex may still happen, but with unpredictable and unintended results, possibly affecting the character or someone close to her instead. Or, she may suffer Warping Points, fatigue loss, or other unfortunate effects.
 
-HEX: Stress Die + Intelligence + Hex + Aura Bonus + Modifiers
+**HEX: Stress Die + Intelligence + Hex + Aura Bonus + Modifiers**
 
 A potential victim can avoid the effects of a hex by seeking out supernatural protection of some sort, usually from the Divine. If a character receives absolution in a religious ceremony, all hexes that have targeted him are permanently undone. Characters can also remove hexes with other supernatural effects, such as a Perdo Vim spell, a faerie blessing, or a holy miracle. Treat the hex as having a spell level equal to the number of botch dice it approximates, multiplied by 10, so that a Serious hex is a level 20 effect, and a Critical hex is level 40.
 
@@ -9380,20 +9374,25 @@ The library is probably the most important resource in most covenants. Unlike vi
 
 **Art Summae:** Add level and quality together. Each summa costs one Build Point per point in the total. The level must not exceed 20; higher-level summae can only be obtained through play. The quality must not exceed 11 plus 1 for every point below 20 of the level, and must not exceed 22 in any case.
 
-ART SUMMA COST: Level + Quality
-ART SUMMA LEVEL LIMIT: 20
-ART SUMMA QUALITY LIMIT: 11 + (20 – Level), or 22, whichever is lower
+**ART SUMMA COST: Level + Quality**
+
+**ART SUMMA LEVEL LIMIT: 20**
+
+**ART SUMMA QUALITY LIMIT: 11 + (20 – Level), or 22, whichever is lower**
 
 **Ability Summae:** Add quality and three times level together, and each summa costs one Build Point per point in the total. The level must not exceed 8. The quality must not exceed 11 plus 3 for every point below 8 of the level, and must not exceed 22 in any case.
 
-ABILITY SUMMA COST: Quality + 3 x Level
-ABILITY SUMMA LEVEL LIMIT: 8
-ABILITY SUMMA QUALITY LIMIT: 11 + 3 x (8 – level), or 22, whichever is lower
+**ABILITY SUMMA COST: Quality + 3 x Level**
+
+**ABILITY SUMMA LEVEL LIMIT: 8**
+
+**ABILITY SUMMA QUALITY LIMIT: 11 + 3 x (8 – level), or 22, whichever is lower**
 
 **Tractatus:** A tractatus in either Arts or Abilities costs one Build Point per point of quality. The quality may not exceed 11.
 
-Tractatus Cost: Quality
-Tractatus Quality Limit: 11
+**TRACTATUS COST: Quality**
+
+**TRACTATUS QUALITY LIMIT: 11**
 
 ### Lab Texts
 
@@ -9401,7 +9400,7 @@ Lab Texts allow magi to research magical creations much more quickly than they c
 
 Five levels of Lab Texts cost one Build Point. See the power level table on page 179 for the maximum level of Lab Text that can be taken.
 
-LAB TEXT COST: 1 Build Point per five levels
+**LAB TEXT COST: 1 Build Point per five levels**
 
 ### Casting Tablets
 
@@ -9417,11 +9416,11 @@ Vis sources, which provide vis every year, are extremely valuable resources for 
 
 *Vis Sources:* Vis sources cost five Build Points for every pawn of vis available each year.
 
-VIS SUPPLIES COST: 5 Build Points per pawn of vis per year
+**VIS SUPPLIES COST: 5 Build Points per pawn of vis per year**
 
-Vis Stocks: Vis stocks cost one Build Point per five pawns of vis in store. Once vis stocks are used, they are gone until the characters can find, in play, more vis.
+*Vis Stocks:* Vis stocks cost one Build Point per five pawns of vis in store. Once vis stocks are used, they are gone until the characters can find, in play, more vis.
 
-VIS STOCKS COST: 1 Build Point per 5 pawns of vis
+**VIS STOCKS COST: 1 Build Point per 5 pawns of vis**
 
 ### Enchanted Items
 
@@ -9435,13 +9434,15 @@ Specialists are non-magus NPC members of the covenant with useful skills. They a
 
 **Teachers:** A teacher bought with Build Points is employed by the covenant, and available to teach as directed by the magi two seasons per year. The cost is the sum of his Communication and Teaching total and his highest score in the Abilities he will teach. Teachers cannot have The Gift, and thus cannot teach the Hermetic Arts. They may have other Supernatural Abilities, however. Their Abilities are limited by their age, as for newly created characters (see page 48).
 
-Teacher Cost: Communication + Teaching + Highest Ability Score
+**TEACHER COST: Communication + Teaching + Highest Ability Score**
 
-Score Limits: By age (see page 48)
+**SCORE LIMITS: By age (see page 48)**
 
 *Others:* Other kinds of specialist are less expensive, costing a number of Build Points equal to their highest score in the Ability they use to serve the covenant. Their Ability scores are initially limited by age, as for teachers.
 
-Specialist Cost: Highest Ability Score Score Limit: By age (see page 48)
+**SPECIALIST COST: Highest Ability Score**
+
+**SCORE LIMIT: By age (see page 48)**
 
 ## Hooks
 
@@ -9595,7 +9596,7 @@ The 'Loyal to Covenant' Personality Trait of any individual within the covenant 
 
 To calculate Prevailing Loyalty, calculate the total modifier for each magus in the covenant as given in the nearby table, then divide by the number of magi in the covenant.
 
-BASE LOYALTY = total of Gift modifiers / number of magi
+**BASE LOYALTY = total of Gift modifiers / number of magi**
 
 Make a note of this Base Loyalty, for if the membership of the covenant changes, adjustments will need to be made to Base Loyalty without affecting any later modifications in loyalty due to player actions. The total **loyalty points** are calculated by applying modifiers to the Base Loyalty according to the environment of the covenant, their treatment by the magi, and the actions of the members of the council. Total loyalty points are converted into a **Prevailing Loyalty** score using the Advancement table for Abilities (ignoring any negative sign).
 
@@ -9842,13 +9843,13 @@ Unsurprisingly, magi are willing to spend a significant portion of their money o
 
 Upkeep score (see Chapter 8: Laboratory). For example, a standard laboratory (with an Upkeep of 0) costs one pound per year of typical use.
 
-Laboratories cost: 1 pound per 10 points of laboratories.
+**LABORATORIES COST: 1 pound per 10 points of laboratories.**
 
 #### Provisions
 
 With usually many dozens of mouths to feed, one of the covenant's major items of expenditure, often the largest of all, is the purchase of foodstuffs. A typical covenant consumes grains, meat, fish, vegetables, cheese, spices, salt, ale, and wines, and needs fodder for its horses.
 
-PROVISIONS COST: 5 pounds for every 10 points of inhabitants.
+**PROVISIONS COST: 5 pounds for every 10 points of inhabitants.**
 
 #### Tithes
 
@@ -9860,7 +9861,7 @@ Covenfolk are not usually paid a daily wage; they instead receive food and lodgi
 
 You may adjust these wage costs as appropriate for your covenant, but bear in mind that the more you pay them, the happier the covenfolk will be (and vice-versa). The standard wage costs listed here make no adjustment to Loyalty, if you increase (or reduce) them, you may gain the benefits (or penalties) to Loyalty as outlined earlier.
 
-WAGES COST: 2 pounds for every 10 points of inhabitants.
+**WAGES COST: 2 pounds for every 10 points of inhabitants.**
 
 (This is equivalent to one penny per point of inhabitants, per week.) Add 1 pound per each penny that is paid daily to any professional soldiers in the covenant's service.
 
@@ -9868,13 +9869,13 @@ WAGES COST: 2 pounds for every 10 points of inhabitants.
 
 Almost all covenants have a turb of warriors, who are outfitted with weaponry and armor, and some have an additional store of weapons, or even an arsenal. This equipment needs to be regularly cleaned, repaired, and (every so often) replaced. However for a small turb with modest outfitting, this cost is likely to amount to only a couple of pounds per year.
 
-Weapons and armor cost: 1 pound for every 320 points of weapons and armor.
+**WEAPONS AND ARMOR COST: 1 pound for every 320 points of weapons and armor.**
 
 #### Writing Materials
 
 Writing is a costly business, since parchment and inks are expensive. As a rule of thumb, one pound provides enough materials for the writing of four books, without embellishment. Typically, a magus uses such a quantity in one year. For example, two seasons of labwork (in which a Lab Text is produced), one season of book writing, plus diaries, accounts, records, letters, and so on, would amount to this much. Writing costs can be reduced for magi who are absent from the covenant or undertake little labwork or scribing, however. Specialist craftsmen (scribes, binders, illuminators) allow better quality books to be produced, but add to the production costs (see Covenants for detailed rules). Precious materials used for resonant bonuses on books are more expensive still, but are counted as sundry expenses (see earlier), on a case-by-case basis.
 
-Writing materials cost: 1 pound for every magus, scribe, bookbinder, or illuminator.
+**WRITING MATERIALS COST: 1 pound for every magus, scribe, bookbinder, or illuminator.**
 
 ### Cost Saving
 
@@ -9921,23 +9922,15 @@ Buildings + Consumables + Provisions + Wages
 
 **Paid soldiers:** 1 pound per penny paid daily
 
-INFLATION
+INFLATION: Starts at 0; increases by an average of 1 pound per 100 pounds of expenditure per year
 
-Starts at 0; increases by an average of 1 pound per 100 pounds of expenditure per year
+LABORATORIES: 1 pound per 10 points of laboratories
 
-LABORATORIES
+WEAPONS AND ARMOR: 1 pound per 320 points of weapons and armor
 
-1 pound per 10 points of laboratories
+WRITING MATERIALS: 1 pound per magus, scribe, bookbinder, or illuminator
 
-WEAPONS AND ARMOR
-
-1 pound per 320 points of weapons and armor
-
-WRITING MATERIALS
-
-1 pound per magus, scribe, bookbinder, or illuminator
-
-COST SAVING
+#### Cost Saving
 
 **Laborers:** For each, subtract 1 pound
 
@@ -10195,7 +10188,7 @@ The term "Arts" refers collectively to Techniques and Forms — two classes of m
 
 Hermetic magi have a score in each Art. Your scores in the Arts represent your aptitude for working with the various types of magic. Arts are not merely knowledges; your Arts are ultimately ways your very being expresses magical energy. In reflection of this, your score in a Form (in addition to allowing you to cast spells incorporating that Form) helps you resist spells of that type and avoid harm from mundane sources related to that Form. For instance, your Ignem (fire) score gives you a bonus to resist damage from fire and cold. This bonus is equal to one fifth of your score in the Form, rounded up, and adds to your ability to resist any damage deriving from that Form. The most important examples of each Form bonus's applicability are listed under the Form, but these are not exhaustive lists.
 
-Form Bonus: Form score/5 (rounded up)
+**FORM BONUS: Form score/5 (rounded up)**
 
 These bonuses do not stack. If it seems like two would apply to a given hazard, use only the higher bonus.
 
@@ -10501,9 +10494,9 @@ See the table to determine whether the spell succeeds or not, and how many Fatig
 
 Spontaneous magic involves the production of effects which do not correspond to a spell the magus knows. Magi may choose whether or not to exert themselves when casting Spontaneous magic, but this affects the casting total. If a maga exerts herself, she loses a Fatigue level immediately after the spell is cast, so that if this loss renders her unconscious the spell takes effect first. Casting fatiguing Spontaneous magic is inherently stressful, and so it always uses a stress die, with the risk of a botch, no matter how calm the environment and the maga may otherwise be.
 
-**Fatiguing Spontaneous Magic Casting Total: (Casting Score + Stress Die)/2**
+**FATIGUING SPONTANEOUS MAGIC CASTING TOTAL: (Casting Score + Stress Die)/2**
 
-**Non-Fatiguing Spontaneous Magic Casting Total: Casting Score/5**
+**NON-FATIGUING SPONTANEOUS MAGIC CASTING TOTAL: Casting Score/5**
 
 Before casting the spell, the maga must decide on the effect she is trying to create. If her final total is too low for that effect, the spell fails. The chosen effect may be open ended. For example, the maga may want to create the brightest light she can. In this case, the spell will fail if the final level cannot produce any light, but otherwise greater totals will produce brighter light.
 
@@ -10531,7 +10524,7 @@ The rules for calculating Penetration for the powers of supernatural creatures a
 
 A maga must concentrate in order to cast a spell. If she is distracted, she must make a concentration roll.
 
-**Concentration Roll: Stamina + Concentration + Stress Die**
+**CONCENTRATION ROLL: Stamina + Concentration + Stress Die**
 
 If the concentration roll fails, the spell fails. If the spell casting roll involved a stress die, you must still roll to see whether the maga botches, and you get one extra botch die. The Ease Factor for the concentration roll depends on the distraction.
 
@@ -10623,7 +10616,7 @@ There are two stages: determining the speed of casting, and determining the effe
 
 The speed of casting is determined as follows:
 
-**Fast Casting Speed: Quickness + Finesse + Stress Die**
+**FAST CASTING SPEED: Quickness + Finesse + Stress Die**
 
 The Ease Factor for this roll depends on the situation. In combat, the Ease Factor is always the opponent's Initiative Total. Other Ease Factors should be set by the storyguide. Note that, even in combat, the fast casting speed is not an Initiative Total. A maga may be able to cast more than one fast-cast spell in one combat round. However, each spell after the first takes a cumulative -6 penalty to the Fast Casting Speed: -6 for the second spell, -12 for the third, and so on. Once one of these rolls has been failed, that is the roll does not equal or exceed the Ease Factor for that roll, which may be the Initiative Total of another combatant, the maga can cast no further spells in that combat round.
 
@@ -10631,15 +10624,15 @@ If the roll for a fast-cast spell fails, the maga may still cast that spell. It 
 
 A maga casting a fast-cast spell must subtract ten from the Casting Score before calculating the Casting Total. In addition, if the player rolls a zero, there are two additional botch dice.
 
-**Fast Cast Penalty: -10 to Casting Score**
+**FAST CAST PENALTY: -10 to Casting Score**
 
-**Fast Cast Botch Dice: +2 botch dice**
+**FAST CAST BOTCH DICE: +2 botch dice**
 
 In order to create a fast-cast defense against magic, a maga must know the Hermetic Form that governs that magic. If the caster is a Hermetic magus and is using words and gestures that she can hear and see, she may determine this automatically. A Perception + Awareness roll may be needed to catch the details of the gestures, particularly if they are subtle.
 
 In other circumstances, the maga must work the Form out. A Perception + Awareness roll against an Ease Factor of 15 minus the magnitude of the effect is needed.
 
-**Determining Form of Magical Effect: Perception + Awareness vs. 15 – effect magnitude**
+**DETERMINING FORM OF MAGICAL EFFECT: Perception + Awareness vs. 15 – effect magnitude**
 
 In general, a fast-cast defense with half the level of the attacking spell is enough to protect the maga herself or one other individual. The spell still takes effect, and the side effects of deflecting the spell may have to be dealt with. A fast-cast defense that matches or exceeds the level of the attacking spell can completely neutralize it, probably in a fairly spectacular fashion.
 
@@ -10828,7 +10821,7 @@ An illusion cast on the maga fails.
 
 A maga may want to cast a spell that affects something else, and only indirectly affects the target. In this case, the target's Magic Resistance is irrelevant, as the spell does not target her. However, while spells always hit their targets, indirect effects may not reach the true target; they must be aimed. If a spell is resisted, as above, it need not be aimed. If it is not resisted, it must be aimed.
 
-AIMING ROLL: Perception + Finesse + Die
+**AIMING ROLL: Perception + Finesse + Die**
 
 The die is a stress die if the maga is under stress, a simple die otherwise. Treat the total as an attack total (see Combat on page 393). If the 'attack' hits, the spell effect is in the right place; what effect this has depends on the spell. The magus does not generate an Attack Advantage even if the spell inflicts damage; the damage is determined by rolling a stress die and adding the spell's damage bonus, and comparing it to the target's Soak Total + stress die.
 
@@ -10880,7 +10873,7 @@ Hermetic magi can study Formulaic and Ritual spells that they know in more detai
 
 For every possible Hermetic spell, there is a corresponding Ability. This Ability can be studied in the normal ways, and is called the spell's mastery ability. If a maga has a score of one or greater in a mastery ability, she is said to have mastered that spell.
 
-**Mastery Ability: Adds to casting score and subtracts from number of botch dice**
+**MASTERY ABILITY: Adds to casting score and subtracts from number of botch dice**
 
 A maga adds her score in the mastery ability to her casting score whenever she casts that spell. In addition, she subtracts her mastery ability from the number of botch dice she has to roll if she rolls a zero. This may bring the number of dice down to zero. Mastered spells are always cast with a stress die, but if the maga is relaxed there are no botch dice, even in a non-Magic aura or when using vis, or when casting a Ritual spell.
 
@@ -11280,9 +11273,9 @@ The Initiation of this Mystery fails if the magus has a Talisman or a Familiar; 
 
 #### Initiation of Secret Name
 
-Ease Factor: 15 (Minor Virtue known to the Mystagogue)
+**Ease Factor:** 15 (Minor Virtue known to the Mystagogue)
 
-Script Bonus: +8
+**Script Bonus:** +8
 
 Script Details: On the anniversary of the Initiate's birth, the Mystagogue and the Initiate enter a round tent which has been set up on an ancestor site (+3) and perform a ritual cleansing together which must end at the hour of the Initiate's birth (+2), Initiate acquires a minor version of the Weak Magic Resistance Flaw (+3 for Minor Ordeal).
 
@@ -11375,7 +11368,7 @@ A maga who has a score in Faerie Magic and an Arcane Connection to her target ma
 
 Temporary charms may only be used once, as they always include unique properties associated with the effect, though a permanent charm associated with a special object may be used whenever it is applicable. A maga may prepare any number of charms in advance, but may only incorporate one charm into a given spell in this way.
 
-### Illusion Mysteries
+#### Illusion Mysteries
 
 These Mysteries deal with illusions and images, including aspects of the physical world that faeries can see but most humans cannot. These include unusual durations for Faerie Magic spells that can last nearly forever.
 
@@ -11503,13 +11496,13 @@ The base effect level of the casting tool equals the level of the spell it is us
 | 2                        | Fast Casting (as a mastered spell). |
 | 2                        | Multiple Casting (as a mastered spell). This allows one additional spell. Additional spells may be added for a +2 effect level increase each. |
 | 2                        | Quiet Casting (as a mastered spell). This can be taken twice to cast the spell silently. |
-| + X                      | Increase spell casting roll by x. |
+| + X                      | Increase spell casting roll by X. |
 | 10                       | Summon casting tool. The casting tool appears in the magus's hand no matter where he stores it, although this is usually in his sanctum. |
 | 10                       | Dismiss casting tool. The casting tool disappears from the magus's person, traveling back to a place chosen at the time of enchantment. An Arcane Connection to this place must be bound into the item, and so it is almost always the magus's sanctum. |
 
 Enchanting casting tools requires vis. The magus must spend one pawn of Technique or Form specific vis per 10 levels of the final effect level total, rounded up.
 
-#### INITIATION OF ENCHANT CASTING TOOLS
+#### Initiation of Enchant Casting Tools
 
 **Ease Factor:** 15 (Minor Virtue known to the Mystagogue)
 
@@ -11662,7 +11655,7 @@ Manipulation of vis is a key pursuit in any magus' laboratory.
 
 You can extract raw vis from a magical environment (that is, any area with a Magical aura) by focusing the magical energy into a physical form. For each season that you spend extracting vis from the environment, calculate your Creo Vim Lab Total. For every ten points or part thereof in the result, one pawn of Vim vis is produced.
 
-**VIS EXTRACTION:** One tenth (round up) of Creo Vim Lab Total pawns of Vim vis
+**VIS EXTRACTION: One tenth (round up) of Creo Vim Lab Total pawns of Vim vis**
 
 #### Vis Transfer
 
@@ -13075,13 +13068,13 @@ Just as for Virtues, some Flaws can later be removed, whereas others are due to 
 
 These Virtues and Flaws are due to the physical structure and basic arrangement of the laboratory, and its location. Gaining or losing them usually entails some kind of construction project on or within the lab, or on the immediate surrounds.
 
-#### VIRTUES (MAJOR)
+#### Virtues (Major)
 
 **Greater Feature\*:** The lab prominently features a unique and extensive structure which aids certain types of lab work — see the list of possible Features later (page 296). +2 Aesthetics; 3 points on appropriate Specialization(s).
 
 **Natural Environment:** A swathe of natural scenery, such as forest, desert, or a river, is located in the lab, or the lab is built in or around it. +2 Aesthetics; 3 points among Specializations in Cr, An, Aq, Au, He, Ig, or Te, depending upon terrain type.
 
-#### VIRTUES (MINOR)
+#### Virtues (Minor)
 
 **Extensive Stores:** The lab's large stores mean that it can withstand shortages better. In the case of a lack of funds, the lab can last six seasons before you have to take a Flaw to lower the Upkeep, instead of the usual two. However you need to make a one-off payment of a number of pounds equal to the lab's yearly maintenance cost, to stock up the stores in the first place. Vis and dangerous materials can also be stored more safely. +2 Safety.
 
@@ -13089,7 +13082,7 @@ These Virtues and Flaws are due to the physical structure and basic arrangement 
 
 **Lesser Feature\*:** The lab features a unique structure which aids certain types of lab work — see the list of possible Features later (page 296). +1 Aesthetics; 1 point on an appropriate Specialization.
 
-#### VIRTUES (FREE)
+#### Virtues (Free)
 
 **Dedicated Building:** The lab (and probably the living quarters of the owner) is in its own building, shared with no-one else. There are likely to be fewer distractions. +1 Upkeep, +1 Aesthetics; +1 Re.
 
@@ -13097,7 +13090,7 @@ These Virtues and Flaws are due to the physical structure and basic arrangement 
 
 **Superior Construction:** The lab benefits from distinguished construction techniques, for example, high quality building materials were used, or it was made by a master architect or a magus (such as with the spell *Conjuring the Mystic Tower*). If constructing the building, its cost is doubled. +1 Safety, +1 Aesthetics.
 
-#### FLAWS (FREE)
+#### Flaws (Free)
 
 **Deformed:** Part of the structure has subsided or is otherwise warped. For example, one wall has partially collapsed into rubble, and has to be propped up. –1 Safety, –1 Aesthetics; +1 Mu or Pe.
 
@@ -13109,7 +13102,7 @@ These Virtues and Flaws are due to the physical structure and basic arrangement 
 
 **Unstable\*:** The lab is prone to movements, for example it is on a ship, is earthquake-prone, or merely has dodgy foundations, which is the occasional cause of accidents or breakages. This Flaw may be taken more than once for a greater instability. +1 Upkeep, -1 Safety.
 
-#### FLAWS (MINOR)
+#### Flaws (Minor)
 
 **Cramped:** The lab equipment is packed a little too close together for comfort, due to lack of space. This slightly hampers all but one type of lab activity, which is taken as a Specialization. The lab can be reconfigured to change the Specialization with a season of work. (This can be done at the same time as working to increase the Refinement.) –1 General Quality, –1 Upkeep, –2 Safety, –1 Aesthetics; 1 point on an activity Specialization.
 
@@ -13117,7 +13110,7 @@ These Virtues and Flaws are due to the physical structure and basic arrangement 
 
 **No Stores:** The lab has nowhere to store supplies, and so it cannot withstand any shortages (in the case of a lack of funds, compulsory Flaw(s) to reduce the Upkeep are taken immediately, instead of after the usual two seasons). Vis and dangerous materials cannot be stored very safely. –2 Safety.
 
-#### FLAWS (MAJOR)
+#### Flaws (Major)
 
 **Greater Focus:** An existing Greater Feature is the overwhelming focus of the lab, enhancing the Feature, but making activities that do not involve its use more difficult. –2 General Quality, 4 points among Specializations provided by the Feature.
 
@@ -13125,11 +13118,11 @@ These Virtues and Flaws are due to the physical structure and basic arrangement 
 
 These Virtues and Flaws are due to the quality and quantity of the mundane materials and equipment that are in the lab, as well as any other inhabitants of the lab. Gaining or losing these Virtues and Flaws thus usually entails the purchase or acquisition of things to put in the lab, or the lack of (or defects in) such things.
 
-#### VIRTUES (MAJOR)
+#### Virtues (Major)
 
 **Greater Expansion:** The extent of the lab is greatly increased, with at least double the usual amount of equipment. This allows it to have more areas and equipment dedicated to specialized tasks. +2 General Quality, +4 Upkeep, +1 Aesthetics; 2 points on any Specialization(s).
 
-#### VIRTUES (MINOR)
+#### Virtues (Minor)
 
 **Lesser Expansion:** The extent of the lab is increased, with some more specialized equipment. +1 General Quality, +2 Upkeep, 1 point on any Specialization.
 
@@ -13137,7 +13130,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Specimens\*:** The lab has a large collection of related things, stored in visible containers such as jars, or otherwise serving as objects of study or decoration. +1 Upkeep, +1 Aesthetics; 1 point on any Form Specialization.
 
-#### VIRTUES (FREE)
+#### Virtues (Free)
 
 **Assistant\*:** A Gifted assistant (such as an Hermetic apprentice) helps out in the lab, affording a bonus to lab work. +(assistant's Intelligence + Magic Theory) General Quality. (This is simply a restatement of the existing bonuses.)
 
@@ -13151,7 +13144,7 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Spotless:** The lab is impeccably clean. This requires a season of work to gain. Also, there is a chance to gain this Virtue whenever a season of work is undertaken to improve the Refinement (see Refinement, above). This Virtue is lost if cleanliness is not maintained, or after an accident or neglect is suffered. +1 Health, +1 Aesthetics; +1 Cr.
 
-#### FLAWS (FREE)
+#### Flaws (Free)
 
 **Basic:** The lab setup is incomplete, and not all the necessary equipment has been installed. This Flaw is acquired after the first season of lab construction (see The Standard Hermetic Laboratory, earlier). It is removed after the second season of work completes the lab. –3 General Quality.
 
@@ -13167,13 +13160,13 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 **Wrecked:** The lab is very heavily damaged, for example as the result of a major lab accident. It takes two seasons to repair the damage completely and lose this Flaw. (After one season, it may be replaced by the Damaged Flaw.) –5 General Quality, –2 Safety, –2 Aesthetics.
 
-#### FLAWS (MINOR)
+#### Flaws (Minor)
 
 **Missing Equipment\*:** Due to a lack of certain equipment, lab work in one or two types of activity is totally impossible. For example, if there is no desk, parchment, or inks, you cannot work with texts. If you pick Items, Spells, or Texts, only this one activity cannot be undertaken. Otherwise, you must pick two of the activity categories (see the Specialization section earlier, page 290). This Flaw cannot be taken more than twice. —1 Upkeep.
 
 **Undecorated:** The lab has very spartan decoration, or the decoration is completely lacking, making the place rather uninspiring and unwelcoming. –1 Upkeep, –1 Aesthetics; subtract one point from any Specializations with a score of 2 or more.
 
-#### FLAWS (MAJOR)
+#### Flaws (Major)
 
 **Elementary:** This is a cut-down version of a Hermetic laboratory, with an extremely limited selection of lab equipment installed, so that only one category of lab activity (see the list of possible activity Specializations earlier on page ) is possible at all. The type of activity is determined at the time of construction, and is fixed thereafter. Still, such a limited lab is cheaper to maintain and takes only one season to build completely. It might be suitable for an extremely confined space, such as in a small cave, or in a wagon. Some covenants build elementary labs in powerful auras for the purposes of vis extraction. –2 General Quality, –3 Upkeep.
 
@@ -13181,11 +13174,11 @@ These Virtues and Flaws are due to the quality and quantity of the mundane mater
 
 These Virtues and Flaws are due to supernatural effects, creatures, or items. The means of gaining or losing these Virtues and Flaws varies widely — most cannot be gained by some straightforward effort on the part of a magus. Some, such as gaining a supernatural guardian, may require a story or a Hermetic breakthrough. Others, such as the presence of a vis source in the lab, or a Hermetic predecessor, are generally choices for the storyguide to make, rather than the player. In the latter case, the player might not be aware of these Virtues and Flaws (and thus the complete statistics of the lab).
 
-#### VIRTUES (MAJOR)
+#### Virtues (Major)
 
 **Greater Guardian:** A powerful supernatural creature (Might 20 or higher), which is not the familiar of the owner, resides in the lab and acts as its protector, being well-disposed to the owner. Woe betide any who should intrude. +(creature's Intelligence) Safety, +1 Warping, +1 Aesthetics; 3 points on appropriate Art specialization(s).
 
-#### VIRTUES (MINOR)
+#### Virtues (Minor)
 
 **Familiar:** The owner of the lab has a familiar, and the familiar lives in the lab. Perhaps it even helps with lab work. This Virtue assumes that the familiar takes up a non-trivial amount of space. If not, this can be instead taken as a Free Virtue. +(familiar's Intelligence + Magic Theory) General Quality, +(Golden Cord) Safety. (This is simply a restatement of the existing bonuses.)
 
@@ -13193,7 +13186,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Vis Source\*:** A naturally-occurring source of vis is to be found in the lab. -1 Safety, +1 Warping; 2 points on the appropriate Art Specialization.
 
-#### VIRTUES (FREE)
+#### Virtues (Free)
 
 **Enchantment\*:** The lab itself has been enchanted as a magic item. This may grant Virtues or Flaws, alter Characteristics, or add to Specializations (see the guidelines later).
 
@@ -13203,7 +13196,7 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Regio\*:** The interior of the lab is in a regio, and there is an another regio level, which the owner can navigate easily. If there are further regio levels, this Virtue may be taken more than once. +3 Size, +1 Warping.
 
-#### FLAWS (FREE)
+#### Flaws (Free)
 
 **Abyss:** The lab contains some kind of magical void, such as a bottomless well. This may be made into a Void Feature (purchased as usual). –2 Safety; +2 Pe.
 
@@ -13217,13 +13210,13 @@ These Virtues and Flaws are due to supernatural effects, creatures, or items. Th
 
 **Restriction:** The lab might forbid certain activities (one category of lab activity cannot be performed), or otherwise tiresome or expensive rituals or practices are required in order to perform lab work. —1 General Quality or +2 Upkeep as appropriate.
 
-#### FLAWS (MINOR)
+#### Flaws (Minor)
 
 **Lesser Illusion\*:** One of the seeming merits of the lab is but an illusion. You should take one Minor Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be hung with fine tapestries, but which do not really exist. In this case, take the Superior Decoration Virtue, but do not apply its modifications to the lab's statistics. +1 Warping, +1 Aesthetics; +1 Im.
 
 **Lightless:** The lab is totally dark and its contents cannot be seen. The owner must devise some other means of spatial perception in order to work normally. -1 Upkeep, +1 Warping, the Aesthetics score cannot exceed -1; +1 Pe or Im.
 
-#### FLAWS (MAJOR)
+#### Flaws (Major)
 
 **Greater Illusion\*:** One of the major parts or aspects of the lab is but an illusion. You should take one Major Virtue immediately (there is no time cost) to balance this Flaw, but note that it is illusory and its effects are negated completely. For example, the lab may appear to be twice as large as it really is. In this case, take the Greater Expansion Virtue, but do not apply its modifications to the lab's statistics. +2 Warping, +2 Aesthetics; +2 Im.
 
